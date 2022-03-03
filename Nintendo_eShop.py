@@ -48,7 +48,7 @@ def download():
 def parse(hits_all):
   results = {}
   for game in hits_all:
-    if "DLC" in game["topLevelFilters"] or "Games with DLC" in game["topLevelFilters"]:
+    if "DLC" in game["topLevelFilters"] or "Games with DLC" in game["topLevelFilters"] or ["Physical"] == game["editions"]:
       continue
     results[game["urlKey"].strip()] = {
       "id": game["urlKey"].strip(),
