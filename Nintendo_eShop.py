@@ -44,7 +44,7 @@ def parse(hits_all):
       continue
     results.append({
       "id": game["urlKey"].strip(),
-      "name": game["title"].replace("\n", " ").strip(),
+      "name": game["title"].replace("™", "").replace("®", "").replace("\n", " ").strip(),
       "desc": f'{game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " "),
       "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
