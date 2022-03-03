@@ -1,3 +1,4 @@
+import copy
 import json
 import requests
 
@@ -24,16 +25,15 @@ def download():
   datas = []
   for rating in ratings:
     params = params_ratings_default.format(rating=rating)
-    data = data_default.copy()
+    data = copy.deepcopy(data_default)
     data["requests"][0]["params"] = params
     datas.append(data)
   
-  data = data_default.copy()
+  data = copy.deepcopy(data_default)
   data["requests"][0]["indexName"] = "store_game_en_us"
-  datas.append(data)
+  datas.append(data.copy())
 
   hits_all = []
-
   session = requests.session()
   for data in datas:
     request = session.post(url, json=data, headers=headers)
@@ -46,24 +46,25 @@ def download():
   return hits_all
 
 def parse(hits_all):
-  results = []
+  results = {}
   for game in hits_all:
     if "DLC" in game["topLevelFilters"] or "Games with DLC" in game["topLevelFilters"]:
       continue
-    results.append({
+    results[game["urlKey"].strip()] = {
       "id": game["urlKey"].strip(),
       "name": game["title"].replace("™", "").replace("®", "").replace("\n", " ").strip(),
       "desc": f'{game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " "),
       "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
       "P400": "Q19610114"
-    })
+    }
 
-  results = sorted(set(results), key=lambda x:x["name"])
+  results_list = sorted(results, key=lambda x:results[x]["name"])
 
   with open("results/Nintendo_eShop.txt", "w", -1, "utf-8") as f:
-    f.write("\t".join(results[0].keys()) + "\n")
-    for game in results:
+    f.write("\t".join(results[results_list[0]].keys()) + "\n")
+    for game in results_list:
+      game = results[game]
       f.write("\t".join(game.values()) + "\n")
 
 if __name__ == "__main__":
