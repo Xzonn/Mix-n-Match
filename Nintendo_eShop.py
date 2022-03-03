@@ -7,11 +7,11 @@ def download():
     "requests": [
       {
         "indexName": "store_game_en_us_release_des",
-        "params": None
+        "params": "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters=%5B%22corePlatforms%3ANintendo%20Switch%22%5D"
       }
     ]
   }
-  params_default = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters=%5B%22corePlatforms%3ANintendo%20Switch%22%2C%22esrbRating%3A{rating}%22%5D"
+  params_ratings_default = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters=%5B%22corePlatforms%3ANintendo%20Switch%22%2C%22esrbRating%3A{rating}%22%5D"
   ratings = ["E", "E10", "T", "M", "RP"]
   headers = {
     "x-algolia-api-key": "a29c6927638bfd8cee23993e51e721c9",
@@ -21,13 +21,21 @@ def download():
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36"
   }
 
+  datas = []
+  for rating in ratings:
+    params = params_ratings_default.format(rating=rating)
+    data = data_default.copy()
+    data["requests"][0]["params"] = params
+    datas.append(data)
+  
+  data = data_default.copy()
+  data["requests"][0]["indexName"] = "store_game_en_us"
+  datas.append(data)
+
   hits_all = []
 
   session = requests.session()
-  for rating in ratings:
-    params = params_default.format(rating=rating)
-    data = data_default.copy()
-    data["requests"][0]["params"] = params
+  for data in datas:
     request = session.post(url, json=data, headers=headers)
     hits = request.json()["results"][0]["hits"]
     hits_all += hits
@@ -51,7 +59,7 @@ def parse(hits_all):
       "P400": "Q19610114"
     })
 
-  results.sort(key=lambda x:x["name"])
+  results = sorted(set(results), key=lambda x:x["name"])
 
   with open("results/Nintendo_eShop.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[0].keys()) + "\n")
