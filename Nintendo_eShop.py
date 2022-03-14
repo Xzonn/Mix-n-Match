@@ -56,7 +56,8 @@ def parse(hits_all):
       "desc": f'{game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " "),
       "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
-      "P400": "Q19610114"
+      "P400": "Q19610114",
+      "P750": "Q3070866"
     }
 
   results_list = sorted(results, key=lambda x:results[x]["name"])
