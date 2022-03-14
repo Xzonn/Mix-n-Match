@@ -3,8 +3,8 @@ import json
 import requests
 
 def download():
-  url = r"https://u3b6gr4ua3-1.algolianet.com/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.11.0)%3B%20Browser%3B%20JS%20Helper%20(3.6.2)%3B%20react%20(17.0.2)%3B%20react-instantsearch%20(6.15.0)"
-  data_default = {
+  QUERY_URL = r"https://u3b6gr4ua3-1.algolianet.com/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.11.0)%3B%20Browser%3B%20JS%20Helper%20(3.6.2)%3B%20react%20(17.0.2)%3B%20react-instantsearch%20(6.15.0)"
+  DATA = {
     "requests": [
       {
         "indexName": "store_game_en_us_release_des",
@@ -12,36 +12,36 @@ def download():
       }
     ]
   }
-  params_ratings_default = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters=%5B%22corePlatforms%3ANintendo%20Switch%22%2C%22esrbRating%3A{rating}%22%5D"
-  ratings = ["E", "E10", "T", "M", "RP"]
-  headers = {
+  PARAMS_RATINGS = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters=%5B%22corePlatforms%3ANintendo%20Switch%22%2C%22esrbRating%3A{rating}%22%5D"
+  RATINGS = ["E", "E10", "T", "M", "RP"]
+  HEADERS = {
     "x-algolia-api-key": "a29c6927638bfd8cee23993e51e721c9",
     "x-algolia-application-id": "U3B6GR4UA3",
     "Referer": "https://www.nintendo.com/",
     "Origin": "https://www.nintendo.com",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36 XzonnMixnMatch/0.1"
   }
 
-  datas = []
-  for rating in ratings:
-    params = params_ratings_default.format(rating=rating)
-    data = copy.deepcopy(data_default)
+  data_list = []
+  for rating in RATINGS:
+    params = PARAMS_RATINGS.format(rating=rating)
+    data = copy.deepcopy(DATA)
     data["requests"][0]["params"] = params
-    datas.append(data)
+    data_list.append(data)
   
-  data = copy.deepcopy(data_default)
+  data = copy.deepcopy(DATA)
   data["requests"][0]["indexName"] = "store_game_en_us"
-  datas.append(data.copy())
+  data_list.append(data.copy())
 
   hits_all = []
-  session = requests.session()
-  for data in datas:
-    request = session.post(url, json=data, headers=headers)
+  session = requests.Session()
+  for data in data_list:
+    request = session.post(QUERY_URL, json=data, headers=HEADERS)
     hits = request.json()["results"][0]["hits"]
     hits_all += hits
 
-  with open("results/Nintendo_eShop.json", "w", -1, "utf-8") as f:
-    json.dump(hits_all, f, ensure_ascii=False, indent=2)
+  #with open("results/Nintendo_eShop.json", "w", -1, "utf-8") as f:
+  #  json.dump(hits_all, f, ensure_ascii=False, indent=2)
   
   return hits_all
 
