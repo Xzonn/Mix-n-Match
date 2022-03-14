@@ -25,9 +25,14 @@ jobs:
       continue-on-error: true
       run: |
         python Nintendo_eShop.py
+    - name: Microsoft Store (Xbox)
+      continue-on-error: true
+      run: |
+        python Microsoft_Store.py
     - name: Save results
       run: |
         pushd results/ &>/dev/null
+        rm *.json
         git add -A
         git -c user.name=GitHub -c user.email=noreply@github.com commit -m "From GitHub Actions build ${GITHUB_RUN_NUMBER}"
         git push
