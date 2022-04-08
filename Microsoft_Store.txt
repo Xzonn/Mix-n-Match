@@ -7,7 +7,6 @@ id	name	desc	url	type	P750
 9MV6QXBTRJ59	6Souls	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9MV6QXBTRJ59	Q7889	Q135288
 BRL7GC0GP1BM	7 Days to Die	2016 video game by The Fun Pimps	https://www.microsoft.com/p/-/BRL7GC0GP1BM	Q7889	Q135288
 9P8SZLGPGG6R	890B	2021 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9P8SZLGPGG6R	Q7889	Q135288
-9NMD5CV9T9D6	9 Monkeys of Shaolin	2020 video game by Ravenscourt	https://www.microsoft.com/p/-/9NMD5CV9T9D6	Q7889	Q135288
 BZW89T099XXB	911 Operator	2017 video game by Code Horizon	https://www.microsoft.com/p/-/BZW89T099XXB	Q7889	Q135288
 9MX63BP9P3ZH	A Day Without Me	2021 video game by ChiliDog Interactive	https://www.microsoft.com/p/-/9MX63BP9P3ZH	Q7889	Q135288
 9NPDKHQX3QPH	A Gummy's Life	2021 video game by EP Games	https://www.microsoft.com/p/-/9NPDKHQX3QPH	Q7889	Q135288
@@ -19,6 +18,7 @@ BQG7DH2SWF0V	A Kingdom for Keflings	2008 video game by Microsoft Studios	https:/
 BQ2NNLQPS8RS	A Plague Tale: Innocence	2019 video game by Focus Home Interactive	https://www.microsoft.com/p/-/BQ2NNLQPS8RS	Q7889	Q135288
 9NN60KTQC3PN	A Pretty Odd Bunny	2021 video game by 2Awesome Partners	https://www.microsoft.com/p/-/9NN60KTQC3PN	Q7889	Q135288
 9NK78DF207SD	A Short Hike	2021 video game by Whippoorwill Limited	https://www.microsoft.com/p/-/9NK78DF207SD	Q7889	Q135288
+9PDM15HL90WD	A Sketchbook About Her Sun	2022 video game by Fantastico Studio	https://www.microsoft.com/p/-/9PDM15HL90WD	Q7889	Q135288
 BWVBNCMF22ZK	A Way Out	2018 video game by Electronic Arts	https://www.microsoft.com/p/-/BWVBNCMF22ZK	Q7889	Q135288
 9N8WL8TMMQBT	A Winter's Daydream	2019 video game by Sometimes You	https://www.microsoft.com/p/-/9N8WL8TMMQBT	Q7889	Q135288
 C3FNJLM45CCC	A World of Keflings	2010 video game by Microsoft Studios	https://www.microsoft.com/p/-/C3FNJLM45CCC	Q7889	Q135288
@@ -44,17 +44,16 @@ BPN103KDBX2H	ASURA'S WRATH	2012 video game by CAPCOM CO., LTD.	https://www.micro
 9N806R0K4ZVC	AWD	2021 video game by IV Productions, Audiogames APS	https://www.microsoft.com/p/-/9N806R0K4ZVC	Q7889	Q135288
 C3XCXTFS6FFQ	Absolver	2019 video game by Devolver Digital	https://www.microsoft.com/p/-/C3XCXTFS6FFQ	Q7889	Q135288
 9NL5M8GRTHCT	Active Neurons	2022 video game by Sometimes You	https://www.microsoft.com/p/-/9NL5M8GRTHCT	Q7889	Q135288
-C3QT3QJ9GZPL	Adventure Time: Pirates	2018 video game by Outright Games	https://www.microsoft.com/p/-/C3QT3QJ9GZPL	Q7889	Q135288
 BW89DZ1S3QDM	Adventures of Pip	2015 video game by Tic Toc Games	https://www.microsoft.com/p/-/BW89DZ1S3QDM	Q7889	Q135288
 BWHXZBV41QS1	Aegis Wing	2007 video game by Xbox LIVE Arcade	https://www.microsoft.com/p/-/BWHXZBV41QS1	Q7889	Q135288
 9NHTFX2VT9SD	Aeon Drive	2021 video game by CRITICAL REFLEX	https://www.microsoft.com/p/-/9NHTFX2VT9SD	Q7889	Q135288
-9NB4J4C23GQH	Aeon Must Die!	2021 video game by Focus Home Interactive	https://www.microsoft.com/p/-/9NB4J4C23GQH	Q7889	Q135288
+9NB4J4C23GQH	Aeon Must Die!	2021 video game by Focus Entertainment	https://www.microsoft.com/p/-/9NB4J4C23GQH	Q7889	Q135288
 9PMMSG5BN945	Aery - Calm Mind 2	2022 video game by EpiXR Games	https://www.microsoft.com/p/-/9PMMSG5BN945	Q7889	Q135288
 9NH7CL8QPZXK	Aery - Dreamscape	2022 video game by EpiXR Games	https://www.microsoft.com/p/-/9NH7CL8QPZXK	Q7889	Q135288
 9PDZC7SB4CC1	Aeterna Noctis	2021 video game by Aeternum Game Studios	https://www.microsoft.com/p/-/9PDZC7SB4CC1	Q7889	Q135288
 C2V3M3TVJSVB	AeternoBlade	2017 video game by Corecell Technology Co.,Ltd.	https://www.microsoft.com/p/-/C2V3M3TVJSVB	Q7889	Q135288
+9NCLS1NXTKKG	Aeternoblade II	2019 video game by PQube Limited	https://www.microsoft.com/p/-/9NCLS1NXTKKG	Q7889	Q135288
 C4BVWL544Q89	Agatha Knife	2018 video game by Mango Protocol	https://www.microsoft.com/p/-/C4BVWL544Q89	Q7889	Q135288
-BZ46NPQNX334	Age of Booty	2008 video game by Capcom	https://www.microsoft.com/p/-/BZ46NPQNX334	Q7889	Q135288
 9PHD0NZQ85CG	Agent Intercept	2022 video game by PikPok	https://www.microsoft.com/p/-/9PHD0NZQ85CG	Q7889	Q135288
 9NDPG3DNQH5J	Aground	2021 video game by Whitethorn Games	https://www.microsoft.com/p/-/9NDPG3DNQH5J	Q7889	Q135288
 9NCX7DGDZGF4	Airborne Kingdom	2021 video game by Freedom Games	https://www.microsoft.com/p/-/9NCX7DGDZGF4	Q7889	Q135288
@@ -71,7 +70,6 @@ C1H9V6SLK2K5	Alien, Isolation	2014 video game by SEGA Europe Ltd	https://www.mic
 BSJK0B2ZQ5J1	Aliens vs Predator	2003 video game by SEGA	https://www.microsoft.com/p/-/BSJK0B2ZQ5J1	Q7889	Q135288
 9NH87P7P8C4G	All-American Racing	2020 video game by Monster Games, Inc.	https://www.microsoft.com/p/-/9NH87P7P8C4G	Q7889	Q135288
 9PMMDJ29ZRWQ	AlphaLink	2021 video game by Black Hive Media	https://www.microsoft.com/p/-/9PMMDJ29ZRWQ	Q7889	Q135288
-9PFV8SCT96F1	Alphaset by POWGI	2021 video game by Lightwood Games	https://www.microsoft.com/p/-/9PFV8SCT96F1	Q7889	Q135288
 C12853ZXS6PF	Altered Beast	2009 video game by SEGA	https://www.microsoft.com/p/-/C12853ZXS6PF	Q7889	Q135288
 9NTXB9K820J5	Aluna: Sentinel of the Shards	2021 video game by Digiart Interactive LLC	https://www.microsoft.com/p/-/9NTXB9K820J5	Q7889	Q135288
 9MVJGBNNFPPS	Alvastia Chronicles	2019 video game by KEMCO	https://www.microsoft.com/p/-/9MVJGBNNFPPS	Q7889	Q135288
@@ -107,27 +105,29 @@ BZGJRJC1FGF3	Assassin's Creed Origins	2017 video game by Ubisoft	https://www.mic
 BX2JJ48F0CKR	Assassin's Creed Revelations	2011 video game by Ubisoft	https://www.microsoft.com/p/-/BX2JJ48F0CKR	Q7889	Q135288
 C0VN7PVQJ8C2	Assassin's Creed Rogue	2014 video game by Ubisoft	https://www.microsoft.com/p/-/C0VN7PVQJ8C2	Q7889	Q135288
 BWT5L9P3L60X	Assassin's Creed Rogue Remastered	2018 video game by Ubisoft	https://www.microsoft.com/p/-/BWT5L9P3L60X	Q7889	Q135288
-BXVQ8M4J9HNM	Assassin's Creed Syndicate	2015 video game by Ubisoft	https://www.microsoft.com/p/-/BXVQ8M4J9HNM	Q7889	Q135288
 9P4NJFH17MRT	Assassin's Creed Valhalla	2020 video game by UBISOFT	https://www.microsoft.com/p/-/9P4NJFH17MRT	Q7889	Q135288
 BQ9S8ZKCT3Q7	Assassin’s Creed The Ezio Collection	2016 video game by Ubisoft	https://www.microsoft.com/p/-/BQ9S8ZKCT3Q7	Q7889	Q135288
+C27H5T4HD4WW	Assetto	2016 video game by 505 Games S.r.l.	https://www.microsoft.com/p/-/C27H5T4HD4WW	Q7889	Q135288
 9P2W6Z00QF2J	Asterix & Obelix	2021 video game by Microids	https://www.microsoft.com/p/-/9P2W6Z00QF2J	Q7889	Q135288
 9P0FZDW4X1Q0	Asteroids: Recharged	2021 video game by Atari	https://www.microsoft.com/p/-/9P0FZDW4X1Q0	Q7889	Q135288
 9MW7H0DVS9T6	Astria Ascending	2021 video game by Dear Villagers	https://www.microsoft.com/p/-/9MW7H0DVS9T6	Q7889	Q135288
 C3QWVTZ6HTCB	Attack on Titan	2016 video game by KOEI TECMO AMERICA CORPORATION	https://www.microsoft.com/p/-/C3QWVTZ6HTCB	Q7889	Q135288
 C596V0P64DD6	Attack on Titan 2	2018 video game by KOEI TECMO AMERICA Corporation	https://www.microsoft.com/p/-/C596V0P64DD6	Q7889	Q135288
 9PF1TLZX3D3P	Avatar: TLA: TBE	2010 video game by THQ	https://www.microsoft.com/p/-/9PF1TLZX3D3P	Q7889	Q135288
+BPD69V4XZFLM	Away is a feel good FPS	2019 video game by Playdius, Plug In Digital	https://www.microsoft.com/p/-/BPD69V4XZFLM	Q7889	Q135288
+C1CLVTZ63W0W	Awesomenauts Assemble!	2016 video game by Ronimo Games	https://www.microsoft.com/p/-/C1CLVTZ63W0W	Q7889	Q135288
 BXSGS7T2CRH1	Axiom Verge	2016 video game by Thomas Happ Games LLC	https://www.microsoft.com/p/-/BXSGS7T2CRH1	Q7889	Q135288
 9NVB5KWGKXNT	Axis Football 2021	2021 video game by Axis Games, Inc.	https://www.microsoft.com/p/-/9NVB5KWGKXNT	Q7889	Q135288
 9PL5K9XJ9DNC	Aztech	2022 video game by Lienzo	https://www.microsoft.com/p/-/9PL5K9XJ9DNC	Q7889	Q135288
 9PB3WG35DGS9	BATS	2021 video game by The MIX Games 	https://www.microsoft.com/p/-/9PB3WG35DGS9	Q7889	Q135288
 BPX2DBJS60SQ	BATTLESHIP	2016 video game by Ubisoft	https://www.microsoft.com/p/-/BPX2DBJS60SQ	Q7889	Q135288
 BZ5FXSHHP5SV	BAYONETTA	2009 video game by Sega	https://www.microsoft.com/p/-/BZ5FXSHHP5SV	Q7889	Q135288
-C34MG6M35D3S	BC - Rearmed 2	2011 video game by Capcom Entertainment, Inc.	https://www.microsoft.com/p/-/C34MG6M35D3S	Q7889	Q135288
 BTCS0LP052HL	BLACK	2008 video game by Electronic Arts	https://www.microsoft.com/p/-/BTCS0LP052HL	Q7889	Q135288
 BZ70BNL21NR7	BLADESTORM: Nightmare	2015 video game by KOEI TECMO AMERICA CORP.	https://www.microsoft.com/p/-/BZ70BNL21NR7	Q7889	Q135288
 BS41PBV1CZSN	BLAZBLUE CP EX	2015 video game by Aksys Games	https://www.microsoft.com/p/-/BS41PBV1CZSN	Q7889	Q135288
 BRG51C5MWFSG	BLiNX	2018 video game by Microsoft Studios	https://www.microsoft.com/p/-/BRG51C5MWFSG	Q7889	Q135288
 9NVR7GXMNTV4	BPM	2021 video game by Playtonic Friends	https://www.microsoft.com/p/-/9NVR7GXMNTV4	Q7889	Q135288
+9NPWDN0R5WVP	BT	2022 video game by RedDeerGames	https://www.microsoft.com/p/-/9NPWDN0R5WVP	Q7889	Q135288
 BXLL06QN8HVP	Back 4 Blood	2021 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BXLL06QN8HVP	Q7889	Q135288
 9NC9TNXS9C8G	Backbone	2021 video game by Raw Fury	https://www.microsoft.com/p/-/9NC9TNXS9C8G	Q7889	Q135288
 BR47R4J78FH8	Bad North	2018 video game by Raw Fury	https://www.microsoft.com/p/-/BR47R4J78FH8	Q7889	Q135288
@@ -146,6 +146,7 @@ BVVP3LXMLP85	Bastion	2016 video game by Warner Bros. Interactive Entertainment	h
 BSLX1RNXR6H7	Batman: Arkham Knight	2015 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BSLX1RNXR6H7	Q7889	Q135288
 9NRN3D584LD3	Battle Brothers	2022 video game by UKIYO Publishing	https://www.microsoft.com/p/-/9NRN3D584LD3	Q7889	Q135288
 BNVPW9NHWNM5	Battle Chasers: Nightwar	2017 video game by THQ Nordic	https://www.microsoft.com/p/-/BNVPW9NHWNM5	Q7889	Q135288
+9MTS8NRGD94P	Battle Kid	2022 video game by 8 Bit Legit	https://www.microsoft.com/p/-/9MTS8NRGD94P	Q7889	Q135288
 BQ30J3N2LPZX	BattleBlock Theater	2013 video game by Microsoft Studios	https://www.microsoft.com/p/-/BQ30J3N2LPZX	Q7889	Q135288
 BWTTW53M5B98	Battlefield 1	2016 video game by Electronic Arts	https://www.microsoft.com/p/-/BWTTW53M5B98	Q7889	Q135288
 C1QQ7GM9HLKG	Battlefield 1943	2010 video game by Electronic Arts	https://www.microsoft.com/p/-/C1QQ7GM9HLKG	Q7889	Q135288
@@ -157,13 +158,11 @@ BQ81KKJMM7ZD	Battlefield: Bad Co.	2010 video game by Electronic Arts Inc.	https:
 BX0TRXMTRV80	Battlestations Pacific	2010 video game by Square Enix	https://www.microsoft.com/p/-/BX0TRXMTRV80	Q7889	Q135288
 C13VTXTLMDQ0	Battlestations: Midway	2010 video game by Square Enix	https://www.microsoft.com/p/-/C13VTXTLMDQ0	Q7889	Q135288
 9PCR9Q61R2H1	Bayonetta	2020 video game by SEGA	https://www.microsoft.com/p/-/9PCR9Q61R2H1	Q7889	Q135288
-9MV5M5NWSJJ6	Beat Me!	2020 video game by Red Limb Studio	https://www.microsoft.com/p/-/9MV5M5NWSJJ6	Q7889	Q135288
 9NG0MMGSTB8Q	Beat Souls	2022 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9NG0MMGSTB8Q	Q7889	Q135288
 9N4RQ1ZKWCR9	Bee Simulator	2019 video game by Bigben Interactive	https://www.microsoft.com/p/-/9N4RQ1ZKWCR9	Q7889	Q135288
 9N360TZQZ0TR	Before We Leave	2021 video game by Team17	https://www.microsoft.com/p/-/9N360TZQZ0TR	Q7889	Q135288
 BTXM0C9C3B1S	Bejeweled 2	2005 video game by Microsoft Studios	https://www.microsoft.com/p/-/BTXM0C9C3B1S	Q7889	Q135288
 9NDCJXL11096	Below Zero	2021 video game by Unknown Worlds Entertainment, Inc.	https://www.microsoft.com/p/-/9NDCJXL11096	Q7889	Q135288
-C2TKN8H27M78	Ben 10	2017 video game by Outright Games Ltd	https://www.microsoft.com/p/-/C2TKN8H27M78	Q7889	Q135288
 BTQ96QTQ58F3	Bendy and The Ink Machine	2018 video game by Rooster Teeth Games	https://www.microsoft.com/p/-/BTQ96QTQ58F3	Q7889	Q135288
 9NVNNRK91Z81	Beyond Blue	2020 video game by E-Line Media	https://www.microsoft.com/p/-/9NVNNRK91Z81	Q7889	Q135288
 C28HP82H7MN8	Beyond Good & Evil HD	2011 video game by Ubisoft	https://www.microsoft.com/p/-/C28HP82H7MN8	Q7889	Q135288
@@ -185,7 +184,6 @@ C02P796T0GW6	Blackwood Crossing	2017 video game by Vision Games Publishing LTD	h
 C3696D3MZFQZ	Blood Knights	2013 video game by Kalypso Media	https://www.microsoft.com/p/-/C3696D3MZFQZ	Q7889	Q135288
 C3DR0Z8LB53L	BloodRayne 2	2004 video game by Majesco Entertainment	https://www.microsoft.com/p/-/C3DR0Z8LB53L	Q7889	Q135288
 9NZXRSXHBV2W	BloodRayne 2: ReVamped	2021 video game by Ziggurat Interactive Inc.	https://www.microsoft.com/p/-/9NZXRSXHBV2W	Q7889	Q135288
-9PL4KZST717W	BloodRayne Betrayal: Fresh Bites	2021 video game by Ziggurat Interactive, Inc.	https://www.microsoft.com/p/-/9PL4KZST717W	Q7889	Q135288
 9MWZ4ZT8WGZB	BloodRayne: ReVamped	2021 video game by Ziggurat Interactive Inc.	https://www.microsoft.com/p/-/9MWZ4ZT8WGZB	Q7889	Q135288
 9PB59KL55HDV	Bloodshore	2021 video game by Wales Interactive	https://www.microsoft.com/p/-/9PB59KL55HDV	Q7889	Q135288
 BTG951RGX7QD	Bloodstained: Curse of the Moon	2018 video game by INTI CREATES	https://www.microsoft.com/p/-/BTG951RGX7QD	Q7889	Q135288
@@ -200,7 +198,6 @@ C0NDKFJXW9SZ	Borderlands	2010 video game by 2K Games	https://www.microsoft.com/p
 BRC33X34H2C9	Borderlands 2	2012 video game by 2K Games	https://www.microsoft.com/p/-/BRC33X34H2C9	Q7889	Q135288
 C34NB0F1B5WQ	Borderlands 3	2019 video game by 2K	https://www.microsoft.com/p/-/C34NB0F1B5WQ	Q7889	Q135288
 BVMMV3Q3ZB1F	Borderlands: GOTY	2019 video game by 2K	https://www.microsoft.com/p/-/BVMMV3Q3ZB1F	Q7889	Q135288
-9P8TJVKN4Z17	Boulder Dash	2021 video game by BBG Entertainment GmbH	https://www.microsoft.com/p/-/9P8TJVKN4Z17	Q7889	Q135288
 9P59JHC23XPP	Bouncy Bullets 2	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9P59JHC23XPP	Q7889	Q135288
 9NJNTZX5H3DX	BouncyBoi	2022 video game by Twin-Stick	https://www.microsoft.com/p/-/9NJNTZX5H3DX	Q7889	Q135288
 9P61M5X3X4N4	Box Dash	2022 video game by RiceFun Games	https://www.microsoft.com/p/-/9P61M5X3X4N4	Q7889	Q135288
@@ -219,7 +216,6 @@ C5DZFZ6NC5SQ	Brütal Legend	2009 video game by Double Fine Productions	https://w
 BP48G8SN49JF	Bulletstorm: Full Clip Edition	2017 video game by Gearbox Publishing	https://www.microsoft.com/p/-/BP48G8SN49JF	Q7889	Q135288
 C3WX803ZX8SD	Bully: Scholarship Edition	2010 video game by Rockstar Games	https://www.microsoft.com/p/-/C3WX803ZX8SD	Q7889	Q135288
 BZ6XWGQZK45H	Burnout Revenge	2010 video game by Electronic Arts	https://www.microsoft.com/p/-/BZ6XWGQZK45H	Q7889	Q135288
-9PK97P54BWG2	Bus Simulator 21	2021 video game by astragon Entertainment	https://www.microsoft.com/p/-/9PK97P54BWG2	Q7889	Q135288
 BXQ5KD1Q31MX	C&C 3	2010 video game by Electronic Arts	https://www.microsoft.com/p/-/BXQ5KD1Q31MX	Q7889	Q135288
 C584PXCBBB6S	C&C3: Kane's Wrath	2008 video game by Electronic Arts	https://www.microsoft.com/p/-/C584PXCBBB6S	Q7889	Q135288
 9N1F1R2D9C8P	CC	2022 video game by Rocket Vulture	https://www.microsoft.com/p/-/9N1F1R2D9C8P	Q7889	Q135288
@@ -234,7 +230,6 @@ C2N2L6MHMV34	Call of Duty 3	2006 video game by Activision	https://www.microsoft.
 C1K9426124PR	Call of Duty 4: Modern Warfare	2007 video game by Activision	https://www.microsoft.com/p/-/C1K9426124PR	Q7889	Q135288
 BVMGCSX6XPC9	Call of Duty: Black Ops	2010 video game by Activision	https://www.microsoft.com/p/-/BVMGCSX6XPC9	Q7889	Q135288
 9P7PFH4RMFZD	Call of Duty: Black Ops Cold War	2020 video game by Activision Publishing Inc.	https://www.microsoft.com/p/-/9P7PFH4RMFZD	Q7889	Q135288
-9NPLRJ9CC870	Call of Duty: Black Ops Cold War - Xbox Series X|S	2020 video game by Activision Publishing Inc.	https://www.microsoft.com/p/-/9NPLRJ9CC870	Q7889	Q135288
 C1QJM5XT9SXV	Call of Duty: Black Ops II	2012 video game by Activision	https://www.microsoft.com/p/-/C1QJM5XT9SXV	Q7889	Q135288
 BVTFP7L3CVL8	Call of Duty: Ghosts	2013 video game by Activision	https://www.microsoft.com/p/-/BVTFP7L3CVL8	Q7889	Q135288
 C5DTJ99626K3	Call of Duty: Modern Warfare	2019 video game by Activision	https://www.microsoft.com/p/-/C5DTJ99626K3	Q7889	Q135288
@@ -256,16 +251,18 @@ BV26W4BTCLKG	Capcom Beat 'Em Up Bundle	2018 video game by CAPCOM CO., LTD.	https
 C4D1L5ZRJD31	Carcassonne	2007 video game by Microsoft Studios	https://www.microsoft.com/p/-/C4D1L5ZRJD31	Q7889	Q135288
 9NCD3W3KH8DX	Cards of the Dead	2021 video game by JanduSoft	https://www.microsoft.com/p/-/9NCD3W3KH8DX	Q7889	Q135288
 C2BDPTFLMDMQ	Carnage in Space: Ignition	2022 video game by Throwback Entertainment	https://www.microsoft.com/p/-/C2BDPTFLMDMQ	Q7889	Q135288
-BS6CMVNFF1VB	Carnival Games	2018 video game by 2K	https://www.microsoft.com/p/-/BS6CMVNFF1VB	Q7889	Q135288
 9NPKKNBJ258V	Carrion	2020 video game by Devolver Digital	https://www.microsoft.com/p/-/9NPKKNBJ258V	Q7889	Q135288
 BVMM601GHXZ6	Cars 2: The Video Game	2011 video game by Disney Interactive	https://www.microsoft.com/p/-/BVMM601GHXZ6	Q7889	Q135288
 BZKS084ZSXJ4	Cars 3: Driven to Win	2017 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BZKS084ZSXJ4	Q7889	Q135288
 9NJ2XXPJVDRD	Carto	2020 video game by Humble Games	https://www.microsoft.com/p/-/9NJ2XXPJVDRD	Q7889	Q135288
+C0L2WKWPP5RS	Casey Powell Lacrosse 18	2018 video game by Crosse Studios	https://www.microsoft.com/p/-/C0L2WKWPP5RS	Q7889	Q135288
 C10GWTNNNBZ8	Castle Crashers Remastered	2015 video game by The Behemoth	https://www.microsoft.com/p/-/C10GWTNNNBZ8	Q7889	Q135288
+C2MX0RPZKR53	Castle of Illusion Starring Mickey Mouse	2013 video game by SEGA	https://www.microsoft.com/p/-/C2MX0RPZKR53	Q7889	Q135288
+BP3M4THZP6GG	CastleStorm	2014 video game by Zen Studios	https://www.microsoft.com/p/-/BP3M4THZP6GG	Q7889	Q135288
+9MZXV7ZGM0J5	CastleStorm II	2020 video game by Zen Studios	https://www.microsoft.com/p/-/9MZXV7ZGM0J5	Q7889	Q135288
 9MXW6JMGNCXW	Castlevania Advance Collection	2021 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/9MXW6JMGNCXW	Q7889	Q135288
 9PHM9KWZC44F	Castlevania Anniversary Collection	2019 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/9PHM9KWZC44F	Q7889	Q135288
 BZS1294V9FQ3	Castlevania: Harmony of Despair	2010 video game by Konami	https://www.microsoft.com/p/-/BZS1294V9FQ3	Q7889	Q135288
-C2QDBJVVLVLX	Castlevania: LoS 2	2014 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/C2QDBJVVLVLX	Q7889	Q135288
 BSTM3283756M	Castlevania: SOTN	2010 video game by Konami	https://www.microsoft.com/p/-/BSTM3283756M	Q7889	Q135288
 9PMH7F7GD178	Cat Quest II	2019 video game by PQube Limited	https://www.microsoft.com/p/-/9PMH7F7GD178	Q7889	Q135288
 C4GSVXGF65TT	Catherine	2011 video game by Atlus	https://www.microsoft.com/p/-/C4GSVXGF65TT	Q7889	Q135288
@@ -281,8 +278,10 @@ C1383Q07XCXJ	Centipede & Millipede	2007 video game by Atari	https://www.microsof
 BWHK1713PW2L	Chasm	2018 video game by Bit Kid, Inc.	https://www.microsoft.com/p/-/BWHK1713PW2L	Q7889	Q135288
 9N7JSPB3MPD9	Chef's Tail	2021 video game by Art Games Studio S.A.	https://www.microsoft.com/p/-/9N7JSPB3MPD9	Q7889	Q135288
 9PG77HHN20HN	Chernobylite	2021 video game by All In! Games	https://www.microsoft.com/p/-/9PG77HHN20HN	Q7889	Q135288
+9PCXTR0XS3G3	Chicken Police	2020 video game by www.handy-games.com GmbH	https://www.microsoft.com/p/-/9PCXTR0XS3G3	Q7889	Q135288
 BQ9Q620NC614	Child of Light	2014 video game by Ubisoft	https://www.microsoft.com/p/-/BQ9Q620NC614	Q7889	Q135288
 9P675WH90SB4	Children of Morta	2019 video game by 11 bit studios	https://www.microsoft.com/p/-/9P675WH90SB4	Q7889	Q135288
+9NV2VTVG0L31	Chinatown Detective Agency	2022 video game by Humble Games	https://www.microsoft.com/p/-/9NV2VTVG0L31	Q7889	Q135288
 9N7CJX93ZGWN	Chivalry 2	2021 video game by Tripwire Interactive LLC	https://www.microsoft.com/p/-/9N7CJX93ZGWN	Q7889	Q135288
 9NKRLWS4GF0L	Choice of Life: Middle Ages	2022 video game by Samustai LTD	https://www.microsoft.com/p/-/9NKRLWS4GF0L	Q7889	Q135288
 9NN1Z8LHMFBV	Chorus	2021 video game by Deep Silver	https://www.microsoft.com/p/-/9NN1Z8LHMFBV	Q7889	Q135288
@@ -293,8 +292,8 @@ C4GH8N6ZXG5L	Cities: Skylines	2017 video game by Paradox Interactive	https://www
 BQ0WGG6B6X2H	Civilization Revolution	2010 video game by 2K Games	https://www.microsoft.com/p/-/BQ0WGG6B6X2H	Q7889	Q135288
 C10WNR4SJM9G	Clockwork Tales	2016 video game by Artifex Mundi	https://www.microsoft.com/p/-/C10WNR4SJM9G	Q7889	Q135288
 9NKHKBQJSSC3	Clone Drone in the Danger Zone	2021 video game by Doborog Games	https://www.microsoft.com/p/-/9NKHKBQJSSC3	Q7889	Q135288
-BT0G0RCNDBFZ	Clouds & Sheep 2	2016 video game by www.handy-games.com	https://www.microsoft.com/p/-/BT0G0RCNDBFZ	Q7889	Q135288
 9PB1KW2J9580	Clouzy!	2022 video game by Freedom Games	https://www.microsoft.com/p/-/9PB1KW2J9580	Q7889	Q135288
+BX4J85JZNGXQ	ClusterTruck	2016 video game by tinyBuild	https://www.microsoft.com/p/-/BX4J85JZNGXQ	Q7889	Q135288
 9N17CM38WNN8	Coffee Talk	2020 video game by Chorus Worldwide Games	https://www.microsoft.com/p/-/9N17CM38WNN8	Q7889	Q135288
 9PKTT800W2ST	Collapsed	2021 video game by Overgamez	https://www.microsoft.com/p/-/9PKTT800W2ST	Q7889	Q135288
 BQSWVZL01GTK	Comix Zone	2009 video game by SEGA	https://www.microsoft.com/p/-/BQSWVZL01GTK	Q7889	Q135288
@@ -315,6 +314,7 @@ BZ92FB6PWXFJ	Costume Quest 2	2014 video game by Midnight City	https://www.micros
 C3VNJHHD7MM4	Crackdown	2010 video game by Microsoft	https://www.microsoft.com/p/-/C3VNJHHD7MM4	Q7889	Q135288
 C0MKH58NBHRG	Crackdown 2	2010 video game by Microsoft Game Studios	https://www.microsoft.com/p/-/C0MKH58NBHRG	Q7889	Q135288
 C27XPR5XDMFT	Crash N Sane Trilogy	2018 video game by Activision	https://www.microsoft.com/p/-/C27XPR5XDMFT	Q7889	Q135288
+BQRB60PW2SDL	Crash Team Racing Nitro-Fueled	2019 video game by Activision	https://www.microsoft.com/p/-/BQRB60PW2SDL	Q7889	Q135288
 BPCB20M0XF53	Crawl	2017 video game by Powerhoof	https://www.microsoft.com/p/-/BPCB20M0XF53	Q7889	Q135288
 9NWXCQHHLK6J	Crazy Athletics	2021 video game by Crazysoft Limited	https://www.microsoft.com/p/-/9NWXCQHHLK6J	Q7889	Q135288
 9N6K4VWWLJZV	Crazy Gravity	2021 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9N6K4VWWLJZV	Q7889	Q135288
@@ -327,9 +327,8 @@ C4B8XR1LCXR5	Crimson Skies: High Road to Revenge	2003 video game by Microsoft	ht
 9N04RQQ64524	CrossCode	2020 video game by DECK13 Spotlight	https://www.microsoft.com/p/-/9N04RQQ64524	Q7889	Q135288
 9PF24FN9BZ69	CrossfireX	2022 video game by Smilegate Entertainment	https://www.microsoft.com/p/-/9PF24FN9BZ69	Q7889	Q135288
 C0FZNGPNQQRQ	Crossout	2017 video game by Gaijin Distribution Kft	https://www.microsoft.com/p/-/C0FZNGPNQQRQ	Q7889	Q135288
-9NGCPXQG3NLZ	Crown Trick	2021 video game by Team17 Digital Ltd.	https://www.microsoft.com/p/-/9NGCPXQG3NLZ	Q7889	Q135288
 9MZ8RZSD0NFQ	Crusader Kings III	2022 video game by Paradox Interactive	https://www.microsoft.com/p/-/9MZ8RZSD0NFQ	Q7889	Q135288
-BZHL37CPGP4X	Crypt of the NecroDancer	2017 video game by Brace Yourself Games	https://www.microsoft.com/p/-/BZHL37CPGP4X	Q7889	Q135288
+9NBLGGH3ZWDX	Cruz Brothers	2020 video game by DCF STUDIOS 	https://www.microsoft.com/p/-/9NBLGGH3ZWDX	Q7889	Q135288
 BSQTKKTCLNP5	Crypt of the Serpent King	2016 video game by Rendercode Games	https://www.microsoft.com/p/-/BSQTKKTCLNP5	Q7889	Q135288
 9P389DSKBJB6	Crysis 2 Remastered	2021 video game by Crytek	https://www.microsoft.com/p/-/9P389DSKBJB6	Q7889	Q135288
 9PHV85PRZL7N	Crysis 3 Remastered	2021 video game by Crytek	https://www.microsoft.com/p/-/9PHV85PRZL7N	Q7889	Q135288
@@ -343,7 +342,6 @@ C13B30356JXW	DAKAR 18	2018 video game by Deep Silver	https://www.microsoft.com/p
 BVBQ72FDB4LK	DARK SOULS II: Scholar of the First Sin	2015 video game by BANDAI NAMCO Entertainment America Inc.	https://www.microsoft.com/p/-/BVBQ72FDB4LK	Q7889	Q135288
 BS18VCF4NLQ9	DARK SOULS: REMASTERED	2018 video game by BANDAI NAMCO Entertainment Inc.	https://www.microsoft.com/p/-/BS18VCF4NLQ9	Q7889	Q135288
 9P2R94JKXJC4	DARKLAND	2022 video game by 1BITTO	https://www.microsoft.com/p/-/9P2R94JKXJC4	Q7889	Q135288
-9NLB1V35HHM2	DARQ Complete Edition	2020 video game by Feardemic 	https://www.microsoft.com/p/-/9NLB1V35HHM2	Q7889	Q135288
 BQ023H8GXZ3T	DBX	2015 video game by BANDAI NAMCO Games America Inc.	https://www.microsoft.com/p/-/BQ023H8GXZ3T	Q7889	Q135288
 9NNBPBM2F60W	DEEEER Simulator	2021 video game by PLAYISM	https://www.microsoft.com/p/-/9NNBPBM2F60W	Q7889	Q135288
 BZK0PF5LXPDV	DEUS EX: HUMAN REVOLUTION	2012 video game by SQUARE ENIX	https://www.microsoft.com/p/-/BZK0PF5LXPDV	Q7889	Q135288
@@ -408,6 +406,7 @@ BPZT3CQCCWKG	Devil May Cry 4 SE	2015 video game by CAPCOM CO., LTD.	https://www.
 9MZ11KT5KLP6	Devil May Cry 5 Special Edition	2020 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/9MZ11KT5KLP6	Q7889	Q135288
 BVNRFF9XJ6KM	Devil May Cry HD Collection	2018 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BVNRFF9XJ6KM	Q7889	Q135288
 C2MBDNDS3H5W	DiRT 4	2017 video game by Codemasters	https://www.microsoft.com/p/-/C2MBDNDS3H5W	Q7889	Q135288
+BRPGP6H8P26F	DiRT Rally 2.0	2019 video game by Codemasters	https://www.microsoft.com/p/-/BRPGP6H8P26F	Q7889	Q135288
 9PC4C9NLP3ZD	Dicey Dungeons	2021 video game by Distractionware Limited	https://www.microsoft.com/p/-/9PC4C9NLP3ZD	Q7889	Q135288
 9PJ6JZBL0JP1	Dieselpunk Wars	2022 video game by PlayWay	https://www.microsoft.com/p/-/9PJ6JZBL0JP1	Q7889	Q135288
 9PPM9VJW284D	Disciples: Liberation	2021 video game by Kalypso Media Group GmbH	https://www.microsoft.com/p/-/9PPM9VJW284D	Q7889	Q135288
@@ -447,7 +446,6 @@ BX7BC0M2NCGJ	Dreamfall Chapters	2017 video game by Deep Silver	https://www.micro
 C07J3ZJPGX6Z	DuckTales: Remastered	2013 video game by Capcom	https://www.microsoft.com/p/-/C07J3ZJPGX6Z	Q7889	Q135288
 BZF309Q32MDT	Duke Nukem 3D: 20th Anniversary World Tour	2016 video game by Gearbox Publishing, LLC	https://www.microsoft.com/p/-/BZF309Q32MDT	Q7889	Q135288
 BZ0NBMRKLT18	Duke Nukem Forever	2011 video game by 2K Games	https://www.microsoft.com/p/-/BZ0NBMRKLT18	Q7889	Q135288
-9PN4SP40PNKK	Dull Grey	2021 video game by Sometimes You	https://www.microsoft.com/p/-/9PN4SP40PNKK	Q7889	Q135288
 9NWTT4BXQ1TD	Dungeon Color	2022 video game by QUByte Interactive with Game Nacional	https://www.microsoft.com/p/-/9NWTT4BXQ1TD	Q7889	Q135288
 C52HDXHZV2KR	Dungeons & Dragons: Chronicles of Mystara	2013 video game by Capcom	https://www.microsoft.com/p/-/C52HDXHZV2KR	Q7889	Q135288
 BPB96BRZ1V3C	Dungeons 3	2017 video game by Kalypso Media	https://www.microsoft.com/p/-/BPB96BRZ1V3C	Q7889	Q135288
@@ -467,6 +465,7 @@ BZKT9SRLVX3Z	Earth Defense Force: IA	2011 video game by D3Publisher, Inc.	https:
 9P934697Z4W4	Edge of Eternity	2022 video game by Dear Villagers	https://www.microsoft.com/p/-/9P934697Z4W4	Q7889	Q135288
 9N7360B6MGK6	El Gancho	2022 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9N7360B6MGK6	Q7889	Q135288
 9NVP9XBWWR7T	Elasto Mania	2022 video game by Elasto Mania Team	https://www.microsoft.com/p/-/9NVP9XBWWR7T	Q7889	Q135288
+9MZNDMVZ5QQ9	Elemental War 2	2022 video game by Clockwork Origins	https://www.microsoft.com/p/-/9MZNDMVZ5QQ9	Q7889	Q135288
 9NR06QJPMBK5	Elex	2022 video game by THQ Nordic	https://www.microsoft.com/p/-/9NR06QJPMBK5	Q7889	Q135288
 9PL9LQ40GH18	Ember	2021 video game by N-Fusion Interactive	https://www.microsoft.com/p/-/9PL9LQ40GH18	Q7889	Q135288
 9P9XS9D0LBPV	Embr	2021 video game by Curve Games	https://www.microsoft.com/p/-/9P9XS9D0LBPV	Q7889	Q135288
@@ -540,7 +539,6 @@ C1DDW4PRF6K5	Far Cry New Dawn	2019 video game by Ubisoft	https://www.microsoft.c
 BV6BRSLFJW3W	Far Cry Primal	2016 video game by Ubisoft Entertainment	https://www.microsoft.com/p/-/BV6BRSLFJW3W	Q7889	Q135288
 9NN6BM65S46B	Farm Manager 2022	2022 video game by Ultimate Games	https://www.microsoft.com/p/-/9NN6BM65S46B	Q7889	Q135288
 9MXSDJXFZQ25	Farm Together	2019 video game by Milkstone Studios	https://www.microsoft.com/p/-/9MXSDJXFZQ25	Q7889	Q135288
-C08SKT5BZXSW	Farmer's Dynasty	2019 video game by Bigben Interactive	https://www.microsoft.com/p/-/C08SKT5BZXSW	Q7889	Q135288
 C1NJFJM3FPWN	Farming Simulator 15	2015 video game by Focus Home Interactive	https://www.microsoft.com/p/-/C1NJFJM3FPWN	Q7889	Q135288
 BQW91W950J67	Farming Simulator 19	2018 video game by FOCUS Home Entertainment	https://www.microsoft.com/p/-/BQW91W950J67	Q7889	Q135288
 9P6SRW1HVW9K	Farming Simulator 22	2021 video game by GIANTS Software GmbH	https://www.microsoft.com/p/-/9P6SRW1HVW9K	Q7889	Q135288
@@ -551,7 +549,6 @@ BRBRQCVTJG2D	Feeding Frenzy	2006 video game by Electronic Arts	https://www.micro
 BQ192SFB694X	Feeding Frenzy 2	2008 video game by PopCap	https://www.microsoft.com/p/-/BQ192SFB694X	Q7889	Q135288
 9PBS8M93F1BF	Fell Seal: Arbiter's Mark	2019 video game by 1C Online Games Ltd.	https://www.microsoft.com/p/-/9PBS8M93F1BF	Q7889	Q135288
 9P9778WSJTQC	Feudal Alloy	2019 video game by Attu Games	https://www.microsoft.com/p/-/9P9778WSJTQC	Q7889	Q135288
-BX9SVQ6J7CWN	Fibbage	2014 video game by Jackbox Games, Inc.	https://www.microsoft.com/p/-/BX9SVQ6J7CWN	Q7889	Q135288
 9NBQ9N4B4G1H	FightNJokes	2021 video game by Mental Drink Ltd	https://www.microsoft.com/p/-/9NBQ9N4B4G1H	Q7889	Q135288
 9PBTZ02KFX5X	Fin	2021 video game by Silesia Games Sp. z o.o.	https://www.microsoft.com/p/-/9PBTZ02KFX5X	Q7889	Q135288
 BQQKG9H2STC0	Firewatch	2016 video game by Campo Santo	https://www.microsoft.com/p/-/BQQKG9H2STC0	Q7889	Q135288
@@ -610,14 +607,14 @@ C2N9CS4FS1QR	Ghost Recon Wildlands: Standard Edition	2017 video game by Ubisoft	
 C20W5LX41N6M	Ghost Recon: Future Soldier	2012 video game by Ubisoft	https://www.microsoft.com/p/-/C20W5LX41N6M	Q7889	Q135288
 9N6309KFX0XV	Ghost Sync	2021 video game by KEMCO	https://www.microsoft.com/p/-/9N6309KFX0XV	Q7889	Q135288
 C232CL8LQQ9N	Ghost of a Tale	2019 video game by SeithCG	https://www.microsoft.com/p/-/C232CL8LQQ9N	Q7889	Q135288
-BTDKMK8M1LH2	Ghostbusters	2009 video game by Atari	https://www.microsoft.com/p/-/BTDKMK8M1LH2	Q7889	Q135288
 9NBGKZ46Z2SC	Ghostbusters	2019 video game by Mad Dog Games	https://www.microsoft.com/p/-/9NBGKZ46Z2SC	Q7889	Q135288
-9P35QFFTFSZT	Ghosts 'n Goblins Resurrection	2021 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/9P35QFFTFSZT	Q7889	Q135288
+BTDKMK8M1LH2	Ghostbusters	2009 video game by Atari	https://www.microsoft.com/p/-/BTDKMK8M1LH2	Q7889	Q135288
 9N9CDX6PFL35	Ghoulboy	2021 video game by Dolores Entertainment	https://www.microsoft.com/p/-/9N9CDX6PFL35	Q7889	Q135288
 9MVRBJMR0622	Glam	2022 video game by RED ART GAMES	https://www.microsoft.com/p/-/9MVRBJMR0622	Q7889	Q135288
 BXMZKPHQK37H	Glass Masquerade	2019 video game by Digerati	https://www.microsoft.com/p/-/BXMZKPHQK37H	Q7889	Q135288
 9NMZRLZNGWPJ	Gleylancer	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9NMZRLZNGWPJ	Q7889	Q135288
 BV0NM309K1TL	Goat Simulator	2015 video game by Double Eleven Limited	https://www.microsoft.com/p/-/BV0NM309K1TL	Q7889	Q135288
+BVWRSNPHKW8Q	Goat Simulator	2015 video game by Double Eleven Limited	https://www.microsoft.com/p/-/BVWRSNPHKW8Q	Q7889	Q135288
 9P6DG5C3C1CF	Godstrike is a 3D boss rush Bullet Hell	2021 video game by Freedom Games	https://www.microsoft.com/p/-/9P6DG5C3C1CF	Q7889	Q135288
 9NX3G3Z38CV2	Going Under	2020 video game by Team17 Digital Ltd.	https://www.microsoft.com/p/-/9NX3G3Z38CV2	Q7889	Q135288
 9PNFGB4TRV8C	Gold Rush	2021 video game by Code Horizon	https://www.microsoft.com/p/-/9PNFGB4TRV8C	Q7889	Q135288
@@ -650,6 +647,7 @@ BNPJV2Z29721	H&S	2016 video game by Badland Games	https://www.microsoft.com/p/-/
 BRRC2BP0G9P0	Halo 5: Guardians	2015 video game by Microsoft Studios	https://www.microsoft.com/p/-/BRRC2BP0G9P0	Q7889	Q135288
 9PP5G1F0C2B6	Halo Infinite	2021 video game by Xbox Game Studios	https://www.microsoft.com/p/-/9PP5G1F0C2B6	Q7889	Q135288
 BPRPQSKXTD1L	Halo Wars: Definitive Edition	2016 video game by Microsoft Studios	https://www.microsoft.com/p/-/BPRPQSKXTD1L	Q7889	Q135288
+BTSLS8RHRHRW	Hammerwatch	2017 video game by BlitWorks	https://www.microsoft.com/p/-/BTSLS8RHRHRW	Q7889	Q135288
 BV0LH18Q1VHW	Hand of Fate	2015 video game by Defiant Development	https://www.microsoft.com/p/-/BV0LH18Q1VHW	Q7889	Q135288
 BV95S3CSP2DW	Happy Wars	2015 video game by Toylogic Inc.	https://www.microsoft.com/p/-/BV95S3CSP2DW	Q7889	Q135288
 BWCXFW8V0HBH	Hard Reset	2016 video game by Gambitious Digital Entertainment	https://www.microsoft.com/p/-/BWCXFW8V0HBH	Q7889	Q135288
@@ -660,13 +658,13 @@ BWQ7GGKXG28T	Harms Way	2010 video game by Microsoft Studios	https://www.microsof
 BVGX58F7HZGH	Headlander	2016 video game by Adult Swim Games	https://www.microsoft.com/p/-/BVGX58F7HZGH	Q7889	Q135288
 BZ910SG8ML8X	Heavy Weapon	2007 video game by Electronic Arts	https://www.microsoft.com/p/-/BZ910SG8ML8X	Q7889	Q135288
 9N44WK3WV2HJ	Hell Let Loose	2021 video game by Team17	https://www.microsoft.com/p/-/9N44WK3WV2HJ	Q7889	Q135288
+9N6QQN752H2Q	Hell Warders	2019 video game by PQube	https://www.microsoft.com/p/-/9N6QQN752H2Q	Q7889	Q135288
 C4Z7QM8FSXM2	Hellblade: Senua's Sacrifice	2018 video game by Ninja Theory Ltd	https://www.microsoft.com/p/-/C4Z7QM8FSXM2	Q7889	Q135288
 C0G1L18DT97K	Hello Neighbor	2017 video game by tinyBuild	https://www.microsoft.com/p/-/C0G1L18DT97K	Q7889	Q135288
 9NGKLLS48TG2	Henchman Story	2021 video game by Top Hat Studios, Inc.	https://www.microsoft.com/p/-/9NGKLLS48TG2	Q7889	Q135288
 9MZ30WZ4HM0G	Hercule Poirot: The First Cases	2021 video game by Microids 	https://www.microsoft.com/p/-/9MZ30WZ4HM0G	Q7889	Q135288
 9NB1JFNQ9Q2Z	Hermitage	2021 video game by GiikuGames GmbH	https://www.microsoft.com/p/-/9NB1JFNQ9Q2Z	Q7889	Q135288
 BXHL9BJH9XKC	Hexic HD	2005 video game by Microsoft Studios	https://www.microsoft.com/p/-/BXHL9BJH9XKC	Q7889	Q135288
-9NCGMG5NR8LF	Hindsight 20/20	2021 video game by Triple-I Games LLC	https://www.microsoft.com/p/-/9NCGMG5NR8LF	Q7889	Q135288
 BXHQB8CKJNVR	Hitman: Absolution	2013 video game by Square Enix	https://www.microsoft.com/p/-/BXHQB8CKJNVR	Q7889	Q135288
 C5JV8LK7MWQX	Hitman: Blood Money	2010 video game by IO Interactive A/S	https://www.microsoft.com/p/-/C5JV8LK7MWQX	Q7889	Q135288
 BPF4QH72W50T	Hollow	2019 video game by Forever Entertainment S. A.	https://www.microsoft.com/p/-/BPF4QH72W50T	Q7889	Q135288
@@ -707,10 +705,11 @@ C02H769DRLQX	Indiana Jones & Emperor's Tomb	2019 video game by LucasFilm	https:/
 9NBFQMP69N1S	Indivisible	2019 video game by 505 Games	https://www.microsoft.com/p/-/9NBFQMP69N1S	Q7889	Q135288
 9NK7HNCG0R8D	Infernax	2022 video game by The Arcade Crew	https://www.microsoft.com/p/-/9NK7HNCG0R8D	Q7889	Q135288
 BSXGP1ZLM2NZ	Infinite Minigolf	2017 video game by Zen Studios	https://www.microsoft.com/p/-/BSXGP1ZLM2NZ	Q7889	Q135288
+BPKVH4C4XV4N	Injustice 2	2017 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BPKVH4C4XV4N	Q7889	Q135288
 C24DMFCJKDH2	Injustice: Gods Among Us	2013 video game by WB Games, Inc.	https://www.microsoft.com/p/-/C24DMFCJKDH2	Q7889	Q135288
 9P3GXQ4R7QR5	Inspector Waffles	2021 video game by RED ART GAMES	https://www.microsoft.com/p/-/9P3GXQ4R7QR5	Q7889	Q135288
 9NVPCP39VCFT	Instant Sports Paradise	2021 video game by PID Games	https://www.microsoft.com/p/-/9NVPCP39VCFT	Q7889	Q135288
-C46KTZB9HK8B	Insurgency: Sandstorm	2021 video game by Focus Home Interactive	https://www.microsoft.com/p/-/C46KTZB9HK8B	Q7889	Q135288
+C46KTZB9HK8B	Insurgency: Sandstorm	2021 video game by Focus Entertainment	https://www.microsoft.com/p/-/C46KTZB9HK8B	Q7889	Q135288
 9NCFNFTSBM96	Into the Pit	2021 video game by Humble Games	https://www.microsoft.com/p/-/9NCFNFTSBM96	Q7889	Q135288
 9N6FZ0F2VFXL	Inukari	2022 video game by RedDeerGames	https://www.microsoft.com/p/-/9N6FZ0F2VFXL	Q7889	Q135288
 9PJJV5RJGFWJ	Ion Fury	2020 video game by 1C Online Games Ltd.	https://www.microsoft.com/p/-/9PJJV5RJGFWJ	Q7889	Q135288
@@ -719,11 +718,11 @@ BQD45PQR4F4J	Isaac: Rebirth	2015 video game by Nicalis, Inc.	https://www.microso
 9PGHSK2QR07H	Isaac: Repentance	2021 video game by Nicalis, Inc.	https://www.microsoft.com/p/-/9PGHSK2QR07H	Q7889	Q135288
 9NKJBN2RMQXB	Island Saver	2020 video game by National Westminster Bank plc.	https://www.microsoft.com/p/-/9NKJBN2RMQXB	Q7889	Q135288
 9NZFG3PTRZ7Z	Istanbul	2022 video game by Acram Digital	https://www.microsoft.com/p/-/9NZFG3PTRZ7Z	Q7889	Q135288
-9NRHR86QDVFB	JOTBC	2021 video game by Nakana.io	https://www.microsoft.com/p/-/9NRHR86QDVFB	Q7889	Q135288
 9N9HWW1CF3DQ	Jack 'n' Hat	2022 video game by 2Awesome Partners	https://www.microsoft.com/p/-/9N9HWW1CF3DQ	Q7889	Q135288
 C5150FZWS1K2	Jackbox Party Pack 4	2017 video game by Jackbox Games, Inc	https://www.microsoft.com/p/-/C5150FZWS1K2	Q7889	Q135288
 C40FNR9XDVK5	Jade Empire	2005 video game by Microsoft	https://www.microsoft.com/p/-/C40FNR9XDVK5	Q7889	Q135288
 9NW0KSLZWT3Z	Jetboard Joust	2022 video game by Freedom Games	https://www.microsoft.com/p/-/9NW0KSLZWT3Z	Q7889	Q135288
+BVWPHR3TVQ6F	Jotun: Valhalla Edition	2016 video game by Thunder Lotus Games	https://www.microsoft.com/p/-/BVWPHR3TVQ6F	Q7889	Q135288
 BZ3CVPFPDSHK	Journey to the Savage Planet	2020 video game by 505 Games	https://www.microsoft.com/p/-/BZ3CVPFPDSHK	Q7889	Q135288
 C1ZWH2BZ9TSF	Joy Ride Turbo	2012 video game by Microsoft Studios	https://www.microsoft.com/p/-/C1ZWH2BZ9TSF	Q7889	Q135288
 9N1R83CKGZJP	Judgment	2021 video game by SEGA	https://www.microsoft.com/p/-/9N1R83CKGZJP	Q7889	Q135288
@@ -754,9 +753,11 @@ BRHSML8030ZN	Kinect Sports Rivals	2014 video game by Microsoft Studios	https://w
 BRMFLRV79C3H	King's Quest	2015 video game by Sierra	https://www.microsoft.com/p/-/BRMFLRV79C3H	Q7889	Q135288
 C3L6F8GL5LJK	Kingdom: New Lands	2016 video game by Raw Fury	https://www.microsoft.com/p/-/C3L6F8GL5LJK	Q7889	Q135288
 9NVCNM9DQ839	Kingdoms of Amalur: Re-Reckoning	2020 video game by THQ Nordic	https://www.microsoft.com/p/-/9NVCNM9DQ839	Q7889	Q135288
+9NG5Z2VVTXJ9	Kitaria Fables	2021 video game by PQube Limited	https://www.microsoft.com/p/-/9NG5Z2VVTXJ9	Q7889	Q135288
 9NLLFP0PLRT4	Klang 2	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9NLLFP0PLRT4	Q7889	Q135288
 BQ9C40MT0WWK	Knight Squad	2015 video game by Chainsawesome Games	https://www.microsoft.com/p/-/BQ9C40MT0WWK	Q7889	Q135288
 9NRR3V2VB9MZ	Know by heart...	2022 video game by Ice-Pick Lodge	https://www.microsoft.com/p/-/9NRR3V2VB9MZ	Q7889	Q135288
+9MW1V5ZTJTNF	Kombinera	2022 video game by Atari, Inc	https://www.microsoft.com/p/-/9MW1V5ZTJTNF	Q7889	Q135288
 9P87CGF1TCCX	Kraken Academy	2022 video game by Fellow Traveller	https://www.microsoft.com/p/-/9P87CGF1TCCX	Q7889	Q135288
 BQDVBCS5Z4N1	L.A. Noire	2017 video game by Rockstar Games	https://www.microsoft.com/p/-/BQDVBCS5Z4N1	Q7889	Q135288
 9N9MP666WQKR	LB	2021 video game by RedDeerGames 	https://www.microsoft.com/p/-/9N9MP666WQKR	Q7889	Q135288
@@ -780,8 +781,8 @@ BTT25GGLG6KD	LEGO Star Wars: TCS	2009 video game by Disney Interactive Studios	h
 BXZSX21X0S7X	LEGO The Hobbit	2014 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BXZSX21X0S7X	Q7889	Q135288
 BZP3R43F8DNH	LEGO The Incredibles	2018 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BZP3R43F8DNH	Q7889	Q135288
 BWPV4QXW8W2C	LEGO Worlds	2017 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BWPV4QXW8W2C	Q7889	Q135288
-BRRSMNBM1QGG	LIGHTNING RETURNS FFXIII	2014 video game by Square Enix	https://www.microsoft.com/p/-/BRRSMNBM1QGG	Q7889	Q135288
 BTQMHK78ZPF9	LIMBO	2014 video game by Playdead	https://www.microsoft.com/p/-/BTQMHK78ZPF9	Q7889	Q135288
+9NJQWH8Z687X	LIT: Bend the Light	2022 video game by OverGamez	https://www.microsoft.com/p/-/9NJQWH8Z687X	Q7889	Q135288
 9NND0JR8W5CL	LR:FN	2021 video game by Keinart Lobre	https://www.microsoft.com/p/-/9NND0JR8W5CL	Q7889	Q135288
 BX7HFJCZFDF9	Lacrosse	2016 video game by Big Ant Studios PTY	https://www.microsoft.com/p/-/BX7HFJCZFDF9	Q7889	Q135288
 9MXKTG2JC5SN	Lacuna - A Sci-Fi Noir Adventure	2021 video game by Assemble Entertainment	https://www.microsoft.com/p/-/9MXKTG2JC5SN	Q7889	Q135288
@@ -795,6 +796,7 @@ BNKXZ9WFM6H3	Layers of Fear	2016 video game by Aspyr Media	https://www.microsoft
 9NJG48NJ480C	Lemnis Gate	2021 video game by Frontier Foundry	https://www.microsoft.com/p/-/9NJG48NJ480C	Q7889	Q135288
 BTWXL6VXS87B	Leo's Fortune	2015 video game by 1337 & Senri LLC	https://www.microsoft.com/p/-/BTWXL6VXS87B	Q7889	Q135288
 C1W6DR9Z9684	Letter Quest: Grimm's Journey Remastered	2016 video game by Digerati	https://www.microsoft.com/p/-/C1W6DR9Z9684	Q7889	Q135288
+9NWLHMFKM330	Liberated: Enhanced Edition	2022 video game by Walkabout Games	https://www.microsoft.com/p/-/9NWLHMFKM330	Q7889	Q135288
 BP5HKF86C1NJ	Life Is Strange	2015 video game by Square Enix	https://www.microsoft.com/p/-/BP5HKF86C1NJ	Q7889	Q135288
 BTNTWQD5V8WG	Life is Strange 2	2018 video game by Square Enix	https://www.microsoft.com/p/-/BTNTWQD5V8WG	Q7889	Q135288
 BPBC39LH0Q9B	Life is Strange: Before the Storm	2017 video game by Square Enix	https://www.microsoft.com/p/-/BPBC39LH0Q9B	Q7889	Q135288
@@ -810,12 +812,12 @@ BWD88K55MK5W	Little Nightmares	2017 video game by BANDAI NAMCO Entertainment	htt
 C1H74N0TR8KT	Little Nightmares II	2021 video game by BANDAI NAMCO Entertainment America Inc.	https://www.microsoft.com/p/-/C1H74N0TR8KT	Q7889	Q135288
 9NHTWGXGXFBC	Lord of the Click II	2021 video game by ChiliDog Interactive	https://www.microsoft.com/p/-/9NHTWGXGXFBC	Q7889	Q135288
 BRL99QVV2BF3	Lords of Shadow	2010 video game by Konami	https://www.microsoft.com/p/-/BRL99QVV2BF3	Q7889	Q135288
+C5FP8DQ3R1WF	Lords of the Fallen	2014 video game by CI Games	https://www.microsoft.com/p/-/C5FP8DQ3R1WF	Q7889	Q135288
 9PN11W6W1LQ1	Lost Ember	2019 video game by Mooneye Studios	https://www.microsoft.com/p/-/9PN11W6W1LQ1	Q7889	Q135288
 9NBVJS3WMHRZ	Lost Grimoires 3	2021 video game by Artifex Mundi	https://www.microsoft.com/p/-/9NBVJS3WMHRZ	Q7889	Q135288
 9NDJJQDF411C	Lost Judgment	2021 video game by SEGA	https://www.microsoft.com/p/-/9NDJJQDF411C	Q7889	Q135288
 BZB4S8FS8T5B	Lost Odyssey	2008 video game by Microsoft	https://www.microsoft.com/p/-/BZB4S8FS8T5B	Q7889	Q135288
 C1PJKCDKH6LN	Lost Planet 2	2010 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/C1PJKCDKH6LN	Q7889	Q135288
-BTVQW5LF9JPV	Lost Planet 3	2013 video game by Capcom	https://www.microsoft.com/p/-/BTVQW5LF9JPV	Q7889	Q135288
 9N9454J6FFSH	Lost Snowmen	2021 video game by SilenGames	https://www.microsoft.com/p/-/9N9454J6FFSH	Q7889	Q135288
 9NN16ML9S93V	Lost Words: Beyond the Page	2021 video game by Modus Games	https://www.microsoft.com/p/-/9NN16ML9S93V	Q7889	Q135288
 9NVRJS95FLM9	Lost in Random	2021 video game by Electronic Arts	https://www.microsoft.com/p/-/9NVRJS95FLM9	Q7889	Q135288
@@ -823,10 +825,8 @@ BTVQW5LF9JPV	Lost Planet 3	2013 video game by Capcom	https://www.microsoft.com/p
 BQN4N3CGBV1N	Lovers in a Dangerous Spacetime	2015 video game by Asteroid Base Inc.	https://www.microsoft.com/p/-/BQN4N3CGBV1N	Q7889	Q135288
 9N9X9KRKP6JX	Lucid Cycle	2021 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9N9X9KRKP6JX	Q7889	Q135288
 9PGT86PVPMTK	MARSUPILAMI	2021 video game by Microids	https://www.microsoft.com/p/-/9PGT86PVPMTK	Q7889	Q135288
-BZ051HSSLLW1	MEGA MAN 10	2010 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BZ051HSSLLW1	Q7889	Q135288
-9NX4G02HN7MS	MELTY BLOOD: TYPE LUMINA	2021 video game by DELiGHTWORKS(DELIGHTWORKS)	https://www.microsoft.com/p/-/9NX4G02HN7MS	Q7889	Q135288
+9NX4G02HN7MS	MELTY BLOOD: TYPE LUMINA	2021 video game by Lasengle Inc.	https://www.microsoft.com/p/-/9NX4G02HN7MS	Q7889	Q135288
 BR6HQDNQT004	METAL GEAR RISING: REVENGEANCE	2013 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/BR6HQDNQT004	Q7889	Q135288
-C1TVFVT36HVN	METAL GEAR SOLID V: GROUND ZEROES	2014 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/C1TVFVT36HVN	Q7889	Q135288
 BR6DLJ4RDR9Q	METAL GEAR SURVIVE	2018 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/BR6DLJ4RDR9Q	Q7889	Q135288
 C5DB629HCWPK	METAL SLUG	2017 video game by HAMSTER Corporation	https://www.microsoft.com/p/-/C5DB629HCWPK	Q7889	Q135288
 BQXWH8FJK3V0	MGS PW HD	2011 video game by Konami Digital Entertainment Co., Ltd.	https://www.microsoft.com/p/-/BQXWH8FJK3V0	Q7889	Q135288
@@ -834,9 +834,8 @@ C253HWJP0L18	MGSV: TPP	2015 video game by Konami Digital Entertainment	https://w
 C120V2WGRMCH	MINIT	2018 video game by Devolver Digital	https://www.microsoft.com/p/-/C120V2WGRMCH	Q7889	Q135288
 BTC0L0BW6LWC	MK11	2019 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BTC0L0BW6LWC	Q7889	Q135288
 9P7WMQG42GRX	MLB The Show 21 Xbox One	2021 video game by MLB	https://www.microsoft.com/p/-/9P7WMQG42GRX	Q7889	Q135288
+9MXM0G8RP4H4	MLB The Show 22 Xbox Series X | S	2022 video game by MLB	https://www.microsoft.com/p/-/9MXM0G8RP4H4	Q7889	Q135288
 9ND8S8QTF6TH	MMTSOD	2021 video game by Klabater	https://www.microsoft.com/p/-/9ND8S8QTF6TH	Q7889	Q135288
-C1CJ25XTKDSB	MN9	2016 video game by Deep Silver	https://www.microsoft.com/p/-/C1CJ25XTKDSB	Q7889	Q135288
-C0WF1M4KMFL9	MONOPOLY DEAL	2014 video game by UBISOFT	https://www.microsoft.com/p/-/C0WF1M4KMFL9	Q7889	Q135288
 9P0RGJND5SR0	MONOPOLY MADNESS	2021 video game by Ubisoft	https://www.microsoft.com/p/-/9P0RGJND5SR0	Q7889	Q135288
 C0CB2CVZVSNR	MONOPOLY PLUS	2014 video game by UBISOFT	https://www.microsoft.com/p/-/C0CB2CVZVSNR	Q7889	Q135288
 BNG91PT95LQN	MONSTER HUNTER: WORLD	2018 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BNG91PT95LQN	Q7889	Q135288
@@ -846,7 +845,6 @@ BSF4MQFNW44N	MX vs ATV Reflex	2009 video game by THQ	https://www.microsoft.com/p
 9NQS7F51ZLP3	MX vs. ATV Alive	2011 video game by THQ Inc.	https://www.microsoft.com/p/-/9NQS7F51ZLP3	Q7889	Q135288
 C50MCJDHVK7J	MX vs. ATV Supercross Encore	2016 video game by Nordic Games	https://www.microsoft.com/p/-/C50MCJDHVK7J	Q7889	Q135288
 9PJW056LH7R9	MX vs. ATV: Untamed	2009 video game by THQ	https://www.microsoft.com/p/-/9PJW056LH7R9	Q7889	Q135288
-9P9NVPF9KM3P	MXGP 2020 - The Official Motocross Videogame	2020 video game by Milestone S.r.l.	https://www.microsoft.com/p/-/9P9NVPF9KM3P	Q7889	Q135288
 9N9R8TX1V7RL	MXGP 2021 - The Official Motocross Videogame	2021 video game by Milestone S.r.l.	https://www.microsoft.com/p/-/9N9R8TX1V7RL	Q7889	Q135288
 9PDK81M75BRW	MXGP 2021 - Xbox Series X|S	2021 video game by Milestone S.r.l.	https://www.microsoft.com/p/-/9PDK81M75BRW	Q7889	Q135288
 BPW6DQR9RPD9	MXGP PRO	2018 video game by Milestone S.r.l.	https://www.microsoft.com/p/-/BPW6DQR9RPD9	Q7889	Q135288
@@ -881,7 +879,6 @@ BSJ67WJZ3LXB	Meet the Robinsons	2009 video game by Disney Interactive Studios	ht
 BQPG2509CVJP	Mega Man 11	2018 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BQPG2509CVJP	Q7889	Q135288
 C38Z8L4RHSHS	Mega Man Legacy Collection	2015 video game by Capcom	https://www.microsoft.com/p/-/C38Z8L4RHSHS	Q7889	Q135288
 C4VFVZGF3480	Mega Man Legacy Collection 2	2017 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/C4VFVZGF3480	Q7889	Q135288
-BT07CDVG6Z9G	Mega Man X Legacy Collection	2018 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BT07CDVG6Z9G	Q7889	Q135288
 9NQ465WGDWJX	Mekabolt+	2022 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9NQ465WGDWJX	Q7889	Q135288
 C0KB8NGFN0TS	Mercenaries	2018 video game by LucasArts	https://www.microsoft.com/p/-/C0KB8NGFN0TS	Q7889	Q135288
 9NZLVMWB12CJ	Merek's Market	2021 video game by Big Village Games Ltd	https://www.microsoft.com/p/-/9NZLVMWB12CJ	Q7889	Q135288
@@ -903,9 +900,9 @@ BXTCRVBZ52DN	Might & Magic Clash of Heroes	2011 video game by Ubisoft	https://ww
 9NLS818K3MKQ	Mini Hockey Battle	2022 video game by Yahaha Games	https://www.microsoft.com/p/-/9NLS818K3MKQ	Q7889	Q135288
 9N6VTXJTSMXP	Mini Madness	2021 video game by Drageus Games S.A.	https://www.microsoft.com/p/-/9N6VTXJTSMXP	Q7889	Q135288
 9NRPPQHL2MZM	Minion Masters	2019 video game by BetaDwarf	https://www.microsoft.com/p/-/9NRPPQHL2MZM	Q7889	Q135288
-BQBQ98VM5FS2	Mirror of Fate HD	2013 video game by Konami	https://www.microsoft.com/p/-/BQBQ98VM5FS2	Q7889	Q135288
 C48LBRJJCP2L	Mirror's Edge Catalyst	2016 video game by Electronic Arts	https://www.microsoft.com/p/-/C48LBRJJCP2L	Q7889	Q135288
 9P3R29Q9VK8F	Modern Tales	2019 video game by Artifex Mundi	https://www.microsoft.com/p/-/9P3R29Q9VK8F	Q7889	Q135288
+9PGJK7M3P4RP	Mokoko X	2022 video game by NAISU	https://www.microsoft.com/p/-/9PGJK7M3P4RP	Q7889	Q135288
 BPKQZ245CQ2H	Momodora 4	2017 video game by Playism	https://www.microsoft.com/p/-/BPKQZ245CQ2H	Q7889	Q135288
 C1Z0M42RJ2C1	Monaco: What's Yours is Mine	2013 video game by Majesco Entertainment	https://www.microsoft.com/p/-/C1Z0M42RJ2C1	Q7889	Q135288
 C2FP0XG65F9B	Monday Night Combat	2010 video game by Microsoft Studios	https://www.microsoft.com/p/-/C2FP0XG65F9B	Q7889	Q135288
@@ -935,6 +932,7 @@ BWL3KFXWTFBD	MouseCraft	2022 video game by Crunching Koalas	https://www.microsof
 9PCSH678RS9S	Murder House	2021 video game by Puppet Combo	https://www.microsoft.com/p/-/9PCSH678RS9S	Q7889	Q135288
 9P2DRJQHH707	Murder Miners	2019 video game by JForce Games	https://www.microsoft.com/p/-/9P2DRJQHH707	Q7889	Q135288
 BP5XCJQK5HQH	Murdered: Soul Suspect	2014 video game by SQUARE ENIX	https://www.microsoft.com/p/-/BP5XCJQK5HQH	Q7889	Q135288
+9MTNXS592X47	Mushroom Savior	2020 video game by Flying Islands Team	https://www.microsoft.com/p/-/9MTNXS592X47	Q7889	Q135288
 9NLZJ8SRNJG0	Mushroom Wars 2	2022 video game by Zillion Whales	https://www.microsoft.com/p/-/9NLZJ8SRNJG0	Q7889	Q135288
 9MT9CDBGNJXP	Music Racer: Ultimate	2022 video game by Sometimes You	https://www.microsoft.com/p/-/9MT9CDBGNJXP	Q7889	Q135288
 9P08W0Z9BDPV	Music Racer: Ultimate	2022 video game by Sometimes You	https://www.microsoft.com/p/-/9P08W0Z9BDPV	Q7889	Q135288
@@ -944,7 +942,6 @@ C2T1SFV91Q3R	Mutant Football League	2019 video game by Digital Dreams Entertainm
 9PB94ZQ31BG6	My Universe - Interior Designer	2021 video game by Microids	https://www.microsoft.com/p/-/9PB94ZQ31BG6	Q7889	Q135288
 9P6PQLFP9BN0	Myst	2021 video game by Cyan Worlds, Inc.	https://www.microsoft.com/p/-/9P6PQLFP9BN0	Q7889	Q135288
 9N711G30MQBR	NAPE RETROVERSE COLLECTION	2022 video game by JanduSoft	https://www.microsoft.com/p/-/9N711G30MQBR	Q7889	Q135288
-BZ4G0HJXTW09	NARUTO SHIPPUDEN: Ultimate Ninja STORM 2	2017 video game by BANDAI NAMCO Entertainment	https://www.microsoft.com/p/-/BZ4G0HJXTW09	Q7889	Q135288
 BZVK6GF5MGXS	NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 FB	2017 video game by BANDAI NAMCO Entertainment	https://www.microsoft.com/p/-/BZVK6GF5MGXS	Q7889	Q135288
 C1KX6KNB7XMM	NARUTO STORM 4	2016 video game by BANDAI NAMCO Entertainment America Inc.	https://www.microsoft.com/p/-/C1KX6KNB7XMM	Q7889	Q135288
 BRX56LQJMZ4G	NARUTO TO BORUTO: SHINOBI STRIKER	2018 video game by BANDAI NAMCO Entertainment	https://www.microsoft.com/p/-/BRX56LQJMZ4G	Q7889	Q135288
@@ -952,6 +949,7 @@ BQ2M15PMBLKD	NARUTO: Ultimate Ninja STORM	2017 video game by BANDAI NAMCO Entert
 9NKWFZL6LC8K	NASCAR 21: Ignition	2021 video game by Motorsport Games	https://www.microsoft.com/p/-/9NKWFZL6LC8K	Q7889	Q135288
 9NL2WTLX21HQ	NASCAR Heat 4	2019 video game by 704Games Company	https://www.microsoft.com/p/-/9NL2WTLX21HQ	Q7889	Q135288
 9NS4WDJ9DRNW	NASCAR Heat 5	2020 video game by Motorsport Games	https://www.microsoft.com/p/-/9NS4WDJ9DRNW	Q7889	Q135288
+BSC0RPMPF8VH	NBA 2K Playgrounds 2	2018 video game by 2K	https://www.microsoft.com/p/-/BSC0RPMPF8VH	Q7889	Q135288
 9P0Q1F7P0KR1	NBA 2K21	2020 video game by 2K	https://www.microsoft.com/p/-/9P0Q1F7P0KR1	Q7889	Q135288
 9N9PDB02QD7T	NBA 2K22 for Xbox One	2021 video game by 2K	https://www.microsoft.com/p/-/9N9PDB02QD7T	Q7889	Q135288
 9NFZJFLDW3VW	NBA 2K22 for Xbox Series X|S	2021 video game by 2K	https://www.microsoft.com/p/-/9NFZJFLDW3VW	Q7889	Q135288
@@ -978,6 +976,7 @@ C4CSS7QSS98C	New 'n' Tasty	2015 video game by Oddworld Inhabitants Inc.	https://
 9N75X3XT3T8Z	Nickelodeon Brawl	2021 video game by GameMill Entertainment	https://www.microsoft.com/p/-/9N75X3XT3T8Z	Q7889	Q135288
 9NMBK4V30XJR	NieR Replicant ver.1.22	2021 video game by SQUARE ENIX	https://www.microsoft.com/p/-/9NMBK4V30XJR	Q7889	Q135288
 BPPZVT8BZ15N	NieR:Automata	2018 video game by SQUARE ENIX	https://www.microsoft.com/p/-/BPPZVT8BZ15N	Q7889	Q135288
+9P5WRQ5N5GQB	Niffelheim	2019 video game by Ellada Games	https://www.microsoft.com/p/-/9P5WRQ5N5GQB	Q7889	Q135288
 9NX3P3LFLDC9	Night Lights	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9NX3P3LFLDC9	Q7889	Q135288
 C501VQFW8FQG	Night in the Woods	2017 video game by Finji	https://www.microsoft.com/p/-/C501VQFW8FQG	Q7889	Q135288
 C17KKS83S9GS	Ninja Gaiden Black	2005 video game by Tecmo	https://www.microsoft.com/p/-/C17KKS83S9GS	Q7889	Q135288
@@ -986,12 +985,10 @@ BQVQTL3PCH05	No Man's Sky	2018 video game by Hello Games	https://www.microsoft.c
 9NZSD35C45GS	No Time to Relax	2021 video game by Porcelain Fortress	https://www.microsoft.com/p/-/9NZSD35C45GS	Q7889	Q135288
 9NFZ65KKJ10X	Nobody Saves the World	2022 video game by Drinkbox Studios	https://www.microsoft.com/p/-/9NFZ65KKJ10X	Q7889	Q135288
 9N868NG7S7PV	Nowhere Girl	2021 video game by Penguin Pop Games LLC	https://www.microsoft.com/p/-/9N868NG7S7PV	Q7889	Q135288
-9PCCFDH6LMQJ	Nuclear Throne	2021 video game by Vlambeer	https://www.microsoft.com/p/-/9PCCFDH6LMQJ	Q7889	Q135288
 9N9606CC950J	OCTOPATH TRAVELER	2021 video game by SQUARE ENIX CO. LTD.	https://www.microsoft.com/p/-/9N9606CC950J	Q7889	Q135288
 C051SCLQ3W25	OF: Dragon Rising	2011 video game by Codemasters	https://www.microsoft.com/p/-/C051SCLQ3W25	Q7889	Q135288
 9NCWF7RRR52G	OMD! 3	2021 video game by Robot Entertainment, Inc.	https://www.microsoft.com/p/-/9NCWF7RRR52G	Q7889	Q135288
 9N6HB778ZWP2	ONE PIECE: PIRATE WARRIORS 4	2020 video game by BANDAI NAMCO Entertainment	https://www.microsoft.com/p/-/9N6HB778ZWP2	Q7889	Q135288
-C083G6BGJ334	OUTRIDERS	2021 video game by Square Enix Ltd	https://www.microsoft.com/p/-/C083G6BGJ334	Q7889	Q135288
 9NMF2BJ16BJS	OVERPASS	2020 video game by Bigben Interactive	https://www.microsoft.com/p/-/9NMF2BJ16BJS	Q7889	Q135288
 C5K89TFLSV19	Oblivion	2010 video game by Bethesda Softworks	https://www.microsoft.com/p/-/C5K89TFLSV19	Q7889	Q135288
 9N185QL77D27	Obra Dinn	2019 video game by 3909	https://www.microsoft.com/p/-/9N185QL77D27	Q7889	Q135288
@@ -1016,6 +1013,7 @@ BW85KQB8Q31M	Ori: DE	2016 video game by Xbox Game Studios	https://www.microsoft.
 BP3GH4D3HP2H	Outlast	2014 video game by Red Barrels	https://www.microsoft.com/p/-/BP3GH4D3HP2H	Q7889	Q135288
 BZVPNM21TCJC	Outlast 2	2017 video game by Red Barrels	https://www.microsoft.com/p/-/BZVPNM21TCJC	Q7889	Q135288
 BR1M1XW5TDGC	Outward	2019 video game by Prime Matter	https://www.microsoft.com/p/-/BR1M1XW5TDGC	Q7889	Q135288
+BP8WDV3T37N7	Overcooked	2016 video game by Team17 Digital Ltd.	https://www.microsoft.com/p/-/BP8WDV3T37N7	Q7889	Q135288
 BVJLKDG2TX8H	Overcooked! 2	2018 video game by Team17 Digital Ltd	https://www.microsoft.com/p/-/BVJLKDG2TX8H	Q7889	Q135288
 BTLBX17B0PZC	Overlord II	2009 video game by Codemasters Software Company Limited	https://www.microsoft.com/p/-/BTLBX17B0PZC	Q7889	Q135288
 C1C4DZJPBC2V	Overwatch Origins Edition	2016 video game by Blizzard Entertainment	https://www.microsoft.com/p/-/C1C4DZJPBC2V	Q7889	Q135288
@@ -1039,6 +1037,7 @@ C3LNP2Q4422J	Panzer Dragoon Orta	2018 video game by SEGA	https://www.microsoft.c
 BXVBZGL29961	Party Hard	2016 video game by tinyBuild GAMES	https://www.microsoft.com/p/-/BXVBZGL29961	Q7889	Q135288
 9NW7BR0KTRB5	Party Panic	2020 video game by Everglow Interactive Inc.	https://www.microsoft.com/p/-/9NW7BR0KTRB5	Q7889	Q135288
 9N5XBLD93C1Z	Path of Giants	2021 video game by Journey Bound Games	https://www.microsoft.com/p/-/9N5XBLD93C1Z	Q7889	Q135288
+9PHS5Q7KQMJM	Pathologic 2	2019 video game by tinyBuild	https://www.microsoft.com/p/-/9PHS5Q7KQMJM	Q7889	Q135288
 9NTX07HR22TG	Pedestrian	2022 video game by Skookum Arts	https://www.microsoft.com/p/-/9NTX07HR22TG	Q7889	Q135288
 9P16M6LF0QFH	Pedro	2019 video game by Devolver Digital	https://www.microsoft.com/p/-/9P16M6LF0QFH	Q7889	Q135288
 9N0ZM8PZXZX0	Peepaw's Farm	2021 video game by Ikon Games	https://www.microsoft.com/p/-/9N0ZM8PZXZX0	Q7889	Q135288
@@ -1055,6 +1054,7 @@ C4R4RB3SB1NN	Phoenix Wright: Ace Attorney Trilogy	2019 video game by CAPCOM CO.,
 9N8WRDC25K6J	Pikuniku	2020 video game by Devolver Digital	https://www.microsoft.com/p/-/9N8WRDC25K6J	Q7889	Q135288
 BNRN5CLM2ZQH	Pit People	2018 video game by The Behemoth	https://www.microsoft.com/p/-/BNRN5CLM2ZQH	Q7889	Q135288
 BSS43MTLGFQR	Plague Inc: Evolved	2015 video game by Ndemic Creations	https://www.microsoft.com/p/-/BSS43MTLGFQR	Q7889	Q135288
+9NGRX7L5NB6M	Planet Coaster: Console Edition	2020 video game by Frontier Developments	https://www.microsoft.com/p/-/9NGRX7L5NB6M	Q7889	Q135288
 9N4GZJJR1M84	Planet Quiz	2021 video game by naptime.games	https://www.microsoft.com/p/-/9N4GZJJR1M84	Q7889	Q135288
 BR1D9CR82ZM8	Plants vs. Zombies	2010 video game by PopCap Games	https://www.microsoft.com/p/-/BR1D9CR82ZM8	Q7889	Q135288
 BTJ0T8C04ZBV	Plants vs. Zombies Garden Warfare	2014 video game by Electronic Arts	https://www.microsoft.com/p/-/BTJ0T8C04ZBV	Q7889	Q135288
@@ -1065,8 +1065,8 @@ BT2B17V20D1P	Portal 2	2011 video game by Electronic Arts	https://www.microsoft.c
 BR30GBNH63F9	Portal: Still Alive	2010 video game by Valve	https://www.microsoft.com/p/-/BR30GBNH63F9	Q7889	Q135288
 9NX6TD1K3HVM	PowerSlave Exhumed	2022 video game by Nightdive Studios, Throwback Entertainment	https://www.microsoft.com/p/-/9NX6TD1K3HVM	Q7889	Q135288
 9NZ59SGJBT21	Praetorians - HD Remaster	2020 video game by Kalypso Media	https://www.microsoft.com/p/-/9NZ59SGJBT21	Q7889	Q135288
-BVPGZMMDDZ0M	Prey	2010 video game by 2K Games	https://www.microsoft.com/p/-/BVPGZMMDDZ0M	Q7889	Q135288
 BQMVWCMB8P59	Prey	2017 video game by Bethesda Softworks	https://www.microsoft.com/p/-/BQMVWCMB8P59	Q7889	Q135288
+BVPGZMMDDZ0M	Prey	2010 video game by 2K Games	https://www.microsoft.com/p/-/BVPGZMMDDZ0M	Q7889	Q135288
 BQC3DCLTWH3R	Prince of Persia The Forgotten Sands	2010 video game by Ubisoft	https://www.microsoft.com/p/-/BQC3DCLTWH3R	Q7889	Q135288
 9PGP0J10H2HT	Princess Farmer	2022 video game by Whitethorn Games	https://www.microsoft.com/p/-/9PGP0J10H2HT	Q7889	Q135288
 9PG9H9BQXG42	Princess.Loot.Pixel.Again	2021 video game by Big Way Games	https://www.microsoft.com/p/-/9PG9H9BQXG42	Q7889	Q135288
@@ -1095,6 +1095,7 @@ C08CV6MR919R	RESIDENT EVIL 5	2016 video game by CAPCOM CO., LTD.	https://www.mic
 BVFDTJ1XF6CS	RESIDENT EVIL 7 biohazard	2017 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BVFDTJ1XF6CS	Q7889	Q135288
 BQW8J8XM62JW	RESIDENT EVIL CODE: Veronica X	2011 video game by CAPCOM CO,. LTD.	https://www.microsoft.com/p/-/BQW8J8XM62JW	Q7889	Q135288
 BZP6X6HKWG1G	RESIDENT EVIL REVELATIONS	2017 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/BZP6X6HKWG1G	Q7889	Q135288
+C2FCHJG6RNPR	RISK	2015 video game by UBISOFT	https://www.microsoft.com/p/-/C2FCHJG6RNPR	Q7889	Q135288
 BQ1TN1T79V9K	ROBLOX	2016 video game by ROBLOX	https://www.microsoft.com/p/-/BQ1TN1T79V9K	Q7889	Q135288
 9P0PX95ZXBXB	RPG Time: The Legend of Wright	2022 video game by Aniplex Inc.	https://www.microsoft.com/p/-/9P0PX95ZXBXB	Q7889	Q135288
 9NNDQJBZG3MJ	RPGolf Legends	2022 video game by KEMCO	https://www.microsoft.com/p/-/9NNDQJBZG3MJ	Q7889	Q135288
@@ -1105,13 +1106,14 @@ BW8JQLJ2GDT8	Railway Empire	2018 video game by Kalypso Media	https://www.microso
 9NS66QNVR00N	Rain on Your Parade	2021 video game by Unbound Creations	https://www.microsoft.com/p/-/9NS66QNVR00N	Q7889	Q135288
 9PMGFL6KM0T2	Rainbow Billy	2021 video game by Skybound Games	https://www.microsoft.com/p/-/9PMGFL6KM0T2	Q7889	Q135288
 C26K4DVGR45B	Rayman Legends	2014 video game by Ubisoft	https://www.microsoft.com/p/-/C26K4DVGR45B	Q7889	Q135288
-C5CX546FNJLG	Rayman Legends	2013 video game by Ubisoft	https://www.microsoft.com/p/-/C5CX546FNJLG	Q7889	Q135288
 BRBVZF1T3GH3	Rayman Origins	2012 video game by Ubisoft	https://www.microsoft.com/p/-/BRBVZF1T3GH3	Q7889	Q135288
 9PHG0HCQ0NTD	RazerWire: Nanowars	2021 video game by RedDeerGames	https://www.microsoft.com/p/-/9PHG0HCQ0NTD	Q7889	Q135288
 BVCVS12P1H14	Re-Elected	2015 video game by Deep Silver	https://www.microsoft.com/p/-/BVCVS12P1H14	Q7889	Q135288
 9NZF5PS3GPPG	Re:Turn 2	2022 video game by Red Ego Games	https://www.microsoft.com/p/-/9NZF5PS3GPPG	Q7889	Q135288
 9NZK5R0LF34S	Real Farm - Premium Edition	2021 video game by SOEDESCO 	https://www.microsoft.com/p/-/9NZK5R0LF34S	Q7889	Q135288
 9PPFQQFTWXNR	Real Heroes: Firefighter HD	2022 video game by Ziggurat Interactive, Inc.	https://www.microsoft.com/p/-/9PPFQQFTWXNR	Q7889	Q135288
+C13MJRSJCBPX	Realms of Arkania: Blade of Destiny	2017 video game by United Independent Entertainment	https://www.microsoft.com/p/-/C13MJRSJCBPX	Q7889	Q135288
+BQXJR8NL84K1	Realms of Arkania: Star Trail	2019 video game by United Independent Entertainment	https://www.microsoft.com/p/-/BQXJR8NL84K1	Q7889	Q135288
 C3MVXTCDKT77	Rebel Galaxy	2016 video game by Double Damage Games Inc.	https://www.microsoft.com/p/-/C3MVXTCDKT77	Q7889	Q135288
 9PGPQK0XTHRZ	Rec Room	2020 video game by Rec Room Inc.	https://www.microsoft.com/p/-/9PGPQK0XTHRZ	Q7889	Q135288
 9NRBH9HS807L	Record of Lodoss War-Deedlit in Wonder Labyrinth-	2021 video game by PLAYISM	https://www.microsoft.com/p/-/9NRBH9HS807L	Q7889	Q135288
@@ -1147,6 +1149,7 @@ C4MSTXCKBXGL	Ride 2	2017 video game by Milestone S.r.l.	https://www.microsoft.co
 9P7XX5LQN0ZD	Risk of Rain	2019 video game by Gearbox Publishing	https://www.microsoft.com/p/-/9P7XX5LQN0ZD	Q7889	Q135288
 9P6F6TBGGVK3	Risk of Rain 2	2019 video game by Gearbox Publishing	https://www.microsoft.com/p/-/9P6F6TBGGVK3	Q7889	Q135288
 C1R51ZV4ZZ28	Riverbond	2019 video game by Cococucumber	https://www.microsoft.com/p/-/C1R51ZV4ZZ28	Q7889	Q135288
+9N1GXPXX1LL2	Road Maintenance Simulator	2022 video game by Aerosoft GmbH	https://www.microsoft.com/p/-/9N1GXPXX1LL2	Q7889	Q135288
 C125W9BG2K0V	Rocket League	2016 video game by Psyonix LLC	https://www.microsoft.com/p/-/C125W9BG2K0V	Q7889	Q135288
 BVN6M64JCHTL	Rogue Legacy	2015 video game by Cellar Door Games	https://www.microsoft.com/p/-/BVN6M64JCHTL	Q7889	Q135288
 9PFT5ZLKQTNK	Roguebook Xbox One	2022 video game by Nacon	https://www.microsoft.com/p/-/9PFT5ZLKQTNK	Q7889	Q135288
@@ -1169,6 +1172,7 @@ BZ723JMJB1K4	SEGA Bass Fishing	2012 video game by SEGA	https://www.microsoft.com
 C5FNHQSQMSL6	SEGA Genesis Classics	2018 video game by SEGA Europe Ltd	https://www.microsoft.com/p/-/C5FNHQSQMSL6	Q7889	Q135288
 9NV8BWGH15GN	SGWC 2	2021 video game by CI Games	https://www.microsoft.com/p/-/9NV8BWGH15GN	Q7889	Q135288
 9PDRSH2DWSM6	SHINRAI - Broken Beyond Despair	2021 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9PDRSH2DWSM6	Q7889	Q135288
+9P015XPL7QZH	SINNER	2018 video game by Another Indie	https://www.microsoft.com/p/-/9P015XPL7QZH	Q7889	Q135288
 C2MHS238PDNS	SMITE	2015 video game by Hi-Rez Studios	https://www.microsoft.com/p/-/C2MHS238PDNS	Q7889	Q135288
 C23M2TC1ZFPJ	SOMA	2017 video game by Frictional Games	https://www.microsoft.com/p/-/C23M2TC1ZFPJ	Q7889	Q135288
 C098FGNMTS8F	SONIC UNLEASHED	2010 video game by SEGA	https://www.microsoft.com/p/-/C098FGNMTS8F	Q7889	Q135288
@@ -1201,6 +1205,7 @@ BRSZV60TT078	Saints Row 2	2010 video game by Koch Media	https://www.microsoft.co
 BPGQ2Z4JSFHB	Saints Row IV	2013 video game by Deep Silver	https://www.microsoft.com/p/-/BPGQ2Z4JSFHB	Q7889	Q135288
 C0NZWZF27K7W	Saints Row: The Third	2011 video game by Koch Media	https://www.microsoft.com/p/-/C0NZWZF27K7W	Q7889	Q135288
 BXHMPV1JT9WH	Saints Row: The Third Remastered	2020 video game by Deep Silver	https://www.microsoft.com/p/-/BXHMPV1JT9WH	Q7889	Q135288
+9N1C74G2JXHM	Sally Face	2022 video game by Portable Moose	https://www.microsoft.com/p/-/9N1C74G2JXHM	Q7889	Q135288
 C4V7CD6W5TSK	Salt and Sanctuary	2019 video game by Ska Studios	https://www.microsoft.com/p/-/C4V7CD6W5TSK	Q7889	Q135288
 9MSQC3ML4X93	Sam & Max: Beyond Time and Space	2021 video game by Skunkape Games LLC	https://www.microsoft.com/p/-/9MSQC3ML4X93	Q7889	Q135288
 BT8PG8N64PTF	Sam&Max Save the World	2010 video game by Microsoft Studios	https://www.microsoft.com/p/-/BT8PG8N64PTF	Q7889	Q135288
@@ -1208,7 +1213,6 @@ BT8PG8N64PTF	Sam&Max Save the World	2010 video game by Microsoft Studios	https:/
 9P1468J5QG2D	Scarlett Mysteries	2019 video game by Artifex Mundi	https://www.microsoft.com/p/-/9P1468J5QG2D	Q7889	Q135288
 9NZZXCB9GSWD	Scary-Tale Adventures	2022 video game by Outright Games Ltd.	https://www.microsoft.com/p/-/9NZZXCB9GSWD	Q7889	Q135288
 9NFJBW6B6D78	Scott Pilgrim: The Game	2021 video game by UBISOFT	https://www.microsoft.com/p/-/9NFJBW6B6D78	Q7889	Q135288
-BZRB09RQK88P	Scribblenauts Showdown	2018 video game by Warner Bros. Games	https://www.microsoft.com/p/-/BZRB09RQK88P	Q7889	Q135288
 C4060P46HH4D	Sea of Solitude	2019 video game by Electronic Arts	https://www.microsoft.com/p/-/C4060P46HH4D	Q7889	Q135288
 9P2N57MC619K	Sea of Thieves	2018 video game by Microsoft Studios	https://www.microsoft.com/p/-/9P2N57MC619K	Q7889	Q135288
 9P7GBPGT90L3	Secret Neighbor	2019 video game by tinyBuild	https://www.microsoft.com/p/-/9P7GBPGT90L3	Q7889	Q135288
@@ -1239,7 +1243,6 @@ C1B6DL0T68Q5	Shape Up	2014 video game by Ubisoft	https://www.microsoft.com/p/-/C
 BPRJN4SWDHQ8	ShellShock Live	2019 video game by KChamp Games	https://www.microsoft.com/p/-/BPRJN4SWDHQ8	Q7889	Q135288
 BZX1G0C724KC	Sheltered	2016 video game by Team17 Digital Ltd.	https://www.microsoft.com/p/-/BZX1G0C724KC	Q7889	Q135288
 9P7WX4XL1PWT	Sherlock Holmes Chapter One	2021 video game by Frogwares	https://www.microsoft.com/p/-/9P7WX4XL1PWT	Q7889	Q135288
-9PJ187C1C8X8	Sherlock Holmes: Crimes and Punishments Redux	2020 video game by Frogwares	https://www.microsoft.com/p/-/9PJ187C1C8X8	Q7889	Q135288
 9NFL7WZWJ3SP	Sherlock Holmes: The Devil's Daughter Redux	2022 video game by Frogwares	https://www.microsoft.com/p/-/9NFL7WZWJ3SP	Q7889	Q135288
 BXFP2QC134V7	Shining Resonance Refrain	2018 video game by SEGA	https://www.microsoft.com/p/-/BXFP2QC134V7	Q7889	Q135288
 9MWZXMK108WF	Shiro	2021 video game by Xitilon	https://www.microsoft.com/p/-/9MWZXMK108WF	Q7889	Q135288
@@ -1270,6 +1273,7 @@ C0XDN3HCCCJZ	Slayaway Camp: Butcher's Cut	2017 video game by Digerati Distributi
 BS2S6B326WJD	Sleeping Dogs Definitive Edition	2014 video game by Square Enix LTD	https://www.microsoft.com/p/-/BS2S6B326WJD	Q7889	Q135288
 BP25WLQVLF30	Slender: The Arrival	2015 video game by Blue Isle Studios	https://www.microsoft.com/p/-/BP25WLQVLF30	Q7889	Q135288
 C2NC88M7NWZ1	Slime Rancher	2017 video game by Monomi Park	https://www.microsoft.com/p/-/C2NC88M7NWZ1	Q7889	Q135288
+9N71466MX1SN	Slipstream	2022 video game by BlitWorks	https://www.microsoft.com/p/-/9N71466MX1SN	Q7889	Q135288
 BZ9RPMBPW20L	Small Arms	2009 video game by Microsoft Studios	https://www.microsoft.com/p/-/BZ9RPMBPW20L	Q7889	Q135288
 9MVDFSS46069	Smoots Golf	2021 video game by JanduSoft	https://www.microsoft.com/p/-/9MVDFSS46069	Q7889	Q135288
 BZ5VLVX84STW	Sniper Elite 4	2017 video game by Rebellion Developments Ltd	https://www.microsoft.com/p/-/BZ5VLVX84STW	Q7889	Q135288
@@ -1281,7 +1285,6 @@ C2S98G1ZC8HS	Sonic & All-Stars Racing Transformed	2013 video game by Sega	https:
 C1S8X55L9SS1	Sonic Adventure	2010 video game by SEGA	https://www.microsoft.com/p/-/C1S8X55L9SS1	Q7889	Q135288
 C2MP3X67VWNV	Sonic Adventure 2	2012 video game by SEGA	https://www.microsoft.com/p/-/C2MP3X67VWNV	Q7889	Q135288
 C569J4JN70JD	Sonic CD	2011 video game by SEGA	https://www.microsoft.com/p/-/C569J4JN70JD	Q7889	Q135288
-9P6QH9KLFHWF	Sonic Colors: Ultimate	2021 video game by SEGA	https://www.microsoft.com/p/-/9P6QH9KLFHWF	Q7889	Q135288
 C0W8DRKPV6P4	Sonic Generations	2011 video game by SEGA	https://www.microsoft.com/p/-/C0W8DRKPV6P4	Q7889	Q135288
 BXH46NQT9W4Q	Sonic Mania	2017 video game by SEGA of America, Inc.	https://www.microsoft.com/p/-/BXH46NQT9W4Q	Q7889	Q135288
 BZSDWCPNPJ30	Sonic The Hedgehog 2	2007 video game by SEGA	https://www.microsoft.com/p/-/BZSDWCPNPJ30	Q7889	Q135288
@@ -1306,7 +1309,6 @@ C46H5R7GT7X9	Splinter Cell	2019 video game by Ubisoft	https://www.microsoft.com/
 C26NJ29TKZ1W	Splinter Cell Blacklist	2013 video game by Ubisoft	https://www.microsoft.com/p/-/C26NJ29TKZ1W	Q7889	Q135288
 BP58JN2GVQS8	Splinter Cell Conviction	2010 video game by Ubisoft	https://www.microsoft.com/p/-/BP58JN2GVQS8	Q7889	Q135288
 BPQ8RMCDSLRL	Splinter Cell Double Agent	2010 video game by Ubisoft	https://www.microsoft.com/p/-/BPQ8RMCDSLRL	Q7889	Q135288
-BWV6WF6XMFZX	Splinter Cell Double Agent	2019 video game by Ubisoft	https://www.microsoft.com/p/-/BWV6WF6XMFZX	Q7889	Q135288
 BX5CP6DSFW55	Splinter Cell Pandora Tomorrow	2019 video game by Ubisoft	https://www.microsoft.com/p/-/BX5CP6DSFW55	Q7889	Q135288
 BXW02MW8K8T1	Split/Second	2010 video game by Disney Interactive Studios	https://www.microsoft.com/p/-/BXW02MW8K8T1	Q7889	Q135288
 9P6Q7389ZSM6	SpongeBob SquarePants Underpants Slam!	2007 video game by THQ	https://www.microsoft.com/p/-/9P6Q7389ZSM6	Q7889	Q135288
@@ -1332,29 +1334,30 @@ C135285K8B33	Stickfight	2021 video game by Landfall	https://www.microsoft.com/p/
 C24T2MRDBB3W	Street Fighter 30th Anniversary Collection	2018 video game by CAPCOM U.S.A., INC	https://www.microsoft.com/p/-/C24T2MRDBB3W	Q7889	Q135288
 9NBPZ48WH7F3	Street Outlaws 2	2021 video game by GameMill Entertainment	https://www.microsoft.com/p/-/9NBPZ48WH7F3	Q7889	Q135288
 9N7H54KNCB9N	Streets of Rage 4	2020 video game by Dotemu	https://www.microsoft.com/p/-/9N7H54KNCB9N	Q7889	Q135288
+9MZVTHHJKD3G	Streets of Rogue	2019 video game by tinyBuild	https://www.microsoft.com/p/-/9MZVTHHJKD3G	Q7889	Q135288
 BXDT91NTZNDV	Strider	2014 video game by Capcom Co., LTD.	https://www.microsoft.com/p/-/BXDT91NTZNDV	Q7889	Q135288
-9NGD1F29JFQF	Struggling	2021 video game by Frontier Foundry	https://www.microsoft.com/p/-/9NGD1F29JFQF	Q7889	Q135288
 9N2P7MN9JD3P	Stubbs the Zombie	2021 video game by Aspyr	https://www.microsoft.com/p/-/9N2P7MN9JD3P	Q7889	Q135288
 BX2PTCR8L5XP	Stuntman: Ignition	2010 video game by THQ	https://www.microsoft.com/p/-/BX2PTCR8L5XP	Q7889	Q135288
 9PNBFCCG0LPK	Submerged:HD	2022 video game by Uppercut Games Pty Ltd	https://www.microsoft.com/p/-/9PNBFCCG0LPK	Q7889	Q135288
 BX3S1Q5DVHRD	Subnautica	2018 video game by Unknown Worlds Entertainment	https://www.microsoft.com/p/-/BX3S1Q5DVHRD	Q7889	Q135288
+BSQLNP8TV73X	Sudden Strike 4	2018 video game by Kalypso Media	https://www.microsoft.com/p/-/BSQLNP8TV73X	Q7889	Q135288
 9PP374DG84PR	Summer Sports Games - 4K Edition	2021 video game by Joindots GmbH	https://www.microsoft.com/p/-/9PP374DG84PR	Q7889	Q135288
 9NT9XF3L7DDX	Summertime Madness	2022 video game by Sometimes You	https://www.microsoft.com/p/-/9NT9XF3L7DDX	Q7889	Q135288
 9PPTH7PNZFHC	Summertime Madness	2022 video game by Sometimes You	https://www.microsoft.com/p/-/9PPTH7PNZFHC	Q7889	Q135288
+9PJTV3HFJS43	Sunless Sea: Zubmariner Edition	2020 video game by Digerati	https://www.microsoft.com/p/-/9PJTV3HFJS43	Q7889	Q135288
 BRZHFR5XBLQS	Sunset Overdrive	2014 video game by Microsoft Studios	https://www.microsoft.com/p/-/BRZHFR5XBLQS	Q7889	Q135288
-9N872VFSPPQL	Super Animal Royale	2021 video game by Modus Games	https://www.microsoft.com/p/-/9N872VFSPPQL	Q7889	Q135288
 9PLXNR5QF4RT	Super Cyborg	2022 video game by Drageus Games S.A.	https://www.microsoft.com/p/-/9PLXNR5QF4RT	Q7889	Q135288
 C1365LM1Q2DK	Super Meat Boy	2010 video game by Microsoft Studios	https://www.microsoft.com/p/-/C1365LM1Q2DK	Q7889	Q135288
-9NRJ8NX3R1WG	Super Monkey Ball: Banana Blitz HD	2019 video game by SEGA	https://www.microsoft.com/p/-/9NRJ8NX3R1WG	Q7889	Q135288
 9N9B77P5H38S	Super Onion Boy 2	2022 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9N9B77P5H38S	Q7889	Q135288
 9NV49NMTTVQN	Super Sami Roll	2022 video game by X PLUS Company Limited	https://www.microsoft.com/p/-/9NV49NMTTVQN	Q7889	Q135288
+9NGG0D9P4RRB	Super Soccer Blast	2020 video game by Unfinished Pixel SL	https://www.microsoft.com/p/-/9NGG0D9P4RRB	Q7889	Q135288
 9N0RV986RSZ0	Super Toy Cars Offroad	2022 video game by Eclipse Games	https://www.microsoft.com/p/-/9N0RV986RSZ0	Q7889	Q135288
 9NVR4ZQKNBSB	Superliminal	2020 video game by Pillow Castle	https://www.microsoft.com/p/-/9NVR4ZQKNBSB	Q7889	Q135288
+9PN6MTJX8LZD	Supraland	2020 video game by Humble Games	https://www.microsoft.com/p/-/9PN6MTJX8LZD	Q7889	Q135288
 BWLZ0FPRRG29	Supreme Commander 2	2011 video game by Square Enix	https://www.microsoft.com/p/-/BWLZ0FPRRG29	Q7889	Q135288
 BXC7CS90NX6S	Surviving Mars	2018 video game by Paradox Interactive	https://www.microsoft.com/p/-/BXC7CS90NX6S	Q7889	Q135288
 9P26NLPCL9Z3	Sword of Elpisia	2022 video game by KEMCO	https://www.microsoft.com/p/-/9P26NLPCL9Z3	Q7889	Q135288
 9NBXPS7FK5N3	Synergia	2022 video game by Top Hat Studios, Inc.	https://www.microsoft.com/p/-/9NBXPS7FK5N3	Q7889	Q135288
-BR5BK5PNZKVH	Sébastien Loeb Rally EVO	2016 video game by Milestone S.r.l.	https://www.microsoft.com/p/-/BR5BK5PNZKVH	Q7889	Q135288
 9N88J4F7F6X7	TAAC	2021 video game by Klabater	https://www.microsoft.com/p/-/9N88J4F7F6X7	Q7889	Q135288
 9PC4RWP34M2D	TABS	2019 video game by Landfall	https://www.microsoft.com/p/-/9PC4RWP34M2D	Q7889	Q135288
 BWTRGX57577H	TEKKEN 6	2009 video game by NAMCO BANDAI Games America Inc.	https://www.microsoft.com/p/-/BWTRGX57577H	Q7889	Q135288
@@ -1380,8 +1383,8 @@ BQ0FVQF4MV8Z	TRIVIAL PURSUIT LIVE!	2015 video game by UBISOFT	https://www.micros
 9P68H1Z2L27V	Tannenberg	2020 video game by M2H & BlackMill Games	https://www.microsoft.com/p/-/9P68H1Z2L27V	Q7889	Q135288
 9PBS0LQQDRZ1	Taqoban	2022 video game by Ratalaika Games	https://www.microsoft.com/p/-/9PBS0LQQDRZ1	Q7889	Q135288
 9N35THVS231C	Teacup	2021 video game by Whitethorn Games	https://www.microsoft.com/p/-/9N35THVS231C	Q7889	Q135288
+C2Q9FW49H8K3	Team Sonic Racing	2019 video game by SEGA	https://www.microsoft.com/p/-/C2Q9FW49H8K3	Q7889	Q135288
 BRJGPRMBV1NT	Tekken 7	2017 video game by BANDAI NAMCO Entertainment Inc.	https://www.microsoft.com/p/-/BRJGPRMBV1NT	Q7889	Q135288
-9PCBJLHPDM0H	Tennis World Tour 2	2020 video game by Nacon	https://www.microsoft.com/p/-/9PCBJLHPDM0H	Q7889	Q135288
 BW8JRRWQ246B	TerraTech	2018 video game by Payload Studios	https://www.microsoft.com/p/-/BW8JRRWQ246B	Q7889	Q135288
 BTNPS60N3114	Terraria	2014 video game by 505 Games	https://www.microsoft.com/p/-/BTNPS60N3114	Q7889	Q135288
 C5HGQXZ7PZW1	Tesla vs Lovecraft	2018 video game by 10tons Ltd.	https://www.microsoft.com/p/-/C5HGQXZ7PZW1	Q7889	Q135288
@@ -1389,6 +1392,8 @@ BV3FNBP640JB	Texas Hold'em	2009 video game by Microsoft Studios	https://www.micr
 9NK9LWX511GX	The Addams Family	2021 video game by Outright Games Ltd.	https://www.microsoft.com/p/-/9NK9LWX511GX	Q7889	Q135288
 9NGH2MTP0T44	The Artful Escape	2021 video game by Annapurna Interactive	https://www.microsoft.com/p/-/9NGH2MTP0T44	Q7889	Q135288
 BSRVV8TJGVVZ	The Banner Saga	2016 video game by Versus Evil	https://www.microsoft.com/p/-/BSRVV8TJGVVZ	Q7889	Q135288
+9PN3VDFTB5HZ	The Bard's Tale ARPG:  R&R	2020 video game by Xbox Game Studios	https://www.microsoft.com/p/-/9PN3VDFTB5HZ	Q7889	Q135288
+9MVN4ND41DD3	The Bard's Tale Trilogy	2019 video game by inXile entertainment, Inc. 	https://www.microsoft.com/p/-/9MVN4ND41DD3	Q7889	Q135288
 9MW2RGQ5G5QW	The Complex	2020 video game by Wales Interactive	https://www.microsoft.com/p/-/9MW2RGQ5G5QW	Q7889	Q135288
 BV05F8VT7JJ4	The Crew 2	2018 video game by UBISOFT	https://www.microsoft.com/p/-/BV05F8VT7JJ4	Q7889	Q135288
 9PJVG73JW2V2	The Dark Pictures Anthology House of Ashes	2021 video game by BANDAI NAMCO Entertainment America Inc.	https://www.microsoft.com/p/-/9PJVG73JW2V2	Q7889	Q135288
@@ -1423,6 +1428,7 @@ BQKKNPKX1C4P	The LEGO NINJAGO Movie Video Game	2017 video game by Warner Bros. G
 9NWJ6ZCM4F14	The Letter	2021 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9NWJ6ZCM4F14	Q7889	Q135288
 9PG6H6DTHW4S	The Life and Suffering of Sir Brante	2022 video game by 101XP	https://www.microsoft.com/p/-/9PG6H6DTHW4S	Q7889	Q135288
 BX89DK9KLJ89	The Little Acre	2016 video game by Curve Digital	https://www.microsoft.com/p/-/BX89DK9KLJ89	Q7889	Q135288
+C41ZDFQ82M1G	The Long Dark	2017 video game by Hinterland Studio Inc.	https://www.microsoft.com/p/-/C41ZDFQ82M1G	Q7889	Q135288
 9NG8RK1F3HCC	The Matrix Awakens: An Unreal Engine 5 Experience	2021 video game by Epic Games Inc.	https://www.microsoft.com/p/-/9NG8RK1F3HCC	Q7889	Q135288
 9NFSR96G6K4N	The Medium	2021 video game by Bloober Team S.A.	https://www.microsoft.com/p/-/9NFSR96G6K4N	Q7889	Q135288
 9P5C81K094KW	The Messenger	2020 video game by Devolver Digital	https://www.microsoft.com/p/-/9P5C81K094KW	Q7889	Q135288
@@ -1457,7 +1463,6 @@ BRFKNLB9B2ZW	The Walking Dead: Season Two	2013 video game by Telltale Games	http
 BNSBBMGGF5GD	The Witcher 2: Assassins of Kings	2012 video game by CD Projekt S.A.	https://www.microsoft.com/p/-/BNSBBMGGF5GD	Q7889	Q135288
 BR765873CQJD	The Witcher 3	2015 video game by CD PROJEKT S.A.	https://www.microsoft.com/p/-/BR765873CQJD	Q7889	Q135288
 C261457LCNMJ	The Witcher 3 Game of the Year	2016 video game by CD PROJEKT S.A.	https://www.microsoft.com/p/-/C261457LCNMJ	Q7889	Q135288
-BX1WPT5RJSB2	The Witness	2016 video game by Thekla, Inc.	https://www.microsoft.com/p/-/BX1WPT5RJSB2	Q7889	Q135288
 C02SL8LBS5K2	The Wolf Among Us	2014 video game by Telltale	https://www.microsoft.com/p/-/C02SL8LBS5K2	Q7889	Q135288
 BVLF6TWHBM36	Thea	2017 video game by MuHa Games	https://www.microsoft.com/p/-/BVLF6TWHBM36	Q7889	Q135288
 9N1ZLV6FV8V0	Thea 2	2022 video game by RockGame S.A.	https://www.microsoft.com/p/-/9N1ZLV6FV8V0	Q7889	Q135288
@@ -1480,6 +1485,7 @@ C4CCRJK7J4SS	Thumper	2017 video game by Drool LLC	https://www.microsoft.com/p/-/
 9NFRN3NDXR2D	Tiny Tina's Wonderlands	2022 video game by 2K	https://www.microsoft.com/p/-/9NFRN3NDXR2D	Q7889	Q135288
 9N13ML8VHW31	Tiny Tina's Wonderlands for Xbox Series X|S	2021 video game by 2K	https://www.microsoft.com/p/-/9N13ML8VHW31	Q7889	Q135288
 9N395HWTFH2Q	Titan Chaser	2021 video game by Samustai LTD	https://www.microsoft.com/p/-/9N395HWTFH2Q	Q7889	Q135288
+BNC1BNGGSWHV	Titan Quest	2018 video game by THQ Nordic GmbH	https://www.microsoft.com/p/-/BNC1BNGGSWHV	Q7889	Q135288
 C0X2HNVH08FB	Titanfall 2	2016 video game by Electronic Arts	https://www.microsoft.com/p/-/C0X2HNVH08FB	Q7889	Q135288
 9NVC78LKGMRR	ToeJam & Earl: BitG!	2019 video game by HumaNature Studios Inc	https://www.microsoft.com/p/-/9NVC78LKGMRR	Q7889	Q135288
 9PLG49K93DKK	Tokyo 2020	2021 video game by SEGA	https://www.microsoft.com/p/-/9PLG49K93DKK	Q7889	Q135288
@@ -1492,7 +1498,6 @@ BW4BKDN4WT8F	Tom Clancy's RainbowSix Vegas	2009 video game by Ubisoft	https://ww
 BQR5K462GR3M	Tom Clancy's Splinter Cell Chaos Theory	2005 video game by UbiSoft	https://www.microsoft.com/p/-/BQR5K462GR3M	Q7889	Q135288
 BRGPD72KHM3Q	Tom Clancy's The Division	2016 video game by Ubisoft	https://www.microsoft.com/p/-/BRGPD72KHM3Q	Q7889	Q135288
 BVQ3V30ZXVT5	Tom Clancy's The Division 2	2019 video game by UBISOFT	https://www.microsoft.com/p/-/BVQ3V30ZXVT5	Q7889	Q135288
-C0D7VLQ3VDDD	Tom Clancy’s Ghost Recon Advanced Warfighter	2010 video game by Ubisoft	https://www.microsoft.com/p/-/C0D7VLQ3VDDD	Q7889	Q135288
 BXRB4ZH2GJHK	Tom Clancy’s Rainbow Six Extraction	2022 video game by UBISOFT	https://www.microsoft.com/p/-/BXRB4ZH2GJHK	Q7889	Q135288
 BQXTS0SX4W0N	Tomb Raider	2014 video game by Square Enix	https://www.microsoft.com/p/-/BQXTS0SX4W0N	Q7889	Q135288
 BZJ13K1JKGLP	Tomb Raider: Anniv.	2010 video game by Square Enix	https://www.microsoft.com/p/-/BZJ13K1JKGLP	Q7889	Q135288
@@ -1502,7 +1507,6 @@ BQND4NQXFFV2	Torment: Tides of Numenera	2017 video game by Techland Publishing	h
 9MWZ8JV5TSQG	Tormented Souls	2021 video game by PQube Limited	https://www.microsoft.com/p/-/9MWZ8JV5TSQG	Q7889	Q135288
 9P0RZ0WCLMFM	Total Arcade Racing	2021 video game by Pretty Fly Games	https://www.microsoft.com/p/-/9P0RZ0WCLMFM	Q7889	Q135288
 9NBLGJQQBHH4	Touhou Luna Nights	2020 video game by PLAYISM	https://www.microsoft.com/p/-/9NBLGJQQBHH4	Q7889	Q135288
-C0QB90JXN0TF	TowerFall Ascension	2017 video game by Matt Makes Games Inc.	https://www.microsoft.com/p/-/C0QB90JXN0TF	Q7889	Q135288
 9NFM39PSFXJD	Townscaper	2021 video game by Raw Fury	https://www.microsoft.com/p/-/9NFM39PSFXJD	Q7889	Q135288
 BWNQM65KQK6H	Toy Story 3	2010 video game by Disney Interactive Studios	https://www.microsoft.com/p/-/BWNQM65KQK6H	Q7889	Q135288
 9NSFGM8J6MBJ	Trailmakers	2019 video game by Flashbulb Games	https://www.microsoft.com/p/-/9NSFGM8J6MBJ	Q7889	Q135288
@@ -1530,7 +1534,6 @@ BNNMLWZRNQF6	Ultimate Chicken Horse	2017 video game by Clever Endeavour Games	ht
 9P8RZFL8HC4W	Unbound	2022 video game by Digerati	https://www.microsoft.com/p/-/9P8RZFL8HC4W	Q7889	Q135288
 9PLDZNHSLR4C	Uncharted Tides	2020 video game by Artifex Mundi	https://www.microsoft.com/p/-/9PLDZNHSLR4C	Q7889	Q135288
 9NJNQQ13CL42	Undead Horde	2019 video game by 10tons Ltd.	https://www.microsoft.com/p/-/9NJNQQ13CL42	Q7889	Q135288
-9NWG6P45WQ9C	Under Leaves	2021 video game by RedDeerGames	https://www.microsoft.com/p/-/9NWG6P45WQ9C	Q7889	Q135288
 9NL82PH84J87	Underland	2021 video game by QUByte Interactive	https://www.microsoft.com/p/-/9NL82PH84J87	Q7889	Q135288
 9N36NCRJHR1P	Undernauts: Labyrinth of Yomi	2021 video game by Aksys Games	https://www.microsoft.com/p/-/9N36NCRJHR1P	Q7889	Q135288
 9PJGGX9XJXPB	Undertale	2021 video game by 8-4, Ltd.	https://www.microsoft.com/p/-/9PJGGX9XJXPB	Q7889	Q135288
@@ -1553,7 +1556,6 @@ C346VJHCG26X	Valley	2016 video game by Blue Isle Studios	https://www.microsoft.c
 9N6FRDMNF81L	Venus: Improbable Dream	2021 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9N6FRDMNF81L	Q7889	Q135288
 C1N8H8WTPDSC	Verdun	2017 video game by M2H & BlackMill Games	https://www.microsoft.com/p/-/C1N8H8WTPDSC	Q7889	Q135288
 9N510DK5KFQQ	Verlet Swing	2019 video game by Digerati	https://www.microsoft.com/p/-/9N510DK5KFQQ	Q7889	Q135288
-BWX7S94S2LMJ	Vermintide	2016 video game by Fatshark AB	https://www.microsoft.com/p/-/BWX7S94S2LMJ	Q7889	Q135288
 BQL8L17RV09Z	Vigor	2019 video game by Bohemia Interactive a.s.	https://www.microsoft.com/p/-/BQL8L17RV09Z	Q7889	Q135288
 9NVNX112TTT8	VirtuaVerse	2021 video game by Blood Music	https://www.microsoft.com/p/-/9NVNX112TTT8	Q7889	Q135288
 BSXSL6WBJ0V7	Viva Piñata	2010 video game by Microsoft	https://www.microsoft.com/p/-/BSXSL6WBJ0V7	Q7889	Q135288
@@ -1566,22 +1568,22 @@ BS1NPTPJGD4G	Viva Piñata: TIP	2009 video game by Microsoft Game Studios	https:/
 BNQT3LCMJTRS	WARRIORS OROCHI 3 Ultimate	2014 video game by KOEITECMO GAMES CO.LTD	https://www.microsoft.com/p/-/BNQT3LCMJTRS	Q7889	Q135288
 C4DMGRPNSHXG	WATCH_DOGS	2014 video game by Ubisoft Entertainment	https://www.microsoft.com/p/-/C4DMGRPNSHXG	Q7889	Q135288
 C3D89V4NH8F2	WORLD OF FINAL FANTASY MAXIMA	2018 video game by SQUARE ENIX	https://www.microsoft.com/p/-/C3D89V4NH8F2	Q7889	Q135288
-9N3CV19D0WBZ	WRC 10 FIA World Rally Championship	2021 video game by Nacon	https://www.microsoft.com/p/-/9N3CV19D0WBZ	Q7889	Q135288
-9N5RTZMQGW37	WRC 10 FIA World Rally Championship	2021 video game by Nacon	https://www.microsoft.com/p/-/9N5RTZMQGW37	Q7889	Q135288
+9NQCSR9JRTZ6	WWE 2K20	2019 video game by 2K	https://www.microsoft.com/p/-/9NQCSR9JRTZ6	Q7889	Q135288
 9NVXG7J42N74	WWE 2K22 for Xbox One	2022 video game by 2K	https://www.microsoft.com/p/-/9NVXG7J42N74	Q7889	Q135288
 9MWTZFGTLRHZ	WWE 2K22 for Xbox Series X|S	2022 video game by 2K	https://www.microsoft.com/p/-/9MWTZFGTLRHZ	Q7889	Q135288
 9ND3Z0QH0NKB	Wandersong	2019 video game by Humble Games	https://www.microsoft.com/p/-/9ND3Z0QH0NKB	Q7889	Q135288
 BX1DTCBD1HXJ	War Thunder	2018 video game by Gaijin Distribution Kft	https://www.microsoft.com/p/-/BX1DTCBD1HXJ	Q7889	Q135288
 BQ49WQ00XTWX	Warface	2018 video game by MY.GAMES	https://www.microsoft.com/p/-/BQ49WQ00XTWX	Q7889	Q135288
 9NGVWZ3MGT0B	Warface: Breakout	2020 video game by MY.GAMES	https://www.microsoft.com/p/-/9NGVWZ3MGT0B	Q7889	Q135288
-BPS3XF74B9V1	Warframe	2014 video game by Digital Extremes	https://www.microsoft.com/p/-/BPS3XF74B9V1	Q7889	Q135288
 9P4FCZR21QQK	Warhammer 40,000: Battlesector	2021 video game by Slitherine Ltd.	https://www.microsoft.com/p/-/9P4FCZR21QQK	Q7889	Q135288
-BXZWT67JBZJH	Warhammer: Vermintide 2	2018 video game by Fatshark	https://www.microsoft.com/p/-/BXZWT67JBZJH	Q7889	Q135288
+9PBZJ43Q0395	Warsaw	2020 video game by Crunching Koalas	https://www.microsoft.com/p/-/9PBZJ43Q0395	Q7889	Q135288
+C521HDXRTS7F	Wasteland 2	2015 video game by Deep Silver, InXile Entertainment	https://www.microsoft.com/p/-/C521HDXRTS7F	Q7889	Q135288
 BQ9T0JF0D3L4	Wasteland 3	2020 video game by Prime Matter	https://www.microsoft.com/p/-/BQ9T0JF0D3L4	Q7889	Q135288
 BSXLFN5QQZSC	Watch Dogs2	2016 video game by Ubisoft Entertainment	https://www.microsoft.com/p/-/BSXLFN5QQZSC	Q7889	Q135288
 9NVPW693DS8B	Webbed	2022 video game by Sbug Games	https://www.microsoft.com/p/-/9NVPW693DS8B	Q7889	Q135288
 9P0B86JN5X28	Weird West	2022 video game by Devolver Digital	https://www.microsoft.com/p/-/9P0B86JN5X28	Q7889	Q135288
 BSLGLG8P9T01	What Remains of Edith Finch	2017 video game by Annapurna Interactive	https://www.microsoft.com/p/-/BSLGLG8P9T01	Q7889	Q135288
+BR76VBTV0NK0	Wheel Of Fortune	2017 video game by Ubisoft	https://www.microsoft.com/p/-/BR76VBTV0NK0	Q7889	Q135288
 9NZGW95W2M8P	Whiskey & Zombies	2022 video game by JanduSoft	https://www.microsoft.com/p/-/9NZGW95W2M8P	Q7889	Q135288
 9N0SWD8JCV82	Whiskey Mafia: Leo's Family	2021 video game by ChiliDog Interactive	https://www.microsoft.com/p/-/9N0SWD8JCV82	Q7889	Q135288
 9NW5SQSL21ZJ	Whisper Trip	2022 video game by Walnut LLC	https://www.microsoft.com/p/-/9NW5SQSL21ZJ	Q7889	Q135288
@@ -1590,6 +1592,7 @@ C1M82W6KL7CB	White Noise 2	2017 video game by Milkstone Studios	https://www.micr
 9PJ2G8KK1J8V	Who Pressed Mute on Uncle Marcus?	2022 video game by Wales Interactive	https://www.microsoft.com/p/-/9PJ2G8KK1J8V	Q7889	Q135288
 9NG3C8RL2SLN	Who's Your Daddy?!	2022 video game by Evil Tortilla Games Incorporated	https://www.microsoft.com/p/-/9NG3C8RL2SLN	Q7889	Q135288
 9PGPL3M8FVVQ	Wife Quest	2022 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9PGPL3M8FVVQ	Q7889	Q135288
+9NPPWZPHNJ23	Wild West Crops	2022 video game by Ratalaika Games S.L.	https://www.microsoft.com/p/-/9NPPWZPHNJ23	Q7889	Q135288
 9PN7QBDPPW4N	Will You Snail?	2022 video game by No Gravity Games	https://www.microsoft.com/p/-/9PN7QBDPPW4N	Q7889	Q135288
 9N1WBQ6KLZ1T	Willy Morgan and the Curse of Bone Town	2022 video game by Leonardo Interactive s.r.l	https://www.microsoft.com/p/-/9N1WBQ6KLZ1T	Q7889	Q135288
 9NCRBWW1TDX0	Wind Peaks	2021 video game by Actoon Studio	https://www.microsoft.com/p/-/9NCRBWW1TDX0	Q7889	Q135288
@@ -1623,10 +1626,12 @@ BP63MT1VJV6X	Yoku's Island Express	2018 video game by Team17 Digital Ltd	https:/
 9P4JJ52DMBZL	Youtubers Life 2	2021 video game by Raiser Games	https://www.microsoft.com/p/-/9P4JJ52DMBZL	Q7889	Q135288
 BNSRQV4C66X9	Ys Origin	2018 video game by DotEmu	https://www.microsoft.com/p/-/BNSRQV4C66X9	Q7889	Q135288
 9N9GL8NX4WW8	Yu-Gi-Oh! Master Duel	2022 video game by Konami Digital Entertainment Co., Ltd.	https://www.microsoft.com/p/-/9N9GL8NX4WW8	Q7889	Q135288
+9NFJ5KDFKHH9	Z-Warp	2022 video game by Eastasiasoft Limited	https://www.microsoft.com/p/-/9NFJ5KDFKHH9	Q7889	Q135288
 C3HNL83BXGZ3	ZOE HD	2012 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/C3HNL83BXGZ3	Q7889	Q135288
 9P47H1RVDWWW	Zero Escape: The Nonary Games	2022 video game by Spike Chunsoft Co., Ltd.	https://www.microsoft.com/p/-/9P47H1RVDWWW	Q7889	Q135288
 C4FDJJ0TC3BZ	Ziggurat	2015 video game by Milkstone Studios	https://www.microsoft.com/p/-/C4FDJJ0TC3BZ	Q7889	Q135288
 9MVTM9V0GWVP	Ziggurat 2	2022 video game by Milkstone Studios	https://www.microsoft.com/p/-/9MVTM9V0GWVP	Q7889	Q135288
+9P1PH3JW1XD6	Zodiac	2020 video game by Klabater	https://www.microsoft.com/p/-/9P1PH3JW1XD6	Q7889	Q135288
 C0TMGF97V9LJ	Zombie Army Trilogy	2015 video game by Rebellion	https://www.microsoft.com/p/-/C0TMGF97V9LJ	Q7889	Q135288
 9N5JR0GNLPCT	Zombie Hill Racing	2021 video game by Inlogic Software	https://www.microsoft.com/p/-/9N5JR0GNLPCT	Q7889	Q135288
 9P67TKLGR3PB	Zombie Watch	2021 video game by David Grof s.p.	https://www.microsoft.com/p/-/9P67TKLGR3PB	Q7889	Q135288
@@ -1635,7 +1640,6 @@ C0TMGF97V9LJ	Zombie Army Trilogy	2015 video game by Rebellion	https://www.micros
 BRWJS8P512VF	Zoo Tycoon	2013 video game by Xbox Game Studios	https://www.microsoft.com/p/-/BRWJS8P512VF	Q7889	Q135288
 9PJ06TZX4NMH	Zoo Tycoon: Ultimate Animal Collection	2017 video game by Xbox Game Studios	https://www.microsoft.com/p/-/9PJ06TZX4NMH	Q7889	Q135288
 BTB6374NZGV3	[PROTOTYPE]	2015 video game by Activision	https://www.microsoft.com/p/-/BTB6374NZGV3	Q7889	Q135288
-C360XV52R4NL	de Blob 2	2018 video game by THQ Nordic	https://www.microsoft.com/p/-/C360XV52R4NL	Q7889	Q135288
 9NT1ZBBV6WH6	eFootball 2022	2021 video game by Konami Digital Entertainment	https://www.microsoft.com/p/-/9NT1ZBBV6WH6	Q7889	Q135288
 9NKP8CZZR6F7	inbento	2021 video game by 7Levels	https://www.microsoft.com/p/-/9NKP8CZZR6F7	Q7889	Q135288
 C1XHZ605DZPG	resident evil 4	2016 video game by CAPCOM CO., LTD.	https://www.microsoft.com/p/-/C1XHZ605DZPG	Q7889	Q135288
