@@ -57,6 +57,7 @@ def parse(hits_all):
       "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
       "P400": "Q19610114",
+      "P437": "Q54820071",
       "P750": "Q3070866"
     }
 

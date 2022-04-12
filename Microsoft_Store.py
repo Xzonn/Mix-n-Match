@@ -51,6 +51,7 @@ def parse(products):
       "desc": f'{release_date} video game by {game["LocalizedProperties"][0]["PublisherName"]}'.replace("  ", " "),
       "url": f'https://www.microsoft.com/p/-/{game["ProductId"].strip()}',
       "type": "Q7889",
+      "P437": "Q54820071",
       "P750": "Q135288"
     }
 
