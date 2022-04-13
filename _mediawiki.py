@@ -2,7 +2,7 @@ import requests
 import time
 from urllib.parse import quote
 
-def download(api_address, base_url, category):
+def download(api_address, base_url, category, type="Q7889", desc="video game"):
   HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36 XzonnMixnMatch/0.1"
   }
@@ -26,9 +26,9 @@ def download(api_address, base_url, category):
       results[page["title"]] = {
         "id": page["title"].replace(" ", "_"),
         "name": page["title"],
-        "desc": "video game",
+        "desc": desc,
         "url": base_url + quote(page["title"].replace(" ", "_")),
-        "type": "Q7889"
+        "type": type
       }
     if "continue" in json and "cmcontinue" in json["continue"]:
       kw.update({
