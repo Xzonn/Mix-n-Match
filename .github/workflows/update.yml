@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '0 16 * * 1'
+    - cron: '0 16 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -41,6 +41,13 @@ jobs:
       continue-on-error: true
       run: |
         python Super_Mario_Wiki.py
+    - name: Moegirlpedia
+      continue-on-error: true
+      env:
+        BOT_NAME: ${{ secrets.MOEGIRLPEDIA_BOT_NAME }}
+        BOT_PASS: ${{ secrets.MOEGIRLPEDIA_BOT_PASS }}
+      run: |
+        python Moegirlpedia.py
     - name: Famitsu
       continue-on-error: true
       run: |

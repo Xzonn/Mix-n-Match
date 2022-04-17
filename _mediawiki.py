@@ -2,11 +2,30 @@ import requests
 import time
 from urllib.parse import quote
 
-def download(api_address, base_url, category, type="Q7889", desc="video game"):
-  HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36 XzonnMixnMatch/0.1"
+HEADERS = {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36 XzonnMixnMatch/0.1"
+}
+
+_session = requests.Session()
+
+def login(api_address, bot_name, bot_pass):
+  kw = {
+    "action": "query",
+    "meta": "tokens",
+    "type": "login"
   }
-  session = requests.Session()
+  response = _session.post(api_address, data=kw, headers=HEADERS)
+  time.sleep(2.5)
+  kw = {
+    "action": "login",
+    "lgtoken": response.json()["query"]["tokens"]["logintoken"],
+    "lgname": bot_name,
+    "lgpassword": bot_pass
+  }
+  response = _session.post(api_address, data=kw, headers=HEADERS)
+  time.sleep(2.5)
+
+def download(api_address, base_url, category, type="Q7889", desc="video game"):
   results = {}
   now = time.time()
 
@@ -20,7 +39,7 @@ def download(api_address, base_url, category, type="Q7889", desc="video game"):
     "cmdir": "descending"
   }
   while (time.time() - now < 600):
-    response = session.post(api_address, data=kw, headers=HEADERS)
+    response = _session.post(api_address, data=kw, headers=HEADERS)
     json = response.json()
     for page in json["query"]["categorymembers"]:
       results[page["title"]] = {
