@@ -16,10 +16,7 @@ id	name	desc	url	type	P400
 32868	ファイナルファンタジー零式 オンライン	PC video game	https://www.famitsu.com/games/t/32868/	Q7889	Q1406
 32870	九十九姫	PS4 video game	https://www.famitsu.com/games/t/32870/	Q7889	Q5014725
 32871	九十九姫	PSV video game	https://www.famitsu.com/games/t/32871/	Q7889	
-33026	鉄拳7 Definitive Edition	2021 PS4 video game	https://www.famitsu.com/games/t/33026/	Q7889	Q5014725
 33556	JUSTICE MONSTERS FIVE	PC video game	https://www.famitsu.com/games/t/33556/	Q7889	Q1406
-33775	鉄拳7 Originals Edition	2021 XOne video game	https://www.famitsu.com/games/t/33775/	Q7889	Q13361286
-33825	鉄拳7 Originals Edition	2021 PC video game	https://www.famitsu.com/games/t/33825/	Q7889	Q1406
 33829	アノニマス・コード	2022 PS4 video game	https://www.famitsu.com/games/t/33829/	Q7889	Q5014725
 33871	Dead by Daylight スペシャルエディション 公式日本版 for PC	2022 PC video game	https://www.famitsu.com/games/t/33871/	Q7889	Q1406
 34407	ZERO ESCAPE 9時間9人9の扉 善人シボウデス ダブルパック	2022 PC video game	https://www.famitsu.com/games/t/34407/	Q7889	Q1406
@@ -106,7 +103,6 @@ id	name	desc	url	type	P400
 38806	BIOHAZARD RESISTANCE	PS4 video game	https://www.famitsu.com/games/t/38806/	Q7889	Q5014725
 38807	BIOHAZARD RESISTANCE	XOne video game	https://www.famitsu.com/games/t/38807/	Q7889	Q13361286
 38808	BIOHAZARD RESISTANCE	PC video game	https://www.famitsu.com/games/t/38808/	Q7889	Q1406
-38912	ごく普通の鹿のゲーム DEEEER Simulator	2021 PC video game	https://www.famitsu.com/games/t/38912/	Q7889	Q1406
 38927	魔砲少女のメイガスフィア	2022 PC video game	https://www.famitsu.com/games/t/38927/	Q7889	Q1406
 38943	冤罪執行遊戯ユルキル	2022 PS4 video game	https://www.famitsu.com/games/t/38943/	Q7889	Q5014725
 38944	冤罪執行遊戯ユルキル	2022 PC video game	https://www.famitsu.com/games/t/38944/	Q7889	Q1406
@@ -141,7 +137,6 @@ id	name	desc	url	type	P400
 40540	COGEN: 大鳥こはくと刻の剣	2022 Switch video game	https://www.famitsu.com/games/t/40540/	Q7889	Q19610114
 40541	COGEN: 大鳥こはくと刻の剣	2022 PS4 video game	https://www.famitsu.com/games/t/40541/	Q7889	Q5014725
 40542	COGEN: 大鳥こはくと刻の剣	2022 PC video game	https://www.famitsu.com/games/t/40542/	Q7889	Q1406
-40545	チルドレン・オブ・モルタ ～ 家族の絆の物語～コンプリートエディション	2021 PS4 video game	https://www.famitsu.com/games/t/40545/	Q7889	Q5014725
 40645	地球防衛軍6	2022 PS4 video game	https://www.famitsu.com/games/t/40645/	Q7889	Q5014725
 40647	ま〜るい地球が四角くなった!? デジボク地球防衛軍 EARTH DEFENSE FORCE: WORLD BROTHERS	2021 Switch video game	https://www.famitsu.com/games/t/40647/	Q7889	Q19610114
 40660	アイドルマネージャー	Switch video game	https://www.famitsu.com/games/t/40660/	Q7889	Q19610114
@@ -186,7 +181,7 @@ id	name	desc	url	type	P400
 41119	ファークライ6 デラックスエディション	2022 PS5 video game	https://www.famitsu.com/games/t/41119/	Q7889	Q63184502
 41129	百英雄伝	2023 PS5 video game	https://www.famitsu.com/games/t/41129/	Q7889	Q63184502
 41137	Dead by Daylightアルティメットエディション 公式日本版	2022 PS5 video game	https://www.famitsu.com/games/t/41137/	Q7889	Q63184502
-41166	ウィッチャー3 ワイルドハント	2022 PS5 video game	https://www.famitsu.com/games/t/41166/	Q7889	Q63184502
+41166	ウィッチャー3 ワイルドハント	PS5 video game	https://www.famitsu.com/games/t/41166/	Q7889	Q63184502
 41167	レゴ スター・ウォーズ/スカイウォーカー・サーガ	2022 PS5 video game	https://www.famitsu.com/games/t/41167/	Q7889	Q63184502
 41180	Xbox Series X Halo Infinite リミテッド エディション	XSX video game	https://www.famitsu.com/games/t/41180/	Q7889	Q98973368
 41184	奇々怪界 黒マントの謎	2022 Switch video game	https://www.famitsu.com/games/t/41184/	Q7889	Q19610114
@@ -232,7 +227,7 @@ id	name	desc	url	type	P400
 41368	RPGolf Legends	2022 PC video game	https://www.famitsu.com/games/t/41368/	Q7889	Q1406
 41376	レゴ スター・ウォーズ/スカイウォーカー・サーガ	2022 XSX video game	https://www.famitsu.com/games/t/41376/	Q7889	Q98973368
 41377	レゴ スター・ウォーズ/スカイウォーカー・サーガ	2022 XOne video game	https://www.famitsu.com/games/t/41377/	Q7889	Q13361286
-41378	ウィッチャー3 ワイルドハント	2022 XSX video game	https://www.famitsu.com/games/t/41378/	Q7889	Q98973368
+41378	ウィッチャー3 ワイルドハント	XSX video game	https://www.famitsu.com/games/t/41378/	Q7889	Q98973368
 41442	幻想少女大戦	2022 Switch video game	https://www.famitsu.com/games/t/41442/	Q7889	Q19610114
 41490	ファントムブレイカー：オムニア	2022 Switch video game	https://www.famitsu.com/games/t/41490/	Q7889	Q19610114
 41491	ファントムブレイカー：オムニア	2022 PS4 video game	https://www.famitsu.com/games/t/41491/	Q7889	Q5014725
@@ -265,7 +260,6 @@ id	name	desc	url	type	P400
 42469	Sifu: Vengeance Edition	2022 PS5 video game	https://www.famitsu.com/games/t/42469/	Q7889	Q63184502
 42470	Sifu: Vengeance Edition	2022 PS4 video game	https://www.famitsu.com/games/t/42470/	Q7889	Q5014725
 42476	Pokémon LEGENDS アルセウス	2022 Switch video game	https://www.famitsu.com/games/t/42476/	Q7889	Q19610114
-42477	ポケットモンスター シャイニングパール	2021 Switch video game	https://www.famitsu.com/games/t/42477/	Q7889	Q19610114
 42492	Read Only Memories：NEURODIVER	2022 PS5 video game	https://www.famitsu.com/games/t/42492/	Q7889	Q63184502
 42493	Read Only Memories：NEURODIVER	2022 XOne video game	https://www.famitsu.com/games/t/42493/	Q7889	Q13361286
 42497	メタルサーガ 叛逆ノ狼火	Switch video game	https://www.famitsu.com/games/t/42497/	Q7889	Q19610114
@@ -337,10 +331,10 @@ id	name	desc	url	type	P400
 43201	バベル号ガイドブック	Switch video game	https://www.famitsu.com/games/t/43201/	Q7889	Q19610114
 43203	ミラクルスイーツショップ	2021 Switch video game	https://www.famitsu.com/games/t/43203/	Q7889	Q19610114
 43204	紅魔城レミリア 緋色の交響曲	2022 PC video game	https://www.famitsu.com/games/t/43204/	Q7889	Q1406
-43205	紅魔城レミリア 緋色の交響曲	Switch video game	https://www.famitsu.com/games/t/43205/	Q7889	Q19610114
+43205	紅魔城レミリア 緋色の交響曲	2022 Switch video game	https://www.famitsu.com/games/t/43205/	Q7889	Q19610114
 43208	シューフォーズ	2022 PC video game	https://www.famitsu.com/games/t/43208/	Q7889	Q1406
 43209	FILMECHANISM	2021 PC video game	https://www.famitsu.com/games/t/43209/	Q7889	Q1406
-43210	クローンドローン -デンジャーゾーン-	Switch video game	https://www.famitsu.com/games/t/43210/	Q7889	Q19610114
+43210	クローンドローン -デンジャーゾーン-	2022 Switch video game	https://www.famitsu.com/games/t/43210/	Q7889	Q19610114
 43211	FILMECHANISM	2021 Switch video game	https://www.famitsu.com/games/t/43211/	Q7889	Q19610114
 43212	クローンドローン -デンジャーゾーン-	PS4 video game	https://www.famitsu.com/games/t/43212/	Q7889	Q5014725
 43213	クローンドローン -デンジャーゾーン-	XOne video game	https://www.famitsu.com/games/t/43213/	Q7889	Q13361286
@@ -348,8 +342,6 @@ id	name	desc	url	type	P400
 43217	絶叫！スーパーマーケット	PS4 video game	https://www.famitsu.com/games/t/43217/	Q7889	Q5014725
 43223	トランシルビィ	2021 PC video game	https://www.famitsu.com/games/t/43223/	Q7889	Q1406
 43224	Blade Evolution	2022 PC video game	https://www.famitsu.com/games/t/43224/	Q7889	Q1406
-43226	バトルフィールド 2042	2021 PS5 video game	https://www.famitsu.com/games/t/43226/	Q7889	Q63184502
-43228	バトルフィールド 2042	2021 XSX video game	https://www.famitsu.com/games/t/43228/	Q7889	Q98973368
 43234	モナーク／Monark	2022 PC video game	https://www.famitsu.com/games/t/43234/	Q7889	Q1406
 43254	ELDEN RING	2022 PS5 video game	https://www.famitsu.com/games/t/43254/	Q7889	Q63184502
 43255	ELDEN RING	2022 XSX video game	https://www.famitsu.com/games/t/43255/	Q7889	Q98973368
@@ -369,7 +361,12 @@ id	name	desc	url	type	P400
 43297	BABYLON’S FALL	2022 PS5 video game	https://www.famitsu.com/games/t/43297/	Q7889	Q63184502
 43300	タイトーマイルストーン	2022 Switch video game	https://www.famitsu.com/games/t/43300/	Q7889	Q19610114
 43312	STARFIELD	2022 PC video game	https://www.famitsu.com/games/t/43312/	Q7889	Q1406
+43314	百英雄伝 Rising	2022 PC video game	https://www.famitsu.com/games/t/43314/	Q7889	Q1406
 43315	百英雄伝	2023 XSX video game	https://www.famitsu.com/games/t/43315/	Q7889	Q98973368
+43316	百英雄伝 Rising	2022 PS4 video game	https://www.famitsu.com/games/t/43316/	Q7889	Q5014725
+43317	百英雄伝 Rising	2022 PS5 video game	https://www.famitsu.com/games/t/43317/	Q7889	Q63184502
+43318	百英雄伝 Rising	2022 XOne video game	https://www.famitsu.com/games/t/43318/	Q7889	Q13361286
+43319	百英雄伝 Rising	2022 XSX video game	https://www.famitsu.com/games/t/43319/	Q7889	Q98973368
 43320	Life is Strange Remastered Collection	PC video game	https://www.famitsu.com/games/t/43320/	Q7889	Q1406
 43321	Life is Strange Remastered Collection	PS4 video game	https://www.famitsu.com/games/t/43321/	Q7889	Q5014725
 43324	Life is Strange Remastered Collection	XOne video game	https://www.famitsu.com/games/t/43324/	Q7889	Q13361286
@@ -388,7 +385,6 @@ id	name	desc	url	type	P400
 43388	リサーチアンドデストロイ	XOne video game	https://www.famitsu.com/games/t/43388/	Q7889	Q13361286
 43389	リサーチアンドデストロイ	PC video game	https://www.famitsu.com/games/t/43389/	Q7889	Q1406
 43434	ファーミングシミュレーター 22	2021 PS5 video game	https://www.famitsu.com/games/t/43434/	Q7889	Q63184502
-43435	ファーミングシミュレーター 22	2021 PS4 video game	https://www.famitsu.com/games/t/43435/	Q7889	Q5014725
 43473	コットンロックンロール	2021 Switch video game	https://www.famitsu.com/games/t/43473/	Q7889	Q19610114
 43474	コットンロックンロール	2021 PS4 video game	https://www.famitsu.com/games/t/43474/	Q7889	Q5014725
 43485	RICO LONDON(リコ・ロンドン)	2022 Switch video game	https://www.famitsu.com/games/t/43485/	Q7889	Q19610114
@@ -427,7 +423,6 @@ id	name	desc	url	type	P400
 43798	地球防衛軍4.1 THE SHADOW OF NEW DESPAIR for Nintendo Switch	2022 Switch video game	https://www.famitsu.com/games/t/43798/	Q7889	Q19610114
 43813	Last Light	Switch video game	https://www.famitsu.com/games/t/43813/	Q7889	Q19610114
 43819	アサツグトリ	2021 Switch video game	https://www.famitsu.com/games/t/43819/	Q7889	Q19610114
-43820	アサツグトリ	2021 PS4 video game	https://www.famitsu.com/games/t/43820/	Q7889	Q5014725
 43849	刀剣乱舞無双	2022 Switch video game	https://www.famitsu.com/games/t/43849/	Q7889	Q19610114
 43850	刀剣乱舞無双	2022 PC video game	https://www.famitsu.com/games/t/43850/	Q7889	Q1406
 43851	メタルスラッグ タクティクス	2022 Switch video game	https://www.famitsu.com/games/t/43851/	Q7889	Q19610114
@@ -440,16 +435,10 @@ id	name	desc	url	type	P400
 43897	ワニワニ大冒険	2021 PS4 video game	https://www.famitsu.com/games/t/43897/	Q7889	Q5014725
 43932	スーパー野田ゲーWORLD	2022 Switch video game	https://www.famitsu.com/games/t/43932/	Q7889	Q19610114
 43941	パルフェリメイク	2021 Switch video game	https://www.famitsu.com/games/t/43941/	Q7889	Q19610114
-43942	パルフェリメイク	2021 PS4 video game	https://www.famitsu.com/games/t/43942/	Q7889	Q5014725
 43943	フユキス	2021 Switch video game	https://www.famitsu.com/games/t/43943/	Q7889	Q19610114
-43944	フユキス	2021 PS4 video game	https://www.famitsu.com/games/t/43944/	Q7889	Q5014725
 43951	Kena: Bridge of Spirits	2022 PS4 video game	https://www.famitsu.com/games/t/43951/	Q7889	Q5014725
 43961	ディサイプルズ　リベレーション	2021 PS5 video game	https://www.famitsu.com/games/t/43961/	Q7889	Q63184502
 43965	ごく普通の鹿のゲーム DEEEER Simulator	2021 Switch video game	https://www.famitsu.com/games/t/43965/	Q7889	Q19610114
-43966	ごく普通の鹿のゲーム DEEEER Simulator	2021 PS4 video game	https://www.famitsu.com/games/t/43966/	Q7889	Q5014725
-43967	ごく普通の鹿のゲーム DEEEER Simulator	2021 XSX video game	https://www.famitsu.com/games/t/43967/	Q7889	Q98973368
-43968	ごく普通の鹿のゲーム DEEEER Simulator	2021 XOne video game	https://www.famitsu.com/games/t/43968/	Q7889	Q13361286
-43978	ディサイプルズ　リベレーション	2021 PS4 video game	https://www.famitsu.com/games/t/43978/	Q7889	Q5014725
 44001	Park Beyond	2022 PS5 video game	https://www.famitsu.com/games/t/44001/	Q7889	Q63184502
 44002	Park Beyond	2022 XSX video game	https://www.famitsu.com/games/t/44002/	Q7889	Q98973368
 44003	Park Beyond	2022 PC video game	https://www.famitsu.com/games/t/44003/	Q7889	Q1406
@@ -460,7 +449,6 @@ id	name	desc	url	type	P400
 44008	マーベル ミッドナイト・サンズ	2022 Switch video game	https://www.famitsu.com/games/t/44008/	Q7889	Q19610114
 44009	マーベル ミッドナイト・サンズ	2022 PC video game	https://www.famitsu.com/games/t/44009/	Q7889	Q1406
 44044	神々の悪戯 Unite Edition	2022 Switch video game	https://www.famitsu.com/games/t/44044/	Q7889	Q19610114
-44049	牧場物語 再会のミネラルタウン	2021 PS4 video game	https://www.famitsu.com/games/t/44049/	Q7889	Q5014725
 44052	和階堂真の事件簿 Trilogy Deluxe	2022 Switch video game	https://www.famitsu.com/games/t/44052/	Q7889	Q19610114
 44053	和階堂真の事件簿 Trilogy Deluxe	2022 PC video game	https://www.famitsu.com/games/t/44053/	Q7889	Q1406
 44057	ダンジョンマンチーズ	2022 PS4 video game	https://www.famitsu.com/games/t/44057/	Q7889	Q5014725
@@ -506,9 +494,6 @@ id	name	desc	url	type	P400
 44199	GRID Legends	2022 XSX video game	https://www.famitsu.com/games/t/44199/	Q7889	Q98973368
 44200	GRID Legends	2022 XOne video game	https://www.famitsu.com/games/t/44200/	Q7889	Q13361286
 44201	GRID Legends	2022 PC video game	https://www.famitsu.com/games/t/44201/	Q7889	Q1406
-44203	バイオハザード 25th エピソードセレクション Vol.1	2021 PS4 video game	https://www.famitsu.com/games/t/44203/	Q7889	Q5014725
-44204	バイオハザード 25th エピソードセレクション Vol.2	2021 PS4 video game	https://www.famitsu.com/games/t/44204/	Q7889	Q5014725
-44205	バイオハザード 25th エピソードセレクション Vol.3	2021 PS4 video game	https://www.famitsu.com/games/t/44205/	Q7889	Q5014725
 44207	Crysis Remastered Trilogy	2021 PS4 video game	https://www.famitsu.com/games/t/44207/	Q7889	Q5014725
 44208	MythBusters: The Game - Crazy Experiments Simulator	PC video game	https://www.famitsu.com/games/t/44208/	Q7889	Q1406
 44211	みんなで空気読み。1・2・3＋	2021 Switch video game	https://www.famitsu.com/games/t/44211/	Q7889	Q19610114
@@ -571,8 +556,6 @@ id	name	desc	url	type	P400
 44385	イクストナ戦記	2022 PC video game	https://www.famitsu.com/games/t/44385/	Q7889	Q1406
 44386	The Binding of Isaac: Repentance	2022 Switch video game	https://www.famitsu.com/games/t/44386/	Q7889	Q19610114
 44387	The Binding of Isaac: Repentance	2022 PS5 video game	https://www.famitsu.com/games/t/44387/	Q7889	Q63184502
-44390	グミーズライフ	2021 Switch video game	https://www.famitsu.com/games/t/44390/	Q7889	Q19610114
-44391	グミーズライフ	2021 PS4 video game	https://www.famitsu.com/games/t/44391/	Q7889	Q5014725
 44392	グミーズライフ	2021 PS5 video game	https://www.famitsu.com/games/t/44392/	Q7889	Q63184502
 44403	モンスターハンターライズ	2022 PC video game	https://www.famitsu.com/games/t/44403/	Q7889	Q1406
 44413	GダライアスHD	2022 PC video game	https://www.famitsu.com/games/t/44413/	Q7889	Q1406
@@ -608,6 +591,7 @@ id	name	desc	url	type	P400
 44530	グランド・セフト・オート：トリロジー：決定版	2022 Switch video game	https://www.famitsu.com/games/t/44530/	Q7889	Q19610114
 44575	モノボット	2021 Switch video game	https://www.famitsu.com/games/t/44575/	Q7889	Q19610114
 44579	Skul: The Hero Slayer	2022 PS4 video game	https://www.famitsu.com/games/t/44579/	Q7889	Q5014725
+44582	百英雄伝 Rising	2022 Switch video game	https://www.famitsu.com/games/t/44582/	Q7889	Q19610114
 44584	鉄道にっぽん！路線たび 三岐鉄道編	2021 Switch video game	https://www.famitsu.com/games/t/44584/	Q7889	Q19610114
 44585	アセットコルサ コンペティツィオーネ	2022 PS5 video game	https://www.famitsu.com/games/t/44585/	Q7889	Q63184502
 44586	Strawberry Nauts -ストロベリーノーツ-	2022 Switch video game	https://www.famitsu.com/games/t/44586/	Q7889	Q19610114
@@ -636,9 +620,6 @@ id	name	desc	url	type	P400
 44683	スターオーシャン 6 THE DIVINE FORCE	2022 XOne video game	https://www.famitsu.com/games/t/44683/	Q7889	Q13361286
 44684	スターオーシャン 6 THE DIVINE FORCE	2022 XSX video game	https://www.famitsu.com/games/t/44684/	Q7889	Q98973368
 44685	スターオーシャン 6 THE DIVINE FORCE	2022 PC video game	https://www.famitsu.com/games/t/44685/	Q7889	Q1406
-44692	Death's Door	2021 Switch video game	https://www.famitsu.com/games/t/44692/	Q7889	Q19610114
-44693	Death's Door	2021 PS5 video game	https://www.famitsu.com/games/t/44693/	Q7889	Q63184502
-44694	Death's Door	2021 PS4 video game	https://www.famitsu.com/games/t/44694/	Q7889	Q5014725
 44697	パウ・パトロール：ザ・ムービー　アドベンチャー・シティがよんでいる	2021 PS4 video game	https://www.famitsu.com/games/t/44697/	Q7889	Q5014725
 44698	パウ・パトロール：ザ・ムービー　アドベンチャー・シティがよんでいる	2021 Switch video game	https://www.famitsu.com/games/t/44698/	Q7889	Q19610114
 44712	エンバー それゆけ救助隊	Switch video game	https://www.famitsu.com/games/t/44712/	Q7889	Q19610114
@@ -671,6 +652,7 @@ id	name	desc	url	type	P400
 44801	Re:Kuroi	2022 PC video game	https://www.famitsu.com/games/t/44801/	Q7889	Q1406
 44802	フィッシング・パラダイス	2022 PC video game	https://www.famitsu.com/games/t/44802/	Q7889	Q1406
 44803	フィッシング・パラダイス	2022 Switch video game	https://www.famitsu.com/games/t/44803/	Q7889	Q19610114
+44804	コズミックブレイク GUN & SLASH	2021 PC video game	https://www.famitsu.com/games/t/44804/	Q7889	Q1406
 44806	カエル畑DEつかまえて・夏 千木良参戦！	2022 Switch video game	https://www.famitsu.com/games/t/44806/	Q7889	Q19610114
 44808	スター・ウォーズ エピソード1 レーサー	2021 Switch video game	https://www.famitsu.com/games/t/44808/	Q7889	Q19610114
 44809	スター・ウォーズ エピソード1 レーサー	2021 PS4 video game	https://www.famitsu.com/games/t/44809/	Q7889	Q5014725
@@ -699,9 +681,6 @@ id	name	desc	url	type	P400
 44908	ヌヌの唄：リーグ・オブ・レジェンド ストーリー	2022 PS4 video game	https://www.famitsu.com/games/t/44908/	Q7889	Q5014725
 44909	ヌヌの唄：リーグ・オブ・レジェンド ストーリー	2022 PS5 video game	https://www.famitsu.com/games/t/44909/	Q7889	Q63184502
 44910	ヌヌの唄：リーグ・オブ・レジェンド ストーリー	2022 PC video game	https://www.famitsu.com/games/t/44910/	Q7889	Q1406
-44919	クランN：影の守人	2021 Switch video game	https://www.famitsu.com/games/t/44919/	Q7889	Q19610114
-44923	Tandem:影の物語	2021 Switch video game	https://www.famitsu.com/games/t/44923/	Q7889	Q19610114
-44924	Tandem:影の物語	2021 PS4 video game	https://www.famitsu.com/games/t/44924/	Q7889	Q5014725
 44931	みんなのカーリング	2022 Switch video game	https://www.famitsu.com/games/t/44931/	Q7889	Q19610114
 44952	荒神2	2021 PS4 video game	https://www.famitsu.com/games/t/44952/	Q7889	Q5014725
 44953	荒神2	2021 PS5 video game	https://www.famitsu.com/games/t/44953/	Q7889	Q63184502
@@ -711,19 +690,12 @@ id	name	desc	url	type	P400
 44957	PAC-MAN MUSEUM+	2022 PC video game	https://www.famitsu.com/games/t/44957/	Q7889	Q1406
 44958	パルフォン	2021 PC video game	https://www.famitsu.com/games/t/44958/	Q7889	Q1406
 44959	ビルシャナ戦姫 ～一樹の風～ ツインパック	2022 Switch video game	https://www.famitsu.com/games/t/44959/	Q7889	Q19610114
-44964	鉄拳7 Originals Edition	2021 XSX video game	https://www.famitsu.com/games/t/44964/	Q7889	Q98973368
-44968	NOSTALGIC TRAIN	2021 PS4 video game	https://www.famitsu.com/games/t/44968/	Q7889	Q5014725
 44969	NOSTALGIC TRAIN	2021 PS5 video game	https://www.famitsu.com/games/t/44969/	Q7889	Q63184502
-44970	ホロアース	PC video game	https://www.famitsu.com/games/t/44970/	Q7889	Q1406
 44976	超次元ゲイム ネプテューヌ Sisters vs Sisters	2022 PS4 video game	https://www.famitsu.com/games/t/44976/	Q7889	Q5014725
 44977	超次元ゲイム ネプテューヌ Sisters vs Sisters	2022 PS5 video game	https://www.famitsu.com/games/t/44977/	Q7889	Q63184502
 44978	CHAOS;HEAD NOAH / CHAOS;CHILD DOUBLE PACK	2022 Switch video game	https://www.famitsu.com/games/t/44978/	Q7889	Q19610114
-44980	Gearshifters	2021 PS4 video game	https://www.famitsu.com/games/t/44980/	Q7889	Q5014725
-44982	Gearshifters	2021 Switch video game	https://www.famitsu.com/games/t/44982/	Q7889	Q19610114
 44986	開拓サバイバル島DX	2021 Switch video game	https://www.famitsu.com/games/t/44986/	Q7889	Q19610114
 44992	メルキス	2021 Switch video game	https://www.famitsu.com/games/t/44992/	Q7889	Q19610114
-44996	トレジャーハント　エーゲ海の秘宝	2021 Switch video game	https://www.famitsu.com/games/t/44996/	Q7889	Q19610114
-44997	トレジャーハント　エーゲ海の秘宝	2021 PS4 video game	https://www.famitsu.com/games/t/44997/	Q7889	Q5014725
 44998	トレジャーハント　エーゲ海の秘宝	2021 PS5 video game	https://www.famitsu.com/games/t/44998/	Q7889	Q63184502
 45000	はぴねす！SakuraCelebration	2022 Switch video game	https://www.famitsu.com/games/t/45000/	Q7889	Q19610114
 45001	十三機兵防衛圏	2022 Switch video game	https://www.famitsu.com/games/t/45001/	Q7889	Q19610114
@@ -1108,3 +1080,14 @@ id	name	desc	url	type	P400
 46174	デモンゲイズ エクストラ	2022 PC video game	https://www.famitsu.com/games/t/46174/	Q7889	Q1406
 46178	Godlike Burger	2022 PC video game	https://www.famitsu.com/games/t/46178/	Q7889	Q1406
 46182	The Last Oricru	2022 PC video game	https://www.famitsu.com/games/t/46182/	Q7889	Q1406
+46192	The Smurfs Mission Vileaf	2022 Switch video game	https://www.famitsu.com/games/t/46192/	Q7889	Q19610114
+46195	創作ハンバーガー堂	2022 Switch video game	https://www.famitsu.com/games/t/46195/	Q7889	Q19610114
+46197	ダンジョン&バーグラー	2022 PC video game	https://www.famitsu.com/games/t/46197/	Q7889	Q1406
+46217	グリムグリモア OnceMore	2022 PS4 video game	https://www.famitsu.com/games/t/46217/	Q7889	Q5014725
+46218	グリムグリモア OnceMore	2022 Switch video game	https://www.famitsu.com/games/t/46218/	Q7889	Q19610114
+46219	クトゥルフ神話RPG 血塗られた天女伝説	2022 Switch video game	https://www.famitsu.com/games/t/46219/	Q7889	Q19610114
+46220	Turn Tack	2022 Switch video game	https://www.famitsu.com/games/t/46220/	Q7889	Q19610114
+46233	CosmicBreak GUN & SLASH	2022 Switch video game	https://www.famitsu.com/games/t/46233/	Q7889	Q19610114
+46240	ABRISS - build to destroy	2022 PC video game	https://www.famitsu.com/games/t/46240/	Q7889	Q1406
+46241	のらねこものがたり	2022 PS4 video game	https://www.famitsu.com/games/t/46241/	Q7889	Q5014725
+46242	Reversilly	2022 PC video game	https://www.famitsu.com/games/t/46242/	Q7889	Q1406
