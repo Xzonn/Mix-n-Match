@@ -46,6 +46,15 @@ def download():
   return hits_all
 
 def parse(hits_all):
+  ESRB = {
+    "EC": "Q14864327",
+    "E": "Q14864328",
+    "E10": "Q14864329",
+    "T": "Q14864330",
+    "M": "Q14864331",
+    "AO": "Q14864332",
+    "RP": "Q14864333",
+  }
   results = {}
   for game in hits_all:
     if "DLC" in game["topLevelFilters"] or "Games with DLC" in game["topLevelFilters"] or ["Physical"] == game["editions"]:
@@ -58,7 +67,8 @@ def parse(hits_all):
       "type": "Q7889",
       "P400": "Q19610114",
       "P437": "Q54820071",
-      "P750": "Q3070866"
+      "P750": "Q3070866",
+      "P852": ESRB[game["esrbRating"]] if game["esrbRating"] in ESRB else ""
     }
 
   results_list = sorted(results, key=lambda x:results[x]["name"])
