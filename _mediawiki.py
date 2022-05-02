@@ -25,7 +25,7 @@ def login(api_address, bot_name, bot_pass):
   response = _session.post(api_address, data=kw, headers=HEADERS)
   time.sleep(2.5)
 
-def download(api_address, base_url, category, type="Q7889", desc="video game"):
+def download(api_address, base_url, category, type="Q7889", desc="video game", sleep=False):
   results = {}
   now = time.time()
 
@@ -55,6 +55,8 @@ def download(api_address, base_url, category, type="Q7889", desc="video game"):
       })
     else:
       break
+    if sleep:
+      time.sleep(2.5)
   return results
 
 def parse(results, file_name):
