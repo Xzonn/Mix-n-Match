@@ -44,6 +44,7 @@ id	name	desc	url	type
 428_～被封锁的涩谷～	428 ～被封锁的涩谷～	Japanese video game	https://zh.moegirl.org.cn/428_%EF%BD%9E%E8%A2%AB%E5%B0%81%E9%94%81%E7%9A%84%E6%B6%A9%E8%B0%B7%EF%BD%9E	Q7889
 4个人各自有着自己的秘密	4个人各自有着自己的秘密	Japanese manga series	https://zh.moegirl.org.cn/4%E4%B8%AA%E4%BA%BA%E5%90%84%E8%87%AA%E6%9C%89%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%98%E5%AF%86	Q21198342
 52赫兹的带路人	52赫兹的带路人	Japanese manga series	https://zh.moegirl.org.cn/52%E8%B5%AB%E5%85%B9%E7%9A%84%E5%B8%A6%E8%B7%AF%E4%BA%BA	Q21198342
+5分钟的邂逅！时间停止与不可避免的命运	5分钟的邂逅！时间停止与不可避免的命运	Japanese video game	https://zh.moegirl.org.cn/5%E5%88%86%E9%92%9F%E7%9A%84%E9%82%82%E9%80%85%EF%BC%81%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E7%9A%84%E5%91%BD%E8%BF%90	Q7889
 688i深海猎鲨	688i深海猎鲨	American video game	https://zh.moegirl.org.cn/688i%E6%B7%B1%E6%B5%B7%E7%8C%8E%E9%B2%A8	Q7889
 77～双星再会之时～	77～双星再会之时～	Japanese video game	https://zh.moegirl.org.cn/77%EF%BD%9E%E5%8F%8C%E6%98%9F%E5%86%8D%E4%BC%9A%E4%B9%8B%E6%97%B6%EF%BD%9E	Q7889
 7D-O和她的伙伴们	7D-O和她的伙伴们	Japanese manga series	https://zh.moegirl.org.cn/7D-O%E5%92%8C%E5%A5%B9%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC	Q21198342
@@ -371,6 +372,7 @@ Healin'_Good_光之美少女	Healin' Good 光之美少女	Japanese anime series	
 Heart_of_the_girl	Heart of the girl	Japanese manga series	https://zh.moegirl.org.cn/Heart_of_the_girl	Q21198342
 Hello,Hello_and_Hello	Hello,Hello and Hello	Japanese novel series	https://zh.moegirl.org.cn/Hello%2CHello_and_Hello	Q104213567
 Hello,good-bye	Hello,good-bye	Japanese video game	https://zh.moegirl.org.cn/Hello%2Cgood-bye	Q7889
+Hexa_Hysteria	Hexa Hysteria	Chinese video game	https://zh.moegirl.org.cn/Hexa_Hysteria	Q7889
 Hisone_&_Masotan	Hisone & Masotan	Japanese anime series	https://zh.moegirl.org.cn/Hisone_%26_Masotan	Q63952888
 Holy_Knight_Light	Holy Knight Light	Japanese anime series	https://zh.moegirl.org.cn/Holy_Knight_Light	Q63952888
 HoneyWorks_Premium_Live	HoneyWorks Premium Live	Japanese video game	https://zh.moegirl.org.cn/HoneyWorks_Premium_Live	Q7889
@@ -417,6 +419,7 @@ Just_Because!	Just Because!	Japanese anime series	https://zh.moegirl.org.cn/Just
 K	K	Japanese anime series	https://zh.moegirl.org.cn/K	Q63952888
 KAIJU_DECODE_怪兽解码	KAIJU DECODE 怪兽解码	Japanese anime series	https://zh.moegirl.org.cn/KAIJU_DECODE_%E6%80%AA%E5%85%BD%E8%A7%A3%E7%A0%81	Q63952888
 KAORI	KAORI	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/KAORI	Q5
+KARAKARA	KARAKARA	Japanese video game	https://zh.moegirl.org.cn/KARAKARA	Q7889
 KENN	KENN	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/KENN	Q5
 KILLING_BITES	KILLING BITES	Japanese manga series	https://zh.moegirl.org.cn/KILLING_BITES	Q21198342
 KIMERU	KIMERU	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/KIMERU	Q5
@@ -428,8 +431,6 @@ KOKO殿	KOKO殿	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/KOKO%
 KOWABON	KOWABON	Japanese anime series	https://zh.moegirl.org.cn/KOWABON	Q63952888
 KY系JC小空气	KY系JC小空气	Japanese anime series	https://zh.moegirl.org.cn/KY%E7%B3%BBJC%E5%B0%8F%E7%A9%BA%E6%B0%94	Q63952888
 Kanon	Kanon	Japanese video game	https://zh.moegirl.org.cn/Kanon	Q7889
-Karakara	Karakara	Japanese video game	https://zh.moegirl.org.cn/Karakara	Q7889
-Karakara2	Karakara2	Japanese video game	https://zh.moegirl.org.cn/Karakara2	Q7889
 Kawai_Sprite	Kawai Sprite	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Kawai_Sprite	Q5
 Keroro军曹	Keroro军曹	Japanese manga series	https://zh.moegirl.org.cn/Keroro%E5%86%9B%E6%9B%B9	Q21198342
 King_Exit	King Exit	Japanese video game	https://zh.moegirl.org.cn/King_Exit	Q7889
@@ -449,8 +450,8 @@ LORD_of_VERMILION	LORD of VERMILION	Japanese video game	https://zh.moegirl.org.c
 LOST_SONG	LOST SONG	Japanese anime series	https://zh.moegirl.org.cn/LOST_SONG	Q63952888
 LOST:SMILE	LOST:SMILE	Japanese video game	https://zh.moegirl.org.cn/LOST%3ASMILE	Q7889
 LOVELY_CATION	LOVELY CATION	Japanese video game	https://zh.moegirl.org.cn/LOVELY_CATION	Q7889
-LOVELY_CATION2	LOVELY CATION2	Japanese video game	https://zh.moegirl.org.cn/LOVELY_CATION2	Q7889
 LOVELY_QUEST	LOVELY QUEST	Japanese video game	https://zh.moegirl.org.cn/LOVELY_QUEST	Q7889
+LOVELY×CATION2	LOVELY×CATION2	Japanese video game	https://zh.moegirl.org.cn/LOVELY%C3%97CATION2	Q7889
 LOVESICK_PUPPIES_-我们为了恋爱而诞生-	LOVESICK PUPPIES -我们为了恋爱而诞生-	Japanese video game	https://zh.moegirl.org.cn/LOVESICK_PUPPIES_-%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BA%86%E6%81%8B%E7%88%B1%E8%80%8C%E8%AF%9E%E7%94%9F-	Q7889
 LUNARiA_-Virtualized_Moonchild-	LUNARiA -Virtualized Moonchild-	Japanese video game	https://zh.moegirl.org.cn/LUNARiA_-Virtualized_Moonchild-	Q7889
 LV1魔王与独居废勇者	LV1魔王与独居废勇者	Japanese manga series	https://zh.moegirl.org.cn/LV1%E9%AD%94%E7%8E%8B%E4%B8%8E%E7%8B%AC%E5%B1%85%E5%BA%9F%E5%8B%87%E8%80%85	Q21198342
@@ -852,6 +853,7 @@ VIVIT-99	VIVIT-99	Japanese video game	https://zh.moegirl.org.cn/VIVIT-99	Q7889
 VLAD_LOVE	VLAD LOVE	Japanese anime series	https://zh.moegirl.org.cn/VLAD_LOVE	Q63952888
 VOEZ	VOEZ	Chinese video game	https://zh.moegirl.org.cn/VOEZ	Q7889
 VR女友	VR女友	Japanese video game	https://zh.moegirl.org.cn/VR%E5%A5%B3%E5%8F%8B	Q7889
+VR游戏转生异世界调教魔王美少女	VR游戏转生异世界调教魔王美少女	Japanese novel series	https://zh.moegirl.org.cn/VR%E6%B8%B8%E6%88%8F%E8%BD%AC%E7%94%9F%E5%BC%82%E4%B8%96%E7%95%8C%E8%B0%83%E6%95%99%E9%AD%94%E7%8E%8B%E7%BE%8E%E5%B0%91%E5%A5%B3	Q104213567
 Valhalla-Chronicle	Valhalla-Chronicle	Japanese video game	https://zh.moegirl.org.cn/Valhalla-Chronicle	Q7889
 Van宝鹿	Van宝鹿	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Van%E5%AE%9D%E9%B9%BF	Q5
 Ventangle	Ventangle	Japanese video game	https://zh.moegirl.org.cn/Ventangle	Q7889
@@ -964,6 +966,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 三上丈	三上丈	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E4%B8%88	Q5
 三上哲	三上哲	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E5%93%B2	Q5
 三上枝织	三上枝织	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E6%9E%9D%E7%BB%87	Q5
+三上瑛士	三上瑛士	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E7%91%9B%E5%A3%AB	Q5
 三上由理惠	三上由理惠	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E7%94%B1%E7%90%86%E6%83%A0	Q5
 三上遥香	三上遥香	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E4%B8%8A%E9%81%A5%E9%A6%99	Q5
 三体模拟系统	三体模拟系统	Chinese video game	https://zh.moegirl.org.cn/%E4%B8%89%E4%BD%93%E6%A8%A1%E6%8B%9F%E7%B3%BB%E7%BB%9F	Q7889
@@ -977,6 +980,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 三国志百花缭乱	三国志百花缭乱	Japanese manga series	https://zh.moegirl.org.cn/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%99%BE%E8%8A%B1%E7%BC%AD%E4%B9%B1	Q21198342
 三国志系列	三国志系列	Japanese video game	https://zh.moegirl.org.cn/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%B3%BB%E5%88%97	Q7889
 三国杀	三国杀	Chinese video game	https://zh.moegirl.org.cn/%E4%B8%89%E5%9B%BD%E6%9D%80	Q7889
+三国破谭	三国破谭	Japanese novel series	https://zh.moegirl.org.cn/%E4%B8%89%E5%9B%BD%E7%A0%B4%E8%B0%AD	Q104213567
 三国罗曼史	三国罗曼史	Chinese video game	https://zh.moegirl.org.cn/%E4%B8%89%E5%9B%BD%E7%BD%97%E6%9B%BC%E5%8F%B2	Q7889
 三坪房间的侵略者	三坪房间的侵略者	Japanese novel series	https://zh.moegirl.org.cn/%E4%B8%89%E5%9D%AA%E6%88%BF%E9%97%B4%E7%9A%84%E4%BE%B5%E7%95%A5%E8%80%85	Q104213567
 三好晃祐	三好晃祐	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B8%89%E5%A5%BD%E6%99%83%E7%A5%90	Q5
@@ -1433,6 +1437,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 乒乓	乒乓	Japanese manga series	https://zh.moegirl.org.cn/%E4%B9%92%E4%B9%93	Q21198342
 乔乔福音	乔乔福音	Japanese manga series	https://zh.moegirl.org.cn/%E4%B9%94%E4%B9%94%E7%A6%8F%E9%9F%B3	Q21198342
 乔尼亚斯奥特曼	乔尼亚斯奥特曼	Japanese anime series	https://zh.moegirl.org.cn/%E4%B9%94%E5%B0%BC%E4%BA%9A%E6%96%AF%E5%A5%A5%E7%89%B9%E6%9B%BC	Q63952888
+乔木心	乔木心	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B9%94%E6%9C%A8%E5%BF%83	Q5
 乔治皓	乔治皓	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B9%94%E6%B2%BB%E7%9A%93	Q5
 乔苏	乔苏	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B9%94%E8%8B%8F	Q5
 乔菲菲	乔菲菲	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%B9%94%E8%8F%B2%E8%8F%B2	Q5
@@ -1768,6 +1773,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 佐佐木启夫	佐佐木启夫	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%90%AF%E5%A4%AB	Q5
 佐佐木奈绪	佐佐木奈绪	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%A5%88%E7%BB%AA	Q5
 佐佐木寿治	佐佐木寿治	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%AF%BF%E6%B2%BB	Q5
+佐佐木帆香	佐佐木帆香	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%B8%86%E9%A6%99	Q5
 佐佐木拓真	佐佐木拓真	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E6%8B%93%E7%9C%9F	Q5
 佐佐木敏	佐佐木敏	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E6%95%8F	Q5
 佐佐木望(女)	佐佐木望(女)	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%90%E4%BD%90%E6%9C%A8%E6%9C%9B%28%E5%A5%B3%29	Q5
@@ -1834,6 +1840,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 何瑾	何瑾	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%95%E7%91%BE	Q5
 何璐怡	何璐怡	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%95%E7%92%90%E6%80%A1	Q5
 何禹祥	何禹祥	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%95%E7%A6%B9%E7%A5%A5	Q5
+何雨薇	何雨薇	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%95%E9%9B%A8%E8%96%87	Q5
 余昊威	余昊威	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%99%E6%98%8A%E5%A8%81	Q5
 余梦慈	余梦慈	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E4%BD%99%E6%A2%A6%E6%85%88	Q5
 余物语	余物语	Japanese novel series	https://zh.moegirl.org.cn/%E4%BD%99%E7%89%A9%E8%AF%AD	Q104213567
@@ -2574,6 +2581,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 千春(声优)	千春(声优)	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8D%83%E6%98%A5%28%E5%A3%B0%E4%BC%98%29	Q5
 千本木彩花	千本木彩花	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8D%83%E6%9C%AC%E6%9C%A8%E5%BD%A9%E8%8A%B1	Q5
 千田光男	千田光男	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8D%83%E7%94%B0%E5%85%89%E7%94%B7	Q5
+千田叶月	千田叶月	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8D%83%E7%94%B0%E5%8F%B6%E6%9C%88	Q5
 千绪的上学路	千绪的上学路	Japanese manga series	https://zh.moegirl.org.cn/%E5%8D%83%E7%BB%AA%E7%9A%84%E4%B8%8A%E5%AD%A6%E8%B7%AF	Q21198342
 千菅春香	千菅春香	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8D%83%E8%8F%85%E6%98%A5%E9%A6%99	Q5
 千金小姐的更衣仆人	千金小姐的更衣仆人	Japanese manga series	https://zh.moegirl.org.cn/%E5%8D%83%E9%87%91%E5%B0%8F%E5%A7%90%E7%9A%84%E6%9B%B4%E8%A1%A3%E4%BB%86%E4%BA%BA	Q21198342
@@ -2793,6 +2801,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 史上最强弟子兼一	史上最强弟子兼一	Japanese manga series	https://zh.moegirl.org.cn/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%BC%9F%E5%AD%90%E5%85%BC%E4%B8%80	Q21198342
 史丹利的寓言	史丹利的寓言	American video game	https://zh.moegirl.org.cn/%E5%8F%B2%E4%B8%B9%E5%88%A9%E7%9A%84%E5%AF%93%E8%A8%80	Q7889
 史泽鲲	史泽鲲	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8F%B2%E6%B3%BD%E9%B2%B2	Q5
+史莱姆牧场	史莱姆牧场	American video game	https://zh.moegirl.org.cn/%E5%8F%B2%E8%8E%B1%E5%A7%86%E7%89%A7%E5%9C%BA	Q7889
 叶山翔太	叶山翔太	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8F%B6%E5%B1%B1%E7%BF%94%E5%A4%AA	Q5
 叶山那奈	叶山那奈	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8F%B6%E5%B1%B1%E9%82%A3%E5%A5%88	Q5
 叶山郁美	叶山郁美	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%8F%B6%E5%B1%B1%E9%83%81%E7%BE%8E	Q5
@@ -2819,6 +2828,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 合金装备V:幻痛	合金装备V:幻痛	Japanese video game	https://zh.moegirl.org.cn/%E5%90%88%E9%87%91%E8%A3%85%E5%A4%87V%3A%E5%B9%BB%E7%97%9B	Q7889
 合金装备系列	合金装备系列	Japanese video game	https://zh.moegirl.org.cn/%E5%90%88%E9%87%91%E8%A3%85%E5%A4%87%E7%B3%BB%E5%88%97	Q7889
 吉井彩实	吉井彩实	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%90%89%E4%BA%95%E5%BD%A9%E5%AE%9E	Q5
+吉伊卡哇	吉伊卡哇	Japanese manga series	https://zh.moegirl.org.cn/%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87	Q21198342
 吉住梢	吉住梢	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%90%89%E4%BD%8F%E6%A2%A2	Q5
 吉住绘里加	吉住绘里加	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%90%89%E4%BD%8F%E7%BB%98%E9%87%8C%E5%8A%A0	Q5
 吉冈琳吾	吉冈琳吾	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%90%89%E5%86%88%E7%90%B3%E5%90%BE	Q5
@@ -3248,6 +3258,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 在地下城寻求邂逅是否搞错了什么～记忆憧憬～	在地下城寻求邂逅是否搞错了什么～记忆憧憬～	Japanese video game	https://zh.moegirl.org.cn/%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%9F%8E%E5%AF%BB%E6%B1%82%E9%82%82%E9%80%85%E6%98%AF%E5%90%A6%E6%90%9E%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88%EF%BD%9E%E8%AE%B0%E5%BF%86%E6%86%A7%E6%86%AC%EF%BD%9E	Q7889
 在地狱边缘呐喊	在地狱边缘呐喊	Japanese manga series	https://zh.moegirl.org.cn/%E5%9C%A8%E5%9C%B0%E7%8B%B1%E8%BE%B9%E7%BC%98%E5%91%90%E5%96%8A	Q21198342
 在异世界与黑精灵妻子轻松开拓黑暗大陆	在异世界与黑精灵妻子轻松开拓黑暗大陆	Japanese novel series	https://zh.moegirl.org.cn/%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%B8%8E%E9%BB%91%E7%B2%BE%E7%81%B5%E5%A6%BB%E5%AD%90%E8%BD%BB%E6%9D%BE%E5%BC%80%E6%8B%93%E9%BB%91%E6%9A%97%E5%A4%A7%E9%99%86	Q104213567
+在异世界买土地开辟农场	在异世界买土地开辟农场	Japanese novel series	https://zh.moegirl.org.cn/%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%B9%B0%E5%9C%9F%E5%9C%B0%E5%BC%80%E8%BE%9F%E5%86%9C%E5%9C%BA	Q104213567
 在异世界享受慢活（愿望）	在异世界享受慢活（愿望）	Japanese novel series	https://zh.moegirl.org.cn/%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%BA%AB%E5%8F%97%E6%85%A2%E6%B4%BB%EF%BC%88%E6%84%BF%E6%9C%9B%EF%BC%89	Q104213567
 在异世界开咖啡厅了哟	在异世界开咖啡厅了哟	Japanese novel series	https://zh.moegirl.org.cn/%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%BC%80%E5%92%96%E5%95%A1%E5%8E%85%E4%BA%86%E5%93%9F	Q104213567
 在教室再会	在教室再会	Japanese manga series	https://zh.moegirl.org.cn/%E5%9C%A8%E6%95%99%E5%AE%A4%E5%86%8D%E4%BC%9A	Q21198342
@@ -3296,7 +3307,9 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 坂诘贵之	坂诘贵之	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%9D%82%E8%AF%98%E8%B4%B5%E4%B9%8B	Q5
 坂道上的阿波罗	坂道上的阿波罗	Japanese manga series	https://zh.moegirl.org.cn/%E5%9D%82%E9%81%93%E4%B8%8A%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97	Q21198342
 坎巴拉太空计划	坎巴拉太空计划	American video game	https://zh.moegirl.org.cn/%E5%9D%8E%E5%B7%B4%E6%8B%89%E5%A4%AA%E7%A9%BA%E8%AE%A1%E5%88%92	Q7889
+坠入爱河×命运四角恋	坠入爱河×命运四角恋	Japanese video game	https://zh.moegirl.org.cn/%E5%9D%A0%E5%85%A5%E7%88%B1%E6%B2%B3%C3%97%E5%91%BD%E8%BF%90%E5%9B%9B%E8%A7%92%E6%81%8B	Q7889
 坪井智浩	坪井智浩	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%9D%AA%E4%BA%95%E6%99%BA%E6%B5%A9	Q5
+坪井木之实	坪井木之实	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%9D%AA%E4%BA%95%E6%9C%A8%E4%B9%8B%E5%AE%9E	Q5
 垂钓小镇	垂钓小镇	Japanese manga series	https://zh.moegirl.org.cn/%E5%9E%82%E9%92%93%E5%B0%8F%E9%95%87	Q21198342
 埃罗芒阿老师	埃罗芒阿老师	Japanese novel series	https://zh.moegirl.org.cn/%E5%9F%83%E7%BD%97%E8%8A%92%E9%98%BF%E8%80%81%E5%B8%88	Q104213567
 城下町的蒲公英	城下町的蒲公英	Japanese manga series	https://zh.moegirl.org.cn/%E5%9F%8E%E4%B8%8B%E7%94%BA%E7%9A%84%E8%92%B2%E5%85%AC%E8%8B%B1	Q21198342
@@ -3341,7 +3354,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 塔普莉丝Sugar_Step	塔普莉丝Sugar Step	Japanese manga series	https://zh.moegirl.org.cn/%E5%A1%94%E6%99%AE%E8%8E%89%E4%B8%9DSugar_Step	Q21198342
 塙真奈美	塙真奈美	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A1%99%E7%9C%9F%E5%A5%88%E7%BE%8E	Q5
 塙英子	塙英子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A1%99%E8%8B%B1%E5%AD%90	Q5
-塞尔达传说_众神的三角力量	塞尔达传说 众神的三角力量	Japanese video game	https://zh.moegirl.org.cn/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E4%BC%97%E7%A5%9E%E7%9A%84%E4%B8%89%E8%A7%92%E5%8A%9B%E9%87%8F	Q7889
+塞尔达传说_众神的三角神力	塞尔达传说 众神的三角神力	Japanese video game	https://zh.moegirl.org.cn/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E4%BC%97%E7%A5%9E%E7%9A%84%E4%B8%89%E8%A7%92%E7%A5%9E%E5%8A%9B	Q7889
 塞尔达传说_御天之剑	塞尔达传说 御天之剑	Japanese video game	https://zh.moegirl.org.cn/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E5%BE%A1%E5%A4%A9%E4%B9%8B%E5%89%91	Q7889
 塞尔达传说_旷野之息	塞尔达传说 旷野之息	Japanese video game	https://zh.moegirl.org.cn/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF	Q7889
 塞尔达传说_织梦岛	塞尔达传说 织梦岛	Japanese video game	https://zh.moegirl.org.cn/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E7%BB%87%E6%A2%A6%E5%B2%9B	Q7889
@@ -3380,6 +3393,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 处刑少女的生存之道	处刑少女的生存之道	Japanese novel series	https://zh.moegirl.org.cn/%E5%A4%84%E5%88%91%E5%B0%91%E5%A5%B3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93	Q104213567
 处男混混和少女的日常	处男混混和少女的日常	Japanese manga series	https://zh.moegirl.org.cn/%E5%A4%84%E7%94%B7%E6%B7%B7%E6%B7%B7%E5%92%8C%E5%B0%91%E5%A5%B3%E7%9A%84%E6%97%A5%E5%B8%B8	Q21198342
 备长炭	备长炭	Japanese manga series	https://zh.moegirl.org.cn/%E5%A4%87%E9%95%BF%E7%82%AD	Q21198342
+复仇成瘾	复仇成瘾	Japanese novel series	https://zh.moegirl.org.cn/%E5%A4%8D%E4%BB%87%E6%88%90%E7%98%BE	Q104213567
 复仇教室	复仇教室	Japanese manga series	https://zh.moegirl.org.cn/%E5%A4%8D%E4%BB%87%E6%95%99%E5%AE%A4	Q21198342
 复苏的魔女	复苏的魔女	Chinese video game	https://zh.moegirl.org.cn/%E5%A4%8D%E8%8B%8F%E7%9A%84%E9%AD%94%E5%A5%B3	Q7889
 夏一可	夏一可	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%8F%E4%B8%80%E5%8F%AF	Q5
@@ -3552,6 +3566,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 大逆转裁判2_-成步堂龙之介的觉悟-	大逆转裁判2 -成步堂龙之介的觉悟-	Japanese video game	https://zh.moegirl.org.cn/%E5%A4%A7%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A42_-%E6%88%90%E6%AD%A5%E5%A0%82%E9%BE%99%E4%B9%8B%E4%BB%8B%E7%9A%84%E8%A7%89%E6%82%9F-	Q7889
 大野智敬	大野智敬	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%A7%E9%87%8E%E6%99%BA%E6%95%AC	Q5
 大野柚布子	大野柚布子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%A7%E9%87%8E%E6%9F%9A%E5%B8%83%E5%AD%90	Q5
+大野海夏太	大野海夏太	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%A7%E9%87%8E%E6%B5%B7%E5%A4%8F%E5%A4%AA	Q5
 大铃功起	大铃功起	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%A7%E9%93%83%E5%8A%9F%E8%B5%B7	Q5
 大隈健太	大隈健太	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%A4%A7%E9%9A%88%E5%81%A5%E5%A4%AA	Q5
 大雪海的凯纳	大雪海的凯纳	Japanese manga series	https://zh.moegirl.org.cn/%E5%A4%A7%E9%9B%AA%E6%B5%B7%E7%9A%84%E5%87%AF%E7%BA%B3	Q21198342
@@ -3708,6 +3723,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 女孩攻略日常	女孩攻略日常	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B3%E5%AD%A9%E6%94%BB%E7%95%A5%E6%97%A5%E5%B8%B8	Q21198342
 女孩的季节	女孩的季节	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AD%A3%E8%8A%82	Q21198342
 女忍者椿的心事	女忍者椿的心事	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B3%E5%BF%8D%E8%80%85%E6%A4%BF%E7%9A%84%E5%BF%83%E4%BA%8B	Q21198342
+女忍者牡丹	女忍者牡丹	Japanese video game	https://zh.moegirl.org.cn/%E5%A5%B3%E5%BF%8D%E8%80%85%E7%89%A1%E4%B8%B9	Q7889
 女朋友扭蛋	女朋友扭蛋	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%89%AD%E8%9B%8B	Q21198342
 女武神纹章	女武神纹章	Japanese video game	https://zh.moegirl.org.cn/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E7%BA%B9%E7%AB%A0	Q7889
 女生有着不管对谁都不能说的秘密哟！	女生有着不管对谁都不能说的秘密哟！	Japanese novel series	https://zh.moegirl.org.cn/%E5%A5%B3%E7%94%9F%E6%9C%89%E7%9D%80%E4%B8%8D%E7%AE%A1%E5%AF%B9%E8%B0%81%E9%83%BD%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E5%93%9F%EF%BC%81	Q104213567
@@ -3747,6 +3763,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 女高网球部	女高网球部	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B3%E9%AB%98%E7%BD%91%E7%90%83%E9%83%A8	Q21198342
 奶奶心少女日向酱	奶奶心少女日向酱	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%B6%E5%A5%B6%E5%BF%83%E5%B0%91%E5%A5%B3%E6%97%A5%E5%90%91%E9%85%B1	Q21198342
 她和她的猫	她和她的猫	Japanese anime series	https://zh.moegirl.org.cn/%E5%A5%B9%E5%92%8C%E5%A5%B9%E7%9A%84%E7%8C%AB	Q63952888
+她喜欢的是homo而不是我	她喜欢的是homo而不是我	Japanese novel series	https://zh.moegirl.org.cn/%E5%A5%B9%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AFhomo%E8%80%8C%E4%B8%8D%E6%98%AF%E6%88%91	Q104213567
 好个恋爱天	好个恋爱天	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%BD%E4%B8%AA%E6%81%8B%E7%88%B1%E5%A4%A9	Q21198342
 好事多磨	好事多磨	Japanese manga series	https://zh.moegirl.org.cn/%E5%A5%BD%E4%BA%8B%E5%A4%9A%E7%A3%A8	Q21198342
 好友角色的我怎么可能大受欢迎？	好友角色的我怎么可能大受欢迎？	Japanese novel series	https://zh.moegirl.org.cn/%E5%A5%BD%E5%8F%8B%E8%A7%92%E8%89%B2%E7%9A%84%E6%88%91%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E5%A4%A7%E5%8F%97%E6%AC%A2%E8%BF%8E%EF%BC%9F	Q104213567
@@ -4113,6 +4130,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 将放言说女生之间不可能的女孩子，在百日之内彻底攻陷的百合故事	将放言说女生之间不可能的女孩子，在百日之内彻底攻陷的百合故事	Japanese novel series	https://zh.moegirl.org.cn/%E5%B0%86%E6%94%BE%E8%A8%80%E8%AF%B4%E5%A5%B3%E7%94%9F%E4%B9%8B%E9%97%B4%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90%EF%BC%8C%E5%9C%A8%E7%99%BE%E6%97%A5%E4%B9%8B%E5%86%85%E5%BD%BB%E5%BA%95%E6%94%BB%E9%99%B7%E7%9A%84%E7%99%BE%E5%90%88%E6%95%85%E4%BA%8B	Q104213567
 小N	小N	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%B0%8FN	Q5
 小上裕通	小上裕通	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%B0%8F%E4%B8%8A%E8%A3%95%E9%80%9A	Q5
+小不点贤者，从Lv.1开始在异世界奋斗！	小不点贤者，从Lv.1开始在异世界奋斗！	Japanese novel series	https://zh.moegirl.org.cn/%E5%B0%8F%E4%B8%8D%E7%82%B9%E8%B4%A4%E8%80%85%EF%BC%8C%E4%BB%8ELv.1%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%A5%8B%E6%96%97%EF%BC%81	Q104213567
 小丑查理	小丑查理	Japanese video game	https://zh.moegirl.org.cn/%E5%B0%8F%E4%B8%91%E6%9F%A5%E7%90%86	Q7889
 小书痴的下克上	小书痴的下克上	Japanese novel series	https://zh.moegirl.org.cn/%E5%B0%8F%E4%B9%A6%E7%97%B4%E7%9A%84%E4%B8%8B%E5%85%8B%E4%B8%8A	Q104213567
 小五(配音演员)	小五(配音演员)	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%B0%8F%E4%BA%94%28%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%29	Q5
@@ -4734,6 +4752,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 庄子裕衣	庄子裕衣	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%BA%84%E5%AD%90%E8%A3%95%E8%A1%A3	Q5
 庄真由美	庄真由美	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%BA%84%E7%9C%9F%E7%94%B1%E7%BE%8E	Q5
 庆长佑香	庆长佑香	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E5%BA%86%E9%95%BF%E4%BD%91%E9%A6%99	Q5
+废柴以魔王之姿闯荡异世界_有时作弊一下的悠哉旅程	废柴以魔王之姿闯荡异世界 有时作弊一下的悠哉旅程	Japanese novel series	https://zh.moegirl.org.cn/%E5%BA%9F%E6%9F%B4%E4%BB%A5%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%A7%BF%E9%97%AF%E8%8D%A1%E5%BC%82%E4%B8%96%E7%95%8C_%E6%9C%89%E6%97%B6%E4%BD%9C%E5%BC%8A%E4%B8%80%E4%B8%8B%E7%9A%84%E6%82%A0%E5%93%89%E6%97%85%E7%A8%8B	Q104213567
 废梦	废梦	Japanese manga series	https://zh.moegirl.org.cn/%E5%BA%9F%E6%A2%A6	Q21198342
 废物与金币的QUALIDEA	废物与金币的QUALIDEA	Japanese novel series	https://zh.moegirl.org.cn/%E5%BA%9F%E7%89%A9%E4%B8%8E%E9%87%91%E5%B8%81%E7%9A%84QUALIDEA	Q104213567
 废萌女孩的日常	废萌女孩的日常	Japanese manga series	https://zh.moegirl.org.cn/%E5%BA%9F%E8%90%8C%E5%A5%B3%E5%AD%A9%E7%9A%84%E6%97%A5%E5%B8%B8	Q21198342
@@ -4751,6 +4770,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 开玩笑的危害	开玩笑的危害	American video game	https://zh.moegirl.org.cn/%E5%BC%80%E7%8E%A9%E7%AC%91%E7%9A%84%E5%8D%B1%E5%AE%B3	Q7889
 开罗拉面店	开罗拉面店	Japanese video game	https://zh.moegirl.org.cn/%E5%BC%80%E7%BD%97%E6%8B%89%E9%9D%A2%E5%BA%97	Q7889
 开罗猫老大	开罗猫老大	Japanese video game	https://zh.moegirl.org.cn/%E5%BC%80%E7%BD%97%E7%8C%AB%E8%80%81%E5%A4%A7	Q7889
+异世界NTR	异世界NTR	Japanese novel series	https://zh.moegirl.org.cn/%E5%BC%82%E4%B8%96%E7%95%8CNTR	Q104213567
 异世界一击无双姐姐~姐同伴异世界生活开启	异世界一击无双姐姐~姐同伴异世界生活开启	Japanese novel series	https://zh.moegirl.org.cn/%E5%BC%82%E4%B8%96%E7%95%8C%E4%B8%80%E5%87%BB%E6%97%A0%E5%8F%8C%E5%A7%90%E5%A7%90~%E5%A7%90%E5%90%8C%E4%BC%B4%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E5%BC%80%E5%90%AF	Q104213567
 异世界动画工房	异世界动画工房	Japanese manga series	https://zh.moegirl.org.cn/%E5%BC%82%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB%E5%B7%A5%E6%88%BF	Q21198342
 异世界勇者美月	异世界勇者美月	Japanese manga series	https://zh.moegirl.org.cn/%E5%BC%82%E4%B8%96%E7%95%8C%E5%8B%87%E8%80%85%E7%BE%8E%E6%9C%88	Q21198342
@@ -5088,6 +5108,8 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 恶魔召唤师系列	恶魔召唤师系列	Japanese novel series	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%8F%AC%E5%94%A4%E5%B8%88%E7%B3%BB%E5%88%97	Q104213567
 恶魔同盟	恶魔同盟	Japanese novel series	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%90%8C%E7%9B%9F	Q104213567
 恶魔咩姆咩姆	恶魔咩姆咩姆	Japanese manga series	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%92%A9%E5%A7%86%E5%92%A9%E5%A7%86	Q21198342
+恶魔城_月下夜想曲	恶魔城 月下夜想曲	Japanese video game	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%9F%8E_%E6%9C%88%E4%B8%8B%E5%A4%9C%E6%83%B3%E6%9B%B2	Q7889
+恶魔城_白夜协奏曲	恶魔城 白夜协奏曲	Japanese video game	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%9F%8E_%E7%99%BD%E5%A4%9C%E5%8D%8F%E5%A5%8F%E6%9B%B2	Q7889
 恶魔城_血族	恶魔城 血族	Japanese video game	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%9F%8E_%E8%A1%80%E6%97%8F	Q7889
 恶魔城(游戏)	恶魔城(游戏)	Japanese video game	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%9F%8E%28%E6%B8%B8%E6%88%8F%29	Q7889
 恶魔城2_诅咒的封印	恶魔城2 诅咒的封印	Japanese video game	https://zh.moegirl.org.cn/%E6%81%B6%E9%AD%94%E5%9F%8E2_%E8%AF%85%E5%92%92%E7%9A%84%E5%B0%81%E5%8D%B0	Q7889
@@ -5177,6 +5199,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 我哥是怪物	我哥是怪物	Japanese manga series	https://zh.moegirl.org.cn/%E6%88%91%E5%93%A5%E6%98%AF%E6%80%AA%E7%89%A9	Q21198342
 我喜欢的妹妹不是妹妹	我喜欢的妹妹不是妹妹	Japanese novel series	https://zh.moegirl.org.cn/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9	Q104213567
 我在7年后等着你	我在7年后等着你	Japanese video game	https://zh.moegirl.org.cn/%E6%88%91%E5%9C%A87%E5%B9%B4%E5%90%8E%E7%AD%89%E7%9D%80%E4%BD%A0	Q7889
+我在最终boss的魔王城前开教会	我在最终boss的魔王城前开教会	Japanese novel series	https://zh.moegirl.org.cn/%E6%88%91%E5%9C%A8%E6%9C%80%E7%BB%88boss%E7%9A%84%E9%AD%94%E7%8E%8B%E5%9F%8E%E5%89%8D%E5%BC%80%E6%95%99%E4%BC%9A	Q104213567
 我在麻理体内	我在麻理体内	Japanese manga series	https://zh.moegirl.org.cn/%E6%88%91%E5%9C%A8%E9%BA%BB%E7%90%86%E4%BD%93%E5%86%85	Q21198342
 我太受欢迎了该怎么办	我太受欢迎了该怎么办	Japanese manga series	https://zh.moegirl.org.cn/%E6%88%91%E5%A4%AA%E5%8F%97%E6%AC%A2%E8%BF%8E%E4%BA%86%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E	Q21198342
 我女友与青梅竹马的惨烈修罗场	我女友与青梅竹马的惨烈修罗场	Japanese novel series	https://zh.moegirl.org.cn/%E6%88%91%E5%A5%B3%E5%8F%8B%E4%B8%8E%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E7%9A%84%E6%83%A8%E7%83%88%E4%BF%AE%E7%BD%97%E5%9C%BA	Q104213567
@@ -5308,6 +5331,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 战队大失格	战队大失格	Japanese manga series	https://zh.moegirl.org.cn/%E6%88%98%E9%98%9F%E5%A4%A7%E5%A4%B1%E6%A0%BC	Q21198342
 截稿大神，请多给我一点时间	截稿大神，请多给我一点时间	Japanese manga series	https://zh.moegirl.org.cn/%E6%88%AA%E7%A8%BF%E5%A4%A7%E7%A5%9E%EF%BC%8C%E8%AF%B7%E5%A4%9A%E7%BB%99%E6%88%91%E4%B8%80%E7%82%B9%E6%97%B6%E9%97%B4	Q21198342
 截稿日前百合进展	截稿日前百合进展	Japanese novel series	https://zh.moegirl.org.cn/%E6%88%AA%E7%A8%BF%E6%97%A5%E5%89%8D%E7%99%BE%E5%90%88%E8%BF%9B%E5%B1%95	Q104213567
+戴海嘉	戴海嘉	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%88%B4%E6%B5%B7%E5%98%89	Q5
 戴超行	戴超行	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%88%B4%E8%B6%85%E8%A1%8C	Q5
 户松拳也	户松拳也	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%88%B7%E6%9D%BE%E6%8B%B3%E4%B9%9F	Q5
 户松遥	户松遥	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%88%B7%E6%9D%BE%E9%81%A5	Q5
@@ -5326,6 +5350,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 才女的近侍	才女的近侍	Japanese novel series	https://zh.moegirl.org.cn/%E6%89%8D%E5%A5%B3%E7%9A%84%E8%BF%91%E4%BE%8D	Q104213567
 扑杀天使朵库萝	扑杀天使朵库萝	Japanese novel series	https://zh.moegirl.org.cn/%E6%89%91%E6%9D%80%E5%A4%A9%E4%BD%BF%E6%9C%B5%E5%BA%93%E8%90%9D	Q104213567
 打了300年的史莱姆，不知不觉就练到了满级	打了300年的史莱姆，不知不觉就练到了满级	Japanese novel series	https://zh.moegirl.org.cn/%E6%89%93%E4%BA%86300%E5%B9%B4%E7%9A%84%E5%8F%B2%E8%8E%B1%E5%A7%86%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E5%B0%B1%E7%BB%83%E5%88%B0%E4%BA%86%E6%BB%A1%E7%BA%A7	Q104213567
+打倒女神勇者的下流手段	打倒女神勇者的下流手段	Japanese novel series	https://zh.moegirl.org.cn/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5	Q104213567
 打小碗棋	打小碗棋	Chinese video game	https://zh.moegirl.org.cn/%E6%89%93%E5%B0%8F%E7%A2%97%E6%A3%8B	Q7889
 打工吧!魔王大人	打工吧!魔王大人	Japanese novel series	https://zh.moegirl.org.cn/%E6%89%93%E5%B7%A5%E5%90%A7%21%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA	Q104213567
 打田正志	打田正志	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%89%93%E7%94%B0%E6%AD%A3%E5%BF%97	Q5
@@ -5559,6 +5584,8 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 无神世界中的神明活动	无神世界中的神明活动	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E7%A5%9E%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E7%A5%9E%E6%98%8E%E6%B4%BB%E5%8A%A8	Q21198342
 无职转生_~到了异世界就拿出真本事~	无职转生 ~到了异世界就拿出真本事~	Japanese novel series	https://zh.moegirl.org.cn/%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F_~%E5%88%B0%E4%BA%86%E5%BC%82%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B~	Q104213567
 无职转生_~洛琪希也要拿出真本事~	无职转生 ~洛琪希也要拿出真本事~	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F_~%E6%B4%9B%E7%90%AA%E5%B8%8C%E4%B9%9F%E8%A6%81%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B~	Q21198342
+无职转生～到了异世界就拿出真本事～失意的魔术师篇	无职转生～到了异世界就拿出真本事～失意的魔术师篇	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E5%BC%82%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E%E5%A4%B1%E6%84%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88%E7%AF%87	Q21198342
+无职转生～艾莉丝要认真磨砺爪牙～	无职转生～艾莉丝要认真磨砺爪牙～	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%EF%BD%9E%E8%89%BE%E8%8E%89%E4%B8%9D%E8%A6%81%E8%AE%A4%E7%9C%9F%E7%A3%A8%E7%A0%BA%E7%88%AA%E7%89%99%EF%BD%9E	Q21198342
 无能力者娜娜	无能力者娜娜	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%83%BD%E5%8A%9B%E8%80%85%E5%A8%9C%E5%A8%9C	Q21198342
 无色之蓝	无色之蓝	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%89%B2%E4%B9%8B%E8%93%9D	Q21198342
 无节操Bitch社	无节操Bitch社	Japanese manga series	https://zh.moegirl.org.cn/%E6%97%A0%E8%8A%82%E6%93%8DBitch%E7%A4%BE	Q21198342
@@ -5778,6 +5805,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 更胜黎明前的琉璃色	更胜黎明前的琉璃色	Japanese video game	https://zh.moegirl.org.cn/%E6%9B%B4%E8%83%9C%E9%BB%8E%E6%98%8E%E5%89%8D%E7%9A%84%E7%90%89%E7%92%83%E8%89%B2	Q7889
 更衣人偶坠入爱河	更衣人偶坠入爱河	Japanese manga series	https://zh.moegirl.org.cn/%E6%9B%B4%E8%A1%A3%E4%BA%BA%E5%81%B6%E5%9D%A0%E5%85%A5%E7%88%B1%E6%B2%B3	Q21198342
 曹一茜	曹一茜	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9B%B9%E4%B8%80%E8%8C%9C	Q5
+曹琦敏	曹琦敏	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9B%B9%E7%90%A6%E6%95%8F	Q5
 曹真(配音演员)	曹真(配音演员)	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9B%B9%E7%9C%9F%28%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%29	Q5
 曹群耀	曹群耀	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9B%B9%E7%BE%A4%E8%80%80	Q5
 曹雅雯	曹雅雯	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9B%B9%E9%9B%85%E9%9B%AF	Q5
@@ -5875,6 +5903,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 朝井彩加	朝井彩加	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9C%9D%E4%BA%95%E5%BD%A9%E5%8A%A0	Q5
 朝仓荣介	朝仓荣介	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9C%9D%E4%BB%93%E8%8D%A3%E4%BB%8B	Q5
 朝日奈丸佳	朝日奈丸佳	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9C%9D%E6%97%A5%E5%A5%88%E4%B8%B8%E4%BD%B3	Q5
+朝比奈同学的便当，想吃！	朝比奈同学的便当，想吃！	Japanese novel series	https://zh.moegirl.org.cn/%E6%9C%9D%E6%AF%94%E5%A5%88%E5%90%8C%E5%AD%A6%E7%9A%84%E4%BE%BF%E5%BD%93%EF%BC%8C%E6%83%B3%E5%90%83%EF%BC%81	Q104213567
 朝比奈实玖瑠的冒险	朝比奈实玖瑠的冒险	Japanese anime series	https://zh.moegirl.org.cn/%E6%9C%9D%E6%AF%94%E5%A5%88%E5%AE%9E%E7%8E%96%E7%91%A0%E7%9A%84%E5%86%92%E9%99%A9	Q63952888
 朝比奈若叶和OO男友	朝比奈若叶和OO男友	Japanese novel series	https://zh.moegirl.org.cn/%E6%9C%9D%E6%AF%94%E5%A5%88%E8%8B%A5%E5%8F%B6%E5%92%8COO%E7%94%B7%E5%8F%8B	Q104213567
 朝田阳贵	朝田阳贵	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%9C%9D%E7%94%B0%E9%98%B3%E8%B4%B5	Q5
@@ -6229,6 +6258,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 枪与假面舞会	枪与假面舞会	Japanese novel series	https://zh.moegirl.org.cn/%E6%9E%AA%E4%B8%8E%E5%81%87%E9%9D%A2%E8%88%9E%E4%BC%9A	Q104213567
 枪之勇者重生录	枪之勇者重生录	Japanese novel series	https://zh.moegirl.org.cn/%E6%9E%AA%E4%B9%8B%E5%8B%87%E8%80%85%E9%87%8D%E7%94%9F%E5%BD%95	Q104213567
 枪娘!FIRE	枪娘!FIRE	Japanese anime series	https://zh.moegirl.org.cn/%E6%9E%AA%E5%A8%98%21FIRE	Q63952888
+枪打蜇人蜂	枪打蜇人蜂	Japanese manga series	https://zh.moegirl.org.cn/%E6%9E%AA%E6%89%93%E8%9C%87%E4%BA%BA%E8%9C%82	Q21198342
 枪械少女	枪械少女	Japanese manga series	https://zh.moegirl.org.cn/%E6%9E%AA%E6%A2%B0%E5%B0%91%E5%A5%B3	Q21198342
 枪火重生	枪火重生	Chinese video game	https://zh.moegirl.org.cn/%E6%9E%AA%E7%81%AB%E9%87%8D%E7%94%9F	Q7889
 枪王黑泽	枪王黑泽	Japanese novel series	https://zh.moegirl.org.cn/%E6%9E%AA%E7%8E%8B%E9%BB%91%E6%B3%BD	Q104213567
@@ -6465,6 +6495,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 椙山贵夫	椙山贵夫	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A4%99%E5%B1%B1%E8%B4%B5%E5%A4%AB	Q5
 椿佑子	椿佑子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A4%BF%E4%BD%91%E5%AD%90	Q5
 楚衔	楚衔	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A5%9A%E8%A1%94	Q5
+楚越	楚越	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A5%9A%E8%B6%8A	Q5
 楠原志乃	楠原志乃	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A5%A0%E5%8E%9F%E5%BF%97%E4%B9%83	Q5
 楠大典	楠大典	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A5%A0%E5%A4%A7%E5%85%B8	Q5
 楠木灯	楠木灯	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%A5%A0%E6%9C%A8%E7%81%AF	Q5
@@ -6679,7 +6710,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 死亡直播间	死亡直播间	Chinese video game	https://zh.moegirl.org.cn/%E6%AD%BB%E4%BA%A1%E7%9B%B4%E6%92%AD%E9%97%B4	Q7889
 死亡空间系列	死亡空间系列	American video game	https://zh.moegirl.org.cn/%E6%AD%BB%E4%BA%A1%E7%A9%BA%E9%97%B4%E7%B3%BB%E5%88%97	Q7889
 死亡笔记	死亡笔记	Japanese manga series	https://zh.moegirl.org.cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0	Q21198342
-死党角色很难当吗?	死党角色很难当吗?	Japanese novel series	https://zh.moegirl.org.cn/%E6%AD%BB%E5%85%9A%E8%A7%92%E8%89%B2%E5%BE%88%E9%9A%BE%E5%BD%93%E5%90%97%3F	Q104213567
+死党角色很难当吗？	死党角色很难当吗？	Japanese novel series	https://zh.moegirl.org.cn/%E6%AD%BB%E5%85%9A%E8%A7%92%E8%89%B2%E5%BE%88%E9%9A%BE%E5%BD%93%E5%90%97%EF%BC%9F	Q104213567
 死囚乐园	死囚乐园	Japanese manga series	https://zh.moegirl.org.cn/%E6%AD%BB%E5%9B%9A%E4%B9%90%E5%9B%AD	Q21198342
 死宅的我不知不觉间成为了现充	死宅的我不知不觉间成为了现充	Japanese novel series	https://zh.moegirl.org.cn/%E6%AD%BB%E5%AE%85%E7%9A%84%E6%88%91%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E9%97%B4%E6%88%90%E4%B8%BA%E4%BA%86%E7%8E%B0%E5%85%85	Q104213567
 死或生_沙滩排球_维纳斯假期	死或生 沙滩排球 维纳斯假期	Japanese video game	https://zh.moegirl.org.cn/%E6%AD%BB%E6%88%96%E7%94%9F_%E6%B2%99%E6%BB%A9%E6%8E%92%E7%90%83_%E7%BB%B4%E7%BA%B3%E6%96%AF%E5%81%87%E6%9C%9F	Q7889
@@ -6890,6 +6921,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 泷知史	泷知史	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%B7%E7%9F%A5%E5%8F%B2	Q5
 泽城千春	泽城千春	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E5%9F%8E%E5%8D%83%E6%98%A5	Q5
 泽城美雪	泽城美雪	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E5%9F%8E%E7%BE%8E%E9%9B%AA	Q5
+泽幡枫	泽幡枫	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E5%B9%A1%E6%9E%AB	Q5
 泽木郁也	泽木郁也	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E6%9C%A8%E9%83%81%E4%B9%9F	Q5
 泽海阳子	泽海阳子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E6%B5%B7%E9%98%B3%E5%AD%90	Q5
 泽田姬	泽田姬	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E6%B3%BD%E7%94%B0%E5%A7%AC	Q5
@@ -7209,6 +7241,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 灰色系列	灰色系列	Japanese video game	https://zh.moegirl.org.cn/%E7%81%B0%E8%89%B2%E7%B3%BB%E5%88%97	Q7889
 灰蛊(游戏)	灰蛊(游戏)	American video game	https://zh.moegirl.org.cn/%E7%81%B0%E8%9B%8A%28%E6%B8%B8%E6%88%8F%29	Q7889
 灵异E接触	灵异E接触	Japanese manga series	https://zh.moegirl.org.cn/%E7%81%B5%E5%BC%82E%E6%8E%A5%E8%A7%A6	Q21198342
+灵异猎人	灵异猎人	Japanese manga series	https://zh.moegirl.org.cn/%E7%81%B5%E5%BC%82%E7%8C%8E%E4%BA%BA	Q21198342
 灵感!	灵感!	Japanese manga series	https://zh.moegirl.org.cn/%E7%81%B5%E6%84%9F%21	Q21198342
 灵活脑学校_一起伸展大脑	灵活脑学校 一起伸展大脑	Japanese video game	https://zh.moegirl.org.cn/%E7%81%B5%E6%B4%BB%E8%84%91%E5%AD%A6%E6%A0%A1_%E4%B8%80%E8%B5%B7%E4%BC%B8%E5%B1%95%E5%A4%A7%E8%84%91	Q7889
 灵猫传	灵猫传	Chinese video game	https://zh.moegirl.org.cn/%E7%81%B5%E7%8C%AB%E4%BC%A0	Q7889
@@ -7492,7 +7525,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 班里的辣妹，不知为何与我的义妹成了好友。	班里的辣妹，不知为何与我的义妹成了好友。	Japanese novel series	https://zh.moegirl.org.cn/%E7%8F%AD%E9%87%8C%E7%9A%84%E8%BE%A3%E5%A6%B9%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%BA%E4%BD%95%E4%B8%8E%E6%88%91%E7%9A%84%E4%B9%89%E5%A6%B9%E6%88%90%E4%BA%86%E5%A5%BD%E5%8F%8B%E3%80%82	Q104213567
 班长的愿望	班长的愿望	Japanese manga series	https://zh.moegirl.org.cn/%E7%8F%AD%E9%95%BF%E7%9A%84%E6%84%BF%E6%9C%9B	Q21198342
 球咏	球咏	Japanese manga series	https://zh.moegirl.org.cn/%E7%90%83%E5%92%8F	Q21198342
-理想的女儿是世界最强，你也愿意宠爱吗?	理想的女儿是世界最强，你也愿意宠爱吗?	Japanese novel series	https://zh.moegirl.org.cn/%E7%90%86%E6%83%B3%E7%9A%84%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%EF%BC%8C%E4%BD%A0%E4%B9%9F%E6%84%BF%E6%84%8F%E5%AE%A0%E7%88%B1%E5%90%97%3F	Q104213567
+理想的女儿是世界最强，你也愿意宠爱吗？	理想的女儿是世界最强，你也愿意宠爱吗？	Japanese novel series	https://zh.moegirl.org.cn/%E7%90%86%E6%83%B3%E7%9A%84%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%EF%BC%8C%E4%BD%A0%E4%B9%9F%E6%84%BF%E6%84%8F%E5%AE%A0%E7%88%B1%E5%90%97%EF%BC%9F	Q104213567
 理想的小白脸生活	理想的小白脸生活	Japanese novel series	https://zh.moegirl.org.cn/%E7%90%86%E6%83%B3%E7%9A%84%E5%B0%8F%E7%99%BD%E8%84%B8%E7%94%9F%E6%B4%BB	Q104213567
 理科生坠入情网，故尝试证明。	理科生坠入情网，故尝试证明。	Japanese manga series	https://zh.moegirl.org.cn/%E7%90%86%E7%A7%91%E7%94%9F%E5%9D%A0%E5%85%A5%E6%83%85%E7%BD%91%EF%BC%8C%E6%95%85%E5%B0%9D%E8%AF%95%E8%AF%81%E6%98%8E%E3%80%82	Q21198342
 琉璃龙	琉璃龙	Japanese manga series	https://zh.moegirl.org.cn/%E7%90%89%E7%92%83%E9%BE%99	Q21198342
@@ -7608,6 +7641,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 田边留依	田边留依	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B0%E8%BE%B9%E7%95%99%E4%BE%9D	Q5
 田野麻美	田野麻美	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B0%E9%87%8E%E9%BA%BB%E7%BE%8E	Q5
 由加奈	由加奈	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B1%E5%8A%A0%E5%A5%88	Q5
+由越	由越	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B1%E8%B6%8A	Q5
 甲斐田幸	甲斐田幸	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B2%E6%96%90%E7%94%B0%E5%B9%B8	Q5
 甲斐田裕子	甲斐田裕子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%94%B2%E6%96%90%E7%94%B0%E8%A3%95%E5%AD%90	Q5
 甲贺忍法帖	甲贺忍法帖	Japanese novel series	https://zh.moegirl.org.cn/%E7%94%B2%E8%B4%BA%E5%BF%8D%E6%B3%95%E5%B8%96	Q104213567
@@ -7786,7 +7820,6 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 相聚一刻	相聚一刻	Japanese manga series	https://zh.moegirl.org.cn/%E7%9B%B8%E8%81%9A%E4%B8%80%E5%88%BB	Q21198342
 相良茉优	相良茉优	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%9B%B8%E8%89%AF%E8%8C%89%E4%BC%98	Q5
 相逢在明月映照的彼岸	相逢在明月映照的彼岸	Japanese video game	https://zh.moegirl.org.cn/%E7%9B%B8%E9%80%A2%E5%9C%A8%E6%98%8E%E6%9C%88%E6%98%A0%E7%85%A7%E7%9A%84%E5%BD%BC%E5%B2%B8	Q7889
-相遇之后的5分钟属于我！时间停止与不可避的命运	相遇之后的5分钟属于我！时间停止与不可避的命运	Japanese video game	https://zh.moegirl.org.cn/%E7%9B%B8%E9%81%87%E4%B9%8B%E5%90%8E%E7%9A%845%E5%88%86%E9%92%9F%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90	Q7889
 相马幸人	相马幸人	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%9B%B8%E9%A9%AC%E5%B9%B8%E4%BA%BA	Q5
 相马康一	相马康一	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%9B%B8%E9%A9%AC%E5%BA%B7%E4%B8%80	Q5
 盾之勇者成名录	盾之勇者成名录	Japanese novel series	https://zh.moegirl.org.cn/%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E5%BD%95	Q104213567
@@ -8005,6 +8038,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 神童勇者的女仆都是漂亮大姐姐!	神童勇者的女仆都是漂亮大姐姐!	Japanese novel series	https://zh.moegirl.org.cn/%E7%A5%9E%E7%AB%A5%E5%8B%87%E8%80%85%E7%9A%84%E5%A5%B3%E4%BB%86%E9%83%BD%E6%98%AF%E6%BC%82%E4%BA%AE%E5%A4%A7%E5%A7%90%E5%A7%90%21	Q104213567
 神童赛菲利亚的下克上计划	神童赛菲利亚的下克上计划	Japanese novel series	https://zh.moegirl.org.cn/%E7%A5%9E%E7%AB%A5%E8%B5%9B%E8%8F%B2%E5%88%A9%E4%BA%9A%E7%9A%84%E4%B8%8B%E5%85%8B%E4%B8%8A%E8%AE%A1%E5%88%92	Q104213567
 神薙	神薙	Japanese manga series	https://zh.moegirl.org.cn/%E7%A5%9E%E8%96%99	Q21198342
+神话传说英雄的异世界奇谭	神话传说英雄的异世界奇谭	Japanese novel series	https://zh.moegirl.org.cn/%E7%A5%9E%E8%AF%9D%E4%BC%A0%E8%AF%B4%E8%8B%B1%E9%9B%84%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A5%87%E8%B0%AD	Q104213567
 神谷早矢佳	神谷早矢佳	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%A5%9E%E8%B0%B7%E6%97%A9%E7%9F%A2%E4%BD%B3	Q5
 神谷明	神谷明	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%A5%9E%E8%B0%B7%E6%98%8E	Q5
 神谷浩史	神谷浩史	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E7%A5%9E%E8%B0%B7%E6%B5%A9%E5%8F%B2	Q5
@@ -8014,6 +8048,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 神魔讨绮传	神魔讨绮传	Japanese video game	https://zh.moegirl.org.cn/%E7%A5%9E%E9%AD%94%E8%AE%A8%E7%BB%AE%E4%BC%A0	Q7889
 神龙之谜	神龙之谜	Japanese manga series	https://zh.moegirl.org.cn/%E7%A5%9E%E9%BE%99%E4%B9%8B%E8%B0%9C	Q21198342
 祭品公主与兽之王	祭品公主与兽之王	Japanese manga series	https://zh.moegirl.org.cn/%E7%A5%AD%E5%93%81%E5%85%AC%E4%B8%BB%E4%B8%8E%E5%85%BD%E4%B9%8B%E7%8E%8B	Q21198342
+祭品公主菲娜的冒险	祭品公主菲娜的冒险	Japanese video game	https://zh.moegirl.org.cn/%E7%A5%AD%E5%93%81%E5%85%AC%E4%B8%BB%E8%8F%B2%E5%A8%9C%E7%9A%84%E5%86%92%E9%99%A9	Q7889
 祭弥赛亚	祭弥赛亚	Japanese video game	https://zh.moegirl.org.cn/%E7%A5%AD%E5%BC%A5%E8%B5%9B%E4%BA%9A	Q7889
 祸不单行	祸不单行	American video game	https://zh.moegirl.org.cn/%E7%A5%B8%E4%B8%8D%E5%8D%95%E8%A1%8C	Q7889
 禁忌咒纹	禁忌咒纹	Japanese manga series	https://zh.moegirl.org.cn/%E7%A6%81%E5%BF%8C%E5%92%92%E7%BA%B9	Q21198342
@@ -8606,7 +8641,6 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 腐男子高中生活	腐男子高中生活	Japanese manga series	https://zh.moegirl.org.cn/%E8%85%90%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB	Q21198342
 腹黑妹妹控兄记	腹黑妹妹控兄记	Japanese manga series	https://zh.moegirl.org.cn/%E8%85%B9%E9%BB%91%E5%A6%B9%E5%A6%B9%E6%8E%A7%E5%85%84%E8%AE%B0	Q21198342
 腾腾	腾腾	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E8%85%BE%E8%85%BE	Q5
-自嘲熊	自嘲熊	Japanese manga series	https://zh.moegirl.org.cn/%E8%87%AA%E5%98%B2%E7%86%8A	Q21198342
 自杀小子	自杀小子	American video game	https://zh.moegirl.org.cn/%E8%87%AA%E6%9D%80%E5%B0%8F%E5%AD%90	Q7889
 自杀岛	自杀岛	Japanese manga series	https://zh.moegirl.org.cn/%E8%87%AA%E6%9D%80%E5%B2%9B	Q21198342
 自炊男子和女高中生	自炊男子和女高中生	Japanese novel series	https://zh.moegirl.org.cn/%E8%87%AA%E7%82%8A%E7%94%B7%E5%AD%90%E5%92%8C%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F	Q104213567
@@ -8671,6 +8705,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 花公主烈!!	花公主烈!!	Japanese anime series	https://zh.moegirl.org.cn/%E8%8A%B1%E5%85%AC%E4%B8%BB%E7%83%88%21%21	Q63952888
 花冈志织	花冈志织	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E8%8A%B1%E5%86%88%E5%BF%97%E7%BB%87	Q5
 花冈星也	花冈星也	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E8%8A%B1%E5%86%88%E6%98%9F%E4%B9%9F	Q5
+花冈芽佳	花冈芽佳	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E8%8A%B1%E5%86%88%E8%8A%BD%E4%BD%B3	Q5
 花咲心优	花咲心优	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E8%8A%B1%E5%92%B2%E5%BF%83%E4%BC%98	Q5
 花园君与数同学的不可描述放学后	花园君与数同学的不可描述放学后	Japanese manga series	https://zh.moegirl.org.cn/%E8%8A%B1%E5%9B%AD%E5%90%9B%E4%B8%8E%E6%95%B0%E5%90%8C%E5%AD%A6%E7%9A%84%E4%B8%8D%E5%8F%AF%E6%8F%8F%E8%BF%B0%E6%94%BE%E5%AD%A6%E5%90%8E	Q21198342
 花园里的吸血鬼	花园里的吸血鬼	Japanese anime series	https://zh.moegirl.org.cn/%E8%8A%B1%E5%9B%AD%E9%87%8C%E7%9A%84%E5%90%B8%E8%A1%80%E9%AC%BC	Q63952888
@@ -8769,7 +8804,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 英雄战姬	英雄战姬	Japanese video game	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E6%88%98%E5%A7%AC	Q7889
 英雄杀	英雄杀	Chinese video game	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E6%9D%80	Q7889
 英雄棋士团	英雄棋士团	Chinese video game	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E6%A3%8B%E5%A3%AB%E5%9B%A2	Q7889
-英雄王,为了穷尽武道而转生～而后成为世界最强见习骑士～	英雄王,为了穷尽武道而转生～而后成为世界最强见习骑士～	Japanese novel series	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E7%8E%8B%2C%E4%B8%BA%E4%BA%86%E7%A9%B7%E5%B0%BD%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%AC%E7%94%9F%EF%BD%9E%E8%80%8C%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E8%A7%81%E4%B9%A0%E9%AA%91%E5%A3%AB%EF%BD%9E	Q104213567
+英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士～	英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士～	Japanese novel series	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E4%B8%BA%E4%BA%86%E7%A9%B7%E5%B0%BD%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%AC%E7%94%9F%EF%BD%9E%E8%80%8C%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E8%A7%81%E4%B9%A0%E9%AA%91%E5%A3%AB%EF%BD%9E	Q104213567
 英雄联盟	英雄联盟	American video game	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F	Q7889
 英雄转世为英雄之女目标再度成为英雄	英雄转世为英雄之女目标再度成为英雄	Japanese novel series	https://zh.moegirl.org.cn/%E8%8B%B1%E9%9B%84%E8%BD%AC%E4%B8%96%E4%B8%BA%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%A5%B3%E7%9B%AE%E6%A0%87%E5%86%8D%E5%BA%A6%E6%88%90%E4%B8%BA%E8%8B%B1%E9%9B%84	Q104213567
 英魂之刃	英魂之刃	Chinese video game	https://zh.moegirl.org.cn/%E8%8B%B1%E9%AD%82%E4%B9%8B%E5%88%83	Q7889
@@ -9534,7 +9569,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 逆转裁判5	逆转裁判5	Japanese video game	https://zh.moegirl.org.cn/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A45	Q7889
 逆转裁判6	逆转裁判6	Japanese video game	https://zh.moegirl.org.cn/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A46	Q7889
 选择感染者WIXOSS	选择感染者WIXOSS	Japanese anime series	https://zh.moegirl.org.cn/%E9%80%89%E6%8B%A9%E6%84%9F%E6%9F%93%E8%80%85WIXOSS	Q63952888
-透过百合SM能否连结两人的身心呢?	透过百合SM能否连结两人的身心呢?	Japanese manga series	https://zh.moegirl.org.cn/%E9%80%8F%E8%BF%87%E7%99%BE%E5%90%88SM%E8%83%BD%E5%90%A6%E8%BF%9E%E7%BB%93%E4%B8%A4%E4%BA%BA%E7%9A%84%E8%BA%AB%E5%BF%83%E5%91%A2%3F	Q21198342
+透过百合SM能否连结两人的身心呢？	透过百合SM能否连结两人的身心呢？	Japanese manga series	https://zh.moegirl.org.cn/%E9%80%8F%E8%BF%87%E7%99%BE%E5%90%88SM%E8%83%BD%E5%90%A6%E8%BF%9E%E7%BB%93%E4%B8%A4%E4%BA%BA%E7%9A%84%E8%BA%AB%E5%BF%83%E5%91%A2%EF%BC%9F	Q21198342
 逐光_启航	逐光 启航	Chinese video game	https://zh.moegirl.org.cn/%E9%80%90%E5%85%89_%E5%90%AF%E8%88%AA	Q7889
 通往夏天的隧道,再见的出口	通往夏天的隧道,再见的出口	Japanese novel series	https://zh.moegirl.org.cn/%E9%80%9A%E5%BE%80%E5%A4%8F%E5%A4%A9%E7%9A%84%E9%9A%A7%E9%81%93%2C%E5%86%8D%E8%A7%81%E7%9A%84%E5%87%BA%E5%8F%A3	Q104213567
 通感纪元	通感纪元	Chinese video game	https://zh.moegirl.org.cn/%E9%80%9A%E6%84%9F%E7%BA%AA%E5%85%83	Q7889
@@ -9561,6 +9596,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 遗书，公开。	遗书，公开。	Japanese manga series	https://zh.moegirl.org.cn/%E9%81%97%E4%B9%A6%EF%BC%8C%E5%85%AC%E5%BC%80%E3%80%82	Q21198342
 遗作	遗作	Japanese video game	https://zh.moegirl.org.cn/%E9%81%97%E4%BD%9C	Q7889
 遗憾女干部黑暗将军小姐	遗憾女干部黑暗将军小姐	Japanese manga series	https://zh.moegirl.org.cn/%E9%81%97%E6%86%BE%E5%A5%B3%E5%B9%B2%E9%83%A8%E9%BB%91%E6%9A%97%E5%B0%86%E5%86%9B%E5%B0%8F%E5%A7%90	Q21198342
+遗迹探索者	遗迹探索者	Japanese video game	https://zh.moegirl.org.cn/%E9%81%97%E8%BF%B9%E6%8E%A2%E7%B4%A2%E8%80%85	Q7889
 遥仰凰华	遥仰凰华	Japanese novel series	https://zh.moegirl.org.cn/%E9%81%A5%E4%BB%B0%E5%87%B0%E5%8D%8E	Q104213567
 遥的接球	遥的接球	Japanese manga series	https://zh.moegirl.org.cn/%E9%81%A5%E7%9A%84%E6%8E%A5%E7%90%83	Q21198342
 遥远时空(初代)	遥远时空(初代)	Japanese video game	https://zh.moegirl.org.cn/%E9%81%A5%E8%BF%9C%E6%97%B6%E7%A9%BA%28%E5%88%9D%E4%BB%A3%29	Q7889
@@ -9610,6 +9646,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 酒井俊辅	酒井俊辅	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E4%BF%8A%E8%BE%85	Q5
 酒井广大	酒井广大	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E5%B9%BF%E5%A4%A7	Q5
 酒井敬幸	酒井敬幸	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E6%95%AC%E5%B9%B8	Q5
+酒井玲	酒井玲	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E7%8E%B2	Q5
 酒井美沙乃	酒井美沙乃	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E7%BE%8E%E6%B2%99%E4%B9%83	Q5
 酒井香奈子	酒井香奈子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E4%BA%95%E9%A6%99%E5%A5%88%E5%AD%90	Q5
 酒卷光宏	酒卷光宏	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%85%92%E5%8D%B7%E5%85%89%E5%AE%8F	Q5
@@ -9831,6 +9868,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 长久友纪	长久友纪	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E4%B9%85%E5%8F%8B%E7%BA%AA	Q5
 长井新	长井新	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E4%BA%95%E6%96%B0	Q5
 长克巳	长克巳	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E5%85%8B%E5%B7%B3	Q5
+长冈龙步	长冈龙步	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E5%86%88%E9%BE%99%E6%AD%A5	Q5
 长南翔太	长南翔太	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E5%8D%97%E7%BF%94%E5%A4%AA	Q5
 长妻树里	长妻树里	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E5%A6%BB%E6%A0%91%E9%87%8C	Q5
 长尾明希	长尾明希	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%95%BF%E5%B0%BE%E6%98%8E%E5%B8%8C	Q5
@@ -9964,6 +10002,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 陈昊天	陈昊天	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E6%98%8A%E5%A4%A9	Q5
 陈梅君	陈梅君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E6%A2%85%E5%90%9B	Q5
 陈浩	陈浩	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E6%B5%A9	Q5
+陈玺月	陈玺月	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E7%8E%BA%E6%9C%88	Q5
 陈瑜瑾	陈瑜瑾	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E7%91%9C%E7%91%BE	Q5
 陈睿婕	陈睿婕	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E7%9D%BF%E5%A9%95	Q5
 陈章	陈章	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%88%E7%AB%A0	Q5
@@ -9978,7 +10017,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 降幡爱	降幡爱	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%8D%E5%B9%A1%E7%88%B1	Q5
 降樱的小镇	降樱的小镇	Japanese novel series	https://zh.moegirl.org.cn/%E9%99%8D%E6%A8%B1%E7%9A%84%E5%B0%8F%E9%95%87	Q104213567
 降温	降温	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%8D%E6%B8%A9	Q5
-除了我之外,你不准和别人上演爱情喜剧	除了我之外,你不准和别人上演爱情喜剧	Japanese novel series	https://zh.moegirl.org.cn/%E9%99%A4%E4%BA%86%E6%88%91%E4%B9%8B%E5%A4%96%2C%E4%BD%A0%E4%B8%8D%E5%87%86%E5%92%8C%E5%88%AB%E4%BA%BA%E4%B8%8A%E6%BC%94%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7	Q104213567
+除了我之外，你不准和别人上演爱情喜剧	除了我之外，你不准和别人上演爱情喜剧	Japanese novel series	https://zh.moegirl.org.cn/%E9%99%A4%E4%BA%86%E6%88%91%E4%B9%8B%E5%A4%96%EF%BC%8C%E4%BD%A0%E4%B8%8D%E5%87%86%E5%92%8C%E5%88%AB%E4%BA%BA%E4%B8%8A%E6%BC%94%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7	Q104213567
 除我以外人类全员百合	除我以外人类全员百合	Japanese manga series	https://zh.moegirl.org.cn/%E9%99%A4%E6%88%91%E4%BB%A5%E5%A4%96%E4%BA%BA%E7%B1%BB%E5%85%A8%E5%91%98%E7%99%BE%E5%90%88	Q21198342
 陪睡女友～紧紧抱着你～	陪睡女友～紧紧抱着你～	Japanese video game	https://zh.moegirl.org.cn/%E9%99%AA%E7%9D%A1%E5%A5%B3%E5%8F%8B%EF%BD%9E%E7%B4%A7%E7%B4%A7%E6%8A%B1%E7%9D%80%E4%BD%A0%EF%BD%9E	Q7889
 陶典	陶典	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%99%B6%E5%85%B8	Q5
@@ -10001,6 +10040,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 难道就只有我不女装吗	难道就只有我不女装吗	Japanese manga series	https://zh.moegirl.org.cn/%E9%9A%BE%E9%81%93%E5%B0%B1%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%8D%E5%A5%B3%E8%A3%85%E5%90%97	Q21198342
 雀姬	雀姬	Chinese video game	https://zh.moegirl.org.cn/%E9%9B%80%E5%A7%AC	Q7889
 雀魂麻将	雀魂麻将	Chinese video game	https://zh.moegirl.org.cn/%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%86	Q7889
+雄兽岛的秘密	雄兽岛的秘密	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%84%E5%85%BD%E5%B2%9B%E7%9A%84%E7%A7%98%E5%AF%86	Q7889
 集合啦_动物森友会	集合啦 动物森友会	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%86%E5%90%88%E5%95%A6_%E5%8A%A8%E7%89%A9%E6%A3%AE%E5%8F%8B%E4%BC%9A	Q7889
 集贝花	集贝花	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%9B%86%E8%B4%9D%E8%8A%B1	Q5
 雏子的笔记	雏子的笔记	Japanese manga series	https://zh.moegirl.org.cn/%E9%9B%8F%E5%AD%90%E7%9A%84%E7%AC%94%E8%AE%B0	Q21198342
@@ -10027,6 +10067,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 雪恋交融	雪恋交融	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%AA%E6%81%8B%E4%BA%A4%E8%9E%8D	Q7889
 雪晶石	雪晶石	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%AA%E6%99%B6%E7%9F%B3	Q7889
 雪翼的芙莉吉亚	雪翼的芙莉吉亚	Japanese novel series	https://zh.moegirl.org.cn/%E9%9B%AA%E7%BF%BC%E7%9A%84%E8%8A%99%E8%8E%89%E5%90%89%E4%BA%9A	Q104213567
+雪色旅途	雪色旅途	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%AA%E8%89%B2%E6%97%85%E9%80%94	Q7889
 雪野五月	雪野五月	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%9B%AA%E9%87%8E%E4%BA%94%E6%9C%88	Q5
 雫(Leaf)	雫(Leaf)	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%AB%28Leaf%29	Q7889
 零_zero	零 zero	Japanese video game	https://zh.moegirl.org.cn/%E9%9B%B6_zero	Q7889
@@ -10327,6 +10368,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 高梨谦吾	高梨谦吾	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%A2%A8%E8%B0%A6%E5%90%BE	Q5
 高森奈津美	高森奈津美	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%A3%AE%E5%A5%88%E6%B4%A5%E7%BE%8E	Q5
 高槻加奈子	高槻加奈子	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%A7%BB%E5%8A%A0%E5%A5%88%E5%AD%90	Q5
+高槻美优	高槻美优	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%A7%BB%E7%BE%8E%E4%BC%98	Q5
 高槻莉那	高槻莉那	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%A7%BB%E8%8E%89%E9%82%A3	Q5
 高濑右光	高濑右光	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%BF%91%E5%8F%B3%E5%85%89	Q5
 高濑朝季	高濑朝季	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/%E9%AB%98%E6%BF%91%E6%9C%9D%E5%AD%A3	Q5
@@ -10579,6 +10621,7 @@ Z君	Z君	seiyū/voice actor/voice actress	https://zh.moegirl.org.cn/Z%E5%90%9B	
 黑岩射手_THE_GAME	黑岩射手 THE GAME	Japanese video game	https://zh.moegirl.org.cn/%E9%BB%91%E5%B2%A9%E5%B0%84%E6%89%8B_THE_GAME	Q7889
 黑崎麻由眼中的美丽世界	黑崎麻由眼中的美丽世界	Japanese novel series	https://zh.moegirl.org.cn/%E9%BB%91%E5%B4%8E%E9%BA%BB%E7%94%B1%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%BE%8E%E4%B8%BD%E4%B8%96%E7%95%8C	Q104213567
 黑帝斯(游戏)	黑帝斯(游戏)	American video game	https://zh.moegirl.org.cn/%E9%BB%91%E5%B8%9D%E6%96%AF%28%E6%B8%B8%E6%88%8F%29	Q7889
+黑心居酒屋	黑心居酒屋	Japanese novel series	https://zh.moegirl.org.cn/%E9%BB%91%E5%BF%83%E5%B1%85%E9%85%92%E5%B1%8B	Q104213567
 黑心骑士团的奴隶被善心冒险者公会挖角后升上S级	黑心骑士团的奴隶被善心冒险者公会挖角后升上S级	Japanese novel series	https://zh.moegirl.org.cn/%E9%BB%91%E5%BF%83%E9%AA%91%E5%A3%AB%E5%9B%A2%E7%9A%84%E5%A5%B4%E9%9A%B6%E8%A2%AB%E5%96%84%E5%BF%83%E5%86%92%E9%99%A9%E8%80%85%E5%85%AC%E4%BC%9A%E6%8C%96%E8%A7%92%E5%90%8E%E5%8D%87%E4%B8%8AS%E7%BA%A7	Q104213567
 黑执事	黑执事	Japanese manga series	https://zh.moegirl.org.cn/%E9%BB%91%E6%89%A7%E4%BA%8B	Q21198342
 黑星剧场	黑星剧场	Japanese video game	https://zh.moegirl.org.cn/%E9%BB%91%E6%98%9F%E5%89%A7%E5%9C%BA	Q7889
