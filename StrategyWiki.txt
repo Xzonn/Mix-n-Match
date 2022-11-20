@@ -74,6 +74,7 @@ A_Boy_and_His_Blob	A Boy and His Blob	video game	https://strategywiki.org/wiki/A
 A_Boy_and_His_Blob:_Trouble_on_Blobolonia	A Boy and His Blob: Trouble on Blobolonia	video game	https://strategywiki.org/wiki/A_Boy_and_His_Blob%3A_Trouble_on_Blobolonia	Q7889
 A_Bug's_Life	A Bug's Life	video game	https://strategywiki.org/wiki/A_Bug%27s_Life	Q7889
 A_Game_of_Concentration	A Game of Concentration	video game	https://strategywiki.org/wiki/A_Game_of_Concentration	Q7889
+A_Good_Snowman_Is_Hard_to_Build	A Good Snowman Is Hard to Build	video game	https://strategywiki.org/wiki/A_Good_Snowman_Is_Hard_to_Build	Q7889
 A_Hat_in_Time	A Hat in Time	video game	https://strategywiki.org/wiki/A_Hat_in_Time	Q7889
 A_Jax	A Jax	video game	https://strategywiki.org/wiki/A_Jax	Q7889
 A_Kingdom_for_Keflings	A Kingdom for Keflings	video game	https://strategywiki.org/wiki/A_Kingdom_for_Keflings	Q7889
@@ -745,7 +746,6 @@ Best_Play_Pro_Yakyuu	Best Play Pro Yakyuu	video game	https://strategywiki.org/wi
 Beyond_Good_&_Evil	Beyond Good & Evil	video game	https://strategywiki.org/wiki/Beyond_Good_%26_Evil	Q7889
 Beyond_Oasis	Beyond Oasis	video game	https://strategywiki.org/wiki/Beyond_Oasis	Q7889
 Beyond_Zork	Beyond Zork	video game	https://strategywiki.org/wiki/Beyond_Zork	Q7889
-Beyond_the_Destiny	Beyond the Destiny	video game	https://strategywiki.org/wiki/Beyond_the_Destiny	Q7889
 Bible_Adventures	Bible Adventures	video game	https://strategywiki.org/wiki/Bible_Adventures	Q7889
 Big_Bang_Pro_Wrestling	Big Bang Pro Wrestling	video game	https://strategywiki.org/wiki/Big_Bang_Pro_Wrestling	Q7889
 Big_Brain_Academy	Big Brain Academy	video game	https://strategywiki.org/wiki/Big_Brain_Academy	Q7889
@@ -934,7 +934,6 @@ Bravoman	Bravoman	video game	https://strategywiki.org/wiki/Bravoman	Q7889
 Brawl_Brothers	Brawl Brothers	video game	https://strategywiki.org/wiki/Brawl_Brothers	Q7889
 Brawlhalla	Brawlhalla	video game	https://strategywiki.org/wiki/Brawlhalla	Q7889
 Break_In	Break In	video game	https://strategywiki.org/wiki/Break_In	Q7889
-Breakaway	Breakaway	video game	https://strategywiki.org/wiki/Breakaway	Q7889
 Breakaway_IV	Breakaway IV	video game	https://strategywiki.org/wiki/Breakaway_IV	Q7889
 Breakers	Breakers	video game	https://strategywiki.org/wiki/Breakers	Q7889
 Breakers_Collection	Breakers Collection	video game	https://strategywiki.org/wiki/Breakers_Collection	Q7889
@@ -1093,6 +1092,7 @@ Carrier_Command	Carrier Command	video game	https://strategywiki.org/wiki/Carrier
 Carrier_Command_2	Carrier Command 2	video game	https://strategywiki.org/wiki/Carrier_Command_2	Q7889
 Cars	Cars	video game	https://strategywiki.org/wiki/Cars	Q7889
 Cars_Mater-National_Championship	Cars Mater-National Championship	video game	https://strategywiki.org/wiki/Cars_Mater-National_Championship	Q7889
+Carto	Carto	video game	https://strategywiki.org/wiki/Carto	Q7889
 Cartoon_Network_Block_Party	Cartoon Network Block Party	video game	https://strategywiki.org/wiki/Cartoon_Network_Block_Party	Q7889
 Cartoon_Network_Speedway	Cartoon Network Speedway	video game	https://strategywiki.org/wiki/Cartoon_Network_Speedway	Q7889
 Cartoon_Network:_Punch_Time_Explosion	Cartoon Network: Punch Time Explosion	video game	https://strategywiki.org/wiki/Cartoon_Network%3A_Punch_Time_Explosion	Q7889
@@ -1588,6 +1588,7 @@ Demon_Sword	Demon Sword	video game	https://strategywiki.org/wiki/Demon_Sword	Q78
 Demon's_Crest	Demon's Crest	video game	https://strategywiki.org/wiki/Demon%27s_Crest	Q7889
 Demon's_Souls	Demon's Souls	video game	https://strategywiki.org/wiki/Demon%27s_Souls	Q7889
 Demon's_Tilt	Demon's Tilt	video game	https://strategywiki.org/wiki/Demon%27s_Tilt	Q7889
+DemonCrawl	DemonCrawl	video game	https://strategywiki.org/wiki/DemonCrawl	Q7889
 Demoneye-X	Demoneye-X	video game	https://strategywiki.org/wiki/Demoneye-X	Q7889
 Dengeki_Big_Bang!	Dengeki Big Bang!	video game	https://strategywiki.org/wiki/Dengeki_Big_Bang%21	Q7889
 Densetsu_no_Ogre_Battle_Gaiden:_Zenobia_no_Ouji	Densetsu no Ogre Battle Gaiden: Zenobia no Ouji	video game	https://strategywiki.org/wiki/Densetsu_no_Ogre_Battle_Gaiden%3A_Zenobia_no_Ouji	Q7889
@@ -2207,6 +2208,9 @@ Fallout_2	Fallout 2	video game	https://strategywiki.org/wiki/Fallout_2	Q7889
 Fallout_3	Fallout 3	video game	https://strategywiki.org/wiki/Fallout_3	Q7889
 Fallout_4	Fallout 4	video game	https://strategywiki.org/wiki/Fallout_4	Q7889
 Fallout_76	Fallout 76	video game	https://strategywiki.org/wiki/Fallout_76	Q7889
+Fallout_Pinball	Fallout Pinball	video game	https://strategywiki.org/wiki/Fallout_Pinball	Q7889
+Fallout_Shelter	Fallout Shelter	video game	https://strategywiki.org/wiki/Fallout_Shelter	Q7889
+Fallout_Shelter_Online	Fallout Shelter Online	video game	https://strategywiki.org/wiki/Fallout_Shelter_Online	Q7889
 Fallout_Tactics:_Brotherhood_of_Steel	Fallout Tactics: Brotherhood of Steel	video game	https://strategywiki.org/wiki/Fallout_Tactics%3A_Brotherhood_of_Steel	Q7889
 Fallout:_Brotherhood_of_Steel	Fallout: Brotherhood of Steel	video game	https://strategywiki.org/wiki/Fallout%3A_Brotherhood_of_Steel	Q7889
 Fallout:_New_Vegas	Fallout: New Vegas	video game	https://strategywiki.org/wiki/Fallout%3A_New_Vegas	Q7889
@@ -6033,6 +6037,7 @@ Shogun	Shogun	video game	https://strategywiki.org/wiki/Shogun	Q7889
 Shogun:_Total_War	Shogun: Total War	video game	https://strategywiki.org/wiki/Shogun%3A_Total_War	Q7889
 Shoot_the_Bull	Shoot the Bull	video game	https://strategywiki.org/wiki/Shoot_the_Bull	Q7889
 Shooting_Range	Shooting Range	video game	https://strategywiki.org/wiki/Shooting_Range	Q7889
+Shotgun_King:_The_Final_Checkmate	Shotgun King: The Final Checkmate	video game	https://strategywiki.org/wiki/Shotgun_King%3A_The_Final_Checkmate	Q7889
 Shoukoushi_Ceddie	Shoukoushi Ceddie	video game	https://strategywiki.org/wiki/Shoukoushi_Ceddie	Q7889
 Shovel_Knight	Shovel Knight	video game	https://strategywiki.org/wiki/Shovel_Knight	Q7889
 Shrek_Smash_n'_Crash_Racing	Shrek Smash n' Crash Racing	video game	https://strategywiki.org/wiki/Shrek_Smash_n%27_Crash_Racing	Q7889
@@ -6560,6 +6565,7 @@ Story_of_Seasons:_Friends_of_Mineral_Town	Story of Seasons: Friends of Mineral T
 Story_of_Seasons:_Pioneers_of_Olive_Town	Story of Seasons: Pioneers of Olive Town	video game	https://strategywiki.org/wiki/Story_of_Seasons%3A_Pioneers_of_Olive_Town	Q7889
 Story_of_Seasons:_Trio_of_Towns	Story of Seasons: Trio of Towns	video game	https://strategywiki.org/wiki/Story_of_Seasons%3A_Trio_of_Towns	Q7889
 Straight_Flush	Straight Flush	video game	https://strategywiki.org/wiki/Straight_Flush	Q7889
+Strange_Horticulture	Strange Horticulture	video game	https://strategywiki.org/wiki/Strange_Horticulture	Q7889
 Stranger_of_Paradise:_Final_Fantasy_Origin	Stranger of Paradise: Final Fantasy Origin	video game	https://strategywiki.org/wiki/Stranger_of_Paradise%3A_Final_Fantasy_Origin	Q7889
 Stranger_of_Sword_City	Stranger of Sword City	video game	https://strategywiki.org/wiki/Stranger_of_Sword_City	Q7889
 Stray	Stray	video game	https://strategywiki.org/wiki/Stray	Q7889
@@ -6864,6 +6870,7 @@ Super_Zaxxon	Super Zaxxon	video game	https://strategywiki.org/wiki/Super_Zaxxon	
 SuperTed	SuperTed	video game	https://strategywiki.org/wiki/SuperTed	Q7889
 SuperTed:_The_Search_for_Spot	SuperTed: The Search for Spot	video game	https://strategywiki.org/wiki/SuperTed%3A_The_Search_for_Spot	Q7889
 Superfrog	Superfrog	video game	https://strategywiki.org/wiki/Superfrog	Q7889
+Superliminal	Superliminal	video game	https://strategywiki.org/wiki/Superliminal	Q7889
 Superman	Superman	video game	https://strategywiki.org/wiki/Superman	Q7889
 Superman_(NES)	Superman (NES)	video game	https://strategywiki.org/wiki/Superman_%28NES%29	Q7889
 Superman_Returns	Superman Returns	video game	https://strategywiki.org/wiki/Superman_Returns	Q7889
@@ -7352,6 +7359,7 @@ The_Punisher_(2004)	The Punisher (2004)	video game	https://strategywiki.org/wiki
 The_Quest	The Quest	video game	https://strategywiki.org/wiki/The_Quest	Q7889
 The_Quest_for_the_Time-Bird	The Quest for the Time-Bird	video game	https://strategywiki.org/wiki/The_Quest_for_the_Time-Bird	Q7889
 The_Quest_of_Ki	The Quest of Ki	video game	https://strategywiki.org/wiki/The_Quest_of_Ki	Q7889
+The_Quiet_Man	The Quiet Man	video game	https://strategywiki.org/wiki/The_Quiet_Man	Q7889
 The_Real_Ghostbusters	The Real Ghostbusters	video game	https://strategywiki.org/wiki/The_Real_Ghostbusters	Q7889
 The_Ren_&_Stimpy_Show_Presents:_Stimpy's_Invention	The Ren & Stimpy Show Presents: Stimpy's Invention	video game	https://strategywiki.org/wiki/The_Ren_%26_Stimpy_Show_Presents%3A_Stimpy%27s_Invention	Q7889
 The_Ren_&_Stimpy_Show:_Buckeroo$	The Ren & Stimpy Show: Buckeroo$	video game	https://strategywiki.org/wiki/The_Ren_%26_Stimpy_Show%3A_Buckeroo%24	Q7889
