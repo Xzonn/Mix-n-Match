@@ -2,7 +2,7 @@ id	name	desc	url	type
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
 AR_Games	AR Games	video game	https://www.mariowiki.com/AR_Games	Q7889
 Alejandra_Cazares	Alejandra Cazares	human	https://www.mariowiki.com/Alejandra_Cazares	Q5
-All_Night_Nippon_Super_Mario_Bros.	All Night Nippon Super Mario Bros.	video game	https://www.mariowiki.com/All_Night_Nippon_Super_Mario_Bros.	Q7889
+All_Night_Nippon:_Super_Mario_Bros.	All Night Nippon: Super Mario Bros.	video game	https://www.mariowiki.com/All_Night_Nippon%3A_Super_Mario_Bros.	Q7889
 Alleyway	Alleyway	video game	https://www.mariowiki.com/Alleyway	Q7889
 AlphaDream	AlphaDream	company	https://www.mariowiki.com/AlphaDream	Q4830453
 Amiibo_tap:_Nintendo's_Greatest_Bits	Amiibo tap: Nintendo's Greatest Bits	video game	https://www.mariowiki.com/Amiibo_tap%3A_Nintendo%27s_Greatest_Bits	Q7889
@@ -74,7 +74,7 @@ Dayvv_Brooks	Dayvv Brooks	human	https://www.mariowiki.com/Dayvv_Brooks	Q5
 Dean_Harrington	Dean Harrington	human	https://www.mariowiki.com/Dean_Harrington	Q5
 Deanna_Mustard	Deanna Mustard	human	https://www.mariowiki.com/Deanna_Mustard	Q5
 Dennis_Hopper	Dennis Hopper	human	https://www.mariowiki.com/Dennis_Hopper	Q5
-Densetsu_no_Starfy_3	Densetsu no Starfy 3	video game	https://www.mariowiki.com/Densetsu_no_Starfy_3	Q7889
+Densetsu_no_Stafy_3	Densetsu no Stafy 3	video game	https://www.mariowiki.com/Densetsu_no_Stafy_3	Q7889
 Dex_Manley	Dex Manley	human	https://www.mariowiki.com/Dex_Manley	Q5
 Diddy_Kong_Pilot_(2001)	Diddy Kong Pilot (2001)	video game	https://www.mariowiki.com/Diddy_Kong_Pilot_%282001%29	Q7889
 Diddy_Kong_Pilot_(2003)	Diddy Kong Pilot (2003)	video game	https://www.mariowiki.com/Diddy_Kong_Pilot_%282003%29	Q7889
@@ -143,6 +143,7 @@ Dr._Mario_Online_Rx	Dr. Mario Online Rx	video game	https://www.mariowiki.com/Dr.
 Dr._Mario_World	Dr. Mario World	video game	https://www.mariowiki.com/Dr._Mario_World	Q7889
 Ed_Solomon	Ed Solomon	human	https://www.mariowiki.com/Ed_Solomon	Q5
 Egg_(Game_&_Watch)	Egg (Game & Watch)	video game	https://www.mariowiki.com/Egg_%28Game_%26_Watch%29	Q7889
+Eric_Bauza	Eric Bauza	human	https://www.mariowiki.com/Eric_Bauza	Q5
 Eric_Newsome	Eric Newsome	human	https://www.mariowiki.com/Eric_Newsome	Q5
 Erica_Lindbeck	Erica Lindbeck	human	https://www.mariowiki.com/Erica_Lindbeck	Q5
 Erika_Strobel	Erika Strobel	human	https://www.mariowiki.com/Erika_Strobel	Q5
@@ -204,7 +205,7 @@ Hostess	Hostess	company	https://www.mariowiki.com/Hostess	Q4830453
 Hotel_Mario	Hotel Mario	video game	https://www.mariowiki.com/Hotel_Mario	Q7889
 Howard_Phillips	Howard Phillips	human	https://www.mariowiki.com/Howard_Phillips	Q5
 Hudson_Soft	Hudson Soft	company	https://www.mariowiki.com/Hudson_Soft	Q4830453
-I_Am_a_Teacher:_Super_Mario_no_Sweater	I Am a Teacher: Super Mario no Sweater	video game	https://www.mariowiki.com/I_Am_a_Teacher%3A_Super_Mario_no_Sweater	Q7889
+I_am_a_teacher:_Super_Mario_Sweater	I am a teacher: Super Mario Sweater	video game	https://www.mariowiki.com/I_am_a_teacher%3A_Super_Mario_Sweater	Q7889
 IQue	IQue	company	https://www.mariowiki.com/IQue	Q4830453
 Ian_James_Corlett	Ian James Corlett	human	https://www.mariowiki.com/Ian_James_Corlett	Q5
 Ichiro_Shimakura	Ichiro Shimakura	human	https://www.mariowiki.com/Ichiro_Shimakura	Q5
@@ -242,6 +243,7 @@ Kelsey_Hutchison	Kelsey Hutchison	human	https://www.mariowiki.com/Kelsey_Hutchis
 Kenji_Miki	Kenji Miki	human	https://www.mariowiki.com/Kenji_Miki	Q5
 Kenneth_W._James	Kenneth W. James	human	https://www.mariowiki.com/Kenneth_W._James	Q5
 Kensuke_Tanabe	Kensuke Tanabe	human	https://www.mariowiki.com/Kensuke_Tanabe	Q5
+Kenta_Miyake	Kenta Miyake	human	https://www.mariowiki.com/Kenta_Miyake	Q5
 Kenta_Motokura	Kenta Motokura	human	https://www.mariowiki.com/Kenta_Motokura	Q5
 Kenta_Nagata	Kenta Nagata	human	https://www.mariowiki.com/Kenta_Nagata	Q5
 Kenta_Usui	Kenta Usui	human	https://www.mariowiki.com/Kenta_Usui	Q5
@@ -280,6 +282,7 @@ Luigi's_Mansion_Arcade	Luigi's Mansion Arcade	video game	https://www.mariowiki.c
 Luigi's_Mansion:_Dark_Moon	Luigi's Mansion: Dark Moon	video game	https://www.mariowiki.com/Luigi%27s_Mansion%3A_Dark_Moon	Q7889
 Magic_Johnson	Magic Johnson	human	https://www.mariowiki.com/Magic_Johnson	Q5
 Mahito_Yokota	Mahito Yokota	human	https://www.mariowiki.com/Mahito_Yokota	Q5
+Mamoru_Miyano	Mamoru Miyano	human	https://www.mariowiki.com/Mamoru_Miyano	Q5
 Manhole_(Game_&_Watch)	Manhole (Game & Watch)	video game	https://www.mariowiki.com/Manhole_%28Game_%26_Watch%29	Q7889
 Marc_Graue	Marc Graue	human	https://www.mariowiki.com/Marc_Graue	Q5
 Mario_&_Luigi_(series)	Mario & Luigi (series)	video game series	https://www.mariowiki.com/Mario_%26_Luigi_%28series%29	Q7058673

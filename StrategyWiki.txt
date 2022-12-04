@@ -777,9 +777,7 @@ BioShock:_Ultimate_Rapture_Edition	BioShock: Ultimate Rapture Edition	video game
 Biohazard_4	Biohazard 4	video game	https://strategywiki.org/wiki/Biohazard_4	Q7889
 Biomotor_Unitron	Biomotor Unitron	video game	https://strategywiki.org/wiki/Biomotor_Unitron	Q7889
 Bionic_Commando	Bionic Commando	video game	https://strategywiki.org/wiki/Bionic_Commando	Q7889
-Bionic_Commando_(Game_Boy)	Bionic Commando (Game Boy)	video game	https://strategywiki.org/wiki/Bionic_Commando_%28Game_Boy%29	Q7889
 Bionic_Commando_(NES)	Bionic Commando (NES)	video game	https://strategywiki.org/wiki/Bionic_Commando_%28NES%29	Q7889
-Bionic_Commando_Rearmed	Bionic Commando Rearmed	video game	https://strategywiki.org/wiki/Bionic_Commando_Rearmed	Q7889
 Bionic_Commando:_Elite_Forces	Bionic Commando: Elite Forces	video game	https://strategywiki.org/wiki/Bionic_Commando%3A_Elite_Forces	Q7889
 Bionicle:_Matoran_Adventures	Bionicle: Matoran Adventures	video game	https://strategywiki.org/wiki/Bionicle%3A_Matoran_Adventures	Q7889
 Bionicle:_Maze_of_Shadows	Bionicle: Maze of Shadows	video game	https://strategywiki.org/wiki/Bionicle%3A_Maze_of_Shadows	Q7889
@@ -2189,6 +2187,7 @@ Fable_III	Fable III	video game	https://strategywiki.org/wiki/Fable_III	Q7889
 Fable:_The_Lost_Chapters	Fable: The Lost Chapters	video game	https://strategywiki.org/wiki/Fable%3A_The_Lost_Chapters	Q7889
 Face_Off	Face Off	video game	https://strategywiki.org/wiki/Face_Off	Q7889
 Faceball_2000	Faceball 2000	video game	https://strategywiki.org/wiki/Faceball_2000	Q7889
+Faceball_2000_(Game_Boy)	Faceball 2000 (Game Boy)	video game	https://strategywiki.org/wiki/Faceball_2000_%28Game_Boy%29	Q7889
 Faerie_Dust_Story:_Meikyuu_no_Elfeene	Faerie Dust Story: Meikyuu no Elfeene	video game	https://strategywiki.org/wiki/Faerie_Dust_Story%3A_Meikyuu_no_Elfeene	Q7889
 Faerie_Solitaire	Faerie Solitaire	video game	https://strategywiki.org/wiki/Faerie_Solitaire	Q7889
 Fahrenheit	Fahrenheit	video game	https://strategywiki.org/wiki/Fahrenheit	Q7889
@@ -4280,6 +4279,7 @@ Minesweeper	Minesweeper	video game	https://strategywiki.org/wiki/Minesweeper	Q78
 Mini_Golf	Mini Golf	video game	https://strategywiki.org/wiki/Mini_Golf	Q7889
 Mini_Golf_(1985)	Mini Golf (1985)	video game	https://strategywiki.org/wiki/Mini_Golf_%281985%29	Q7889
 Mini_Mario_&_Friends:_amiibo_Challenge	Mini Mario & Friends: amiibo Challenge	video game	https://strategywiki.org/wiki/Mini_Mario_%26_Friends%3A_amiibo_Challenge	Q7889
+Mini_Metro	Mini Metro	video game	https://strategywiki.org/wiki/Mini_Metro	Q7889
 Mini_Motorways	Mini Motorways	video game	https://strategywiki.org/wiki/Mini_Motorways	Q7889
 Minivader	Minivader	video game	https://strategywiki.org/wiki/Minivader	Q7889
 Miracle_Ropit's_Adventure_in_2100	Miracle Ropit's Adventure in 2100	video game	https://strategywiki.org/wiki/Miracle_Ropit%27s_Adventure_in_2100	Q7889
@@ -5076,6 +5076,7 @@ Plants_vs._Zombies	Plants vs. Zombies	video game	https://strategywiki.org/wiki/P
 Plants_vs._Zombies:_Battle_for_Neighborville	Plants vs. Zombies: Battle for Neighborville	video game	https://strategywiki.org/wiki/Plants_vs._Zombies%3A_Battle_for_Neighborville	Q7889
 Platoon	Platoon	video game	https://strategywiki.org/wiki/Platoon	Q7889
 PlayStation_Classic	PlayStation Classic	video game	https://strategywiki.org/wiki/PlayStation_Classic	Q7889
+Please_Fix_The_Road	Please Fix The Road	video game	https://strategywiki.org/wiki/Please_Fix_The_Road	Q7889
 Pleasure_Goal:_5_on_5_Mini_Soccer	Pleasure Goal: 5 on 5 Mini Soccer	video game	https://strategywiki.org/wiki/Pleasure_Goal%3A_5_on_5_Mini_Soccer	Q7889
 Plus_Alpha	Plus Alpha	video game	https://strategywiki.org/wiki/Plus_Alpha	Q7889
 Pnickies	Pnickies	video game	https://strategywiki.org/wiki/Pnickies	Q7889
@@ -7080,6 +7081,7 @@ Tetris_99	Tetris 99	video game	https://strategywiki.org/wiki/Tetris_99	Q7889
 Tetris_Attack	Tetris Attack	video game	https://strategywiki.org/wiki/Tetris_Attack	Q7889
 Tetris_DS	Tetris DS	video game	https://strategywiki.org/wiki/Tetris_DS	Q7889
 Tetris_Party	Tetris Party	video game	https://strategywiki.org/wiki/Tetris_Party	Q7889
+Tetris:_The_Grand_Master	Tetris: The Grand Master	video game	https://strategywiki.org/wiki/Tetris%3A_The_Grand_Master	Q7889
 Tetsudou_Ou	Tetsudou Ou	video game	https://strategywiki.org/wiki/Tetsudou_Ou	Q7889
 Tetsuwan_Atom	Tetsuwan Atom	video game	https://strategywiki.org/wiki/Tetsuwan_Atom	Q7889
 The_7th_Guest	The 7th Guest	video game	https://strategywiki.org/wiki/The_7th_Guest	Q7889
