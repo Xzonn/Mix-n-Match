@@ -969,6 +969,7 @@ Bubble_Trouble:_Golly!_Ghost!_2	Bubble Trouble: Golly! Ghost! 2	video game	https
 Bubbles	Bubbles	video game	https://strategywiki.org/wiki/Bubbles	Q7889
 Bubsy_in_Claws_Encounters_of_the_Furred_Kind	Bubsy in Claws Encounters of the Furred Kind	video game	https://strategywiki.org/wiki/Bubsy_in_Claws_Encounters_of_the_Furred_Kind	Q7889
 Bubsy:_Paws_on_Fire!	Bubsy: Paws on Fire!	video game	https://strategywiki.org/wiki/Bubsy%3A_Paws_on_Fire%21	Q7889
+Bucket_Detective	Bucket Detective	video game	https://strategywiki.org/wiki/Bucket_Detective	Q7889
 Bud_Tucker_in_Double_Trouble	Bud Tucker in Double Trouble	video game	https://strategywiki.org/wiki/Bud_Tucker_in_Double_Trouble	Q7889
 Bug_Hunt	Bug Hunt	video game	https://strategywiki.org/wiki/Bug_Hunt	Q7889
 Bug!	Bug!	video game	https://strategywiki.org/wiki/Bug%21	Q7889
@@ -1428,6 +1429,7 @@ Culdcept_Revolt	Culdcept Revolt	video game	https://strategywiki.org/wiki/Culdcep
 Curious_George	Curious George	video game	https://strategywiki.org/wiki/Curious_George	Q7889
 Curse_of_the_Azure_Bonds	Curse of the Azure Bonds	video game	https://strategywiki.org/wiki/Curse_of_the_Azure_Bonds	Q7889
 Cursed_Mountain	Cursed Mountain	video game	https://strategywiki.org/wiki/Cursed_Mountain	Q7889
+Cursed_to_Golf	Cursed to Golf	video game	https://strategywiki.org/wiki/Cursed_to_Golf	Q7889
 Custom_Robo	Custom Robo	video game	https://strategywiki.org/wiki/Custom_Robo	Q7889
 Custom_Robo_Arena	Custom Robo Arena	video game	https://strategywiki.org/wiki/Custom_Robo_Arena	Q7889
 Custom_Robo_V2	Custom Robo V2	video game	https://strategywiki.org/wiki/Custom_Robo_V2	Q7889
@@ -1736,6 +1738,8 @@ Donald_Duck	Donald Duck	video game	https://strategywiki.org/wiki/Donald_Duck	Q78
 Donald_Duck:_Goin'_Quackers	Donald Duck: Goin' Quackers	video game	https://strategywiki.org/wiki/Donald_Duck%3A_Goin%27_Quackers	Q7889
 Donald_Duck:_Goin'_Quackers_(PlayStation_2)	Donald Duck: Goin' Quackers (PlayStation 2)	video game	https://strategywiki.org/wiki/Donald_Duck%3A_Goin%27_Quackers_%28PlayStation_2%29	Q7889
 Donald_Land	Donald Land	video game	https://strategywiki.org/wiki/Donald_Land	Q7889
+Donald_no_Obake_Taiji	Donald no Obake Taiji	video game	https://strategywiki.org/wiki/Donald_no_Obake_Taiji	Q7889
+Donald_no_TV_Show	Donald no TV Show	video game	https://strategywiki.org/wiki/Donald_no_TV_Show	Q7889
 Donkey_King	Donkey King	video game	https://strategywiki.org/wiki/Donkey_King	Q7889
 Donkey_Kong	Donkey Kong	video game	https://strategywiki.org/wiki/Donkey_Kong	Q7889
 Donkey_Kong_(Game_Boy)	Donkey Kong (Game Boy)	video game	https://strategywiki.org/wiki/Donkey_Kong_%28Game_Boy%29	Q7889
@@ -3102,6 +3106,7 @@ Hitman:_Codename_47	Hitman: Codename 47	video game	https://strategywiki.org/wiki
 Hitman:_Contracts	Hitman: Contracts	video game	https://strategywiki.org/wiki/Hitman%3A_Contracts	Q7889
 Hogan's_Alley	Hogan's Alley	video game	https://strategywiki.org/wiki/Hogan%27s_Alley	Q7889
 Hogs_of_War	Hogs of War	video game	https://strategywiki.org/wiki/Hogs_of_War	Q7889
+Hogwarts_Legacy	Hogwarts Legacy	video game	https://strategywiki.org/wiki/Hogwarts_Legacy	Q7889
 Hokkaidou_Rensa_Satsujin:_Ohotsuku_ni_Kiyu	Hokkaidou Rensa Satsujin: Ohotsuku ni Kiyu	video game	https://strategywiki.org/wiki/Hokkaidou_Rensa_Satsujin%3A_Ohotsuku_ni_Kiyu	Q7889
 Hokuto_no_Ken_(Famicom)	Hokuto no Ken (Famicom)	video game	https://strategywiki.org/wiki/Hokuto_no_Ken_%28Famicom%29	Q7889
 Hokuto_no_Ken_(Sega_Mark_III)	Hokuto no Ken (Sega Mark III)	video game	https://strategywiki.org/wiki/Hokuto_no_Ken_%28Sega_Mark_III%29	Q7889
@@ -3179,6 +3184,7 @@ Hyper_Pac-Man	Hyper Pac-Man	video game	https://strategywiki.org/wiki/Hyper_Pac-M
 Hyper_Princess_Pitch	Hyper Princess Pitch	video game	https://strategywiki.org/wiki/Hyper_Princess_Pitch	Q7889
 Hyper_Sports	Hyper Sports	video game	https://strategywiki.org/wiki/Hyper_Sports	Q7889
 Hyper_Street_Fighter_II	Hyper Street Fighter II	video game	https://strategywiki.org/wiki/Hyper_Street_Fighter_II	Q7889
+Hyperdimension_Neptunia_U:_Action_Unleashed	Hyperdimension Neptunia U: Action Unleashed	video game	https://strategywiki.org/wiki/Hyperdimension_Neptunia_U%3A_Action_Unleashed	Q7889
 Hyrule_Warriors	Hyrule Warriors	video game	https://strategywiki.org/wiki/Hyrule_Warriors	Q7889
 Hyrule_Warriors:_Age_of_Calamity	Hyrule Warriors: Age of Calamity	video game	https://strategywiki.org/wiki/Hyrule_Warriors%3A_Age_of_Calamity	Q7889
 I_Love_Softball	I Love Softball	video game	https://strategywiki.org/wiki/I_Love_Softball	Q7889
@@ -4639,7 +4645,6 @@ Nelke_&_the_Legendary_Alchemists:_Ateliers_of_the_New_World	Nelke & the Legendar
 Nelson_Tethers:_Puzzle_Agent	Nelson Tethers: Puzzle Agent	video game	https://strategywiki.org/wiki/Nelson_Tethers%3A_Puzzle_Agent	Q7889
 Nemesis	Nemesis	video game	https://strategywiki.org/wiki/Nemesis	Q7889
 Nemesis_'90_Kai	Nemesis '90 Kai	video game	https://strategywiki.org/wiki/Nemesis_%2790_Kai	Q7889
-Nemesis_(2018)	Nemesis (2018)	video game	https://strategywiki.org/wiki/Nemesis_%282018%29	Q7889
 Nemesis_(Game_Boy)	Nemesis (Game Boy)	video game	https://strategywiki.org/wiki/Nemesis_%28Game_Boy%29	Q7889
 Nemesis_2	Nemesis 2	video game	https://strategywiki.org/wiki/Nemesis_2	Q7889
 Nemesis_3:_The_Eve_of_Destruction	Nemesis 3: The Eve of Destruction	video game	https://strategywiki.org/wiki/Nemesis_3%3A_The_Eve_of_Destruction	Q7889
@@ -6240,6 +6245,7 @@ Sonic_Chronicles:_The_Dark_Brotherhood	Sonic Chronicles: The Dark Brotherhood	vi
 Sonic_Colors	Sonic Colors	video game	https://strategywiki.org/wiki/Sonic_Colors	Q7889
 Sonic_Drift	Sonic Drift	video game	https://strategywiki.org/wiki/Sonic_Drift	Q7889
 Sonic_Forces	Sonic Forces	video game	https://strategywiki.org/wiki/Sonic_Forces	Q7889
+Sonic_Frontiers	Sonic Frontiers	video game	https://strategywiki.org/wiki/Sonic_Frontiers	Q7889
 Sonic_Gems_Collection	Sonic Gems Collection	video game	https://strategywiki.org/wiki/Sonic_Gems_Collection	Q7889
 Sonic_Generations	Sonic Generations	video game	https://strategywiki.org/wiki/Sonic_Generations	Q7889
 Sonic_Generations_(Nintendo_3DS)	Sonic Generations (Nintendo 3DS)	video game	https://strategywiki.org/wiki/Sonic_Generations_%28Nintendo_3DS%29	Q7889
@@ -7085,6 +7091,7 @@ Terminator_Genisys:_Future_War	Terminator Genisys: Future War	video game	https:/
 Terminator:_Resistance	Terminator: Resistance	video game	https://strategywiki.org/wiki/Terminator%3A_Resistance	Q7889
 Terra_Battle	Terra Battle	video game	https://strategywiki.org/wiki/Terra_Battle	Q7889
 Terra_Cresta	Terra Cresta	video game	https://strategywiki.org/wiki/Terra_Cresta	Q7889
+Terra_Cresta_II	Terra Cresta II	video game	https://strategywiki.org/wiki/Terra_Cresta_II	Q7889
 Terra_Diver	Terra Diver	video game	https://strategywiki.org/wiki/Terra_Diver	Q7889
 Terra_Force	Terra Force	video game	https://strategywiki.org/wiki/Terra_Force	Q7889
 Terranigma	Terranigma	video game	https://strategywiki.org/wiki/Terranigma	Q7889
