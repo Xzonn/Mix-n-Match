@@ -163,6 +163,7 @@ First4Figures	First4Figures	company	https://www.mariowiki.com/First4Figures	Q483
 Fortune_Street	Fortune Street	video game	https://www.mariowiki.com/Fortune_Street	Q7889
 Frank_Welker	Frank Welker	human	https://www.mariowiki.com/Frank_Welker	Q5
 Fred_Armisen	Fred Armisen	human	https://www.mariowiki.com/Fred_Armisen	Q5
+Freiberger	Freiberger	company	https://www.mariowiki.com/Freiberger	Q4830453
 Fryda_Wolff	Fryda Wolff	human	https://www.mariowiki.com/Fryda_Wolff	Q5
 GREZZO_Co.,Ltd.	GREZZO Co.,Ltd.	company	https://www.mariowiki.com/GREZZO_Co.%2CLtd.	Q4830453
 Game_&_Wario	Game & Wario	video game	https://www.mariowiki.com/Game_%26_Wario	Q7889
@@ -700,8 +701,6 @@ Yoichi_Kotabe	Yoichi Kotabe	human	https://www.mariowiki.com/Yoichi_Kotabe	Q5
 Yoko_Shimomura	Yoko Shimomura	human	https://www.mariowiki.com/Yoko_Shimomura	Q5
 Yoshi_(franchise)	Yoshi (franchise)	video game series	https://www.mariowiki.com/Yoshi_%28franchise%29	Q7058673
 Yoshi_(game)	Yoshi (game)	video game	https://www.mariowiki.com/Yoshi_%28game%29	Q7889
-Yoshi_(platform_series)	Yoshi (platform series)	video game series	https://www.mariowiki.com/Yoshi_%28platform_series%29	Q7058673
-Yoshi_(puzzle_series)	Yoshi (puzzle series)	video game series	https://www.mariowiki.com/Yoshi_%28puzzle_series%29	Q7058673
 Yoshi_Demo	Yoshi Demo	video game	https://www.mariowiki.com/Yoshi_Demo	Q7889
 Yoshi_Racing	Yoshi Racing	video game	https://www.mariowiki.com/Yoshi_Racing	Q7889
 Yoshi_Topsy-Turvy	Yoshi Topsy-Turvy	video game	https://www.mariowiki.com/Yoshi_Topsy-Turvy	Q7889
