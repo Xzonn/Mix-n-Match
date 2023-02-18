@@ -44,12 +44,13 @@ def parse(products):
     # 检查是否为bundle
     if any([sku["Sku"]["Properties"]["IsBundle"] for sku in game["DisplaySkuAvailabilities"]]):
       continue
+    product_id = game["ProductId"].strip().lower()
     release_date = game["MarketProperties"][0]["OriginalReleaseDate"][: 4]
-    results[game["ProductId"].strip()] = {
-      "id": game["ProductId"].strip(),
+    results[product_id] = {
+      "id": product_id,
       "name": (game["LocalizedProperties"][0]["ShortTitle"] or game["LocalizedProperties"][0]["ProductTitle"]).replace("™", "").replace("®", "").replace("\n", " ").strip(),
       "desc": f'{release_date} video game by {game["LocalizedProperties"][0]["PublisherName"]}'.replace("  ", " "),
-      "url": f'https://www.microsoft.com/p/-/{game["ProductId"].strip()}',
+      "url": f'https://www.microsoft.com/p/-/{product_id}',
       "type": "Q7889",
       "P437": "Q54820071",
       "P750": "Q135288"
