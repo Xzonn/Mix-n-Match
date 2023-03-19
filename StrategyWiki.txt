@@ -84,6 +84,7 @@ A_Plague_Tale:_Innocence	A Plague Tale: Innocence	video game	https://strategywik
 A_Ressha_de_Ikou	A Ressha de Ikou	video game	https://strategywiki.org/wiki/A_Ressha_de_Ikou	Q7889
 A_Tale_in_the_Desert	A Tale in the Desert	video game	https://strategywiki.org/wiki/A_Tale_in_the_Desert	Q7889
 A_Vampyre_Story	A Vampyre Story	video game	https://strategywiki.org/wiki/A_Vampyre_Story	Q7889
+A_Year_at_Pooh_Corner	A Year at Pooh Corner	video game	https://strategywiki.org/wiki/A_Year_at_Pooh_Corner	Q7889
 A.I.M._2:_Clan_Wars	A.I.M. 2: Clan Wars	video game	https://strategywiki.org/wiki/A.I.M._2%3A_Clan_Wars	Q7889
 A.I.M._Racing	A.I.M. Racing	video game	https://strategywiki.org/wiki/A.I.M._Racing	Q7889
 ADK_Damashii	ADK Damashii	video game	https://strategywiki.org/wiki/ADK_Damashii	Q7889
@@ -465,7 +466,6 @@ Assassin's_Creed_Chronicles:_Russia	Assassin's Creed Chronicles: Russia	video ga
 Assassin's_Creed_II	Assassin's Creed II	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_II	Q7889
 Assassin's_Creed_II:_Discovery	Assassin's Creed II: Discovery	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_II%3A_Discovery	Q7889
 Assassin's_Creed_III	Assassin's Creed III	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_III	Q7889
-Assassin's_Creed_III_Remastered	Assassin's Creed III Remastered	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_III_Remastered	Q7889
 Assassin's_Creed_III:_Liberation	Assassin's Creed III: Liberation	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_III%3A_Liberation	Q7889
 Assassin's_Creed_III:_Liberation_Remastered	Assassin's Creed III: Liberation Remastered	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_III%3A_Liberation_Remastered	Q7889
 Assassin's_Creed_IV:_Black_Flag	Assassin's Creed IV: Black Flag	video game	https://strategywiki.org/wiki/Assassin%27s_Creed_IV%3A_Black_Flag	Q7889
@@ -632,6 +632,7 @@ Bank_Panic	Bank Panic	video game	https://strategywiki.org/wiki/Bank_Panic	Q7889
 Baraduke	Baraduke	video game	https://strategywiki.org/wiki/Baraduke	Q7889
 Barbarian_II:_Axe_of_Rage	Barbarian II: Axe of Rage	video game	https://strategywiki.org/wiki/Barbarian_II%3A_Axe_of_Rage	Q7889
 Barf_And_Beer	Barf And Beer	video game	https://strategywiki.org/wiki/Barf_And_Beer	Q7889
+Bari_Bari_Densetsu	Bari Bari Densetsu	video game	https://strategywiki.org/wiki/Bari_Bari_Densetsu	Q7889
 Barnyard_Blaster	Barnyard Blaster	video game	https://strategywiki.org/wiki/Barnyard_Blaster	Q7889
 Baseball_(Game_Boy)	Baseball (Game Boy)	video game	https://strategywiki.org/wiki/Baseball_%28Game_Boy%29	Q7889
 Baseball_(NES)	Baseball (NES)	video game	https://strategywiki.org/wiki/Baseball_%28NES%29	Q7889
@@ -1188,6 +1189,7 @@ Chase	Chase	video game	https://strategywiki.org/wiki/Chase	Q7889
 Chase_H.Q.	Chase H.Q.	video game	https://strategywiki.org/wiki/Chase_H.Q.	Q7889
 Chase_H.Q._Plus_S.C.I.	Chase H.Q. Plus S.C.I.	video game	https://strategywiki.org/wiki/Chase_H.Q._Plus_S.C.I.	Q7889
 Checkmate	Checkmate	video game	https://strategywiki.org/wiki/Checkmate	Q7889
+Cheese_Cat-Astrophe_Starring_Speedy_Gonzales	Cheese Cat-Astrophe Starring Speedy Gonzales	video game	https://strategywiki.org/wiki/Cheese_Cat-Astrophe_Starring_Speedy_Gonzales	Q7889
 Chefrens_Pyramid	Chefrens Pyramid	video game	https://strategywiki.org/wiki/Chefrens_Pyramid	Q7889
 Cheops_Pyramid	Cheops Pyramid	video game	https://strategywiki.org/wiki/Cheops_Pyramid	Q7889
 Chessaria:_The_Tactical_Adventure	Chessaria: The Tactical Adventure	video game	https://strategywiki.org/wiki/Chessaria%3A_The_Tactical_Adventure	Q7889
@@ -1198,6 +1200,7 @@ Chex_Quest	Chex Quest	video game	https://strategywiki.org/wiki/Chex_Quest	Q7889
 Chibi-Robo!	Chibi-Robo!	video game	https://strategywiki.org/wiki/Chibi-Robo%21	Q7889
 Chicken_Shift	Chicken Shift	video game	https://strategywiki.org/wiki/Chicken_Shift	Q7889
 Chicory:_A_Colorful_Tale	Chicory: A Colorful Tale	video game	https://strategywiki.org/wiki/Chicory%3A_A_Colorful_Tale	Q7889
+Chiiku_Drill_Pocket_Monsters_Diamond_&_Pearl:_Moji_Kazu_Chie_Asobi	Chiiku Drill Pocket Monsters Diamond & Pearl: Moji Kazu Chie Asobi	video game	https://strategywiki.org/wiki/Chiiku_Drill_Pocket_Monsters_Diamond_%26_Pearl%3A_Moji_Kazu_Chie_Asobi	Q7889
 Chikyuu_Senshi_Rayieza	Chikyuu Senshi Rayieza	video game	https://strategywiki.org/wiki/Chikyuu_Senshi_Rayieza	Q7889
 Children_of_Mana	Children of Mana	video game	https://strategywiki.org/wiki/Children_of_Mana	Q7889
 Children_of_Morta	Children of Morta	video game	https://strategywiki.org/wiki/Children_of_Morta	Q7889
@@ -1729,6 +1732,8 @@ Disney's_Bonkers	Disney's Bonkers	video game	https://strategywiki.org/wiki/Disne
 Disney's_Hades_Challenge	Disney's Hades Challenge	video game	https://strategywiki.org/wiki/Disney%27s_Hades_Challenge	Q7889
 Disney's_Kim_Possible_3:_Team_Possible	Disney's Kim Possible 3: Team Possible	video game	https://strategywiki.org/wiki/Disney%27s_Kim_Possible_3%3A_Team_Possible	Q7889
 Disney's_Magical_Mirror_Starring_Mickey_Mouse	Disney's Magical Mirror Starring Mickey Mouse	video game	https://strategywiki.org/wiki/Disney%27s_Magical_Mirror_Starring_Mickey_Mouse	Q7889
+Disney's_Party	Disney's Party	video game	https://strategywiki.org/wiki/Disney%27s_Party	Q7889
+Disney's_Party_(Game_Boy_Advance)	Disney's Party (Game Boy Advance)	video game	https://strategywiki.org/wiki/Disney%27s_Party_%28Game_Boy_Advance%29	Q7889
 Disney's_Toontown_Online	Disney's Toontown Online	video game	https://strategywiki.org/wiki/Disney%27s_Toontown_Online	Q7889
 Dissidia_012_Final_Fantasy	Dissidia 012 Final Fantasy	video game	https://strategywiki.org/wiki/Dissidia_012_Final_Fantasy	Q7889
 Dissidia:_Final_Fantasy	Dissidia: Final Fantasy	video game	https://strategywiki.org/wiki/Dissidia%3A_Final_Fantasy	Q7889
@@ -1995,6 +2000,7 @@ Duck_Hunt	Duck Hunt	video game	https://strategywiki.org/wiki/Duck_Hunt	Q7889
 DuckTales	DuckTales	video game	https://strategywiki.org/wiki/DuckTales	Q7889
 DuckTales_2	DuckTales 2	video game	https://strategywiki.org/wiki/DuckTales_2	Q7889
 DuckTales:_Remastered	DuckTales: Remastered	video game	https://strategywiki.org/wiki/DuckTales%3A_Remastered	Q7889
+DuckTales:_Scrooge's_Loot	DuckTales: Scrooge's Loot	video game	https://strategywiki.org/wiki/DuckTales%3A_Scrooge%27s_Loot	Q7889
 DuckTales:_The_Quest_for_Gold	DuckTales: The Quest for Gold	video game	https://strategywiki.org/wiki/DuckTales%3A_The_Quest_for_Gold	Q7889
 Duckburg_P.D.:_Donald_on_Duty	Duckburg P.D.: Donald on Duty	video game	https://strategywiki.org/wiki/Duckburg_P.D.%3A_Donald_on_Duty	Q7889
 Ducks	Ducks	video game	https://strategywiki.org/wiki/Ducks	Q7889
@@ -2091,6 +2097,7 @@ Ehrgeiz	Ehrgeiz	video game	https://strategywiki.org/wiki/Ehrgeiz	Q7889
 Einhänder	Einhänder	video game	https://strategywiki.org/wiki/Einh%C3%A4nder	Q7889
 Eiyuden_Chronicle:_Hundred_Heroes	Eiyuden Chronicle: Hundred Heroes	video game	https://strategywiki.org/wiki/Eiyuden_Chronicle%3A_Hundred_Heroes	Q7889
 Eiyuden_Chronicle:_Rising	Eiyuden Chronicle: Rising	video game	https://strategywiki.org/wiki/Eiyuden_Chronicle%3A_Rising	Q7889
+Elden_Ring	Elden Ring	video game	https://strategywiki.org/wiki/Elden_Ring	Q7889
 Elebits	Elebits	video game	https://strategywiki.org/wiki/Elebits	Q7889
 Electrician	Electrician	video game	https://strategywiki.org/wiki/Electrician	Q7889
 Electroplankton	Electroplankton	video game	https://strategywiki.org/wiki/Electroplankton	Q7889
@@ -2285,6 +2292,7 @@ Family_Tennis_Advance	Family Tennis Advance	video game	https://strategywiki.org/
 Family_Trainer:_Rai_Rai_Kyonshis	Family Trainer: Rai Rai Kyonshis	video game	https://strategywiki.org/wiki/Family_Trainer%3A_Rai_Rai_Kyonshis	Q7889
 Famista_'89:_Kaimaku_Ban!!	Famista '89: Kaimaku Ban!!	video game	https://strategywiki.org/wiki/Famista_%2789%3A_Kaimaku_Ban%21%21	Q7889
 Famitre_Daiundoukai	Famitre Daiundoukai	video game	https://strategywiki.org/wiki/Famitre_Daiundoukai	Q7889
+Fantasia	Fantasia	video game	https://strategywiki.org/wiki/Fantasia	Q7889
 Fantastic_Four	Fantastic Four	video game	https://strategywiki.org/wiki/Fantastic_Four	Q7889
 Fantastic_Four_(2005)	Fantastic Four (2005)	video game	https://strategywiki.org/wiki/Fantastic_Four_%282005%29	Q7889
 Fantastic_Four:_Rise_of_the_Silver_Surfer	Fantastic Four: Rise of the Silver Surfer	video game	https://strategywiki.org/wiki/Fantastic_Four%3A_Rise_of_the_Silver_Surfer	Q7889
@@ -2452,6 +2460,7 @@ Fire_Rock	Fire Rock	video game	https://strategywiki.org/wiki/Fire_Rock	Q7889
 Fire_Shark	Fire Shark	video game	https://strategywiki.org/wiki/Fire_Shark	Q7889
 Fired_Up	Fired Up	video game	https://strategywiki.org/wiki/Fired_Up	Q7889
 Fireman_Sam	Fireman Sam	video game	https://strategywiki.org/wiki/Fireman_Sam	Q7889
+Fishing_Pico:_Donald_no_Adventure_Fishing	Fishing Pico: Donald no Adventure Fishing	video game	https://strategywiki.org/wiki/Fishing_Pico%3A_Donald_no_Adventure_Fishing	Q7889
 Fist_of_the_North_Star_(NES)	Fist of the North Star (NES)	video game	https://strategywiki.org/wiki/Fist_of_the_North_Star_%28NES%29	Q7889
 Fist_of_the_North_Star_(arcade)	Fist of the North Star (arcade)	video game	https://strategywiki.org/wiki/Fist_of_the_North_Star_%28arcade%29	Q7889
 Fist_of_the_North_Star:_Ken's_Rage	Fist of the North Star: Ken's Rage	video game	https://strategywiki.org/wiki/Fist_of_the_North_Star%3A_Ken%27s_Rage	Q7889
@@ -2506,6 +2515,7 @@ Fortune_Street	Fortune Street	video game	https://strategywiki.org/wiki/Fortune_S
 Forza_Horizon	Forza Horizon	video game	https://strategywiki.org/wiki/Forza_Horizon	Q7889
 Forza_Motorsport	Forza Motorsport	video game	https://strategywiki.org/wiki/Forza_Motorsport	Q7889
 Forza_Motorsport_2	Forza Motorsport 2	video game	https://strategywiki.org/wiki/Forza_Motorsport_2	Q7889
+Forza_Motorsport_3	Forza Motorsport 3	video game	https://strategywiki.org/wiki/Forza_Motorsport_3	Q7889
 Forza_Motorsport_5	Forza Motorsport 5	video game	https://strategywiki.org/wiki/Forza_Motorsport_5	Q7889
 Four_Players'_Tennis	Four Players' Tennis	video game	https://strategywiki.org/wiki/Four_Players%27_Tennis	Q7889
 Four_Trax	Four Trax	video game	https://strategywiki.org/wiki/Four_Trax	Q7889
@@ -2637,6 +2647,7 @@ Ganbare_Goemon_Gaiden:_Kieta_Ougon_Kiseru	Ganbare Goemon Gaiden: Kieta Ougon Kis
 Ganbare_Goemon!_Karakuri_Douchuu	Ganbare Goemon! Karakuri Douchuu	video game	https://strategywiki.org/wiki/Ganbare_Goemon%21_Karakuri_Douchuu	Q7889
 Ganbare_Goemon:_Mononoke_Douchuu_Tobidase_Nabe-Bugyou!	Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou!	video game	https://strategywiki.org/wiki/Ganbare_Goemon%3A_Mononoke_Douchuu_Tobidase_Nabe-Bugyou%21	Q7889
 Ganbare_Goemon:_Sarawareta_Ebisumaru	Ganbare Goemon: Sarawareta Ebisumaru	video game	https://strategywiki.org/wiki/Ganbare_Goemon%3A_Sarawareta_Ebisumaru	Q7889
+Ganbare_Goemon:_Uchuu_Kaizoku_Akogingu	Ganbare Goemon: Uchuu Kaizoku Akogingu	video game	https://strategywiki.org/wiki/Ganbare_Goemon%3A_Uchuu_Kaizoku_Akogingu	Q7889
 Ganbare_Neo_Poke-kun	Ganbare Neo Poke-kun	video game	https://strategywiki.org/wiki/Ganbare_Neo_Poke-kun	Q7889
 Ganbare_Pennant_Race!	Ganbare Pennant Race!	video game	https://strategywiki.org/wiki/Ganbare_Pennant_Race%21	Q7889
 Ganbare!_Golf_Boys	Ganbare! Golf Boys	video game	https://strategywiki.org/wiki/Ganbare%21_Golf_Boys	Q7889
@@ -2777,6 +2788,7 @@ GoldenEye_007	GoldenEye 007	video game	https://strategywiki.org/wiki/GoldenEye_0
 GoldenEye_007_(2010)	GoldenEye 007 (2010)	video game	https://strategywiki.org/wiki/GoldenEye_007_%282010%29	Q7889
 GoldenEye:_Rogue_Agent	GoldenEye: Rogue Agent	video game	https://strategywiki.org/wiki/GoldenEye%3A_Rogue_Agent	Q7889
 Goldwing	Goldwing	video game	https://strategywiki.org/wiki/Goldwing	Q7889
+Golf_(Game_Boy)	Golf (Game Boy)	video game	https://strategywiki.org/wiki/Golf_%28Game_Boy%29	Q7889
 Golf_(NES)	Golf (NES)	video game	https://strategywiki.org/wiki/Golf_%28NES%29	Q7889
 Golf_Club:_Birdie_Rush	Golf Club: Birdie Rush	video game	https://strategywiki.org/wiki/Golf_Club%3A_Birdie_Rush	Q7889
 Golf_Japan_Course	Golf Japan Course	video game	https://strategywiki.org/wiki/Golf_Japan_Course	Q7889
@@ -3409,6 +3421,9 @@ Kaijuu_Monogatari	Kaijuu Monogatari	video game	https://strategywiki.org/wiki/Kai
 Kaiketsu_Yanchamaru	Kaiketsu Yanchamaru	video game	https://strategywiki.org/wiki/Kaiketsu_Yanchamaru	Q7889
 Kaiser_Knuckle	Kaiser Knuckle	video game	https://strategywiki.org/wiki/Kaiser_Knuckle	Q7889
 Kaitei_Takara_Sagashi	Kaitei Takara Sagashi	video game	https://strategywiki.org/wiki/Kaitei_Takara_Sagashi	Q7889
+Kaitou_Saint_Tail	Kaitou Saint Tail	video game	https://strategywiki.org/wiki/Kaitou_Saint_Tail	Q7889
+Kaitou_Saint_Tail_(Sega_Saturn)	Kaitou Saint Tail (Sega Saturn)	video game	https://strategywiki.org/wiki/Kaitou_Saint_Tail_%28Sega_Saturn%29	Q7889
+Kaitou_Saint_Tail:_Saint_Tail_to_One,_Two,_Three!	Kaitou Saint Tail: Saint Tail to One, Two, Three!	video game	https://strategywiki.org/wiki/Kaitou_Saint_Tail%3A_Saint_Tail_to_One%2C_Two%2C_Three%21	Q7889
 Kaiun_Quiz	Kaiun Quiz	video game	https://strategywiki.org/wiki/Kaiun_Quiz	Q7889
 Kaizoku_Sentai_Gokaiger:_Atsumete_Henshin!_35_Sentai!	Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai!	video game	https://strategywiki.org/wiki/Kaizoku_Sentai_Gokaiger%3A_Atsumete_Henshin%21_35_Sentai%21	Q7889
 Kaizou_Choujin_Shubibinman	Kaizou Choujin Shubibinman	video game	https://strategywiki.org/wiki/Kaizou_Choujin_Shubibinman	Q7889
@@ -3595,6 +3610,9 @@ Kozmik_Krooz'r	Kozmik Krooz'r	video game	https://strategywiki.org/wiki/Kozmik_Kr
 Kram	Kram	video game	https://strategywiki.org/wiki/Kram	Q7889
 Kritika:_The_White_Knights	Kritika: The White Knights	video game	https://strategywiki.org/wiki/Kritika%3A_The_White_Knights	Q7889
 Kujaku_Ou	Kujaku Ou	video game	https://strategywiki.org/wiki/Kujaku_Ou	Q7889
+Kujaku_Ou_2:_Geneijou	Kujaku Ou 2: Geneijou	video game	https://strategywiki.org/wiki/Kujaku_Ou_2%3A_Geneijou	Q7889
+Kuma_no_Pooh-san_Christopher_Robin_o_Sagase!	Kuma no Pooh-san Christopher Robin o Sagase!	video game	https://strategywiki.org/wiki/Kuma_no_Pooh-san_Christopher_Robin_o_Sagase%21	Q7889
+Kuma_no_Pooh-san_Tanoshii_Tashizan_Hikizan	Kuma no Pooh-san Tanoshii Tashizan Hikizan	video game	https://strategywiki.org/wiki/Kuma_no_Pooh-san_Tanoshii_Tashizan_Hikizan	Q7889
 Kung-Fu_Master	Kung-Fu Master	video game	https://strategywiki.org/wiki/Kung-Fu_Master	Q7889
 Kunio-kun_no_Nekketsu_Soccer_League	Kunio-kun no Nekketsu Soccer League	video game	https://strategywiki.org/wiki/Kunio-kun_no_Nekketsu_Soccer_League	Q7889
 Kuri_Kinton	Kuri Kinton	video game	https://strategywiki.org/wiki/Kuri_Kinton	Q7889
@@ -3775,7 +3793,10 @@ Lode_Runner_III_-_The_Golden_Labyrinth	Lode Runner III - The Golden Labyrinth	vi
 Lode_Runner_IV_-_Teikoku_Karano_Dasshutsu	Lode Runner IV - Teikoku Karano Dasshutsu	video game	https://strategywiki.org/wiki/Lode_Runner_IV_-_Teikoku_Karano_Dasshutsu	Q7889
 Lomax	Lomax	video game	https://strategywiki.org/wiki/Lomax	Q7889
 Loom	Loom	video game	https://strategywiki.org/wiki/Loom	Q7889
-Looney_Tunes_(Game_Boy)	Looney Tunes (Game Boy)	video game	https://strategywiki.org/wiki/Looney_Tunes_%28Game_Boy%29	Q7889
+Looney_Tunes	Looney Tunes	video game	https://strategywiki.org/wiki/Looney_Tunes	Q7889
+Looney_Tunes_Racing	Looney Tunes Racing	video game	https://strategywiki.org/wiki/Looney_Tunes_Racing	Q7889
+Looney_Tunes:_Back_in_Action	Looney Tunes: Back in Action	video game	https://strategywiki.org/wiki/Looney_Tunes%3A_Back_in_Action	Q7889
+Looney_Tunes:_Back_in_Action_(Game_Boy_Advance)	Looney Tunes: Back in Action (Game Boy Advance)	video game	https://strategywiki.org/wiki/Looney_Tunes%3A_Back_in_Action_%28Game_Boy_Advance%29	Q7889
 Looney_Tunes:_Sheep_Raider	Looney Tunes: Sheep Raider	video game	https://strategywiki.org/wiki/Looney_Tunes%3A_Sheep_Raider	Q7889
 Lord_of_Magna:_Maiden_Heaven	Lord of Magna: Maiden Heaven	video game	https://strategywiki.org/wiki/Lord_of_Magna%3A_Maiden_Heaven	Q7889
 Lords_of_Thunder	Lords of Thunder	video game	https://strategywiki.org/wiki/Lords_of_Thunder	Q7889
@@ -4056,6 +4077,7 @@ Mat_Mania	Mat Mania	video game	https://strategywiki.org/wiki/Mat_Mania	Q7889
 Mat_Mania_Challenge	Mat Mania Challenge	video game	https://strategywiki.org/wiki/Mat_Mania_Challenge	Q7889
 Mata_Hari:_Betrayal_is_only_a_Kiss_Away	Mata Hari: Betrayal is only a Kiss Away	video game	https://strategywiki.org/wiki/Mata_Hari%3A_Betrayal_is_only_a_Kiss_Away	Q7889
 Math	Math	video game	https://strategywiki.org/wiki/Math	Q7889
+Math_Antics_with_Disney's_101_Dalmatians	Math Antics with Disney's 101 Dalmatians	video game	https://strategywiki.org/wiki/Math_Antics_with_Disney%27s_101_Dalmatians	Q7889
 Matou_no_Houkai	Matou no Houkai	video game	https://strategywiki.org/wiki/Matou_no_Houkai	Q7889
 Matrimelee	Matrimelee	video game	https://strategywiki.org/wiki/Matrimelee	Q7889
 Matsumoto_Toru_no_Kabushiki_Hisshougaku	Matsumoto Toru no Kabushiki Hisshougaku	video game	https://strategywiki.org/wiki/Matsumoto_Toru_no_Kabushiki_Hisshougaku	Q7889
@@ -4266,11 +4288,17 @@ Michael_Jackson's_Moonwalker_(arcade)	Michael Jackson's Moonwalker (arcade)	vide
 Michael_Jackson:_Moonwalker	Michael Jackson: Moonwalker	video game	https://strategywiki.org/wiki/Michael_Jackson%3A_Moonwalker	Q7889
 Michael_Jackson:_The_Experience	Michael Jackson: The Experience	video game	https://strategywiki.org/wiki/Michael_Jackson%3A_The_Experience	Q7889
 Michael_Jordan:_Chaos_in_the_Windy_City	Michael Jordan: Chaos in the Windy City	video game	https://strategywiki.org/wiki/Michael_Jordan%3A_Chaos_in_the_Windy_City	Q7889
+Mickey_Mouse's_Blast_Into_the_Past	Mickey Mouse's Blast Into the Past	video game	https://strategywiki.org/wiki/Mickey_Mouse%27s_Blast_Into_the_Past	Q7889
 Mickey_Mouse:_Magic_Wands!	Mickey Mouse: Magic Wands!	video game	https://strategywiki.org/wiki/Mickey_Mouse%3A_Magic_Wands%21	Q7889
 Mickey_Mouse:_The_Computer_Game	Mickey Mouse: The Computer Game	video game	https://strategywiki.org/wiki/Mickey_Mouse%3A_The_Computer_Game	Q7889
 Mickey_Mousecapade	Mickey Mousecapade	video game	https://strategywiki.org/wiki/Mickey_Mousecapade	Q7889
+Mickey_no_Boku_wa_Meitantei	Mickey no Boku wa Meitantei	video game	https://strategywiki.org/wiki/Mickey_no_Boku_wa_Meitantei	Q7889
+Mickey_no_Tokyo_Disneyland_Daibouken	Mickey no Tokyo Disneyland Daibouken	video game	https://strategywiki.org/wiki/Mickey_no_Tokyo_Disneyland_Daibouken	Q7889
 Mickey_no_Tokyo_Disneyland_Stamp_Rally	Mickey no Tokyo Disneyland Stamp Rally	video game	https://strategywiki.org/wiki/Mickey_no_Tokyo_Disneyland_Stamp_Rally	Q7889
+Mickey_no_Yukai_na_Bouken	Mickey no Yukai na Bouken	video game	https://strategywiki.org/wiki/Mickey_no_Yukai_na_Bouken	Q7889
 Mickey_to_Donald:_Magical_Adventure_3	Mickey to Donald: Magical Adventure 3	video game	https://strategywiki.org/wiki/Mickey_to_Donald%3A_Magical_Adventure_3	Q7889
+Mickey_to_Ooki_na_Furudokei	Mickey to Ooki na Furudokei	video game	https://strategywiki.org/wiki/Mickey_to_Ooki_na_Furudokei	Q7889
+Mickey_to_Utau_Tori_no_Shima:_Minnie_o_Sagashite_Waku_Waku_Daibouken!	Mickey to Utau Tori no Shima: Minnie o Sagashite Waku Waku Daibouken!	video game	https://strategywiki.org/wiki/Mickey_to_Utau_Tori_no_Shima%3A_Minnie_o_Sagashite_Waku_Waku_Daibouken%21	Q7889
 Mickey's_123:_The_Big_Surprise_Party	Mickey's 123: The Big Surprise Party	video game	https://strategywiki.org/wiki/Mickey%27s_123%3A_The_Big_Surprise_Party	Q7889
 Mickey's_ABC's:_A_Day_at_The_Fair	Mickey's ABC's: A Day at The Fair	video game	https://strategywiki.org/wiki/Mickey%27s_ABC%27s%3A_A_Day_at_The_Fair	Q7889
 Mickey's_Colors_&_Shapes	Mickey's Colors & Shapes	video game	https://strategywiki.org/wiki/Mickey%27s_Colors_%26_Shapes	Q7889
@@ -4281,6 +4309,7 @@ Mickey's_Memory_Challenge	Mickey's Memory Challenge	video game	https://strategyw
 Mickey's_Runaway_Zoo	Mickey's Runaway Zoo	video game	https://strategywiki.org/wiki/Mickey%27s_Runaway_Zoo	Q7889
 Mickey's_Space_Adventure	Mickey's Space Adventure	video game	https://strategywiki.org/wiki/Mickey%27s_Space_Adventure	Q7889
 Mickey's_Speedway_USA	Mickey's Speedway USA	video game	https://strategywiki.org/wiki/Mickey%27s_Speedway_USA	Q7889
+Mickey's_Ultimate_Challenge	Mickey's Ultimate Challenge	video game	https://strategywiki.org/wiki/Mickey%27s_Ultimate_Challenge	Q7889
 Micro_Machines	Micro Machines	video game	https://strategywiki.org/wiki/Micro_Machines	Q7889
 Microsoft_Arcade	Microsoft Arcade	video game	https://strategywiki.org/wiki/Microsoft_Arcade	Q7889
 Microsoft_Flight_Simulator_X	Microsoft Flight Simulator X	video game	https://strategywiki.org/wiki/Microsoft_Flight_Simulator_X	Q7889
@@ -4519,6 +4548,7 @@ Mystery_Of_Time_And_Space	Mystery Of Time And Space	video game	https://strategyw
 Mystery_Quest	Mystery Quest	video game	https://strategywiki.org/wiki/Mystery_Quest	Q7889
 Mystic_Ark	Mystic Ark	video game	https://strategywiki.org/wiki/Mystic_Ark	Q7889
 Mystic_Ark:_Maboroshi_Gekijou	Mystic Ark: Maboroshi Gekijou	video game	https://strategywiki.org/wiki/Mystic_Ark%3A_Maboroshi_Gekijou	Q7889
+Mystic_Defender	Mystic Defender	video game	https://strategywiki.org/wiki/Mystic_Defender	Q7889
 Mystic_Panda_Slots	Mystic Panda Slots	video game	https://strategywiki.org/wiki/Mystic_Panda_Slots	Q7889
 Mystical_Ninja_Starring_Goemon	Mystical Ninja Starring Goemon	video game	https://strategywiki.org/wiki/Mystical_Ninja_Starring_Goemon	Q7889
 Mystical_Ninja_Starring_Goemon_(Game_Boy)	Mystical Ninja Starring Goemon (Game Boy)	video game	https://strategywiki.org/wiki/Mystical_Ninja_Starring_Goemon_%28Game_Boy%29	Q7889
@@ -5154,6 +5184,12 @@ Pnickies	Pnickies	video game	https://strategywiki.org/wiki/Pnickies	Q7889
 Pocket_Academy	Pocket Academy	video game	https://strategywiki.org/wiki/Pocket_Academy	Q7889
 Pocket_Card_Jockey	Pocket Card Jockey	video game	https://strategywiki.org/wiki/Pocket_Card_Jockey	Q7889
 Pocket_Fighter	Pocket Fighter	video game	https://strategywiki.org/wiki/Pocket_Fighter	Q7889
+Pocket_Monsters_Advanced_Generation_Minna_de_Pico_Pokémon_Waiwai_Battle!	Pocket Monsters Advanced Generation Minna de Pico Pokémon Waiwai Battle!	video game	https://strategywiki.org/wiki/Pocket_Monsters_Advanced_Generation_Minna_de_Pico_Pok%C3%A9mon_Waiwai_Battle%21	Q7889
+Pocket_Monsters_Advanced_Generation_Pokémon_Suuji_Battle!!	Pocket Monsters Advanced Generation Pokémon Suuji Battle!!	video game	https://strategywiki.org/wiki/Pocket_Monsters_Advanced_Generation_Pok%C3%A9mon_Suuji_Battle%21%21	Q7889
+Pocket_Monsters_Advanced_Generation:_Hiragana_Katakana_Kakechatta!	Pocket Monsters Advanced Generation: Hiragana Katakana Kakechatta!	video game	https://strategywiki.org/wiki/Pocket_Monsters_Advanced_Generation%3A_Hiragana_Katakana_Kakechatta%21	Q7889
+Pocket_Monsters_Best_Wishes!_Chinou_Ikusei_Pokémon_Daiundoukai	Pocket Monsters Best Wishes! Chinou Ikusei Pokémon Daiundoukai	video game	https://strategywiki.org/wiki/Pocket_Monsters_Best_Wishes%21_Chinou_Ikusei_Pok%C3%A9mon_Daiundoukai	Q7889
+Pocket_Monsters_Diamond_&_Pearl_Pokémon_o_Sagase!_Meiro_de_Daibouken!	Pocket Monsters Diamond & Pearl Pokémon o Sagase! Meiro de Daibouken!	video game	https://strategywiki.org/wiki/Pocket_Monsters_Diamond_%26_Pearl_Pok%C3%A9mon_o_Sagase%21_Meiro_de_Daibouken%21	Q7889
+Pocket_Monsters:_Suuji_o_Tsukamaeyou!	Pocket Monsters: Suuji o Tsukamaeyou!	video game	https://strategywiki.org/wiki/Pocket_Monsters%3A_Suuji_o_Tsukamaeyou%21	Q7889
 Pocket_Tanks	Pocket Tanks	video game	https://strategywiki.org/wiki/Pocket_Tanks	Q7889
 Pocket_Tennis	Pocket Tennis	video game	https://strategywiki.org/wiki/Pocket_Tennis	Q7889
 Pocket_Zaurus:_Ju_Ouken_no_Nazo	Pocket Zaurus: Ju Ouken no Nazo	video game	https://strategywiki.org/wiki/Pocket_Zaurus%3A_Ju_Ouken_no_Nazo	Q7889
@@ -5243,6 +5279,8 @@ Pong_Sports	Pong Sports	video game	https://strategywiki.org/wiki/Pong_Sports	Q78
 Pong:_The_Next_Level	Pong: The Next Level	video game	https://strategywiki.org/wiki/Pong%3A_The_Next_Level	Q7889
 Ponpoko	Ponpoko	video game	https://strategywiki.org/wiki/Ponpoko	Q7889
 Pony_Friends	Pony Friends	video game	https://strategywiki.org/wiki/Pony_Friends	Q7889
+Pooh-san_no_Hajimete_no_Eigo	Pooh-san no Hajimete no Eigo	video game	https://strategywiki.org/wiki/Pooh-san_no_Hajimete_no_Eigo	Q7889
+Pooh-san_no_Ichinichi	Pooh-san no Ichinichi	video game	https://strategywiki.org/wiki/Pooh-san_no_Ichinichi	Q7889
 Pool_of_Radiance	Pool of Radiance	video game	https://strategywiki.org/wiki/Pool_of_Radiance	Q7889
 Pootan	Pootan	video game	https://strategywiki.org/wiki/Pootan	Q7889
 Pooyan	Pooyan	video game	https://strategywiki.org/wiki/Pooyan	Q7889
@@ -6399,6 +6437,7 @@ Space_Invaders_Part_II	Space Invaders Part II	video game	https://strategywiki.or
 Space_Invaders_Virtual_Collection	Space Invaders Virtual Collection	video game	https://strategywiki.org/wiki/Space_Invaders_Virtual_Collection	Q7889
 Space_Invaders:_25th_Anniversary	Space Invaders: 25th Anniversary	video game	https://strategywiki.org/wiki/Space_Invaders%3A_25th_Anniversary	Q7889
 Space_Invaders:_The_Beat_Attacker	Space Invaders: The Beat Attacker	video game	https://strategywiki.org/wiki/Space_Invaders%3A_The_Beat_Attacker	Q7889
+Space_Jam	Space Jam	video game	https://strategywiki.org/wiki/Space_Jam	Q7889
 Space_Mouse	Space Mouse	video game	https://strategywiki.org/wiki/Space_Mouse	Q7889
 Space_Mouse_2	Space Mouse 2	video game	https://strategywiki.org/wiki/Space_Mouse_2	Q7889
 Space_Odyssey	Space Odyssey	video game	https://strategywiki.org/wiki/Space_Odyssey	Q7889
@@ -6428,6 +6467,7 @@ Speed_Racer_(1995)	Speed Racer (1995)	video game	https://strategywiki.org/wiki/S
 Speed_Racer:_The_Videogame	Speed Racer: The Videogame	video game	https://strategywiki.org/wiki/Speed_Racer%3A_The_Videogame	Q7889
 Speedball_2:_Brutal_Deluxe	Speedball 2: Brutal Deluxe	video game	https://strategywiki.org/wiki/Speedball_2%3A_Brutal_Deluxe	Q7889
 Speedway_II	Speedway II	video game	https://strategywiki.org/wiki/Speedway_II	Q7889
+Speedy_Gonzales:_Los_Gatos_Bandidos	Speedy Gonzales: Los Gatos Bandidos	video game	https://strategywiki.org/wiki/Speedy_Gonzales%3A_Los_Gatos_Bandidos	Q7889
 Spelling	Spelling	video game	https://strategywiki.org/wiki/Spelling	Q7889
 Spelljammer:_Pirates_of_Realmspace	Spelljammer: Pirates of Realmspace	video game	https://strategywiki.org/wiki/Spelljammer%3A_Pirates_of_Realmspace	Q7889
 Spelunker	Spelunker	video game	https://strategywiki.org/wiki/Spelunker	Q7889
@@ -6509,6 +6549,7 @@ Spyro:_Season_of_Ice	Spyro: Season of Ice	video game	https://strategywiki.org/wi
 Spyro:_Shadow_Legacy	Spyro: Shadow Legacy	video game	https://strategywiki.org/wiki/Spyro%3A_Shadow_Legacy	Q7889
 Spyro:_Year_of_the_Dragon	Spyro: Year of the Dragon	video game	https://strategywiki.org/wiki/Spyro%3A_Year_of_the_Dragon	Q7889
 Sqoon	Sqoon	video game	https://strategywiki.org/wiki/Sqoon	Q7889
+Square_no_Tom_Sawyer	Square no Tom Sawyer	video game	https://strategywiki.org/wiki/Square_no_Tom_Sawyer	Q7889
 Stack-Up	Stack-Up	video game	https://strategywiki.org/wiki/Stack-Up	Q7889
 Stadium_Events	Stadium Events	video game	https://strategywiki.org/wiki/Stadium_Events	Q7889
 Stakes_Winner	Stakes Winner	video game	https://strategywiki.org/wiki/Stakes_Winner	Q7889
@@ -7134,6 +7175,7 @@ Tekken_6	Tekken 6	video game	https://strategywiki.org/wiki/Tekken_6	Q7889
 Tekken_6:_Bloodline_Rebellion	Tekken 6: Bloodline Rebellion	video game	https://strategywiki.org/wiki/Tekken_6%3A_Bloodline_Rebellion	Q7889
 Tekken_7	Tekken 7	video game	https://strategywiki.org/wiki/Tekken_7	Q7889
 Tekken_8	Tekken 8	video game	https://strategywiki.org/wiki/Tekken_8	Q7889
+Tekken_Hybrid	Tekken Hybrid	video game	https://strategywiki.org/wiki/Tekken_Hybrid	Q7889
 Tekken_Tag_Tournament	Tekken Tag Tournament	video game	https://strategywiki.org/wiki/Tekken_Tag_Tournament	Q7889
 Tekken_Tag_Tournament_2	Tekken Tag Tournament 2	video game	https://strategywiki.org/wiki/Tekken_Tag_Tournament_2	Q7889
 Teleroboxer	Teleroboxer	video game	https://strategywiki.org/wiki/Teleroboxer	Q7889
@@ -7247,7 +7289,6 @@ The_Daedalus_Encounter	The Daedalus Encounter	video game	https://strategywiki.or
 The_Dark_Pictures_Anthology:_Man_of_Medan	The Dark Pictures Anthology: Man of Medan	video game	https://strategywiki.org/wiki/The_Dark_Pictures_Anthology%3A_Man_of_Medan	Q7889
 The_Dark_Spire	The Dark Spire	video game	https://strategywiki.org/wiki/The_Dark_Spire	Q7889
 The_Darkness	The Darkness	video game	https://strategywiki.org/wiki/The_Darkness	Q7889
-The_Darkness_(2017)	The Darkness (2017)	video game	https://strategywiki.org/wiki/The_Darkness_%282017%29	Q7889
 The_Death_and_Return_of_Superman	The Death and Return of Superman	video game	https://strategywiki.org/wiki/The_Death_and_Return_of_Superman	Q7889
 The_Demon_Crystal	The Demon Crystal	video game	https://strategywiki.org/wiki/The_Demon_Crystal	Q7889
 The_Denpa_Men:_They_Came_By_Wave	The Denpa Men: They Came By Wave	video game	https://strategywiki.org/wiki/The_Denpa_Men%3A_They_Came_By_Wave	Q7889
@@ -7354,7 +7395,6 @@ The_Last_Blade	The Last Blade	video game	https://strategywiki.org/wiki/The_Last_
 The_Last_Blade_2	The Last Blade 2	video game	https://strategywiki.org/wiki/The_Last_Blade_2	Q7889
 The_Last_Blade:_Beyond_the_Destiny	The Last Blade: Beyond the Destiny	video game	https://strategywiki.org/wiki/The_Last_Blade%3A_Beyond_the_Destiny	Q7889
 The_Last_Guardian	The Last Guardian	video game	https://strategywiki.org/wiki/The_Last_Guardian	Q7889
-The_Last_Hope	The Last Hope	video game	https://strategywiki.org/wiki/The_Last_Hope	Q7889
 The_Last_Ninja	The Last Ninja	video game	https://strategywiki.org/wiki/The_Last_Ninja	Q7889
 The_Last_Remnant	The Last Remnant	video game	https://strategywiki.org/wiki/The_Last_Remnant	Q7889
 The_Last_Story	The Last Story	video game	https://strategywiki.org/wiki/The_Last_Story	Q7889
@@ -7430,7 +7470,6 @@ The_Lord_of_the_Rings:_The_Two_Towers_(Game_Boy_Advance)	The Lord of the Rings: 
 The_Lord_of_the_Rings:_War_in_the_North	The Lord of the Rings: War in the North	video game	https://strategywiki.org/wiki/The_Lord_of_the_Rings%3A_War_in_the_North	Q7889
 The_Lord_of_the_Rings:_War_of_the_Ring	The Lord of the Rings: War of the Ring	video game	https://strategywiki.org/wiki/The_Lord_of_the_Rings%3A_War_of_the_Ring	Q7889
 The_Lost_Mind_of_Dr._Brain	The Lost Mind of Dr. Brain	video game	https://strategywiki.org/wiki/The_Lost_Mind_of_Dr._Brain	Q7889
-The_Lost_Valley	The Lost Valley	video game	https://strategywiki.org/wiki/The_Lost_Valley	Q7889
 The_Lost_Vikings	The Lost Vikings	video game	https://strategywiki.org/wiki/The_Lost_Vikings	Q7889
 The_Lost_Vikings_II	The Lost Vikings II	video game	https://strategywiki.org/wiki/The_Lost_Vikings_II	Q7889
 The_Lucky_Dime_Caper_Starring_Donald_Duck	The Lucky Dime Caper Starring Donald Duck	video game	https://strategywiki.org/wiki/The_Lucky_Dime_Caper_Starring_Donald_Duck	Q7889
@@ -7669,6 +7708,7 @@ Toki_no_Tabibito:_Time_Stranger	Toki no Tabibito: Time Stranger	video game	https
 Tokimeki_Memorial	Tokimeki Memorial	video game	https://strategywiki.org/wiki/Tokimeki_Memorial	Q7889
 Tokimeki_Memorial_2	Tokimeki Memorial 2	video game	https://strategywiki.org/wiki/Tokimeki_Memorial_2	Q7889
 Tokimeki_Memorial_3:_Yakusoku_no_Ano_Basho_de	Tokimeki Memorial 3: Yakusoku no Ano Basho de	video game	https://strategywiki.org/wiki/Tokimeki_Memorial_3%3A_Yakusoku_no_Ano_Basho_de	Q7889
+Tokimeki_Memorial_Girl's_Side	Tokimeki Memorial Girl's Side	video game	https://strategywiki.org/wiki/Tokimeki_Memorial_Girl%27s_Side	Q7889
 Tokimeki_Memorial_Taisen_Pazurudama	Tokimeki Memorial Taisen Pazurudama	video game	https://strategywiki.org/wiki/Tokimeki_Memorial_Taisen_Pazurudama	Q7889
 Tokoro-San_no_Mamorumo_Semerumo	Tokoro-San no Mamorumo Semerumo	video game	https://strategywiki.org/wiki/Tokoro-San_no_Mamorumo_Semerumo	Q7889
 Tokumei_Sentai_Go-Busters	Tokumei Sentai Go-Busters	video game	https://strategywiki.org/wiki/Tokumei_Sentai_Go-Busters	Q7889
@@ -7676,6 +7716,8 @@ Tokushu_Butai_Jackal	Tokushu Butai Jackal	video game	https://strategywiki.org/wi
 Tokyo_Bus_Guide_2	Tokyo Bus Guide 2	video game	https://strategywiki.org/wiki/Tokyo_Bus_Guide_2	Q7889
 Tokyo_Disney_Sea_Mickey_to_Asobou!	Tokyo Disney Sea Mickey to Asobou!	video game	https://strategywiki.org/wiki/Tokyo_Disney_Sea_Mickey_to_Asobou%21	Q7889
 Tokyo_Disneyland_Toon_Town_Mickey_no_Boku_wa_Untenshu	Tokyo Disneyland Toon Town Mickey no Boku wa Untenshu	video game	https://strategywiki.org/wiki/Tokyo_Disneyland_Toon_Town_Mickey_no_Boku_wa_Untenshu	Q7889
+Tokyo_Disneyland:_Fantasy_Tour	Tokyo Disneyland: Fantasy Tour	video game	https://strategywiki.org/wiki/Tokyo_Disneyland%3A_Fantasy_Tour	Q7889
+Tokyo_Disneyland:_Mickey_no_Cinderella_Shiro_Mystery_Tour	Tokyo Disneyland: Mickey no Cinderella Shiro Mystery Tour	video game	https://strategywiki.org/wiki/Tokyo_Disneyland%3A_Mickey_no_Cinderella_Shiro_Mystery_Tour	Q7889
 Tokyo_Ghoul:_re_Call_to_Exist	Tokyo Ghoul: re Call to Exist	video game	https://strategywiki.org/wiki/Tokyo_Ghoul%3A_re_Call_to_Exist	Q7889
 Tokyo_Mirage_Sessions_♯FE	Tokyo Mirage Sessions ♯FE	video game	https://strategywiki.org/wiki/Tokyo_Mirage_Sessions_%E2%99%AFFE	Q7889
 Tokyo_Mirage_Sessions_♯FE_Encore	Tokyo Mirage Sessions ♯FE Encore	video game	https://strategywiki.org/wiki/Tokyo_Mirage_Sessions_%E2%99%AFFE_Encore	Q7889
@@ -7735,7 +7777,6 @@ Top_Player's_Golf	Top Player's Golf	video game	https://strategywiki.org/wiki/Top
 Top_Players'_Tennis	Top Players' Tennis	video game	https://strategywiki.org/wiki/Top_Players%27_Tennis	Q7889
 Top_Racer	Top Racer	video game	https://strategywiki.org/wiki/Top_Racer	Q7889
 Top_Rider	Top Rider	video game	https://strategywiki.org/wiki/Top_Rider	Q7889
-Top_Secret_(2017)	Top Secret (2017)	video game	https://strategywiki.org/wiki/Top_Secret_%282017%29	Q7889
 Top_Spin	Top Spin	video game	https://strategywiki.org/wiki/Top_Spin	Q7889
 Top_Spin_4	Top Spin 4	video game	https://strategywiki.org/wiki/Top_Spin_4	Q7889
 Topple_Zip	Topple Zip	video game	https://strategywiki.org/wiki/Topple_Zip	Q7889
@@ -7772,6 +7813,8 @@ Tower_of_Doom	Tower of Doom	video game	https://strategywiki.org/wiki/Tower_of_Do
 Tower_of_Druaga	Tower of Druaga	video game	https://strategywiki.org/wiki/Tower_of_Druaga	Q7889
 Tower_of_Guns	Tower of Guns	video game	https://strategywiki.org/wiki/Tower_of_Guns	Q7889
 Toxic_Crusaders	Toxic Crusaders	video game	https://strategywiki.org/wiki/Toxic_Crusaders	Q7889
+Toxic_Crusaders_(Game_Boy)	Toxic Crusaders (Game Boy)	video game	https://strategywiki.org/wiki/Toxic_Crusaders_%28Game_Boy%29	Q7889
+Toxic_Crusaders_(Sega_Genesis)	Toxic Crusaders (Sega Genesis)	video game	https://strategywiki.org/wiki/Toxic_Crusaders_%28Sega_Genesis%29	Q7889
 Toy_Pop	Toy Pop	video game	https://strategywiki.org/wiki/Toy_Pop	Q7889
 Toy_Story	Toy Story	video game	https://strategywiki.org/wiki/Toy_Story	Q7889
 Toy_Story_2	Toy Story 2	video game	https://strategywiki.org/wiki/Toy_Story_2	Q7889
@@ -7822,6 +7865,7 @@ Tribes:_Vengeance	Tribes: Vengeance	video game	https://strategywiki.org/wiki/Tri
 Trickster_Online	Trickster Online	video game	https://strategywiki.org/wiki/Trickster_Online	Q7889
 Trine	Trine	video game	https://strategywiki.org/wiki/Trine	Q7889
 Trine_2	Trine 2	video game	https://strategywiki.org/wiki/Trine_2	Q7889
+Trinity_Trigger	Trinity Trigger	video game	https://strategywiki.org/wiki/Trinity_Trigger	Q7889
 Trio_the_Punch	Trio the Punch	video game	https://strategywiki.org/wiki/Trio_the_Punch	Q7889
 Trip_World	Trip World	video game	https://strategywiki.org/wiki/Trip_World	Q7889
 Trivial_Pursuit	Trivial Pursuit	video game	https://strategywiki.org/wiki/Trivial_Pursuit	Q7889
