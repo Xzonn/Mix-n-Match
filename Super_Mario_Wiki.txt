@@ -27,6 +27,7 @@ Bandai_Namco_Entertainment	Bandai Namco Entertainment	company	https://www.mariow
 Banpresto	Banpresto	company	https://www.mariowiki.com/Banpresto	Q4830453
 Baseball	Baseball	video game	https://www.mariowiki.com/Baseball	Q7889
 Ben_Campbell	Ben Campbell	human	https://www.mariowiki.com/Ben_Campbell	Q5
+Benoît_DuPac	Benoît DuPac	human	https://www.mariowiki.com/Beno%C3%AEt_DuPac	Q5
 Bill_Trinen	Bill Trinen	human	https://www.mariowiki.com/Bill_Trinen	Q5
 Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
@@ -45,6 +46,7 @@ Chad_York	Chad York	human	https://www.mariowiki.com/Chad_York	Q5
 Charles_Martinet	Charles Martinet	human	https://www.mariowiki.com/Charles_Martinet	Q5
 Charlie_Day	Charlie Day	human	https://www.mariowiki.com/Charlie_Day	Q5
 Chef	Chef	video game	https://www.mariowiki.com/Chef	Q7889
+Chris_Meledandri	Chris Meledandri	human	https://www.mariowiki.com/Chris_Meledandri	Q5
 Chris_Pratt	Chris Pratt	human	https://www.mariowiki.com/Chris_Pratt	Q5
 Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherland	Q5
 Christopher_Collins	Christopher Collins	human	https://www.mariowiki.com/Christopher_Collins	Q5
@@ -262,6 +264,7 @@ Konami	Konami	company	https://www.mariowiki.com/Konami	Q4830453
 Kosuke_Yabuki	Kosuke Yabuki	human	https://www.mariowiki.com/Kosuke_Yabuki	Q5
 Kurogane_Kosakusho	Kurogane Kosakusho	company	https://www.mariowiki.com/Kurogane_Kosakusho	Q4830453
 Kyle_Hebert	Kyle Hebert	human	https://www.mariowiki.com/Kyle_Hebert	Q5
+Kōji_Takeda	Kōji Takeda	human	https://www.mariowiki.com/K%C5%8Dji_Takeda	Q5
 LINE	LINE	company	https://www.mariowiki.com/LINE	Q4830453
 Lani_Minella	Lani Minella	human	https://www.mariowiki.com/Lani_Minella	Q5
 Laura_Faye_Smith	Laura Faye Smith	human	https://www.mariowiki.com/Laura_Faye_Smith	Q5
@@ -427,6 +430,7 @@ Masayoshi_Ishi	Masayoshi Ishi	human	https://www.mariowiki.com/Masayoshi_Ishi	Q5
 Mattel	Mattel	company	https://www.mariowiki.com/Mattel	Q4830453
 Maude_Church	Maude Church	human	https://www.mariowiki.com/Maude_Church	Q5
 Medialab	Medialab	company	https://www.mariowiki.com/Medialab	Q4830453
+Megan_Rose_Ruiz	Megan Rose Ruiz	human	https://www.mariowiki.com/Megan_Rose_Ruiz	Q5
 Melissa_Hutchison	Melissa Hutchison	human	https://www.mariowiki.com/Melissa_Hutchison	Q5
 Mercedes_Rose	Mercedes Rose	human	https://www.mariowiki.com/Mercedes_Rose	Q5
 Michael_Kelbaugh	Michael Kelbaugh	human	https://www.mariowiki.com/Michael_Kelbaugh	Q5
@@ -534,7 +538,9 @@ Sanae_Suzaki	Sanae Suzaki	human	https://www.mariowiki.com/Sanae_Suzaki	Q5
 Satella-Q	Satella-Q	video game	https://www.mariowiki.com/Satella-Q	Q7889
 Satoru_Okada	Satoru Okada	human	https://www.mariowiki.com/Satoru_Okada	Q5
 Satsuki_Tsuzumi	Satsuki Tsuzumi	human	https://www.mariowiki.com/Satsuki_Tsuzumi	Q5
+Scholastic	Scholastic	company	https://www.mariowiki.com/Scholastic	Q4830453
 Scott_Burns	Scott Burns	human	https://www.mariowiki.com/Scott_Burns	Q5
+Scott_Menville	Scott Menville	human	https://www.mariowiki.com/Scott_Menville	Q5
 Sebastian_Maniscalco	Sebastian Maniscalco	human	https://www.mariowiki.com/Sebastian_Maniscalco	Q5
 Sega	Sega	company	https://www.mariowiki.com/Sega	Q4830453
 Sei_Young_Animation_Co.,_Ltd.	Sei Young Animation Co., Ltd.	company	https://www.mariowiki.com/Sei_Young_Animation_Co.%2C_Ltd.	Q4830453
@@ -548,6 +554,7 @@ Shigetoshi_Gohara	Shigetoshi Gohara	human	https://www.mariowiki.com/Shigetoshi_G
 Shiho_Fujii	Shiho Fujii	human	https://www.mariowiki.com/Shiho_Fujii	Q5
 Shinobu_Nagata	Shinobu Nagata	human	https://www.mariowiki.com/Shinobu_Nagata	Q5
 Sho_Murata	Sho Murata	human	https://www.mariowiki.com/Sho_Murata	Q5
+Shogakukan	Shogakukan	company	https://www.mariowiki.com/Shogakukan	Q4830453
 Shohei_Komatsu	Shohei Komatsu	human	https://www.mariowiki.com/Shohei_Komatsu	Q5
 Shu_uemura	Shu uemura	company	https://www.mariowiki.com/Shu_uemura	Q4830453
 Shugo_Takahashi	Shugo Takahashi	human	https://www.mariowiki.com/Shugo_Takahashi	Q5
