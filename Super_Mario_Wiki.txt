@@ -54,7 +54,7 @@ Christopher_Collins	Christopher Collins	human	https://www.mariowiki.com/Christop
 Classic_NES_Series	Classic NES Series	video game series	https://www.mariowiki.com/Classic_NES_Series	Q7058673
 Claude_Moyse	Claude Moyse	human	https://www.mariowiki.com/Claude_Moyse	Q5
 Club_Nintendo_Picross	Club Nintendo Picross	video game	https://www.mariowiki.com/Club_Nintendo_Picross	Q7889
-Club_Nintendo_Picross_Plus	Club Nintendo Picross Plus	video game	https://www.mariowiki.com/Club_Nintendo_Picross_Plus	Q7889
+Club_Nintendo_Picross+	Club Nintendo Picross+	video game	https://www.mariowiki.com/Club_Nintendo_Picross%2B	Q7889
 Crazy_Kong	Crazy Kong	video game	https://www.mariowiki.com/Crazy_Kong	Q7889
 Cristina_Vee	Cristina Vee	human	https://www.mariowiki.com/Cristina_Vee	Q5
 DIC_Entertainment	DIC Entertainment	company	https://www.mariowiki.com/DIC_Entertainment	Q4830453
@@ -160,6 +160,7 @@ Famicom_Grand_Prix:_F1_Race	Famicom Grand Prix: F1 Race	video game	https://www.m
 Family_BASIC	Family BASIC	video game	https://www.mariowiki.com/Family_BASIC	Q7889
 Family_Computer_Golf:_Japan_Course	Family Computer Golf: Japan Course	video game	https://www.mariowiki.com/Family_Computer_Golf%3A_Japan_Course	Q7889
 Family_Computer_Golf:_U.S._Course	Family Computer Golf: U.S. Course	video game	https://www.mariowiki.com/Family_Computer_Golf%3A_U.S._Course	Q7889
+Fangamer	Fangamer	company	https://www.mariowiki.com/Fangamer	Q4830453
 Fiona_Shaw	Fiona Shaw	human	https://www.mariowiki.com/Fiona_Shaw	Q5
 Fire_(Game_&_Watch)	Fire (Game & Watch)	video game	https://www.mariowiki.com/Fire_%28Game_%26_Watch%29	Q7889
 Fire_Attack	Fire Attack	video game	https://www.mariowiki.com/Fire_Attack	Q7889
@@ -169,7 +170,7 @@ Frank_Welker	Frank Welker	human	https://www.mariowiki.com/Frank_Welker	Q5
 Fred_Armisen	Fred Armisen	human	https://www.mariowiki.com/Fred_Armisen	Q5
 Freiberger	Freiberger	company	https://www.mariowiki.com/Freiberger	Q4830453
 Fryda_Wolff	Fryda Wolff	human	https://www.mariowiki.com/Fryda_Wolff	Q5
-GREZZO_Co.,Ltd.	GREZZO Co.,Ltd.	company	https://www.mariowiki.com/GREZZO_Co.%2CLtd.	Q4830453
+GREZZO_Co.,_Ltd.	GREZZO Co., Ltd.	company	https://www.mariowiki.com/GREZZO_Co.%2C_Ltd.	Q4830453
 Game_&_Wario	Game & Wario	video game	https://www.mariowiki.com/Game_%26_Wario	Q7889
 Game_&_Watch_Gallery	Game & Watch Gallery	video game	https://www.mariowiki.com/Game_%26_Watch_Gallery	Q7889
 Game_&_Watch_Gallery_(series)	Game & Watch Gallery (series)	video game series	https://www.mariowiki.com/Game_%26_Watch_Gallery_%28series%29	Q7058673
@@ -519,6 +520,7 @@ Puzzle_&_Dragons:_Super_Mario_Bros._Edition	Puzzle & Dragons: Super Mario Bros. 
 Racjin	Racjin	company	https://www.mariowiki.com/Racjin	Q4830453
 Radical_Entertainment	Radical Entertainment	company	https://www.mariowiki.com/Radical_Entertainment	Q4830453
 Rain_Shower	Rain Shower	video game	https://www.mariowiki.com/Rain_Shower	Q7889
+Ramón_Canals	Ramón Canals	human	https://www.mariowiki.com/Ram%C3%B3n_Canals	Q5
 Rare_Ltd.	Rare Ltd.	company	https://www.mariowiki.com/Rare_Ltd.	Q4830453
 Reggie_Fils-Aimé	Reggie Fils-Aimé	human	https://www.mariowiki.com/Reggie_Fils-Aim%C3%A9	Q5
 Retro_Studios	Retro Studios	company	https://www.mariowiki.com/Retro_Studios	Q4830453
