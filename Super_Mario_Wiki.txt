@@ -90,7 +90,6 @@ Donald_Burda	Donald Burda	human	https://www.mariowiki.com/Donald_Burda	Q5
 Donkey_Kong_(Game_&_Watch)	Donkey Kong (Game & Watch)	video game	https://www.mariowiki.com/Donkey_Kong_%28Game_%26_Watch%29	Q7889
 Donkey_Kong_(Game_Boy)	Donkey Kong (Game Boy)	video game	https://www.mariowiki.com/Donkey_Kong_%28Game_Boy%29	Q7889
 Donkey_Kong_(Nelsonic_Game_Watch)	Donkey Kong (Nelsonic Game Watch)	video game	https://www.mariowiki.com/Donkey_Kong_%28Nelsonic_Game_Watch%29	Q7889
-Donkey_Kong_(franchise)	Donkey Kong (franchise)	video game series	https://www.mariowiki.com/Donkey_Kong_%28franchise%29	Q7058673
 Donkey_Kong_(game)	Donkey Kong (game)	video game	https://www.mariowiki.com/Donkey_Kong_%28game%29	Q7889
 Donkey_Kong_(series)	Donkey Kong (series)	video game series	https://www.mariowiki.com/Donkey_Kong_%28series%29	Q7058673
 Donkey_Kong_(slot_machine)	Donkey Kong (slot machine)	video game	https://www.mariowiki.com/Donkey_Kong_%28slot_machine%29	Q7889
@@ -321,7 +320,6 @@ Mario_&_Sonic_at_the_Rio_2016_Olympic_Games_(Wii_U)	Mario & Sonic at the Rio 201
 Mario_&_Sonic_at_the_Rio_2016_Olympic_Games_Arcade_Edition	Mario & Sonic at the Rio 2016 Olympic Games Arcade Edition	video game	https://www.mariowiki.com/Mario_%26_Sonic_at_the_Rio_2016_Olympic_Games_Arcade_Edition	Q7889
 Mario_&_Sonic_at_the_Sochi_2014_Olympic_Winter_Games	Mario & Sonic at the Sochi 2014 Olympic Winter Games	video game	https://www.mariowiki.com/Mario_%26_Sonic_at_the_Sochi_2014_Olympic_Winter_Games	Q7889
 Mario_&_Wario	Mario & Wario	video game	https://www.mariowiki.com/Mario_%26_Wario	Q7889
-Mario_(franchise)	Mario (franchise)	video game series	https://www.mariowiki.com/Mario_%28franchise%29	Q7058673
 Mario_+_Rabbids_(series)	Mario + Rabbids (series)	video game series	https://www.mariowiki.com/Mario_%2B_Rabbids_%28series%29	Q7058673
 Mario_+_Rabbids_Kingdom_Battle	Mario + Rabbids Kingdom Battle	video game	https://www.mariowiki.com/Mario_%2B_Rabbids_Kingdom_Battle	Q7889
 Mario_+_Rabbids_Sparks_of_Hope	Mario + Rabbids Sparks of Hope	video game	https://www.mariowiki.com/Mario_%2B_Rabbids_Sparks_of_Hope	Q7889
@@ -662,6 +660,7 @@ Tasuku_Hatanaka	Tasuku Hatanaka	human	https://www.mariowiki.com/Tasuku_Hatanaka	
 Tatsumi_Kimishima	Tatsumi Kimishima	human	https://www.mariowiki.com/Tatsumi_Kimishima	Q5
 Tech_demo	Tech demo	video game	https://www.mariowiki.com/Tech_demo	Q7889
 Ted_Woolsey	Ted Woolsey	human	https://www.mariowiki.com/Ted_Woolsey	Q5
+Terebi_Denwa:_Super_Mario_World	Terebi Denwa: Super Mario World	video game	https://www.mariowiki.com/Terebi_Denwa%3A_Super_Mario_World	Q7889
 Tetris	Tetris	video game	https://www.mariowiki.com/Tetris	Q7889
 Tetris_&_Dr._Mario	Tetris & Dr. Mario	video game	https://www.mariowiki.com/Tetris_%26_Dr._Mario	Q7889
 Tetris_Attack	Tetris Attack	video game	https://www.mariowiki.com/Tetris_Attack	Q7889
@@ -696,7 +695,6 @@ Vince_Joly	Vince Joly	human	https://www.mariowiki.com/Vince_Joly	Q5
 Virtual_Boy_Wario_Land	Virtual Boy Wario Land	video game	https://www.mariowiki.com/Virtual_Boy_Wario_Land	Q7889
 Véronique_Chantel	Véronique Chantel	human	https://www.mariowiki.com/V%C3%A9ronique_Chantel	Q5
 Walker_Boone	Walker Boone	human	https://www.mariowiki.com/Walker_Boone	Q5
-Wario_(franchise)	Wario (franchise)	video game series	https://www.mariowiki.com/Wario_%28franchise%29	Q7058673
 Wario_Blast:_Featuring_Bomberman!	Wario Blast: Featuring Bomberman!	video game	https://www.mariowiki.com/Wario_Blast%3A_Featuring_Bomberman%21	Q7889
 Wario_Land_(series)	Wario Land (series)	video game series	https://www.mariowiki.com/Wario_Land_%28series%29	Q7058673
 Wario_Land:_Super_Mario_Land_3	Wario Land: Super Mario Land 3	video game	https://www.mariowiki.com/Wario_Land%3A_Super_Mario_Land_3	Q7889
@@ -723,7 +721,6 @@ Yasuhisa_Yamamura	Yasuhisa Yamamura	human	https://www.mariowiki.com/Yasuhisa_Yam
 Yasunori_Mitsuda	Yasunori Mitsuda	human	https://www.mariowiki.com/Yasunori_Mitsuda	Q5
 Yoichi_Kotabe	Yoichi Kotabe	human	https://www.mariowiki.com/Yoichi_Kotabe	Q5
 Yoko_Shimomura	Yoko Shimomura	human	https://www.mariowiki.com/Yoko_Shimomura	Q5
-Yoshi_(franchise)	Yoshi (franchise)	video game series	https://www.mariowiki.com/Yoshi_%28franchise%29	Q7058673
 Yoshi_(game)	Yoshi (game)	video game	https://www.mariowiki.com/Yoshi_%28game%29	Q7889
 Yoshi_Demo	Yoshi Demo	video game	https://www.mariowiki.com/Yoshi_Demo	Q7889
 Yoshi_Racing	Yoshi Racing	video game	https://www.mariowiki.com/Yoshi_Racing	Q7889
