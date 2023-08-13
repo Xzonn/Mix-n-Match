@@ -2257,6 +2257,7 @@ Etrian_Odyssey_V:_Beyond_the_Myth	Etrian Odyssey V: Beyond the Myth	video game	h
 Eunos_Roadster_Driving_Simulator	Eunos Roadster Driving Simulator	video game	https://strategywiki.org/wiki/Eunos_Roadster_Driving_Simulator	Q7889
 Europa_Universalis_III	Europa Universalis III	video game	https://strategywiki.org/wiki/Europa_Universalis_III	Q7889
 Europa_Universalis:_Rome	Europa Universalis: Rome	video game	https://strategywiki.org/wiki/Europa_Universalis%3A_Rome	Q7889
+Event_0	Event 0	video game	https://strategywiki.org/wiki/Event_0	Q7889
 Ever_Oasis	Ever Oasis	video game	https://strategywiki.org/wiki/Ever_Oasis	Q7889
 EverQuest	EverQuest	video game	https://strategywiki.org/wiki/EverQuest	Q7889
 EverQuest_II	EverQuest II	video game	https://strategywiki.org/wiki/EverQuest_II	Q7889
@@ -3415,6 +3416,7 @@ Industry_Tycoon	Industry Tycoon	video game	https://strategywiki.org/wiki/Industr
 Indy_500	Indy 500	video game	https://strategywiki.org/wiki/Indy_500	Q7889
 IndyCar_Series	IndyCar Series	video game	https://strategywiki.org/wiki/IndyCar_Series	Q7889
 Infernal	Infernal	video game	https://strategywiki.org/wiki/Infernal	Q7889
+Infinite_Space	Infinite Space	video game	https://strategywiki.org/wiki/Infinite_Space	Q7889
 Infinite_Space_III:_Sea_of_Stars	Infinite Space III: Sea of Stars	video game	https://strategywiki.org/wiki/Infinite_Space_III%3A_Sea_of_Stars	Q7889
 Infinite_Undiscovery	Infinite Undiscovery	video game	https://strategywiki.org/wiki/Infinite_Undiscovery	Q7889
 Infinity_Blade	Infinity Blade	video game	https://strategywiki.org/wiki/Infinity_Blade	Q7889
@@ -3496,6 +3498,7 @@ Jet_Force_Gemini	Jet Force Gemini	video game	https://strategywiki.org/wiki/Jet_F
 Jet_Impulse	Jet Impulse	video game	https://strategywiki.org/wiki/Jet_Impulse	Q7889
 Jet_Set_Radio	Jet Set Radio	video game	https://strategywiki.org/wiki/Jet_Set_Radio	Q7889
 Jet_Set_Radio_(Game_Boy_Advance)	Jet Set Radio (Game Boy Advance)	video game	https://strategywiki.org/wiki/Jet_Set_Radio_%28Game_Boy_Advance%29	Q7889
+Jet_Set_Radio_Future	Jet Set Radio Future	video game	https://strategywiki.org/wiki/Jet_Set_Radio_Future	Q7889
 Jetpack	Jetpack	video game	https://strategywiki.org/wiki/Jetpack	Q7889
 Jets'n'Guns	Jets'n'Guns	video game	https://strategywiki.org/wiki/Jets%27n%27Guns	Q7889
 Jewel_Master	Jewel Master	video game	https://strategywiki.org/wiki/Jewel_Master	Q7889
@@ -4038,6 +4041,7 @@ Machinarium	Machinarium	video game	https://strategywiki.org/wiki/Machinarium	Q78
 Macho_Mouse	Macho Mouse	video game	https://strategywiki.org/wiki/Macho_Mouse	Q7889
 Mad_City	Mad City	video game	https://strategywiki.org/wiki/Mad_City	Q7889
 Mad_Max	Mad Max	video game	https://strategywiki.org/wiki/Mad_Max	Q7889
+Mad_Shark	Mad Shark	video game	https://strategywiki.org/wiki/Mad_Shark	Q7889
 Mad_Stalker:_Full_Metal_Force	Mad Stalker: Full Metal Force	video game	https://strategywiki.org/wiki/Mad_Stalker%3A_Full_Metal_Force	Q7889
 Mad_Stalker:_Full_Metal_Forth	Mad Stalker: Full Metal Forth	video game	https://strategywiki.org/wiki/Mad_Stalker%3A_Full_Metal_Forth	Q7889
 MadWorld	MadWorld	video game	https://strategywiki.org/wiki/MadWorld	Q7889
@@ -4228,6 +4232,7 @@ Mario's_Super_Picross	Mario's Super Picross	video game	https://strategywiki.org/
 Mario's_Tennis	Mario's Tennis	video game	https://strategywiki.org/wiki/Mario%27s_Tennis	Q7889
 Mario's_Time_Machine	Mario's Time Machine	video game	https://strategywiki.org/wiki/Mario%27s_Time_Machine	Q7889
 Mario's_Time_Machine_(NES)	Mario's Time Machine (NES)	video game	https://strategywiki.org/wiki/Mario%27s_Time_Machine_%28NES%29	Q7889
+Mark_of_the_Ninja	Mark of the Ninja	video game	https://strategywiki.org/wiki/Mark_of_the_Ninja	Q7889
 Markham	Markham	video game	https://strategywiki.org/wiki/Markham	Q7889
 Martial_Champion	Martial Champion	video game	https://strategywiki.org/wiki/Martial_Champion	Q7889
 Martial_Masters	Martial Masters	video game	https://strategywiki.org/wiki/Martial_Masters	Q7889
@@ -6350,6 +6355,7 @@ Shadow_Warrior_3	Shadow Warrior 3	video game	https://strategywiki.org/wiki/Shado
 Shadow_of_Destiny	Shadow of Destiny	video game	https://strategywiki.org/wiki/Shadow_of_Destiny	Q7889
 Shadow_of_the_Colossus	Shadow of the Colossus	video game	https://strategywiki.org/wiki/Shadow_of_the_Colossus	Q7889
 Shadow_of_the_Ninja	Shadow of the Ninja	video game	https://strategywiki.org/wiki/Shadow_of_the_Ninja	Q7889
+Shadow_of_the_Ninja_Reborn	Shadow of the Ninja Reborn	video game	https://strategywiki.org/wiki/Shadow_of_the_Ninja_Reborn	Q7889
 Shadow_the_Hedgehog	Shadow the Hedgehog	video game	https://strategywiki.org/wiki/Shadow_the_Hedgehog	Q7889
 ShadowCaster	ShadowCaster	video game	https://strategywiki.org/wiki/ShadowCaster	Q7889
 Shadowgate	Shadowgate	video game	https://strategywiki.org/wiki/Shadowgate	Q7889
@@ -8157,6 +8163,7 @@ Total_War:_Three_Kingdoms	Total War: Three Kingdoms	video game	https://strategyw
 Totsugeki!_Fuuun_Takeshi_Jou	Totsugeki! Fuuun Takeshi Jou	video game	https://strategywiki.org/wiki/Totsugeki%21_Fuuun_Takeshi_Jou	Q7889
 Touch_Detective	Touch Detective	video game	https://strategywiki.org/wiki/Touch_Detective	Q7889
 Touch_Detective_2_½	Touch Detective 2 ½	video game	https://strategywiki.org/wiki/Touch_Detective_2_%C2%BD	Q7889
+Touch_My_Katamari	Touch My Katamari	video game	https://strategywiki.org/wiki/Touch_My_Katamari	Q7889
 Touch_the_Dead	Touch the Dead	video game	https://strategywiki.org/wiki/Touch_the_Dead	Q7889
 Touchdown_Fever	Touchdown Fever	video game	https://strategywiki.org/wiki/Touchdown_Fever	Q7889
 Touchdown_Fever_(NES)	Touchdown Fever (NES)	video game	https://strategywiki.org/wiki/Touchdown_Fever_%28NES%29	Q7889
