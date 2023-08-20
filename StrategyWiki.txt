@@ -96,6 +96,7 @@ AH-64D_Longbow	AH-64D Longbow	video game	https://strategywiki.org/wiki/AH-64D_Lo
 AI_War:_Fleet_Command	AI War: Fleet Command	video game	https://strategywiki.org/wiki/AI_War%3A_Fleet_Command	Q7889
 AI:_The_Somnium_Files	AI: The Somnium Files	video game	https://strategywiki.org/wiki/AI%3A_The_Somnium_Files	Q7889
 AI:_The_Somnium_Files_-_nirvanA_Initiative	AI: The Somnium Files - nirvanA Initiative	video game	https://strategywiki.org/wiki/AI%3A_The_Somnium_Files_-_nirvanA_Initiative	Q7889
+ALTER_EGO	ALTER EGO	video game	https://strategywiki.org/wiki/ALTER_EGO	Q7889
 AM2R	AM2R	video game	https://strategywiki.org/wiki/AM2R	Q7889
 APB_Reloaded	APB Reloaded	video game	https://strategywiki.org/wiki/APB_Reloaded	Q7889
 ARMA:_Armed_Assault	ARMA: Armed Assault	video game	https://strategywiki.org/wiki/ARMA%3A_Armed_Assault	Q7889
@@ -909,6 +910,7 @@ Bolt	Bolt	video game	https://strategywiki.org/wiki/Bolt	Q7889
 Bomb_Bee	Bomb Bee	video game	https://strategywiki.org/wiki/Bomb_Bee	Q7889
 Bomb_Jack	Bomb Jack	video game	https://strategywiki.org/wiki/Bomb_Jack	Q7889
 Bomb_Monkey	Bomb Monkey	video game	https://strategywiki.org/wiki/Bomb_Monkey	Q7889
+Bomb_Rush_Cyberfunk	Bomb Rush Cyberfunk	video game	https://strategywiki.org/wiki/Bomb_Rush_Cyberfunk	Q7889
 Bomber_King	Bomber King	video game	https://strategywiki.org/wiki/Bomber_King	Q7889
 Bomberman	Bomberman	video game	https://strategywiki.org/wiki/Bomberman	Q7889
 Bomberman_'93	Bomberman '93	video game	https://strategywiki.org/wiki/Bomberman_%2793	Q7889
@@ -1371,6 +1373,7 @@ Conker's_Bad_Fur_Day	Conker's Bad Fur Day	video game	https://strategywiki.org/wi
 Conker's_Pocket_Tales	Conker's Pocket Tales	video game	https://strategywiki.org/wiki/Conker%27s_Pocket_Tales	Q7889
 Conker:_Live_&_Reloaded	Conker: Live & Reloaded	video game	https://strategywiki.org/wiki/Conker%3A_Live_%26_Reloaded	Q7889
 Construction_Simulator	Construction Simulator	video game	https://strategywiki.org/wiki/Construction_Simulator	Q7889
+Construction_Simulator_3	Construction Simulator 3	video game	https://strategywiki.org/wiki/Construction_Simulator_3	Q7889
 Contact	Contact	video game	https://strategywiki.org/wiki/Contact	Q7889
 Continuum	Continuum	video game	https://strategywiki.org/wiki/Continuum	Q7889
 Contra	Contra	video game	https://strategywiki.org/wiki/Contra	Q7889
@@ -1569,6 +1572,7 @@ Darius	Darius	video game	https://strategywiki.org/wiki/Darius	Q7889
 Darius_Cozmic_Collection_Arcade	Darius Cozmic Collection Arcade	video game	https://strategywiki.org/wiki/Darius_Cozmic_Collection_Arcade	Q7889
 Darius_Gaiden	Darius Gaiden	video game	https://strategywiki.org/wiki/Darius_Gaiden	Q7889
 Darius_II	Darius II	video game	https://strategywiki.org/wiki/Darius_II	Q7889
+Dark_Adventure	Dark Adventure	video game	https://strategywiki.org/wiki/Dark_Adventure	Q7889
 Dark_Arms:_Beast_Buster_1999	Dark Arms: Beast Buster 1999	video game	https://strategywiki.org/wiki/Dark_Arms%3A_Beast_Buster_1999	Q7889
 Dark_Chambers	Dark Chambers	video game	https://strategywiki.org/wiki/Dark_Chambers	Q7889
 Dark_Cloud	Dark Cloud	video game	https://strategywiki.org/wiki/Dark_Cloud	Q7889
@@ -2129,7 +2133,9 @@ Dynamite_Headdy	Dynamite Headdy	video game	https://strategywiki.org/wiki/Dynamit
 Dynasty_Warriors	Dynasty Warriors	video game	https://strategywiki.org/wiki/Dynasty_Warriors	Q7889
 Dynasty_Warriors_2	Dynasty Warriors 2	video game	https://strategywiki.org/wiki/Dynasty_Warriors_2	Q7889
 Dynasty_Warriors_3	Dynasty Warriors 3	video game	https://strategywiki.org/wiki/Dynasty_Warriors_3	Q7889
+Dynasty_Warriors_3:_Xtreme_Legends	Dynasty Warriors 3: Xtreme Legends	video game	https://strategywiki.org/wiki/Dynasty_Warriors_3%3A_Xtreme_Legends	Q7889
 Dynasty_Warriors_4	Dynasty Warriors 4	video game	https://strategywiki.org/wiki/Dynasty_Warriors_4	Q7889
+Dynasty_Warriors_4:_Xtreme_Legends	Dynasty Warriors 4: Xtreme Legends	video game	https://strategywiki.org/wiki/Dynasty_Warriors_4%3A_Xtreme_Legends	Q7889
 Dynasty_Warriors_5	Dynasty Warriors 5	video game	https://strategywiki.org/wiki/Dynasty_Warriors_5	Q7889
 Dynasty_Warriors_5:_Xtreme_Legends	Dynasty Warriors 5: Xtreme Legends	video game	https://strategywiki.org/wiki/Dynasty_Warriors_5%3A_Xtreme_Legends	Q7889
 Dynasty_Warriors_6	Dynasty Warriors 6	video game	https://strategywiki.org/wiki/Dynasty_Warriors_6	Q7889
@@ -2157,6 +2163,12 @@ Earth_2140	Earth 2140	video game	https://strategywiki.org/wiki/Earth_2140	Q7889
 Earth_2150	Earth 2150	video game	https://strategywiki.org/wiki/Earth_2150	Q7889
 Earth_2150:_The_Moon_Project	Earth 2150: The Moon Project	video game	https://strategywiki.org/wiki/Earth_2150%3A_The_Moon_Project	Q7889
 Earth_Defense_Force	Earth Defense Force	video game	https://strategywiki.org/wiki/Earth_Defense_Force	Q7889
+Earth_Defense_Force_2017	Earth Defense Force 2017	video game	https://strategywiki.org/wiki/Earth_Defense_Force_2017	Q7889
+Earth_Defense_Force_2025	Earth Defense Force 2025	video game	https://strategywiki.org/wiki/Earth_Defense_Force_2025	Q7889
+Earth_Defense_Force_4.1:_Wingdiver_the_Shooter	Earth Defense Force 4.1: Wingdiver the Shooter	video game	https://strategywiki.org/wiki/Earth_Defense_Force_4.1%3A_Wingdiver_the_Shooter	Q7889
+Earth_Defense_Force_5	Earth Defense Force 5	video game	https://strategywiki.org/wiki/Earth_Defense_Force_5	Q7889
+Earth_Defense_Force:_Iron_Rain	Earth Defense Force: Iron Rain	video game	https://strategywiki.org/wiki/Earth_Defense_Force%3A_Iron_Rain	Q7889
+Earth_Defense_Force:_World_Brothers	Earth Defense Force: World Brothers	video game	https://strategywiki.org/wiki/Earth_Defense_Force%3A_World_Brothers	Q7889
 Earth_Warp	Earth Warp	video game	https://strategywiki.org/wiki/Earth_Warp	Q7889
 EarthBound	EarthBound	video game	https://strategywiki.org/wiki/EarthBound	Q7889
 EarthBound_Zero	EarthBound Zero	video game	https://strategywiki.org/wiki/EarthBound_Zero	Q7889
@@ -3489,6 +3501,7 @@ James_Bond_007:_Everything_or_Nothing	James Bond 007: Everything or Nothing	vide
 James_Bond_007:_NightFire	James Bond 007: NightFire	video game	https://strategywiki.org/wiki/James_Bond_007%3A_NightFire	Q7889
 James_Bond_007:_The_Duel	James Bond 007: The Duel	video game	https://strategywiki.org/wiki/James_Bond_007%3A_The_Duel	Q7889
 Jane's_Fleet_Command	Jane's Fleet Command	video game	https://strategywiki.org/wiki/Jane%27s_Fleet_Command	Q7889
+Jantei_Monogatari	Jantei Monogatari	video game	https://strategywiki.org/wiki/Jantei_Monogatari	Q7889
 Jarinko_Chie:_Bakudan_Musume_no_Shiawase_Sagashi	Jarinko Chie: Bakudan Musume no Shiawase Sagashi	video game	https://strategywiki.org/wiki/Jarinko_Chie%3A_Bakudan_Musume_no_Shiawase_Sagashi	Q7889
 Jaseiken_Necromancer	Jaseiken Necromancer	video game	https://strategywiki.org/wiki/Jaseiken_Necromancer	Q7889
 Jaws	Jaws	video game	https://strategywiki.org/wiki/Jaws	Q7889
@@ -4742,6 +4755,7 @@ Murder_on_the_Mississippi	Murder on the Mississippi	video game	https://strategyw
 Musashi_no_Ken_-_Tadaima_Shugyou_Chuu	Musashi no Ken - Tadaima Shugyou Chuu	video game	https://strategywiki.org/wiki/Musashi_no_Ken_-_Tadaima_Shugyou_Chuu	Q7889
 Muscle_March	Muscle March	video game	https://strategywiki.org/wiki/Muscle_March	Q7889
 Mushihimesama	Mushihimesama	video game	https://strategywiki.org/wiki/Mushihimesama	Q7889
+Musou_Orochi_Z	Musou Orochi Z	video game	https://strategywiki.org/wiki/Musou_Orochi_Z	Q7889
 Mutant_Mudds	Mutant Mudds	video game	https://strategywiki.org/wiki/Mutant_Mudds	Q7889
 Mutant_Night	Mutant Night	video game	https://strategywiki.org/wiki/Mutant_Night	Q7889
 Mutation_Nation	Mutation Nation	video game	https://strategywiki.org/wiki/Mutation_Nation	Q7889
@@ -6214,11 +6228,13 @@ Samurai_Sword	Samurai Sword	video game	https://strategywiki.org/wiki/Samurai_Swo
 Samurai_Warrior:_The_Battles_of_Usagi_Yojimbo	Samurai Warrior: The Battles of Usagi Yojimbo	video game	https://strategywiki.org/wiki/Samurai_Warrior%3A_The_Battles_of_Usagi_Yojimbo	Q7889
 Samurai_Warriors	Samurai Warriors	video game	https://strategywiki.org/wiki/Samurai_Warriors	Q7889
 Samurai_Warriors_2	Samurai Warriors 2	video game	https://strategywiki.org/wiki/Samurai_Warriors_2	Q7889
+Samurai_Warriors_2:_Xtreme_Legends	Samurai Warriors 2: Xtreme Legends	video game	https://strategywiki.org/wiki/Samurai_Warriors_2%3A_Xtreme_Legends	Q7889
 Samurai_Warriors_3	Samurai Warriors 3	video game	https://strategywiki.org/wiki/Samurai_Warriors_3	Q7889
 Samurai_Warriors_4	Samurai Warriors 4	video game	https://strategywiki.org/wiki/Samurai_Warriors_4	Q7889
 Samurai_Warriors_4-II	Samurai Warriors 4-II	video game	https://strategywiki.org/wiki/Samurai_Warriors_4-II	Q7889
 Samurai_Warriors_5	Samurai Warriors 5	video game	https://strategywiki.org/wiki/Samurai_Warriors_5	Q7889
 Samurai_Warriors:_Chronicles	Samurai Warriors: Chronicles	video game	https://strategywiki.org/wiki/Samurai_Warriors%3A_Chronicles	Q7889
+Samurai_Warriors:_Xtreme_Legends	Samurai Warriors: Xtreme Legends	video game	https://strategywiki.org/wiki/Samurai_Warriors%3A_Xtreme_Legends	Q7889
 Sanada_Juu_Yuushi	Sanada Juu Yuushi	video game	https://strategywiki.org/wiki/Sanada_Juu_Yuushi	Q7889
 Sanctum	Sanctum	video game	https://strategywiki.org/wiki/Sanctum	Q7889
 Sands_of_Destruction	Sands of Destruction	video game	https://strategywiki.org/wiki/Sands_of_Destruction	Q7889
@@ -8438,6 +8454,7 @@ Vendetta_(arcade)	Vendetta (arcade)	video game	https://strategywiki.org/wiki/Ven
 Venture	Venture	video game	https://strategywiki.org/wiki/Venture	Q7889
 Venturer	Venturer	video game	https://strategywiki.org/wiki/Venturer	Q7889
 Venus_Senki	Venus Senki	video game	https://strategywiki.org/wiki/Venus_Senki	Q7889
+Vessel_Blue	Vessel Blue	video game	https://strategywiki.org/wiki/Vessel_Blue	Q7889
 Vestaria_Saga_II:_The_Sacred_Sword_of_Silvanister	Vestaria Saga II: The Sacred Sword of Silvanister	video game	https://strategywiki.org/wiki/Vestaria_Saga_II%3A_The_Sacred_Sword_of_Silvanister	Q7889
 Vexx	Vexx	video game	https://strategywiki.org/wiki/Vexx	Q7889
 Victory_Road	Victory Road	video game	https://strategywiki.org/wiki/Victory_Road	Q7889
@@ -8816,6 +8833,7 @@ Xenophobe	Xenophobe	video game	https://strategywiki.org/wiki/Xenophobe	Q7889
 Xenosaga_Episode_I:_Der_Wille_zur_Macht	Xenosaga Episode I: Der Wille zur Macht	video game	https://strategywiki.org/wiki/Xenosaga_Episode_I%3A_Der_Wille_zur_Macht	Q7889
 Xenosaga_Episode_II:_Jenseits_von_Gut_und_Böse	Xenosaga Episode II: Jenseits von Gut und Böse	video game	https://strategywiki.org/wiki/Xenosaga_Episode_II%3A_Jenseits_von_Gut_und_B%C3%B6se	Q7889
 Xenosaga_Episode_III:_Also_sprach_Zarathustra	Xenosaga Episode III: Also sprach Zarathustra	video game	https://strategywiki.org/wiki/Xenosaga_Episode_III%3A_Also_sprach_Zarathustra	Q7889
+Xenotilt	Xenotilt	video game	https://strategywiki.org/wiki/Xenotilt	Q7889
 Xevios	Xevios	video game	https://strategywiki.org/wiki/Xevios	Q7889
 Xevious	Xevious	video game	https://strategywiki.org/wiki/Xevious	Q7889
 Xevious_3D/G	Xevious 3D/G	video game	https://strategywiki.org/wiki/Xevious_3D/G	Q7889

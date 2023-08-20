@@ -15,7 +15,6 @@ id	name	desc	url	type	P400
 32871	九十九姫	PSV video game	https://www.famitsu.com/games/t/32871/	Q7889	
 33556	JUSTICE MONSTERS FIVE	PC video game	https://www.famitsu.com/games/t/33556/	Q7889	Q1406
 33941	イナズマイレブン 英雄たちのヴィクトリーロード	PS4 video game	https://www.famitsu.com/games/t/33941/	Q7889	Q5014725
-34169	Nintendo Switch	2023 Switch video game	https://www.famitsu.com/games/t/34169/	Q7889	Q19610114
 34679	Link： The Unleashed Nexus	PS4 video game	https://www.famitsu.com/games/t/34679/	Q7889	Q5014725
 34853	スカル アンド ボーンズ	PS4 video game	https://www.famitsu.com/games/t/34853/	Q7889	Q5014725
 34971	ショベルナイト	PS4 video game	https://www.famitsu.com/games/t/34971/	Q7889	Q5014725
@@ -117,8 +116,6 @@ id	name	desc	url	type	P400
 41200	プリンス・オブ・ペルシャ 時間の砂 リメイク	XOne video game	https://www.famitsu.com/games/t/41200/	Q7889	Q13361286
 41201	プリンス・オブ・ペルシャ 時間の砂 リメイク	PC video game	https://www.famitsu.com/games/t/41201/	Q7889	Q1406
 41217	ファイナルファンタジーXVI	2023 PS5 video game	https://www.famitsu.com/games/t/41217/	Q7889	Q63184502
-41219	ホグワーツ・レガシー	2023 PS4 video game	https://www.famitsu.com/games/t/41219/	Q7889	Q5014725
-41221	ホグワーツ・レガシー	2023 XOne video game	https://www.famitsu.com/games/t/41221/	Q7889	Q13361286
 41274	The EXPLORERZ	PC video game	https://www.famitsu.com/games/t/41274/	Q7889	Q1406
 41312	メタリックチャイルド	PS4 video game	https://www.famitsu.com/games/t/41312/	Q7889	Q5014725
 41315	Ninja Issen	Switch video game	https://www.famitsu.com/games/t/41315/	Q7889	Q19610114
@@ -158,8 +155,6 @@ id	name	desc	url	type	P400
 43272	Evil Dead: The Game	2023 PS4 video game	https://www.famitsu.com/games/t/43272/	Q7889	Q5014725
 43312	STARFIELD	2023 PC video game	https://www.famitsu.com/games/t/43312/	Q7889	Q1406
 43315	百英雄伝	2023 XSX video game	https://www.famitsu.com/games/t/43315/	Q7889	Q98973368
-43321	Life is Strange Remastered Collection	2023 PS4 video game	https://www.famitsu.com/games/t/43321/	Q7889	Q5014725
-43324	Life is Strange Remastered Collection	2023 XOne video game	https://www.famitsu.com/games/t/43324/	Q7889	Q13361286
 43505	メタリックチャイルド	PS5 video game	https://www.famitsu.com/games/t/43505/	Q7889	Q63184502
 43568	ヴァンパイア：ザ・マスカレード スワンソング	Switch video game	https://www.famitsu.com/games/t/43568/	Q7889	Q19610114
 43575	The Lord of the Rings: Gollum	2023 PC video game	https://www.famitsu.com/games/t/43575/	Q7889	Q1406
@@ -193,7 +188,6 @@ id	name	desc	url	type	P400
 44190	ポーション・タイクーン	2023 PC video game	https://www.famitsu.com/games/t/44190/	Q7889	Q1406
 44314	DYING：1983	PS5 video game	https://www.famitsu.com/games/t/44314/	Q7889	Q63184502
 44387	The Binding of Isaac: Repentance	PS5 video game	https://www.famitsu.com/games/t/44387/	Q7889	Q63184502
-44430	Life is Strange Remastered Collection	2023 Switch video game	https://www.famitsu.com/games/t/44430/	Q7889	Q19610114
 44446	AWAY	2023 PS5 video game	https://www.famitsu.com/games/t/44446/	Q7889	Q63184502
 44509	信長の野望･新生 with パワーアップキット	2023 PS4 video game	https://www.famitsu.com/games/t/44509/	Q7889	Q5014725
 44603	Cyberpunk 2077＆仮初めの自由 バンドル	2023 PS5 video game	https://www.famitsu.com/games/t/44603/	Q7889	Q63184502
@@ -235,7 +229,6 @@ id	name	desc	url	type	P400
 45790	ジョジョの奇妙な冒険 オールスターバトルR Digital ULTIMATE Edition	2023 PS5 video game	https://www.famitsu.com/games/t/45790/	Q7889	Q63184502
 45791	ジョジョの奇妙な冒険 オールスターバトルR Digital ULTIMATE Edition	2023 PS4 video game	https://www.famitsu.com/games/t/45791/	Q7889	Q5014725
 45926	アークナイツ：エンドフィールド	PC video game	https://www.famitsu.com/games/t/45926/	Q7889	Q1406
-46063	WEIRD WEST: Definitive Edition	2023 PS4 video game	https://www.famitsu.com/games/t/46063/	Q7889	Q5014725
 46099	マーブルボールフレンズ	2023 Switch video game	https://www.famitsu.com/games/t/46099/	Q7889	Q19610114
 46100	Hyper Light Breaker	2023 PC video game	https://www.famitsu.com/games/t/46100/	Q7889	Q1406
 46102	ザ・ハウス・オブ・ザ・デッド：リメイク Zバージョン	2023 Switch video game	https://www.famitsu.com/games/t/46102/	Q7889	Q19610114
@@ -269,7 +262,6 @@ id	name	desc	url	type	P400
 46647	The Lord of the Rings: Gollum	Switch video game	https://www.famitsu.com/games/t/46647/	Q7889	Q19610114
 46683	VEILED EXPERTS	2023 PC video game	https://www.famitsu.com/games/t/46683/	Q7889	Q1406
 46686	きみのまち サンドロック	2023 PC video game	https://www.famitsu.com/games/t/46686/	Q7889	Q1406
-46708	スター・ウォーズ ジェダイ：サバイバー	2023 PS5 video game	https://www.famitsu.com/games/t/46708/	Q7889	Q63184502
 46753	BEAUTIFUL DESOLATION	2023 Switch video game	https://www.famitsu.com/games/t/46753/	Q7889	Q19610114
 46762	デストロイ オール ヒューマンズ！2 - リプローブド	2023 XOne video game	https://www.famitsu.com/games/t/46762/	Q7889	Q13361286
 46773	ストリートファイター6	2023 PS4 video game	https://www.famitsu.com/games/t/46773/	Q7889	Q5014725
@@ -302,10 +294,7 @@ id	name	desc	url	type	P400
 47326	夕鬼	2023 Switch video game	https://www.famitsu.com/games/t/47326/	Q7889	Q19610114
 47355	グレイシャード	PC video game	https://www.famitsu.com/games/t/47355/	Q7889	Q1406
 47380	戦場のフーガ2	2023 PS5 video game	https://www.famitsu.com/games/t/47380/	Q7889	Q63184502
-47381	戦場のフーガ2	2023 PS4 video game	https://www.famitsu.com/games/t/47381/	Q7889	Q5014725
 47382	戦場のフーガ2	2023 XSX video game	https://www.famitsu.com/games/t/47382/	Q7889	Q98973368
-47383	戦場のフーガ2	2023 XOne video game	https://www.famitsu.com/games/t/47383/	Q7889	Q13361286
-47384	戦場のフーガ2	2023 PC video game	https://www.famitsu.com/games/t/47384/	Q7889	Q1406
 47505	シュレディンガーズ・コール	PC video game	https://www.famitsu.com/games/t/47505/	Q7889	Q1406
 47506	都市伝説解体センター	PC video game	https://www.famitsu.com/games/t/47506/	Q7889	Q1406
 47508	クレヨンしんちゃん「オラと博士の夏休み」〜おわらない七日間の旅〜	2023 PC video game	https://www.famitsu.com/games/t/47508/	Q7889	Q1406
@@ -328,8 +317,8 @@ id	name	desc	url	type	P400
 47835	PENNY BLOOD	2025 PS5 video game	https://www.famitsu.com/games/t/47835/	Q7889	Q63184502
 47836	PENNY BLOOD	2025 XSX video game	https://www.famitsu.com/games/t/47836/	Q7889	Q98973368
 47852	ムービングアウト2	2023 Switch video game	https://www.famitsu.com/games/t/47852/	Q7889	Q19610114
-47853	ムービングアウト2	2023 PS4 video game	https://www.famitsu.com/games/t/47853/	Q7889	Q5014725
-47854	ムービングアウト2	2023 PS5 video game	https://www.famitsu.com/games/t/47854/	Q7889	Q63184502
+47853	ムービングアウト2	2023 PS5 video game	https://www.famitsu.com/games/t/47853/	Q7889	Q63184502
+47854	ムービングアウト2	2023 PS4 video game	https://www.famitsu.com/games/t/47854/	Q7889	Q5014725
 47915	ライトイヤーフロンティア	2023 PC video game	https://www.famitsu.com/games/t/47915/	Q7889	Q1406
 47916	ライトイヤーフロンティア	2023 XSX video game	https://www.famitsu.com/games/t/47916/	Q7889	Q98973368
 47917	ライトイヤーフロンティア	2023 XOne video game	https://www.famitsu.com/games/t/47917/	Q7889	Q13361286
@@ -537,7 +526,6 @@ id	name	desc	url	type	P400
 50049	ファッションドリーマー	2023 Switch video game	https://www.famitsu.com/games/t/50049/	Q7889	Q19610114
 50050	ファンタジーライフ i グルグルの竜と時をぬすむ少女	2023 Switch video game	https://www.famitsu.com/games/t/50050/	Q7889	Q19610114
 50056	ディズニー イリュージョンアイランド ～ミッキー＆フレンズの不思議な冒険～	2023 Switch video game	https://www.famitsu.com/games/t/50056/	Q7889	Q19610114
-50057	オメガストライカーズ	2023 Switch video game	https://www.famitsu.com/games/t/50057/	Q7889	Q19610114
 50058	なつもん！ 20世紀の夏休み	2023 Switch video game	https://www.famitsu.com/games/t/50058/	Q7889	Q19610114
 50062	オメガクラフター	2023 PC video game	https://www.famitsu.com/games/t/50062/	Q7889	Q1406
 50108	駐められるもんなら駐めてみな	2023 PS5 video game	https://www.famitsu.com/games/t/50108/	Q7889	Q63184502
@@ -625,12 +613,7 @@ id	name	desc	url	type	P400
 50757	MotoGP 23	2023 PC video game	https://www.famitsu.com/games/t/50757/	Q7889	Q1406
 50778	BLAZBLUE CROSS TAG BATTLE	XSX video game	https://www.famitsu.com/games/t/50778/	Q7889	Q98973368
 50779	BLAZBLUE CROSS TAG BATTLE	XOne video game	https://www.famitsu.com/games/t/50779/	Q7889	Q13361286
-50785	ヴァーニーレイク	2023 Switch video game	https://www.famitsu.com/games/t/50785/	Q7889	Q19610114
-50786	ヴァーニーレイク	2023 PS5 video game	https://www.famitsu.com/games/t/50786/	Q7889	Q63184502
-50787	ヴァーニーレイク	2023 PS4 video game	https://www.famitsu.com/games/t/50787/	Q7889	Q5014725
-50788	ヴァーニーレイク	2023 XOne video game	https://www.famitsu.com/games/t/50788/	Q7889	Q13361286
 50824	デストロイ オール ヒューマンズ！2 - リプローブド	2023 PS4 video game	https://www.famitsu.com/games/t/50824/	Q7889	Q5014725
-50826	Terra Flame	2023 Switch video game	https://www.famitsu.com/games/t/50826/	Q7889	Q19610114
 50833	タイトーマイルストーン2	2023 Switch video game	https://www.famitsu.com/games/t/50833/	Q7889	Q19610114
 50834	RIDE5	2023 PS5 video game	https://www.famitsu.com/games/t/50834/	Q7889	Q63184502
 50835	RIDE5	2023 XSX video game	https://www.famitsu.com/games/t/50835/	Q7889	Q98973368
@@ -652,8 +635,6 @@ id	name	desc	url	type	P400
 50861	クロステイルズ	2023 XOne video game	https://www.famitsu.com/games/t/50861/	Q7889	Q13361286
 50862	クロステイルズ	2023 PC video game	https://www.famitsu.com/games/t/50862/	Q7889	Q1406
 50863	9 R.I.P.	2023 Switch video game	https://www.famitsu.com/games/t/50863/	Q7889	Q19610114
-50864	Age of Wonders4	2023 PS5 video game	https://www.famitsu.com/games/t/50864/	Q7889	Q63184502
-50867	ドラゴノーカ	2023 PS4 video game	https://www.famitsu.com/games/t/50867/	Q7889	Q5014725
 50915	D.C.III P.S.～ダ・カーポIII プラスストーリー～	2023 Switch video game	https://www.famitsu.com/games/t/50915/	Q7889	Q19610114
 50916	D.C.III P.S.～ダ・カーポIII プラスストーリー～	2023 PS4 video game	https://www.famitsu.com/games/t/50916/	Q7889	Q5014725
 50917	流行り神1・2・3パック	2023 PS5 video game	https://www.famitsu.com/games/t/50917/	Q7889	Q63184502
@@ -667,35 +648,16 @@ id	name	desc	url	type	P400
 50946	Nyaaaanvy	Switch video game	https://www.famitsu.com/games/t/50946/	Q7889	Q19610114
 50948	プレートアップ！	2023 PS5 video game	https://www.famitsu.com/games/t/50948/	Q7889	Q63184502
 50949	マジカルドロップ6	2023 Switch video game	https://www.famitsu.com/games/t/50949/	Q7889	Q19610114
-50954	G-MODE アーカイブス＋ 探偵・癸生川凌介事件譚 Vol.11「あねの壁」	2023 PC video game	https://www.famitsu.com/games/t/50954/	Q7889	Q1406
 50975	超次元ゲイム ネプテューヌ Sisters vs Sisters	2023 Switch video game	https://www.famitsu.com/games/t/50975/	Q7889	Q19610114
 50987	Bramble: The Mountain King	2023 Switch video game	https://www.famitsu.com/games/t/50987/	Q7889	Q19610114
 50994	Bramble The Mountain King	2023 PS5 video game	https://www.famitsu.com/games/t/50994/	Q7889	Q63184502
-51016	カラーブレイカーズ みんなでペイントバトル	2023 Switch video game	https://www.famitsu.com/games/t/51016/	Q7889	Q19610114
-51017	イハナシの魔女	2023 Switch video game	https://www.famitsu.com/games/t/51017/	Q7889	Q19610114
-51018	イハナシの魔女	2023 PS5 video game	https://www.famitsu.com/games/t/51018/	Q7889	Q63184502
-51019	イハナシの魔女	2023 PS4 video game	https://www.famitsu.com/games/t/51019/	Q7889	Q5014725
-51020	イハナシの魔女	2023 XSX video game	https://www.famitsu.com/games/t/51020/	Q7889	Q98973368
-51021	イハナシの魔女	2023 XOne video game	https://www.famitsu.com/games/t/51021/	Q7889	Q13361286
-51022	超アロイレンジャー	2023 Switch video game	https://www.famitsu.com/games/t/51022/	Q7889	Q19610114
 51023	TTアイル オブ マン ライド オン ザ エッジ3	2023 Switch video game	https://www.famitsu.com/games/t/51023/	Q7889	Q19610114
-51024	オメガストライカーズ	2023 PS5 video game	https://www.famitsu.com/games/t/51024/	Q7889	Q63184502
 51025	オメガストライカーズ	2023 PS4 video game	https://www.famitsu.com/games/t/51025/	Q7889	Q5014725
-51026	オメガストライカーズ	2023 XSX video game	https://www.famitsu.com/games/t/51026/	Q7889	Q98973368
-51027	オメガストライカーズ	2023 XOne video game	https://www.famitsu.com/games/t/51027/	Q7889	Q13361286
-51029	モスメン 1966	2023 PS5 video game	https://www.famitsu.com/games/t/51029/	Q7889	Q63184502
-51032	CARRION	2023 PS5 video game	https://www.famitsu.com/games/t/51032/	Q7889	Q63184502
 51040	英雄伝説 零の軌跡：改	2023 Switch video game	https://www.famitsu.com/games/t/51040/	Q7889	Q19610114
 51041	英雄伝説 碧の軌跡：改	2023 Switch video game	https://www.famitsu.com/games/t/51041/	Q7889	Q19610114
 51045	スターガニアン	2023 Switch video game	https://www.famitsu.com/games/t/51045/	Q7889	Q19610114
 51046	Gunfire Reborn	2023 PS5 video game	https://www.famitsu.com/games/t/51046/	Q7889	Q63184502
 51047	Gunfire Reborn	2023 PS4 video game	https://www.famitsu.com/games/t/51047/	Q7889	Q5014725
-51048	ライフ イズ ストレンジ 2	2023 Switch video game	https://www.famitsu.com/games/t/51048/	Q7889	Q19610114
-51066	Q REMASTERED	2023 PC video game	https://www.famitsu.com/games/t/51066/	Q7889	Q1406
-51072	Graveyard Keeper	2023 PS4 video game	https://www.famitsu.com/games/t/51072/	Q7889	Q5014725
-51075	Organ Quarter	2023 PS5 video game	https://www.famitsu.com/games/t/51075/	Q7889	Q63184502
-51078	POST VOID	2023 Switch video game	https://www.famitsu.com/games/t/51078/	Q7889	Q19610114
-51087	WEIRD WEST: Definitive Edition	2023 PS5 video game	https://www.famitsu.com/games/t/51087/	Q7889	Q63184502
 51088	カルマルカ*サークル	2023 Switch video game	https://www.famitsu.com/games/t/51088/	Q7889	Q19610114
 51089	シロガネ×スピリッツ！	2023 PS4 video game	https://www.famitsu.com/games/t/51089/	Q7889	Q5014725
 51090	シロガネ×スピリッツ！	2023 Switch video game	https://www.famitsu.com/games/t/51090/	Q7889	Q19610114
@@ -713,8 +675,6 @@ id	name	desc	url	type	P400
 51112	Dordogne	2023 XOne video game	https://www.famitsu.com/games/t/51112/	Q7889	Q13361286
 51113	Dordogne	2023 PS5 video game	https://www.famitsu.com/games/t/51113/	Q7889	Q63184502
 51114	Dordogne	2023 PS4 video game	https://www.famitsu.com/games/t/51114/	Q7889	Q5014725
-51118	バスケクラブ物語	2023 PS4 video game	https://www.famitsu.com/games/t/51118/	Q7889	Q5014725
-51119	夢おこし商店街	2023 PS4 video game	https://www.famitsu.com/games/t/51119/	Q7889	Q5014725
 51128	THE DARK PICTURES: MAN OF MEDAN	2023 Switch video game	https://www.famitsu.com/games/t/51128/	Q7889	Q19610114
 51137	トランスポートフィーバー2	2023 PS5 video game	https://www.famitsu.com/games/t/51137/	Q7889	Q63184502
 51138	トランスポートフィーバー2	2023 PS4 video game	https://www.famitsu.com/games/t/51138/	Q7889	Q5014725
@@ -722,7 +682,6 @@ id	name	desc	url	type	P400
 51163	月明りの館からの脱出	2023 Switch video game	https://www.famitsu.com/games/t/51163/	Q7889	Q19610114
 51168	ケムコRPGセレクション Vol.4	2023 Switch video game	https://www.famitsu.com/games/t/51168/	Q7889	Q19610114
 51169	みんなで空気読み。コロコロコミックVer.コロコロコミック読みますか？それとも空気読みますか？	2023 Switch video game	https://www.famitsu.com/games/t/51169/	Q7889	Q19610114
-51170	美少女ストリーマーの秘密恋愛 - Secret romance with streamer girls -	2023 PC video game	https://www.famitsu.com/games/t/51170/	Q7889	Q1406
 51179	Black Finger JET	PC video game	https://www.famitsu.com/games/t/51179/	Q7889	Q1406
 51180	QUESTER	2023 PC video game	https://www.famitsu.com/games/t/51180/	Q7889	Q1406
 51186	ShapeHero Factory	2023 PC video game	https://www.famitsu.com/games/t/51186/	Q7889	Q1406
@@ -845,7 +804,7 @@ id	name	desc	url	type	P400
 51543	逆転裁判456 王泥喜セレクション	2024 PS4 video game	https://www.famitsu.com/games/t/51543/	Q7889	Q5014725
 51544	逆転裁判456 王泥喜セレクション	2024 XOne video game	https://www.famitsu.com/games/t/51544/	Q7889	Q13361286
 51545	逆転裁判456 王泥喜セレクション	2024 PC video game	https://www.famitsu.com/games/t/51545/	Q7889	Q1406
-51546	ロックマンX DiVE オフライン	PC video game	https://www.famitsu.com/games/t/51546/	Q7889	Q1406
+51546	ロックマンX DiVE オフライン	2023 PC video game	https://www.famitsu.com/games/t/51546/	Q7889	Q1406
 51547	Star Wars Outlaws	2024 PS5 video game	https://www.famitsu.com/games/t/51547/	Q7889	Q63184502
 51548	Star Wars Outlaws	2024 XSX video game	https://www.famitsu.com/games/t/51548/	Q7889	Q98973368
 51549	Star Wars Outlaws	2024 PC video game	https://www.famitsu.com/games/t/51549/	Q7889	Q1406
@@ -954,6 +913,7 @@ id	name	desc	url	type	P400
 51951	神箱 KAMiBAKO - Mythology of Cube -	Switch video game	https://www.famitsu.com/games/t/51951/	Q7889	Q19610114
 51952	神箱 KAMiBAKO - Mythology of Cube -	PS5 video game	https://www.famitsu.com/games/t/51952/	Q7889	Q63184502
 51953	神箱 KAMiBAKO - Mythology of Cube -	PS4 video game	https://www.famitsu.com/games/t/51953/	Q7889	Q5014725
+51954	神箱 KAMiBAKO - Mythology of Cube -	PC video game	https://www.famitsu.com/games/t/51954/	Q7889	Q1406
 51984	XALADIA: Rise of the Space Pirates X2	2023 Switch video game	https://www.famitsu.com/games/t/51984/	Q7889	Q19610114
 51985	XALADIA: Rise of the Space Pirates X2	2023 PS5 video game	https://www.famitsu.com/games/t/51985/	Q7889	Q63184502
 51986	XALADIA: Rise of the Space Pirates X2	2023 PC video game	https://www.famitsu.com/games/t/51986/	Q7889	Q1406
@@ -996,6 +956,7 @@ id	name	desc	url	type	P400
 52218	東方ダンマクカグラ ファンタジア・ロスト	Switch video game	https://www.famitsu.com/games/t/52218/	Q7889	Q19610114
 52219	東方ダンジョンメーカー The labyrinth of heart	2024 PC video game	https://www.famitsu.com/games/t/52219/	Q7889	Q1406
 52222	あけておねがい 特装版	2023 Switch video game	https://www.famitsu.com/games/t/52222/	Q7889	Q19610114
+52223	Call of Duty: Modern Warfare III	2023 PS5 video game	https://www.famitsu.com/games/t/52223/	Q7889	Q63184502
 52224	闇の仕事人KAGE Shadow of the Ninja	2024 Switch video game	https://www.famitsu.com/games/t/52224/	Q7889	Q19610114
 52225	闇の仕事人KAGE Shadow of the Ninja	2024 PS5 video game	https://www.famitsu.com/games/t/52225/	Q7889	Q63184502
 52226	闇の仕事人KAGE Shadow of the Ninja	2024 PS4 video game	https://www.famitsu.com/games/t/52226/	Q7889	Q5014725
@@ -1013,3 +974,7 @@ id	name	desc	url	type	P400
 52262	ドールエクスプローラー	2023 PC video game	https://www.famitsu.com/games/t/52262/	Q7889	Q1406
 52264	ヤマノススメ Next Summit ～あの山に、もう一度～	2023 Switch video game	https://www.famitsu.com/games/t/52264/	Q7889	Q19610114
 52265	ヤマノススメ Next Summit ～あの山に、もう一度～	2023 PS4 video game	https://www.famitsu.com/games/t/52265/	Q7889	Q5014725
+52348	Shadow Gambit: カリブの呪い	2023 PS5 video game	https://www.famitsu.com/games/t/52348/	Q7889	Q63184502
+52363	Shadow Gambit: カリブの呪い	2023 XSX video game	https://www.famitsu.com/games/t/52363/	Q7889	Q98973368
+52364	Shadow Gambit: カリブの呪い	2023 XOne video game	https://www.famitsu.com/games/t/52364/	Q7889	Q13361286
+52365	Call of Duty: Modern Warfare III	2023 PS4 video game	https://www.famitsu.com/games/t/52365/	Q7889	Q5014725
