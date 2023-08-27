@@ -1,5 +1,4 @@
 id	name	desc	url	type	P400	P437	P750	P852
-metal-slug-1st-and-2nd-mission-double-pack-switch	"METAL SLUG 1st & 2nd MISSION" Double Pack	Nintendo Switch video game by SNK	https://www.nintendo.com/store/products/metal-slug-1st-and-2nd-mission-double-pack-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 doki-doki-family-switch	- Doki Doki Family - 特異体質者のドキドキ家族生活	Nintendo Switch video game by CyberStep	https://www.nintendo.com/store/products/doki-doki-family-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 isekai-bride-hunting-chartier-edition-switch	- Isekai Bride Hunting - 異世界娘と婚活中 Chartier Edition	Nintendo Switch video game by CyberStep	https://www.nintendo.com/store/products/isekai-bride-hunting-chartier-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 isekai-harem-saver-switch	- Isekai Harem Saver - ハーレム過ぎる異世界は俺が救う	Nintendo Switch video game by CyberStep	https://www.nintendo.com/store/products/isekai-harem-saver-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -22,6 +21,7 @@ hack-g-u-last-recode-switch	.hack//G.U. Last Recode	Nintendo Switch video game b
 12-is-better-than-6-switch	12 is Better Than 6	Nintendo Switch video game by HYPETRAIN DIGITAL	https://www.nintendo.com/store/products/12-is-better-than-6-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 13-sentinels-aegis-rim-switch	13 Sentinels: Aegis Rim	Nintendo Switch video game by SEGA	https://www.nintendo.com/store/products/13-sentinels-aegis-rim-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 1979-revolution-black-friday-switch	1979 Revolution: Black Friday	Nintendo Switch video game by Digerati	https://www.nintendo.com/store/products/1979-revolution-black-friday-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+1997-switch	1997	Nintendo Switch video game by 17Studio	https://www.nintendo.com/store/products/1997-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 20-ladies-switch	20 Ladies	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/20-ladies-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 2021-moon-escape-switch	2021 : Moon Escape	Nintendo Switch video game by Caracal Games	https://www.nintendo.com/store/products/2021-moon-escape-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 2064-read-only-memories-integral-switch	2064: Read Only Memories INTEGRAL	Nintendo Switch video game by Chorus Worldwide Games	https://www.nintendo.com/store/products/2064-read-only-memories-integral-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -33,7 +33,6 @@ hack-g-u-last-recode-switch	.hack//G.U. Last Recode	Nintendo Switch video game b
 35mm-switch	35MM	Nintendo Switch video game by Sometimes You	https://www.nintendo.com/store/products/35mm-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 3d-advantime-switch	3D ADVANTIME	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/3d-advantime-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 44-minutes-in-nightmare-switch	44 Minutes in Nightmare	Nintendo Switch video game by Takashi Sowa	https://www.nintendo.com/store/products/44-minutes-in-nightmare-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-4x4-offroad-driver-switch	4x4 Offroad Driver	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/4x4-offroad-driver-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 4x4-offroad-driver-2-switch	4x4 Offroad Driver 2	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/4x4-offroad-driver-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 6souls-switch	6Souls	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/6souls-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 7-days-of-rose-switch	7 Days of Rose	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/7-days-of-rose-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -105,7 +104,6 @@ adore-switch	Adore	Nintendo Switch video game by QUByte Interactive	https://www.
 adrians-tale-switch	Adrian's Tale	Nintendo Switch video game by Badri Bebua	https://www.nintendo.com/store/products/adrians-tale-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 advance-wars-1-plus-2-re-boot-camp-switch	Advance Wars 1+2: Re-Boot Camp	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/advance-wars-1-plus-2-re-boot-camp-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 advent-calendar-puzzle-edition-switch	Advent Calendar: Puzzle Edition	Nintendo Switch video game by Mindscape	https://www.nintendo.com/store/products/advent-calendar-puzzle-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-adventure-escape-room-bundle-switch	Adventure Escape Room Bundle	Nintendo Switch video game by M9 GAMES	https://www.nintendo.com/store/products/adventure-escape-room-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	
 adventure-field-4-switch	Adventure Field 4	Nintendo Switch video game by Elushis	https://www.nintendo.com/store/products/adventure-field-4-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 aeon-drive-switch	Aeon Drive	Nintendo Switch video game by Critical Reflex	https://www.nintendo.com/store/products/aeon-drive-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 aero-striker-world-invasion-switch	Aero Striker - World Invasion	Nintendo Switch video game by EpiXR Games	https://www.nintendo.com/store/products/aero-striker-world-invasion-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -147,6 +145,7 @@ ala-mobile-switch	Ala Mobile	Nintendo Switch video game by CVi Games	https://www
 alan-wake-remastered-switch	Alan Wake Remastered	Nintendo Switch video game by Epic Games	https://www.nintendo.com/store/products/alan-wake-remastered-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 albacete-warrior-switch	Albacete Warrior	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/albacete-warrior-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 alchemic-cutie-switch	Alchemic Cutie	Nintendo Switch video game by PM Studios	https://www.nintendo.com/store/products/alchemic-cutie-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+alchemy-garden-switch	Alchemy Garden	Nintendo Switch video game by JanduSoft	https://www.nintendo.com/store/products/alchemy-garden-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 alchemy-poipoi-ss-switch	Alchemy POIPOI SS	Nintendo Switch video game by AlignmentSharp	https://www.nintendo.com/store/products/alchemy-poipoi-ss-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 alekon-switch	Alekon	Nintendo Switch video game by Forever Entertainment	https://www.nintendo.com/store/products/alekon-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 alfred-hitchcock-vertigo-switch	Alfred Hitchcock - Vertigo	Nintendo Switch video game by Microids	https://www.nintendo.com/store/products/alfred-hitchcock-vertigo-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -223,12 +222,12 @@ aquarist-switch	Aquarist	Nintendo Switch video game by Ultimate Games	https://ww
 aquatic-rampage-switch	Aquatic Rampage	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/aquatic-rampage-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 aragami-2-switch	Aragami 2	Nintendo Switch video game by Merge Games	https://www.nintendo.com/store/products/aragami-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 aragami-shadow-edition-switch	Aragami: Shadow Edition	Nintendo Switch video game by Merge Games	https://www.nintendo.com/store/products/aragami-shadow-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-arcade-archives-assault-switch	Arcade Archives ASSAULT	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-assault-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-ark-area-switch	Arcade Archives Ark Area	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-ark-area-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-baraduke-switch	Arcade Archives BARADUKE	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-baraduke-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 arcade-archives-baraduke-2-switch	Arcade Archives BARADUKE 2	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-baraduke-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-black-heart-switch	Arcade Archives BLACK HEART	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-black-heart-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 arcade-archives-bonze-adventure-switch	Arcade Archives BONZE ADVENTURE	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-bonze-adventure-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+arcade-archives-bosconian-switch	Arcade Archives BOSCONIAN	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-bosconian-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-bravoman-switch	Arcade Archives BRAVOMAN	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-bravoman-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 arcade-archives-bubble-bobble-switch	Arcade Archives BUBBLE BOBBLE	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-bubble-bobble-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-champion-wrestler-switch	Arcade Archives CHAMPION WRESTLER	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-champion-wrestler-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -248,7 +247,6 @@ arcade-archives-grobda-switch	Arcade Archives GROBDA	Nintendo Switch video game 
 arcade-archives-growl-switch	Arcade Archives GROWL	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-growl-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 arcade-archives-gun-and-frontier-switch	Arcade Archives GUN & FRONTIER	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-gun-and-frontier-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 arcade-archives-gunnail-switch	Arcade Archives GUNNAIL	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-gunnail-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-arcade-archives-guzzler-switch	Arcade Archives GUZZLER	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-guzzler-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 arcade-archives-itazura-tenshi-switch	Arcade Archives ITAZURA TENSHI	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-itazura-tenshi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-king-and-balloon-switch	Arcade Archives KING & BALLOON	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-king-and-balloon-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 arcade-archives-kurikinton-switch	Arcade Archives KURIKINTON	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/arcade-archives-kurikinton-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -340,7 +338,6 @@ autobahn-police-simulator-2-nintendo-switch-edition-switch	Autobahn Police Simul
 avatar-the-last-airbender-quest-for-balance-switch	Avatar The Last Airbender: Quest for Balance	Nintendo Switch video game by Game Mill	https://www.nintendo.com/store/products/avatar-the-last-airbender-quest-for-balance-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 avenging-spirit-switch	Avenging Spirit	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/avenging-spirit-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 avia-corporation-switch	Avia corporation	Nintendo Switch video game by Elusor	https://www.nintendo.com/store/products/avia-corporation-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-awkward-switch	Awkward	Nintendo Switch video game by Snap Finger Click	https://www.nintendo.com/store/products/awkward-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 axis-football-2023-switch	Axis Football 2023	Nintendo Switch video game by Upside Down Bird	https://www.nintendo.com/store/products/axis-football-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit-switch	Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit-	Nintendo Switch video game by DIGIMERCE	https://www.nintendo.com/store/products/ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 aztech-forgotten-gods-switch	Aztech Forgotten Gods	Nintendo Switch video game by Lienzo	https://www.nintendo.com/store/products/aztech-forgotten-gods-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -383,6 +380,7 @@ bad-dream-coma-switch	Bad Dream: Coma	Nintendo Switch video game by Forever Ente
 baldurs-gate-dark-alliance-ii-switch	Baldur's Gate: Dark Alliance II	Nintendo Switch video game by Interplay	https://www.nintendo.com/store/products/baldurs-gate-dark-alliance-ii-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 ball-master-up-switch	Ball Master Up!	Nintendo Switch video game by Artem Kritinin	https://www.nintendo.com/store/products/ball-master-up-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 barn-finders-switch	Barn Finders	Nintendo Switch video game by MD GAMES	https://www.nintendo.com/store/products/barn-finders-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+baseball-club-switch	Baseball Club	Nintendo Switch video game by BoomBit Games	https://www.nintendo.com/store/products/baseball-club-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bat-boy-switch	Bat Boy	Nintendo Switch video game by X PLUS	https://www.nintendo.com/store/products/bat-boy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 baten-kaitos-i-and-ii-hd-remaster-switch	Baten Kaitos I & II HD Remaster	Nintendo Switch video game by BANDAI NAMCO Entertainment	https://www.nintendo.com/store/products/baten-kaitos-i-and-ii-hd-remaster-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 batman-arkham-trilogy-switch	Batman: Arkham Trilogy	Nintendo Switch video game by WB Games	https://www.nintendo.com/store/products/batman-arkham-trilogy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864333
@@ -404,7 +402,6 @@ bear-and-breakfast-switch	Bear and Breakfast	Nintendo Switch video game by Armor
 beast-breaker-switch	Beast Breaker	Nintendo Switch video game by Vodeo Games	https://www.nintendo.com/store/products/beast-breaker-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 beat-em-up-archives-qubyte-classics-switch	Beat 'Em Up Archives (QUByte Classics)	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/beat-em-up-archives-qubyte-classics-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 beat-cop-switch	Beat Cop	Nintendo Switch video game by 11 bit studios	https://www.nintendo.com/store/products/beat-cop-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-beat-them-all-switch	Beat Them All	Nintendo Switch video game by Pix Arts	https://www.nintendo.com/store/products/beat-them-all-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 beat-them-up-box-simulator-boxing-battle-fight-combat-for-nintendo-switch-ultimate-2023-switch	Beat Them Up - Box Simulator - Boxing Battle Fight Combat for Nintendo Switch Ultimate 2023	Nintendo Switch video game by Midnight Works	https://www.nintendo.com/store/products/beat-them-up-box-simulator-boxing-battle-fight-combat-for-nintendo-switch-ultimate-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 beat-them-up-street-fight-band-simulator-switch	Beat Them Up - Street Fight Band Simulator	Nintendo Switch video game by GOGAME CONSOLE PUBLISHER	https://www.nintendo.com/store/products/beat-them-up-street-fight-band-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 beattalk-switch	BeatTalk	Nintendo Switch video game by GIFT TEN INDUSTRY	https://www.nintendo.com/store/products/beattalk-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -415,6 +412,7 @@ bee-in-the-valley-switch	Bee in The Valley	Nintendo Switch video game by Ultimat
 beefense-beemastered-switch	BeeFense BeeMastered	Nintendo Switch video game by ByteRockers Games	https://www.nintendo.com/store/products/beefense-beemastered-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 beeny-switch	Beeny	Nintendo Switch video game by Diplodocus Games	https://www.nintendo.com/store/products/beeny-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 before-we-leave-switch	Before We Leave	Nintendo Switch video game by Team17	https://www.nintendo.com/store/products/before-we-leave-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+before-the-night-switch	Before the Night	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/before-the-night-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 behind-closed-doors-a-developers-tale-switch	Behind Closed Doors: A Developer's Tale	Nintendo Switch video game by Sometimes You	https://www.nintendo.com/store/products/behind-closed-doors-a-developers-tale-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 behold-the-kickmen-switch	Behold the Kickmen	Nintendo Switch video game by Ant Workshop	https://www.nintendo.com/store/products/behold-the-kickmen-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 beholder-2-switch	Beholder 2	Nintendo Switch video game by Alawar Premium	https://www.nintendo.com/store/products/beholder-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -428,12 +426,12 @@ best-month-ever-switch	Best Month Ever!	Nintendo Switch video game by Klabater	h
 best-sniper-legacy-dino-hunt-and-shooter-3d-switch	Best Sniper Legacy: Dino Hunt & Shooter 3D	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/best-sniper-legacy-dino-hunt-and-shooter-3d-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 best-sniper-shooting-hunter-switch	Best Sniper: Shooting Hunter	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/best-sniper-shooting-hunter-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 best-of-merge-vol-2-switch	Best of Merge vol#2	Nintendo Switch video game by Merge Games	https://www.nintendo.com/store/products/best-of-merge-vol-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-beyond-enemy-lines-remastered-edition-switch	Beyond Enemy Lines - Remastered Edition	Nintendo Switch video game by Polygon Art	https://www.nintendo.com/store/products/beyond-enemy-lines-remastered-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 beyond-a-steel-sky-switch	Beyond a Steel Sky	Nintendo Switch video game by Microids	https://www.nintendo.com/store/products/beyond-a-steel-sky-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 big-adventure-trip-to-europe-switch	Big Adventure: Trip To Europe	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/big-adventure-trip-to-europe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 big-adventure-trip-to-europe-2-collectors-edition-switch	Big Adventure: Trip To Europe 2 Collector's Edition	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/big-adventure-trip-to-europe-2-collectors-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 big-adventure-trip-to-europe-3-collectors-edition-switch	Big Adventure: Trip To Europe 3 Collector's Edition	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/big-adventure-trip-to-europe-3-collectors-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 big-brain-academy-brain-vs-brain-switch	Big Brain Academy: Brain vs. Brain	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/big-brain-academy-brain-vs-brain-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+big-farm-story-switch	Big Farm Story	Nintendo Switch video game by Goodgame Studios	https://www.nintendo.com/store/products/big-farm-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack-switch	Big Kids Games Collection Bundle 6-in-1 Funny Educational Children & Toddler Learning Pack	Nintendo Switch video game by McPeppergames	https://www.nintendo.com/store/products/big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bike-clash-switch	Bike Clash	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/bike-clash-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bike-jump-switch	Bike Jump	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/bike-jump-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -497,11 +495,13 @@ boo-party-switch	Boo Party	Nintendo Switch video game by eastasiasoft	https://ww
 book-quest-switch	Book Quest	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/book-quest-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 bookypets-legends-switch	BookyPets Legends	Nintendo Switch video game by DevilishGames	https://www.nintendo.com/store/products/bookypets-legends-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 boomerang-x-switch	Boomerang X	Nintendo Switch video game by Devolver Digital	https://www.nintendo.com/store/products/boomerang-x-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+boomshine-plus-switch	Boomshine Plus	Nintendo Switch video game by Brain Connected	https://www.nintendo.com/store/products/boomshine-plus-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 borderlands-game-of-the-year-edition-switch	Borderlands: Game of the Year Edition	Nintendo Switch video game by 2K	https://www.nintendo.com/store/products/borderlands-game-of-the-year-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 boreal-blade-switch	Boreal Blade	Nintendo Switch video game by Frozenbyte	https://www.nintendo.com/store/products/boreal-blade-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 boreal-tenebrae-switch	Boreal Tenebrae	Nintendo Switch video game by RedDeerGames	https://www.nintendo.com/store/products/boreal-tenebrae-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 bot-gaiden-switch	Bot Gaiden	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/bot-gaiden-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 botany-manor-switch	Botany Manor	Nintendo Switch video game by Whitethorn Digital	https://www.nintendo.com/store/products/botany-manor-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+bounce-house-switch	Bounce House	Nintendo Switch video game by Entity3	https://www.nintendo.com/store/products/bounce-house-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bounce-journey-switch	Bounce Journey	Nintendo Switch video game by Gametry	https://www.nintendo.com/store/products/bounce-journey-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bouncy-bullets-2-switch	Bouncy Bullets 2	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/bouncy-bullets-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 box-roulette-simulator-boxing-battle-fight-combat-for-nintendo-switch-switch	Box Roulette Simulator- Boxing Battle Fight Combat for Nintendo Switch	Nintendo Switch video game by Midnight Works	https://www.nintendo.com/store/products/box-roulette-simulator-boxing-battle-fight-combat-for-nintendo-switch-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -541,6 +541,7 @@ buck-bradley-2-switch	Buck Bradley 2	Nintendo Switch video game by RedDeerGames	
 buck-bradley-comic-adventure-switch	Buck Bradley Comic Adventure	Nintendo Switch video game by RedDeerGames	https://www.nintendo.com/store/products/buck-bradley-comic-adventure-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 bud-spencer-and-terence-hill-slaps-and-beans-2-switch	Bud Spencer & Terence Hill - Slaps and Beans 2	Nintendo Switch video game by ININ Games	https://www.nintendo.com/store/products/bud-spencer-and-terence-hill-slaps-and-beans-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 buddy-simulator-1984-switch	Buddy Simulator 1984	Nintendo Switch video game by Feardemic	https://www.nintendo.com/store/products/buddy-simulator-1984-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+buggy-racer-switch	Buggy Racer	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/buggy-racer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bugsnax-switch	Bugsnax	Nintendo Switch video game by Young Horses	https://www.nintendo.com/store/products/bugsnax-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 bugvasion-td-switch	Bugvasion TD	Nintendo Switch video game by PLAY2CHILL	https://www.nintendo.com/store/products/bugvasion-td-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 buissons-switch	Buissons	Nintendo Switch video game by Seaven Studio	https://www.nintendo.com/store/products/buissons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -552,16 +553,14 @@ bunhouse-switch	Bunhouse	Nintendo Switch video game by Digerati	https://www.nint
 bunker-21-extended-edition-switch	Bunker 21 Extended Edition	Nintendo Switch video game by 17Studio	https://www.nintendo.com/store/products/bunker-21-extended-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 bunker-life-switch	Bunker Life	Nintendo Switch video game by TROOOZE	https://www.nintendo.com/store/products/bunker-life-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 bunny-bounce-switch	Bunny Bounce	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/bunny-bounce-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-bunny-park-switch	Bunny Park	Nintendo Switch – OLED Model video game by Soedesco	https://www.nintendo.com/store/products/bunny-park-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-burger-patrol-switch	Burger Patrol	Nintendo Switch video game by Vagabond Dog	https://www.nintendo.com/store/products/burger-patrol-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 burnhouse-lane-switch	Burnhouse Lane	Nintendo Switch video game by Feardemic	https://www.nintendo.com/store/products/burnhouse-lane-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 burrow-of-the-fallen-bear-a-gay-furry-visual-novel-switch	Burrow of the Fallen Bear: A Gay Furry Visual Novel	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/burrow-of-the-fallen-bear-a-gay-furry-visual-novel-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 bus-driving-simulator-22-switch	Bus Driving Simulator 22	Nintendo Switch video game by SC Ovilex Soft	https://www.nintendo.com/store/products/bus-driving-simulator-22-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bus-simulator-city-ride-switch	Bus Simulator City Ride	Nintendo Switch video game by astragon	https://www.nintendo.com/store/products/bus-simulator-city-ride-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bus-tycoon-night-and-day-switch	Bus Tycoon Night and Day	Nintendo Switch video game by Appliks Apps Studio	https://www.nintendo.com/store/products/bus-tycoon-night-and-day-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 bush-hockey-league-switch	Bush Hockey League	Nintendo Switch video game by V7 Entertainment	https://www.nintendo.com/store/products/bush-hockey-league-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+bust-up-switch	Bust Up	Nintendo Switch video game by Entity3	https://www.nintendo.com/store/products/bust-up-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 butterflys-poison-blood-chains-switch	Butterfly's Poison; Blood Chains	Nintendo Switch video game by PROTOTYPE	https://www.nintendo.com/store/products/butterflys-poison-blood-chains-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-c-a-r-l-switch	C.A.R.L.	Nintendo Switch video game by Morningstar Game Studio	https://www.nintendo.com/store/products/c-a-r-l-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 caesar-empire-war-switch	CAESAR EMPIRE WAR	Nintendo Switch video game by Pix Arts	https://www.nintendo.com/store/products/caesar-empire-war-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 can-androids-survive-switch	CAN ANDROIDS SURVIVE	Nintendo Switch video game by Apriori Digital	https://www.nintendo.com/store/products/can-androids-survive-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 cannon-army-switch	CANNON ARMY	Nintendo Switch video game by Pix Arts	https://www.nintendo.com/store/products/cannon-army-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -602,7 +601,6 @@ capybara-madness-switch	Capybara Madness	Nintendo Switch video game by Weakfish 
 car-detailing-simulator-switch	Car Detailing Simulator	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/car-detailing-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 car-driving-simulator-switch	Car Driving Simulator	Nintendo Switch video game by Game Mavericks	https://www.nintendo.com/store/products/car-driving-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 car-factory-driver-switch	Car Factory Driver	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/car-factory-driver-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-car-mechanic-pinball-switch	Car Mechanic Pinball	Nintendo Switch video game by SONKA	https://www.nintendo.com/store/products/car-mechanic-pinball-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 car-mechanic-simulator-racing-switch	Car Mechanic Simulator Racing	Nintendo Switch video game by ECC GAMES	https://www.nintendo.com/store/products/car-mechanic-simulator-racing-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 car-parking-club-switch	Car Parking Club	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/car-parking-club-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 car-parking-madness-school-drive-mechanic-car-games-simulator-2023-switch	Car Parking Madness School Drive Mechanic Car Games Simulator 2023	Nintendo Switch video game by VG Games	https://www.nintendo.com/store/products/car-parking-madness-school-drive-mechanic-car-games-simulator-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -615,14 +613,12 @@ cards-of-the-dead-switch	Cards of the Dead	Nintendo Switch video game by JanduSo
 caretaker-switch	Caretaker	Nintendo Switch video game by Playstige Interactive	https://www.nintendo.com/store/products/caretaker-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 casino-golf-switch	Casino GOLF	Nintendo Switch video game by KrzysztofPodsada	https://www.nintendo.com/store/products/casino-golf-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 casino-heaven-slots-and-bonus-games-switch	Casino Heaven: Slots & Bonus Games	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/casino-heaven-slots-and-bonus-games-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-casino-roulette-royal-switch	Casino Roulette Royal	Nintendo Switch video game by Dolores Ent.	https://www.nintendo.com/store/products/casino-roulette-royal-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 cassiodora-switch	Cassiodora	Nintendo Switch video game by Plug In Digital	https://www.nintendo.com/store/products/cassiodora-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 castle-renovator-switch	Castle Renovator	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/castle-renovator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 castle-of-heart-plus-jet-kave-adventure-bundle-switch	Castle of Heart + Jet Kave Adventure Bundle	Nintendo Switch video game by 7Levels	https://www.nintendo.com/store/products/castle-of-heart-plus-jet-kave-adventure-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	
 castle-of-shikigami2-switch	Castle of Shikigami2	Nintendo Switch video game by Cosmo Machia	https://www.nintendo.com/store/products/castle-of-shikigami2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 castle-of-the-underdogs-ep1-switch	Castle of the Underdogs Ep1	Nintendo Switch video game by House of Pandas	https://www.nintendo.com/store/products/castle-of-the-underdogs-ep1-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 castlevania-advance-collection-switch	Castlevania Advance Collection	Nintendo Switch video game by KONAMI	https://www.nintendo.com/store/products/castlevania-advance-collection-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-casual-challenge-players-club-switch	Casual Challenge Players' Club	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/casual-challenge-players-club-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 cat-cafe-manager-switch	Cat Cafe Manager	Nintendo Switch video game by Freedom Games	https://www.nintendo.com/store/products/cat-cafe-manager-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 cat-souls-switch	Cat Souls	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/cat-souls-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 cats-cosmic-atlas-switch	Cat's Cosmic Atlas	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/cats-cosmic-atlas-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -630,6 +626,7 @@ catacomb-kitties-switch	Catacomb Kitties	Nintendo Switch video game by None	http
 catherine-full-body-switch	Catherine: Full Body	Nintendo Switch video game by SEGA	https://www.nintendo.com/store/products/catherine-full-body-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 catie-in-meowmeowland-switch	Catie in MeowmeowLand	Nintendo Switch video game by Blowfish Studios	https://www.nintendo.com/store/products/catie-in-meowmeowland-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 catlateral-damage-remeowstered-switch	Catlateral Damage: Remeowstered	Nintendo Switch video game by Manekoware	https://www.nintendo.com/store/products/catlateral-damage-remeowstered-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+catlord-switch	Catlord	Nintendo Switch video game by No Gravity Games	https://www.nintendo.com/store/products/catlord-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 catmaze-switch	Catmaze	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/catmaze-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 cats-puzzle-switch	Cats Puzzle	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/cats-puzzle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 cave-of-past-sorrows-switch	Cave of Past Sorrows	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/cave-of-past-sorrows-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -647,12 +644,12 @@ charons-staircase-switch	Charon's Staircase	Nintendo Switch video game by Soedes
 chasing-light-switch	Chasing Light	Nintendo Switch video game by Vittgen	https://www.nintendo.com/store/products/chasing-light-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 chasing-static-switch	Chasing Static	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/chasing-static-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 chasm-the-rift-switch	Chasm: The Rift	Nintendo Switch video game by SNEG	https://www.nintendo.com/store/products/chasm-the-rift-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+chat-simulator-blind-dates-switch	Chat Simulator: Blind Dates	Nintendo Switch video game by Cooking & Publishing	https://www.nintendo.com/store/products/chat-simulator-blind-dates-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 checkers-quest-bundle-switch	Checkers Quest Bundle	Nintendo Switch video game by Prison Games	https://www.nintendo.com/store/products/checkers-quest-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 chef-switch	Chef	Nintendo Switch video game by Sabec	https://www.nintendo.com/store/products/chef-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 chefy-chef-switch	Chefy-Chef	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/chefy-chef-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 chenso-club-switch	Chenso Club	Nintendo Switch video game by Curve Digital	https://www.nintendo.com/store/products/chenso-club-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 chernobyl-origins-switch	Chernobyl: Origins	Nintendo Switch video game by Nelset interactive	https://www.nintendo.com/store/products/chernobyl-origins-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-chess-classic-board-game-switch	Chess Classic Board Game	Nintendo Switch video game by Megame	https://www.nintendo.com/store/products/chess-classic-board-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 chess-maiden-switch	Chess Maiden	Nintendo Switch video game by YeTa Games	https://www.nintendo.com/store/products/chess-maiden-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 chess-openings-and-book-moves-switch	Chess Openings and Book Moves	Nintendo Switch video game by Cooking & Publishing	https://www.nintendo.com/store/products/chess-openings-and-book-moves-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 chess-pills-switch	Chess Pills	Nintendo Switch video game by Silesia Games	https://www.nintendo.com/store/products/chess-pills-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -677,9 +674,9 @@ citizen-sleeper-switch	Citizen Sleeper	Nintendo Switch video game by Fellow Trav
 city-limits-switch	City Limits	Nintendo Switch video game by JanduSoft	https://www.nintendo.com/store/products/city-limits-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 city-super-hero-3d-flying-legend-warriors-deluxe-simulator-switch	City Super Hero 3D - Flying Legend Warriors Deluxe Simulator	Nintendo Switch video game by None	https://www.nintendo.com/store/products/city-super-hero-3d-flying-legend-warriors-deluxe-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 city-wars-tokyo-reign-switch	City Wars: Tokyo Reign	Nintendo Switch video game by Mojo Bones	https://www.nintendo.com/store/products/city-wars-tokyo-reign-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+city-of-beats-switch	City of Beats	Nintendo Switch video game by Freedom Games	https://www.nintendo.com/store/products/city-of-beats-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 clan-oconall-and-the-crown-of-the-stag-switch	Clan O'Conall and the Crown of the Stag	Nintendo Switch video game by HitGrab	https://www.nintendo.com/store/products/clan-oconall-and-the-crown-of-the-stag-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 classic-games-collection-vol-1-plus-2-bundle-switch	Classic Games Collection Vol.1+2 Bundle	Nintendo Switch video game by Baltoro Minis	https://www.nintendo.com/store/products/classic-games-collection-vol-1-plus-2-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-classic-games-collection-vol-2-switch	Classic Games Collection Vol.2	Nintendo Switch video game by Baltoro Minis	https://www.nintendo.com/store/products/classic-games-collection-vol-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 classic-pool-and-cyber-pool-bundle-switch	Classic Pool and Cyber Pool Bundle	Nintendo Switch video game by Revulo Games	https://www.nintendo.com/store/products/classic-pool-and-cyber-pool-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 classic-racers-elite-switch	Classic Racers Elite	Nintendo Switch video game by Funbox Media	https://www.nintendo.com/store/products/classic-racers-elite-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 cleo-a-pirates-tale-switch	Cleo - a pirate's tale	Nintendo Switch video game by Christoph Schultz	https://www.nintendo.com/store/products/cleo-a-pirates-tale-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -726,7 +723,6 @@ coromon-switch	Coromon	Nintendo Switch video game by Freedom Games	https://www.n
 corpse-killer-25th-anniversary-edition-switch	Corpse Killer - 25th Anniversary Edition	Nintendo Switch video game by Limited Run Games	https://www.nintendo.com/store/products/corpse-killer-25th-anniversary-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 corpse-party-switch	Corpse Party	Nintendo Switch video game by Marvelous (XSEED)	https://www.nintendo.com/store/products/corpse-party-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 corpse-party-blood-drive-switch	Corpse Party: Blood Drive	Nintendo Switch video game by Marvelous (XSEED)	https://www.nintendo.com/store/products/corpse-party-blood-drive-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-corrupt-political-idle-city-war-strategy-simulator-craft-switch	Corrupt - Political Idle City War Strategy Simulator Craft	Nintendo Switch video game by Midnight Works	https://www.nintendo.com/store/products/corrupt-political-idle-city-war-strategy-simulator-craft-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 cosmicbreak-gun-and-slash-switch	CosmicBreak Gun & Slash	Nintendo Switch video game by CyberStep	https://www.nintendo.com/store/products/cosmicbreak-gun-and-slash-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 cosmo-dreamer-switch	Cosmo Dreamer	Nintendo Switch video game by Waku Waku Games	https://www.nintendo.com/store/products/cosmo-dreamer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 cosmoplayerz-switch	CosmoPlayerZ	Nintendo Switch video game by Regista	https://www.nintendo.com/store/products/cosmoplayerz-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -814,6 +810,7 @@ deathrun-tv-switch	DEATHRUN TV	Nintendo Switch video game by Merge Games	https:/
 decapolice-switch	DECAPOLICE	Nintendo Switch video game by LEVEL-5	https://www.nintendo.com/store/products/decapolice-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864333
 deltazeal-switch	DELTAZEAL	Nintendo Switch video game by TriangleService	https://www.nintendo.com/store/products/deltazeal-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 demon-gaze-extra-switch	DEMON GAZE EXTRA	Nintendo Switch video game by Clouded Leopard Entertainment	https://www.nintendo.com/store/products/demon-gaze-extra-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+dinosaurs-mission-dino-camp-switch	DINOSAURS: Mission Dino Camp	Nintendo Switch video game by Wild River Games	https://www.nintendo.com/store/products/dinosaurs-mission-dino-camp-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 distraint-2-switch	DISTRAINT 2	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/distraint-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 distraint-collection-switch	DISTRAINT Collection	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/distraint-collection-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 distraint-deluxe-edition-switch	DISTRAINT: Deluxe Edition	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/distraint-deluxe-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -858,7 +855,6 @@ darkwood-switch	Darkwood	Nintendo Switch video game by Crunching Koalas	https://
 dashing-orange-switch	Dashing Orange	Nintendo Switch video game by JanduSoft	https://www.nintendo.com/store/products/dashing-orange-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 dating-life-miley-x-emily-switch	Dating Life: Miley X Emily	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/dating-life-miley-x-emily-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 dawn-of-survivors-2-switch	Dawn of Survivors 2	Nintendo Switch video game by WISTONE ENTERTAINMENT	https://www.nintendo.com/store/products/dawn-of-survivors-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-dawn-of-the-monsters-switch	Dawn of the Monsters	Nintendo Switch video game by WayForward	https://www.nintendo.com/store/products/dawn-of-the-monsters-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 days-of-doom-switch	Days of Doom	Nintendo Switch video game by Atari	https://www.nintendo.com/store/products/days-of-doom-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 de-yabatanien-switch	De: Yabatanien	Nintendo Switch video game by MoonGlass	https://www.nintendo.com/store/products/de-yabatanien-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 dead-age-zombie-adventure-and-shooting-game-switch	Dead Age: Zombie Adventure & Shooting Game	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/dead-age-zombie-adventure-and-shooting-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -906,6 +902,7 @@ demonic-supremacy-switch	Demonic Supremacy	Nintendo Switch video game by ChiliDo
 deponia-doomsday-switch	Deponia Doomsday	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/deponia-doomsday-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 derby-racing-xtreme-driver-switch	Derby Racing: Xtreme Driver	Nintendo Switch video game by Megame	https://www.nintendo.com/store/products/derby-racing-xtreme-driver-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 desert-child-switch	Desert Child	Nintendo Switch video game by Akupara Games	https://www.nintendo.com/store/products/desert-child-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+desktop-basketball-2-switch	Desktop Basketball 2	Nintendo Switch video game by SAT-BOX	https://www.nintendo.com/store/products/desktop-basketball-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 desktop-soccer-2-switch	Desktop Soccer 2	Nintendo Switch video game by SAT-BOX	https://www.nintendo.com/store/products/desktop-soccer-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 despotism-3k-switch	Despotism 3k	Nintendo Switch video game by Gameplay First	https://www.nintendo.com/store/products/despotism-3k-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 desta-the-memories-between-switch	Desta: The Memories Between	Nintendo Switch video game by ustwo games	https://www.nintendo.com/store/products/desta-the-memories-between-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -930,7 +927,7 @@ dire-vengeance-switch	Dire Vengeance	Nintendo Switch video game by Magic Shot Ga
 dire-vengeance-deluxe-switch	Dire Vengeance Deluxe	Nintendo Switch video game by Magic Shot Games	https://www.nintendo.com/store/products/dire-vengeance-deluxe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 disaster-detective-saiga-an-indescribable-mystery-switch	Disaster Detective Saiga: An Indescribable Mystery	Nintendo Switch video game by D.H	https://www.nintendo.com/store/products/disaster-detective-saiga-an-indescribable-mystery-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 disco-elysium-the-final-cut-switch	Disco Elysium - The Final Cut	Nintendo Switch video game by ZA/UM	https://www.nintendo.com/store/products/disco-elysium-the-final-cut-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-disease-hidden-object-switch	Disease -Hidden Object-	Nintendo Switch video game by D3 Publisher	https://www.nintendo.com/store/products/disease-hidden-object-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+disgaea-7-vows-of-the-virtueless-switch	Disgaea 7: Vows of the Virtueless	Nintendo Switch video game by NIS America	https://www.nintendo.com/store/products/disgaea-7-vows-of-the-virtueless-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 disjunction-switch	Disjunction	Nintendo Switch video game by Fireshine Games	https://www.nintendo.com/store/products/disjunction-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 disney-illusion-island-switch	Disney Illusion Island	Nintendo Switch video game by Disney Electronic Content	https://www.nintendo.com/store/products/disney-illusion-island-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 disney-speedstorm-standard-founders-pack-switch	Disney Speedstorm - Standard Founder’s Pack	Nintendo Switch video game by Gameloft	https://www.nintendo.com/store/products/disney-speedstorm-standard-founders-pack-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -965,7 +962,6 @@ doomed-to-hell-switch	Doomed to Hell	Nintendo Switch video game by QUByte Intera
 doomsday-hunters-switch	Doomsday Hunters	Nintendo Switch video game by Gameplay First	https://www.nintendo.com/store/products/doomsday-hunters-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 dorakone-switch	DoraKone	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/dorakone-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 dordogne-switch	Dordogne	Nintendo Switch video game by Focus Entertainment	https://www.nintendo.com/store/products/dordogne-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-dorfromantik-switch	Dorfromantik	Nintendo Switch video game by ToukanaInteractive	https://www.nintendo.com/store/products/dorfromantik-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 dormitory-love-switch	Dormitory Love	Nintendo Switch video game by PLiCy	https://www.nintendo.com/store/products/dormitory-love-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 double-dragon-gaiden-rise-of-the-dragons-switch	Double Dragon Gaiden: Rise of the Dragons	Nintendo Switch video game by Maximum Games	https://www.nintendo.com/store/products/double-dragon-gaiden-rise-of-the-dragons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 double-kick-heroes-switch	Double Kick Heroes	Nintendo Switch video game by Plug In Digital	https://www.nintendo.com/store/products/double-kick-heroes-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -986,6 +982,7 @@ dream-switch	Dream	Nintendo Switch video game by Winking	https://www.nintendo.co
 dream-park-story-switch	Dream Park Story	Nintendo Switch video game by Kairosoft	https://www.nintendo.com/store/products/dream-park-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 dream-of-tiny-snow-switch	Dream of Tiny Snow	Nintendo Switch video game by Navila Software Japan	https://www.nintendo.com/store/products/dream-of-tiny-snow-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 dreamworks-dragons-legends-of-the-nine-realms-switch	DreamWorks Dragons: Legends of The Nine Realms	Nintendo Switch video game by Outright Games	https://www.nintendo.com/store/products/dreamworks-dragons-legends-of-the-nine-realms-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+dreamworks-kids-bundle-switch	DreamWorks Kids Bundle	Nintendo Switch video game by Outright Games	https://www.nintendo.com/store/products/dreamworks-kids-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 dreamscaper-switch	Dreamscaper	Nintendo Switch video game by Freedom Games	https://www.nintendo.com/store/products/dreamscaper-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 dreamy-trail-switch	Dreamy Trail	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/dreamy-trail-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 drift-and-drive-switch	Drift & Drive	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/drift-and-drive-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1033,7 +1030,6 @@ earthx-switch	EarthX	Nintendo Switch video game by Pineapple Works	https://www.n
 earthen-dragon-switch	Earthen Dragon	Nintendo Switch video game by Origamihero Games	https://www.nintendo.com/store/products/earthen-dragon-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud-switch	Eastern Euro Truck Simulator: Real Offroad Car Driving Game Sim 4x4 Mud	Nintendo Switch video game by INSTAMARKETINGANDGAME	https://www.nintendo.com/store/products/eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 eastern-exorcist-switch	Eastern Exorcist	Nintendo Switch video game by BILIBILI HK	https://www.nintendo.com/store/products/eastern-exorcist-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-eastward-switch	Eastward	Nintendo Switch video game by Chucklefish	https://www.nintendo.com/store/products/eastward-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 echoblade-switch	EchoBlade	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/echoblade-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 ecomahjong-switch	EcoMahjong	Nintendo Switch video game by JetDogs	https://www.nintendo.com/store/products/ecomahjong-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 edens-last-sunrise-switch	Eden's Last Sunrise	Nintendo Switch video game by Sungazer Software	https://www.nintendo.com/store/products/edens-last-sunrise-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -1041,6 +1037,7 @@ edge-of-eternity-switch	Edge Of Eternity	Nintendo Switch video game by Ubitus	ht
 egglien-switch	Egglien	Nintendo Switch video game by Penguin Pop Games	https://www.nintendo.com/store/products/egglien-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 eins-sword-switch	Ein's Sword	Nintendo Switch video game by Infinite Game	https://www.nintendo.com/store/products/eins-sword-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 eiyuden-chronicle-rising-switch	Eiyuden Chronicle: Rising	Nintendo Switch video game by 505 Games	https://www.nintendo.com/store/products/eiyuden-chronicle-rising-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+elasto-mania-ii-switch	Elasto Mania II	Nintendo Switch video game by Infinite Zone	https://www.nintendo.com/store/products/elasto-mania-ii-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 elder-sisters-love-training-switch	Elder Sister's Love Training ～年上お姉さんの恋愛トレーニング～	Nintendo Switch video game by CyberStep	https://www.nintendo.com/store/products/elder-sisters-love-training-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 elderand-switch	Elderand	Nintendo Switch video game by Graffiti Games	https://www.nintendo.com/store/products/elderand-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 elechead-switch	ElecHead	Nintendo Switch video game by NamaTakahashi	https://www.nintendo.com/store/products/elechead-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1072,7 +1069,6 @@ epic-loon-switch	Epic Loon	Nintendo Switch video game by Shibuya Productions	htt
 epopeia-bundle-coop-puzzle-switch	Epopeia Bundle - Coop Puzzle	Nintendo Switch video game by Epopeia Games	https://www.nintendo.com/store/products/epopeia-bundle-coop-puzzle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 escape-academy-the-complete-edition-switch	Escape Academy: The Complete Edition	Nintendo Switch video game by iam8bit	https://www.nintendo.com/store/products/escape-academy-the-complete-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 escape-game-fort-boyard-2022-switch	Escape Game - FORT BOYARD 2022	Nintendo Switch video game by Microids	https://www.nintendo.com/store/products/escape-game-fort-boyard-2022-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-escape-goat-switch	Escape Goat	Nintendo Switch video game by Adam Spragg Games	https://www.nintendo.com/store/products/escape-goat-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 escape-room-bundle-switch	Escape Room Bundle	Nintendo Switch video game by mc2games	https://www.nintendo.com/store/products/escape-room-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 escape-string-switch	Escape String	Nintendo Switch video game by 7 Raven Studios	https://www.nintendo.com/store/products/escape-string-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 escape-from-chernobyl-switch	Escape from Chernobyl	Nintendo Switch video game by Atypical Games	https://www.nintendo.com/store/products/escape-from-chernobyl-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1083,9 +1079,9 @@ escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game-switch	Escaping a
 eternal-hope-switch	Eternal Hope	Nintendo Switch video game by Doublehit Games	https://www.nintendo.com/store/products/eternal-hope-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 eternal-radiance-switch	Eternal Radiance	Nintendo Switch video game by Visualnoveler	https://www.nintendo.com/store/products/eternal-radiance-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 etrian-odyssey-origins-collection-switch	Etrian Odyssey Origins Collection	Nintendo Switch video game by SEGA	https://www.nintendo.com/store/products/etrian-odyssey-origins-collection-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+eventide-2-sorcerers-mirror-switch	Eventide 2: Sorcerer's Mirror	Nintendo Switch video game by Artifex Mundi	https://www.nintendo.com/store/products/eventide-2-sorcerers-mirror-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 eventide-slavic-fable-switch	Eventide: Slavic Fable	Nintendo Switch video game by Artifex Mundi	https://www.nintendo.com/store/products/eventide-slavic-fable-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 ever-forward-switch	Ever Forward	Nintendo Switch video game by PM Studios	https://www.nintendo.com/store/products/ever-forward-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-everdell-switch	Everdell	Nintendo Switch video game by Dire Wolf Digital	https://www.nintendo.com/store/products/everdell-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 everdream-valley-switch	Everdream Valley	Nintendo Switch video game by Untold Tales	https://www.nintendo.com/store/products/everdream-valley-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 evertried-switch	Evertried	Nintendo Switch video game by DANGEN Entertainment	https://www.nintendo.com/store/products/evertried-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 everybody-1-2-switch-switch	Everybody 1-2-Switch!	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/everybody-1-2-switch-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1115,6 +1111,7 @@ front-mission-2-remake-switch	FRONT MISSION 2: Remake	Nintendo Switch video game
 fur-squadron-switch	FUR Squadron	Nintendo Switch video game by Raptor Claw	https://www.nintendo.com/store/products/fur-squadron-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 factorio-switch	Factorio	Nintendo Switch video game by Wube Software	https://www.nintendo.com/store/products/factorio-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fae-farm-switch	Fae Farm	Nintendo Switch video game by Phoenix Labs	https://www.nintendo.com/store/products/fae-farm-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+faerie-afterlight-switch	Faerie Afterlight	Nintendo Switch video game by Mastiff	https://www.nintendo.com/store/products/faerie-afterlight-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fairy-elements-switch	Fairy Elements	Nintendo Switch video game by KEMCO	https://www.nintendo.com/store/products/fairy-elements-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 fairy-fencer-f-refrain-chord-switch	Fairy Fencer F: Refrain Chord	Nintendo Switch video game by Idea Factory	https://www.nintendo.com/store/products/fairy-fencer-f-refrain-chord-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fairy-fencer-f-refrain-chord-deluxe-bundle-switch	Fairy Fencer F: Refrain Chord Deluxe Bundle	Nintendo Switch video game by Idea Factory	https://www.nintendo.com/store/products/fairy-fencer-f-refrain-chord-deluxe-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -1130,6 +1127,7 @@ famicom-detective-club-the-girl-who-stands-behind-switch	Famicom Detective Club:
 famicom-detective-club-the-missing-heir-switch	Famicom Detective Club: The Missing Heir	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/famicom-detective-club-the-missing-heir-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 family-jigsaw-puzzle-classic-mosaic-puzzles-switch	Family Jigsaw Puzzle: Classic Mosaic Puzzles	Nintendo Switch video game by Megame	https://www.nintendo.com/store/products/family-jigsaw-puzzle-classic-mosaic-puzzles-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 family-man-switch	Family Man	Nintendo Switch video game by No More Robots	https://www.nintendo.com/store/products/family-man-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+famous-duo-bundle-switch	Famous Duo Bundle	Nintendo Switch video game by Frogwares	https://www.nintendo.com/store/products/famous-duo-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	
 fantasy-ball-switch	Fantasy Ball	Nintendo Switch video game by Pixel Sunset Studio	https://www.nintendo.com/store/products/fantasy-ball-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 fantasy-blacksmith-switch	Fantasy Blacksmith	Nintendo Switch video game by CheckMate Publishing	https://www.nintendo.com/store/products/fantasy-blacksmith-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 fantasy-tavern-sextet-vol3-postlude-days-switch	Fantasy Tavern Sextet -Vol.3 Postlude Days-	Nintendo Switch video game by qureate	https://www.nintendo.com/store/products/fantasy-tavern-sextet-vol3-postlude-days-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1140,6 +1138,7 @@ farming-life-switch	Farming Life	Nintendo Switch video game by Ultimate Games	ht
 farming-real-simulation-tractor-combine-trucks-farmer-land-game-switch	Farming Real Simulation Tractor, Combine Trucks Farmer Land Game	Nintendo Switch video game by VG Games	https://www.nintendo.com/store/products/farming-real-simulation-tractor-combine-trucks-farmer-land-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition-switch	Farming Simulator - Farm, Tractor, Experience Logic Games Nintendo Switch Edition	Nintendo Switch video game by INSTAMARKETINGANDGAME	https://www.nintendo.com/store/products/farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 farming-simulator-23-nintendo-switch-edition-switch	Farming Simulator 23; Nintendo Switch Edition	Nintendo Switch video game by GIANTS Software	https://www.nintendo.com/store/products/farming-simulator-23-nintendo-switch-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+farming-tractor-simulator-2023-drive-combine-and-trucks-switch	Farming Tractor Simulator 2023 : Drive Combine & Trucks	Nintendo Switch video game by None	https://www.nintendo.com/store/products/farming-tractor-simulator-2023-drive-combine-and-trucks-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 fashion-dreamer-switch	Fashion Dreamer	Nintendo Switch video game by Marvelous (XSEED)	https://www.nintendo.com/store/products/fashion-dreamer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 fashion-police-squad-switch	Fashion Police Squad	Nintendo Switch video game by No More Robots	https://www.nintendo.com/store/products/fashion-police-squad-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fastest-on-the-buzzer-switch	Fastest on the Buzzer	Nintendo Switch video game by Sabec	https://www.nintendo.com/store/products/fastest-on-the-buzzer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1198,6 +1197,7 @@ floppy-knights-switch	Floppy Knights	Nintendo Switch video game by Rose City Gam
 flower-shop-summer-in-fairbrook-switch	Flower Shop: Summer In Fairbrook	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/flower-shop-summer-in-fairbrook-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fluffy-horde-switch	Fluffy Horde	Nintendo Switch video game by RedDeerGames	https://www.nintendo.com/store/products/fluffy-horde-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 fluffy-milo-switch	Fluffy Milo	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/fluffy-milo-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+flupp-the-fish-switch	Flupp The Fish	Nintendo Switch video game by EntwicklerX	https://www.nintendo.com/store/products/flupp-the-fish-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 flutter-away-switch	Flutter Away	Nintendo Switch video game by Runaway Play	https://www.nintendo.com/store/products/flutter-away-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 flying-neko-delivery-switch	Flying Neko Delivery	Nintendo Switch video game by Fractal Phase	https://www.nintendo.com/store/products/flying-neko-delivery-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 flynn-son-of-crimson-switch	Flynn: Son of Crimson	Nintendo Switch video game by Humble Games	https://www.nintendo.com/store/products/flynn-son-of-crimson-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1220,6 +1220,7 @@ forever-lost-episode-3-switch	Forever Lost: Episode 3	Nintendo Switch video game
 forgotten-hill-disillusion-switch	Forgotten Hill Disillusion	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/forgotten-hill-disillusion-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 forgotton-anne-switch	Forgotton Anne	Nintendo Switch video game by ThroughLine Games	https://www.nintendo.com/store/products/forgotton-anne-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 forklift-2024-the-simulation-switch	Forklift 2024 - The Simulation	Nintendo Switch video game by Polygon Art	https://www.nintendo.com/store/products/forklift-2024-the-simulation-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+forklift-simulator-2023-switch	Forklift Simulator 2023	Nintendo Switch video game by Halva Studio	https://www.nintendo.com/store/products/forklift-simulator-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 formula-retro-racing-world-tour-switch	Formula Retro Racing: World Tour	Nintendo Switch video game by CGA Studio Games	https://www.nintendo.com/store/products/formula-retro-racing-world-tour-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 fortress-building-puzzle-galaxy-cube-tower-simulator-game-switch	Fortress Building Puzzle - Galaxy Cube Tower Simulator Game	Nintendo Switch video game by INSTAMARKETINGANDGAME	https://www.nintendo.com/store/products/fortress-building-puzzle-galaxy-cube-tower-simulator-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 fotress-s-switch	Fotress S	Nintendo Switch video game by DAEWON MEDIA	https://www.nintendo.com/store/products/fotress-s-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1228,6 +1229,7 @@ fragments-note-plus-switch	Fragment's Note+	Nintendo Switch video game by ULLUCU
 fragments-note-plus-afterstory-switch	Fragment's Note+ AfterStory	Nintendo Switch video game by ULLUCUS HEAVEN	https://www.nintendo.com/store/products/fragments-note-plus-afterstory-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 fran-bow-switch	Fran Bow	Nintendo Switch video game by Killmonday Games	https://www.nintendo.com/store/products/fran-bow-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 frank-and-drake-switch	Frank and Drake	Nintendo Switch video game by Chorus Worldwide Games	https://www.nintendo.com/store/products/frank-and-drake-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+freak-crossing-switch	Freak Crossing	Nintendo Switch video game by Wildbus Studio	https://www.nintendo.com/store/products/freak-crossing-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 freedom-finger-switch	Freedom Finger	Nintendo Switch video game by Wide Right Interactive	https://www.nintendo.com/store/products/freedom-finger-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 freezer-pops-switch	Freezer Pops	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/freezer-pops-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 freuds-bones-the-game-switch	Freud's Bones - The Game	Nintendo Switch video game by Meangrip Studio	https://www.nintendo.com/store/products/freuds-bones-the-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1235,7 +1237,6 @@ friday-the-13th-the-game-ultimate-slasher-edition-switch	Friday the 13th: The Ga
 frido-switch	Frido	Nintendo Switch video game by Big Way	https://www.nintendo.com/store/products/frido-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 frightence-switch	Frightence	Nintendo Switch video game by Playstige Interactive	https://www.nintendo.com/store/products/frightence-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 frog-hop-switch	Frog Hop	Nintendo Switch video game by Tiny Warrior Games	https://www.nintendo.com/store/products/frog-hop-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-frogice-switch	Frogice	Nintendo Switch video game by Weakfish Studio	https://www.nintendo.com/store/products/frogice-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 frogy-world-switch	Frogy World	Nintendo Switch video game by Weakfish Studio	https://www.nintendo.com/store/products/frogy-world-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 from-space-switch	From Space	Nintendo Switch video game by Curve Digital	https://www.nintendo.com/store/products/from-space-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 full-quiet-switch	Full Quiet	Nintendo Switch video game by 8 Bit Legit	https://www.nintendo.com/store/products/full-quiet-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1280,6 +1281,7 @@ gangsta-magic-switch	Gangsta Magic	Nintendo Switch video game by Nerd Games	http
 gangster-life-criminal-untold-cars-theft-police-switch	Gangster Life:  Criminal Untold, Cars, Theft, Police	Nintendo Switch video game by VG Games	https://www.nintendo.com/store/products/gangster-life-criminal-untold-cars-theft-police-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 ganryu-2-hakuma-kojiro-switch	Ganryu 2 - Hakuma Kojiro	Nintendo Switch video game by JUST FOR GAMES	https://www.nintendo.com/store/products/ganryu-2-hakuma-kojiro-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum-switch	Garbage Pail Kids: Mad Mike & the Quest for Stale Gum	Nintendo Switch video game by iam8bit	https://www.nintendo.com/store/products/garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+garden-in-switch	Garden In!	Nintendo Switch video game by Bonus Stage Publishing	https://www.nintendo.com/store/products/garden-in-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 garden-paws-switch	Garden Paws	Nintendo Switch video game by Bitten Toast Games	https://www.nintendo.com/store/products/garden-paws-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 garden-simulator-switch	Garden Simulator	Nintendo Switch video game by Toplitz Productions	https://www.nintendo.com/store/products/garden-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 garden-story-switch	Garden Story	Nintendo Switch video game by Rose City Games	https://www.nintendo.com/store/products/garden-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1290,6 +1292,7 @@ garfield-lasagna-party-switch	Garfield Lasagna Party	Nintendo Switch video game 
 garlic-switch	Garlic	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/garlic-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 gas-guzzlers-extreme-switch	Gas Guzzlers Extreme	Nintendo Switch video game by Funbox Media	https://www.nintendo.com/store/products/gas-guzzlers-extreme-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 gas-station-simulator-switch	Gas Station Simulator	Nintendo Switch video game by MD GAMES	https://www.nintendo.com/store/products/gas-station-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+gastro-force-switch	Gastro Force	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/gastro-force-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 gates-of-hell-switch	Gates Of Hell	Nintendo Switch video game by Super Icon	https://www.nintendo.com/store/products/gates-of-hell-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 gauntler-switch	Gauntler	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/gauntler-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 gearshifters-switch	Gearshifters	Nintendo Switch video game by Numskull Games	https://www.nintendo.com/store/products/gearshifters-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1329,9 +1332,12 @@ god-of-rock-switch	God of Rock	Nintendo Switch video game by Maximum Games	https
 godlike-burger-switch	Godlike Burger	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/godlike-burger-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 goetia-2-switch	Goetia 2	Nintendo Switch video game by Forever Entertainment	https://www.nintendo.com/store/products/goetia-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 gold-crusader-switch	Gold Crusader	Nintendo Switch video game by Polygon Art	https://www.nintendo.com/store/products/gold-crusader-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+golf-hole-in-one-switch	Golf: Hole in One	Nintendo Switch video game by Bearded Ants	https://www.nintendo.com/store/products/golf-hole-in-one-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 gone-home-switch	Gone Home	Nintendo Switch video game by Annapurna Interactive	https://www.nintendo.com/store/products/gone-home-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 good-job-switch	Good Job!	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/good-job-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 goroons-switch	Goroons	Nintendo Switch video game by Epopeia Games	https://www.nintendo.com/store/products/goroons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+gothic-classic-switch	Gothic Classic	Nintendo Switch video game by THQ Nordic	https://www.nintendo.com/store/products/gothic-classic-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+gourmet-warriors-qubyte-classics-switch	Gourmet Warriors (QUByte Classics)	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/gourmet-warriors-qubyte-classics-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 grabitoons-switch	Grabitoons!	Nintendo Switch video game by Entalto Studios	https://www.nintendo.com/store/products/grabitoons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 gramik-paint-roller-switch	Gramik Paint Roller	Nintendo Switch video game by Isaias Game Dev	https://www.nintendo.com/store/products/gramik-paint-roller-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 grammarian-ltd-switch	Grammarian Ltd	Nintendo Switch video game by ALGOROCKS	https://www.nintendo.com/store/products/grammarian-ltd-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1450,7 +1456,7 @@ hidden-bunny-switch	Hidden Bunny	Nintendo Switch video game by DillyFrame	https:
 hidden-paws-bundle-switch	Hidden Paws Bundle	Nintendo Switch video game by Silesia Games	https://www.nintendo.com/store/products/hidden-paws-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hidden-paws-mystery-switch	Hidden Paws Mystery	Nintendo Switch video game by Silesia Games	https://www.nintendo.com/store/products/hidden-paws-mystery-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hidden-shapes-cat-realm-plus-trick-or-cats-switch	Hidden Shapes: Cat Realm + Trick or Cats	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/hidden-shapes-cat-realm-plus-trick-or-cats-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-highschool-romance-switch	Highschool Romance	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/highschool-romance-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+high-sea-saga-dx-switch	High Sea Saga DX	Nintendo Switch video game by Kairosoft	https://www.nintendo.com/store/products/high-sea-saga-dx-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 highway-traffic-racer-car-racing-simulator-switch	Highway Traffic Racer - Car Racing Simulator	Nintendo Switch video game by GOGAME CONSOLE PUBLISHER	https://www.nintendo.com/store/products/highway-traffic-racer-car-racing-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hike-isle-switch	Hike Isle	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/hike-isle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hike-trip-switch	Hike Trip	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/hike-trip-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1459,7 +1465,6 @@ hillbilly-doomsday-switch	Hillbilly Doomsday	Nintendo Switch video game by Somet
 hindsight-20-20-wrath-of-the-raakshasa-switch	Hindsight 20/20 - Wrath of the Raakshasa	Nintendo Switch video game by Triple-I Games	https://www.nintendo.com/store/products/hindsight-20-20-wrath-of-the-raakshasa-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 hippo-little-red-riding-hood-switch	Hippo: Little Red Riding Hood	Nintendo Switch video game by 17Studio	https://www.nintendo.com/store/products/hippo-little-red-riding-hood-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hobo-tough-life-switch	Hobo: Tough Life	Nintendo Switch video game by Perun Creative	https://www.nintendo.com/store/products/hobo-tough-life-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-hokko-life-switch	Hokko Life	Nintendo Switch video game by Team17	https://www.nintendo.com/store/products/hokko-life-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hola-reversi-switch	Hola! Reversi	Nintendo Switch video game by BigWhitePlanet	https://www.nintendo.com/store/products/hola-reversi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 hollenburg-hell-castle-switch	Hollenburg 'Hell Castle'	Nintendo Switch video game by Vikalb	https://www.nintendo.com/store/products/hollenburg-hell-castle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 hollow-2-switch	Hollow 2	Nintendo Switch video game by Forever Entertainment	https://www.nintendo.com/store/products/hollow-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1550,6 +1555,7 @@ inspector-waffles-switch	Inspector Waffles	Nintendo Switch video game by Yann Ma
 interrogation-you-will-be-deceived-switch	Interrogation: You will be deceived	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/interrogation-you-will-be-deceived-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 into-a-dream-switch	Into A Dream	Nintendo Switch video game by Top Hat Studios	https://www.nintendo.com/store/products/into-a-dream-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 into-the-dark-switch	Into The Dark	Nintendo Switch video game by Esenthel	https://www.nintendo.com/store/products/into-the-dark-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+into-the-sky-switch	Into The Sky	Nintendo Switch video game by EpiXR Games	https://www.nintendo.com/store/products/into-the-sky-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 intrepid-izzy-switch	Intrepid Izzy	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/intrepid-izzy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 intruders-hide-and-seek-switch	Intruders: Hide and Seek	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/intruders-hide-and-seek-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 inua-a-story-in-ice-and-time-switch	Inua - A Story in Ice and Time	Nintendo Switch video game by ARTE Experience	https://www.nintendo.com/store/products/inua-a-story-in-ice-and-time-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -1567,6 +1573,7 @@ islets-switch	Islets	Nintendo Switch video game by Armor Games Studios	https://w
 it-takes-two-switch	It Takes Two	Nintendo Switch video game by Electronic Arts	https://www.nintendo.com/store/products/it-takes-two-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 its-kooky-switch	It's Kooky	Nintendo Switch video game by RedDeerGames	https://www.nintendo.com/store/products/its-kooky-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 its-puzzles-wild-nature-switch	It's Puzzles: Wild Nature	Nintendo Switch video game by Babayka Games	https://www.nintendo.com/store/products/its-puzzles-wild-nature-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+its-a-wrap-switch	It's a Wrap!	Nintendo Switch video game by AMC Games	https://www.nintendo.com/store/products/its-a-wrap-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 itorah-switch	Itorah	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/itorah-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 justice-sucks-switch	JUSTICE SUCKS	Nintendo Switch video game by tinyBuild Games	https://www.nintendo.com/store/products/justice-sucks-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 jack-n-hat-switch	Jack 'n' Hat	Nintendo Switch video game by 2Awesome Studio	https://www.nintendo.com/store/products/jack-n-hat-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1628,7 +1635,6 @@ kana-quest-switch	Kana Quest	Nintendo Switch video game by Whitethorn Digital	ht
 kanjozoku-game-car-racing-and-highway-driving-simulator-games-switch	Kanjozoku Game レーサー - Car Racing & Highway Driving Simulator Games	Nintendo Switch video game by Midnight Works	https://www.nintendo.com/store/products/kanjozoku-game-car-racing-and-highway-driving-simulator-games-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 kansei-the-second-turn-hd-switch	Kansei: The Second Turn HD	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/kansei-the-second-turn-hd-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 kardboard-kings-card-shop-simulator-switch	Kardboard Kings: Card Shop Simulator	Nintendo Switch video game by Akupara Games	https://www.nintendo.com/store/products/kardboard-kings-card-shop-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-karma-incarnation-1-switch	Karma. Incarnation 1	Nintendo Switch video game by ESDigital Games	https://www.nintendo.com/store/products/karma-incarnation-1-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 kart-crazy-race-simulator-game-switch	Kart Crazy Race Simulator Game	Nintendo Switch video game by VG Games	https://www.nintendo.com/store/products/kart-crazy-race-simulator-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 katana-zero-switch	Katana ZERO	Nintendo Switch video game by Devolver Digital	https://www.nintendo.com/store/products/katana-zero-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 kathy-rain-directors-cut-switch	Kathy Rain: Director's Cut	Nintendo Switch video game by Raw Fury	https://www.nintendo.com/store/products/kathy-rain-directors-cut-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1639,7 +1645,6 @@ ken-folletts-the-pillars-of-the-earth-switch	Ken Follett's The Pillars of the Ea
 kharons-crypt-even-death-may-die-switch	Kharon's Crypt - Even Death May Die	Nintendo Switch video game by Hebi Lee	https://www.nintendo.com/store/products/kharons-crypt-even-death-may-die-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 kids-party-checkers-switch	Kids Party Checkers	Nintendo Switch video game by Fumi Games	https://www.nintendo.com/store/products/kids-party-checkers-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 kids-puzzle-2-in-1-bundle-switch	Kids Puzzle - 2 in 1 Bundle	Nintendo Switch video game by Baltoro Minis	https://www.nintendo.com/store/products/kids-puzzle-2-in-1-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-kill-the-bad-guy-switch	Kill The Bad Guy	Nintendo Switch video game by Plug In Digital	https://www.nintendo.com/store/products/kill-the-bad-guy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 killer-frequency-switch	Killer Frequency	Nintendo Switch video game by Team17	https://www.nintendo.com/store/products/killer-frequency-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 kindergarten-buddy-edition-switch	Kindergarten Buddy Edition	Nintendo Switch video game by SmashGames	https://www.nintendo.com/store/products/kindergarten-buddy-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 kinduo-switch	Kinduo	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/kinduo-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1731,13 +1736,12 @@ legion-of-doom-switch	Legion of Doom	Nintendo Switch video game by IceTorch	http
 leisure-suit-larry-wet-dreams-dont-dry-switch	Leisure Suit Larry - Wet Dreams Don't Dry	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/leisure-suit-larry-wet-dreams-dont-dry-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 leisure-suit-larry-wet-dreams-dry-twice-switch	Leisure Suit Larry - Wet Dreams Dry Twice	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/leisure-suit-larry-wet-dreams-dry-twice-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 leisure-suit-larry-wet-dreams-saga-switch	Leisure Suit Larry - Wet Dreams Saga	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/leisure-suit-larry-wet-dreams-saga-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-lemon-cake-switch	Lemon Cake	Nintendo Switch video game by Soedesco	https://www.nintendo.com/store/products/lemon-cake-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 lets-sing-abba-switch	Let's Sing ABBA	Nintendo Switch video game by PLAION	https://www.nintendo.com/store/products/lets-sing-abba-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 letterbox-by-powgi-switch	Letterbox by POWGI	Nintendo Switch video game by Lightwood Games	https://www.nintendo.com/store/products/letterbox-by-powgi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 lieat-switch	LiEat	Nintendo Switch video game by PLAYISM	https://www.nintendo.com/store/products/lieat-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+liartaniumos-operating-system-switch	LiartaniumOS - Operating System	Nintendo Switch video game by Artem Kritinin	https://www.nintendo.com/store/products/liartaniumos-operating-system-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 liberated-switch	Liberated	Nintendo Switch video game by Walkabout Games	https://www.nintendo.com/store/products/liberated-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 liberated-enhanced-edition-switch	Liberated: Enhanced Edition	Nintendo Switch video game by Walkabout Games	https://www.nintendo.com/store/products/liberated-enhanced-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-life-in-willowdale-farm-adventures-switch	Life in Willowdale: Farm Adventures	Nintendo Switch video game by Mindscape	https://www.nintendo.com/store/products/life-in-willowdale-farm-adventures-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 life-of-delta-switch	Life of Delta	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/life-of-delta-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 life-of-fly-2-switch	Life of Fly 2	Nintendo Switch video game by EpiXR	https://www.nintendo.com/store/products/life-of-fly-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 lifeslide-switch	Lifeslide	Nintendo Switch video game by Dreamteck	https://www.nintendo.com/store/products/lifeslide-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -1800,6 +1804,7 @@ lotionsamurai-for-nintendo-switch-switch	LotionSamurai for Nintendo Switch	Ninte
 love-esquire-switch	Love Esquire	Nintendo Switch video game by Mama Morin	https://www.nintendo.com/store/products/love-esquire-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 love-letter-from-thief-x-switch	Love Letter from Thief X	Nintendo Switch video game by Voltage	https://www.nintendo.com/store/products/love-letter-from-thief-x-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 love-on-leave-switch	Love on Leave	Nintendo Switch video game by qureate	https://www.nintendo.com/store/products/love-on-leave-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+lovecraftian-bundle-switch	Lovecraftian Bundle	Nintendo Switch video game by Frogwares	https://www.nintendo.com/store/products/lovecraftian-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 lovekami-divinity-stage-switch	Lovekami -Divinity Stage-	Nintendo Switch video game by MoeNovel	https://www.nintendo.com/store/products/lovekami-divinity-stage-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 lovekami-healing-harem-switch	Lovekami -Healing Harem-	Nintendo Switch video game by MoeNovel	https://www.nintendo.com/store/products/lovekami-healing-harem-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 lovekami-useless-goddess-switch	Lovekami -Useless Goddess-	Nintendo Switch video game by MoeNovel	https://www.nintendo.com/store/products/lovekami-useless-goddess-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -1885,6 +1890,7 @@ mars-base-switch	Mars Base	Nintendo Switch video game by Freedom Games	https://w
 martial-knight-switch	Martial Knight	Nintendo Switch video game by Smashbyte Games	https://www.nintendo.com/store/products/martial-knight-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 martian-panic-switch	Martian Panic	Nintendo Switch video game by Funbox Media	https://www.nintendo.com/store/products/martian-panic-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 marvels-guardians-of-the-galaxy-cloud-version-switch	Marvel's Guardians of the Galaxy: Cloud Version	Nintendo Switch video game by Eidos Montreal	https://www.nintendo.com/store/products/marvels-guardians-of-the-galaxy-cloud-version-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+masala-drive-switch	Masala Drive	Nintendo Switch video game by Happymeal	https://www.nintendo.com/store/products/masala-drive-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 mask-of-the-rose-switch	Mask of the Rose	Nintendo Switch video game by Failbetter Games	https://www.nintendo.com/store/products/mask-of-the-rose-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 masquerade-kiss-switch	Masquerade Kiss	Nintendo Switch video game by Voltage	https://www.nintendo.com/store/products/masquerade-kiss-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 mass-creation-double-action-bundle-switch	Mass Creation Double Action Bundle	Nintendo Switch video game by Mass Creation	https://www.nintendo.com/store/products/mass-creation-double-action-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -1947,7 +1953,6 @@ million-shells-switch	Million Shells	Nintendo Switch video game by FlyteCatEmoti
 minabo-a-walk-through-life-switch	Minabo - A walk through life	Nintendo Switch video game by Selecta Play	https://www.nintendo.com/store/products/minabo-a-walk-through-life-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 mind-jab-switch	Mind Jab	Nintendo Switch video game by Tackorama	https://www.nintendo.com/store/products/mind-jab-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 mind-scanners-switch	Mind Scanners	Nintendo Switch video game by Brave At Night	https://www.nintendo.com/store/products/mind-scanners-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-mindcell-switch	Mindcell	Nintendo Switch video game by VenomizedArt	https://www.nintendo.com/store/products/mindcell-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 minecraft-legends-switch	Minecraft Legends	Nintendo Switch video game by Mojang	https://www.nintendo.com/store/products/minecraft-legends-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 minekos-night-market-switch	Mineko's Night Market	Nintendo Switch video game by Humble Games	https://www.nintendo.com/store/products/minekos-night-market-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 miners-races-switch	Miners Races	Nintendo Switch video game by Gametry	https://www.nintendo.com/store/products/miners-races-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -1990,7 +1995,6 @@ montgomery-fox-and-the-case-of-the-diamond-necklace-switch	Montgomery Fox And Th
 montgomery-fox-and-the-case-of-the-missing-ballerinas-switch	Montgomery Fox And The Case Of The Missing Ballerinas	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/montgomery-fox-and-the-case-of-the-missing-ballerinas-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 montgomery-fox-and-the-revenge-of-victor-draven-switch	Montgomery Fox And The Revenge Of Victor Draven	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/montgomery-fox-and-the-revenge-of-victor-draven-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 mooliis-dreamland-switch	Moolii's Dreamland	Nintendo Switch video game by OKJOY	https://www.nintendo.com/store/products/mooliis-dreamland-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-moon-dancer-switch	Moon Dancer	Nintendo Switch video game by Regista	https://www.nintendo.com/store/products/moon-dancer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 moonleap-switch	Moonleap	Nintendo Switch video game by guselect	https://www.nintendo.com/store/products/moonleap-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 moonlight-switch	Moonlight	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/moonlight-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 moonrise-fall-switch	Moonrise Fall	Nintendo Switch video game by CheckMate Publishing	https://www.nintendo.com/store/products/moonrise-fall-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -2066,9 +2070,9 @@ mythforce-switch	MythForce	Nintendo Switch video game by Aspyr	https://www.ninte
 mythargia-switch	Mythargia	Nintendo Switch video game by Bonus Stage Publishing	https://www.nintendo.com/store/products/mythargia-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 mythology-waifus-mahjong-switch	Mythology Waifus Mahjong	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/mythology-waifus-mahjong-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 naiad-switch	NAIAD	Nintendo Switch video game by HiWarp	https://www.nintendo.com/store/products/naiad-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+nascar-arcade-rush-switch	NASCAR Arcade Rush	Nintendo Switch video game by Game Mill	https://www.nintendo.com/store/products/nascar-arcade-rush-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 ncl-usa-bowl-switch	NCL: USA Bowl	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/ncl-usa-bowl-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 needy-streamer-overload-switch	NEEDY STREAMER OVERLOAD	Nintendo Switch video game by WSS playground	https://www.nintendo.com/store/products/needy-streamer-overload-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-nekopara-vol1-switch	NEKOPARA Vol.1	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/nekopara-vol1-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nekopara-vol-2-switch	NEKOPARA Vol.2	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/nekopara-vol-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nekopara-vol-3-switch	NEKOPARA Vol.3	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/nekopara-vol-3-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nekopara-vol4-switch	NEKOPARA Vol.4	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/nekopara-vol4-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2092,6 +2096,7 @@ napoleon-maiden-episode-1-a-maiden-without-the-word-impossible-switch	Napoleon M
 narcos-rise-of-the-cartels-switch	Narcos: Rise of the Cartels	Nintendo Switch video game by Curve Digital	https://www.nintendo.com/store/products/narcos-rise-of-the-cartels-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nature-escapes-collectors-edition-switch	Nature Escapes Collector's Edition	Nintendo Switch video game by Ocean Media	https://www.nintendo.com/store/products/nature-escapes-collectors-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 nature-puzzle-switch	Nature Puzzle	Nintendo Switch video game by RuWaMo Games	https://www.nintendo.com/store/products/nature-puzzle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+necroboy-path-to-evilship-switch	NecroBoy : Path to Evilship	Nintendo Switch video game by GRAVITY GAME ARISE	https://www.nintendo.com/store/products/necroboy-path-to-evilship-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 necrobarista-final-pour-switch	Necrobarista - Final Pour -	Nintendo Switch video game by Coconut Island Games	https://www.nintendo.com/store/products/necrobarista-final-pour-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 necrosmith-switch	Necrosmith	Nintendo Switch video game by Merge Games	https://www.nintendo.com/store/products/necrosmith-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 need-a-packet-switch	Need a packet?	Nintendo Switch video game by Sometimes You	https://www.nintendo.com/store/products/need-a-packet-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2107,7 +2112,6 @@ neo-cab-switch	Neo Cab	Nintendo Switch video game by Fellow Traveller	https://ww
 neodori-forever-switch	Neodori Forever	Nintendo Switch video game by QubicGames	https://www.nintendo.com/store/products/neodori-forever-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 neon-blast-switch	Neon Blast	Nintendo Switch video game by EntwicklerX	https://www.nintendo.com/store/products/neon-blast-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 neon-blight-switch	Neon Blight	Nintendo Switch video game by Freedom Games	https://www.nintendo.com/store/products/neon-blight-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-neon-mine-switch	Neon Mine	Nintendo Switch video game by EntwicklerX	https://www.nintendo.com/store/products/neon-mine-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 neon-souls-switch	Neon Souls	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/neon-souls-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 neon-white-switch	Neon White	Nintendo Switch video game by Annapurna Interactive	https://www.nintendo.com/store/products/neon-white-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 neonlore-switch	NeonLore	Nintendo Switch video game by Playstige Interactive	https://www.nintendo.com/store/products/neonlore-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2132,6 +2136,7 @@ ni-no-kuni-ii-revenant-kingdom-princes-edition-switch	Ni no Kuni II: Revenant Ki
 nier-automata-the-end-of-yorha-edition-switch	NieR:Automata The End of YoRHa Edition	Nintendo Switch video game by SQUARE ENIX	https://www.nintendo.com/store/products/nier-automata-the-end-of-yorha-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 night-book-switch	Night Book	Nintendo Switch video game by Wales Interactive	https://www.nintendo.com/store/products/night-book-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 night-call-switch	Night Call	Nintendo Switch video game by Raw Fury	https://www.nintendo.com/store/products/night-call-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+night-at-the-gates-of-hell-switch	Night at the Gates of Hell	Nintendo Switch video game by Puppet Combo	https://www.nintendo.com/store/products/night-at-the-gates-of-hell-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nightmare-reaper-switch	Nightmare Reaper	Nintendo Switch video game by Feardemic	https://www.nintendo.com/store/products/nightmare-reaper-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 nightshade-ninja-warrior-switch	Nightshade Ninja Warrior	Nintendo Switch video game by Gametry	https://www.nintendo.com/store/products/nightshade-ninja-warrior-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 nightshade-switch	Nightshade／百花百狼	Nintendo Switch video game by D3 Publisher	https://www.nintendo.com/store/products/nightshade-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2218,6 +2223,7 @@ onimusha-warlords-switch	Onimusha: Warlords	Nintendo Switch video game by CAPCOM
 onion-assault-switch	Onion Assault	Nintendo Switch video game by Hörberg Productions	https://www.nintendo.com/store/products/onion-assault-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 onirike-switch	Onirike	Nintendo Switch video game by DevilishGames	https://www.nintendo.com/store/products/onirike-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 operate-now-hospital-switch	Operate Now: Hospital	Nintendo Switch video game by 7Levels	https://www.nintendo.com/store/products/operate-now-hospital-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+operation-wolf-returns-first-mission-switch	Operation Wolf Returns: First Mission	Nintendo Switch video game by Microids	https://www.nintendo.com/store/products/operation-wolf-returns-first-mission-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 operation-zeta-switch	Operation Zeta	Nintendo Switch video game by SFS Studios	https://www.nintendo.com/store/products/operation-zeta-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 orangeblood-switch	Orangeblood	Nintendo Switch video game by PLAYISM	https://www.nintendo.com/store/products/orangeblood-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 orbital-bullet-switch	Orbital Bullet	Nintendo Switch video game by Assemble Entertainment	https://www.nintendo.com/store/products/orbital-bullet-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -2251,12 +2257,10 @@ oxide-room-104-switch	Oxide Room 104	Nintendo Switch video game by Wild Sphere	h
 paranormasight-the-seven-mysteries-of-honjo-switch	PARANORMASIGHT: The Seven Mysteries of Honjo	Nintendo Switch video game by SQUARE ENIX	https://www.nintendo.com/store/products/paranormasight-the-seven-mysteries-of-honjo-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 paw-patrol-world-switch	PAW Patrol World	Nintendo Switch video game by Outright Games	https://www.nintendo.com/store/products/paw-patrol-world-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pi-exe-switch	PI.EXE	Nintendo Switch video game by Zenberry Games	https://www.nintendo.com/store/products/pi-exe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-picross-s8-switch	PICROSS S8	Nintendo Switch video game by JUPITER	https://www.nintendo.com/store/products/picross-s8-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 picross-s9-switch	PICROSS S9	Nintendo Switch video game by JUPITER	https://www.nintendo.com/store/products/picross-s9-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pipeline-panic-switch	PIPELINE PANIC	Nintendo Switch video game by SOFT SOURCE	https://www.nintendo.com/store/products/pipeline-panic-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 post-void-switch	POST VOID	Nintendo Switch video game by Super Rare Games	https://www.nintendo.com/store/products/post-void-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 pride-dance-out-and-proud-switch	PRIDE DANCE Out & Proud	Nintendo Switch video game by IV Productions	https://www.nintendo.com/store/products/pride-dance-out-and-proud-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-project-knight-switch	PROJECT : KNIGHT	Nintendo Switch video game by Elushis	https://www.nintendo.com/store/products/project-knight-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 project-knight-2-dusk-of-souls-switch	PROJECT : KNIGHT 2 Dusk of Souls	Nintendo Switch video game by Elushis	https://www.nintendo.com/store/products/project-knight-2-dusk-of-souls-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 psychic-5-eternal-switch	PSYCHIC 5: ETERNAL	Nintendo Switch video game by DAEWON MEDIA	https://www.nintendo.com/store/products/psychic-5-eternal-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 putrid-shot-ultra-switch	PUTRID SHOT ULTRA	Nintendo Switch video game by mazette!	https://www.nintendo.com/store/products/putrid-shot-ultra-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -2348,7 +2352,6 @@ piofiore-episodio-1926-switch	Piofiore: Episodio 1926	Nintendo Switch video game
 piofiore-fated-memories-switch	Piofiore: Fated Memories	Nintendo Switch video game by Aksys Games	https://www.nintendo.com/store/products/piofiore-fated-memories-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 pipe-dream-switch	Pipe Dream	Nintendo Switch video game by Weakfish Studio	https://www.nintendo.com/store/products/pipe-dream-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pirated-code-admin-edition-switch	Pirated Code: Admin Edition	Nintendo Switch video game by Viridian Software	https://www.nintendo.com/store/products/pirated-code-admin-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-piratepoly-gold-caribbean-treasure-switch	Piratepoly Gold: Caribbean Treasure	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/piratepoly-gold-caribbean-treasure-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pirates-outlaws-switch	Pirates Outlaws	Nintendo Switch video game by BlitWorks	https://www.nintendo.com/store/products/pirates-outlaws-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 pirates-the-legend-of-the-kraken-switch	Pirates: The Legend of the Kraken	Nintendo Switch video game by Cooking & Publishing	https://www.nintendo.com/store/products/pirates-the-legend-of-the-kraken-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pixel-art-bundle-vol-1-switch	Pixel Art Bundle Vol. 1	Nintendo Switch video game by Digerati	https://www.nintendo.com/store/products/pixel-art-bundle-vol-1-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2403,7 +2406,6 @@ pocky-and-rocky-reshrined-switch	Pocky & Rocky Reshrined	Nintendo Switch video g
 poker-texas-and-omaha-holdem-switch	Poker - Texas & Omaha Hold'em	Nintendo Switch video game by Cool Small Games	https://www.nintendo.com/store/products/poker-texas-and-omaha-holdem-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 poker-club-switch	Poker Club	Nintendo Switch video game by Ripstone Publishing	https://www.nintendo.com/store/products/poker-club-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 poker-legends-omaha-champions-switch	Poker Legends: Omaha Champions	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/poker-legends-omaha-champions-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-poker-pretty-girls-battle-texas-holdem-switch	Poker Pretty Girls Battle: Texas Hold'em	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/poker-pretty-girls-battle-texas-holdem-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 poker-world-casino-game-switch	Poker World: Casino Game	Nintendo Switch video game by T-Bull	https://www.nintendo.com/store/products/poker-world-casino-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 pokemon-brilliant-diamond-switch	Pokémon Brilliant Diamond	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/pokemon-brilliant-diamond-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 pokemon-cafe-remix-switch	Pokémon Café ReMix	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/pokemon-cafe-remix-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -2491,6 +2493,7 @@ puzzle-by-nikoli-s-akari-switch	Puzzle by Nikoli S Akari	Nintendo Switch video g
 puzzle-by-nikoli-s-hashiwokakero-switch	Puzzle by Nikoli S Hashiwokakero	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-hashiwokakero-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 puzzle-by-nikoli-s-heyawake-switch	Puzzle by Nikoli S Heyawake	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-heyawake-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 puzzle-by-nikoli-s-hitori-switch	Puzzle by Nikoli S Hitori	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-hitori-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+puzzle-by-nikoli-s-kakuro-switch	Puzzle by Nikoli S Kakuro	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-kakuro-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 puzzle-by-nikoli-s-masyu-switch	Puzzle by Nikoli S Masyu	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-masyu-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 puzzle-by-nikoli-s-numberlink-switch	Puzzle by Nikoli S Numberlink	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-numberlink-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 puzzle-by-nikoli-s-nurikabe-switch	Puzzle by Nikoli S Nurikabe	Nintendo Switch video game by HAMSTER	https://www.nintendo.com/store/products/puzzle-by-nikoli-s-nurikabe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -2500,7 +2503,6 @@ puzzle-by-nikoli-s-yajilin-switch	Puzzle by Nikoli S Yajilin	Nintendo Switch vid
 pyramids-slot-machines-switch	Pyramids Slot Machines	Nintendo Switch video game by Pix Arts	https://www.nintendo.com/store/products/pyramids-slot-machines-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 pyre-on-fire-ten-pages-switch	Pyre on Fire: Ten Pages	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/pyre-on-fire-ten-pages-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 q-remastered-switch	Q REMASTERED	Nintendo Switch video game by liica	https://www.nintendo.com/store/products/q-remastered-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-q-u-b-e-10th-anniversary-switch	Q.U.B.E. 10th Anniversary	Nintendo Switch video game by Toxic Games	https://www.nintendo.com/store/products/q-u-b-e-10th-anniversary-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 quake-switch	QUAKE	Nintendo Switch video game by Bethesda	https://www.nintendo.com/store/products/quake-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 qubyte-classics-the-humans-by-piko-switch	QUByte Classics - The Humans by PIKO	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/qubyte-classics-the-humans-by-piko-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 qubyte-classics-the-immortal-by-piko-switch	QUByte Classics - The Immortal by PIKO	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/qubyte-classics-the-immortal-by-piko-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2516,7 +2518,6 @@ quickspot-switch	QuickSpot	Nintendo Switch video game by BANDAI NAMCO Entertainm
 quilts-and-cats-of-calico-switch	Quilts and Cats of Calico	Nintendo Switch video game by Monster Couch	https://www.nintendo.com/store/products/quilts-and-cats-of-calico-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 quintus-and-the-absent-truth-switch	Quintus and the Absent Truth	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/quintus-and-the-absent-truth-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 quiz-4-all-switch	Quiz 4 All	Nintendo Switch video game by Cooking & Publishing	https://www.nintendo.com/store/products/quiz-4-all-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-railgrade-switch	RAILGRADE	Nintendo Switch video game by Minakata Dynamics	https://www.nintendo.com/store/products/railgrade-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 rainbow-high-runway-rush-switch	RAINBOW HIGH: RUNWAY RUSH	Nintendo Switch video game by Outright Games	https://www.nintendo.com/store/products/rainbow-high-runway-rush-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 re-call-switch	RE:CALL	Nintendo Switch video game by Whitethorn Digital	https://www.nintendo.com/store/products/re-call-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 redden-100denarii-switch	REDDEN: 100denarii	Nintendo Switch video game by TROOOZE	https://www.nintendo.com/store/products/redden-100denarii-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2572,7 +2573,6 @@ return-one-way-trip-switch	Re:Turn - One Way Trip	Nintendo Switch video game by 
 re-turn-2-runaway-switch	Re:Turn 2 - Runaway	Nintendo Switch video game by Red Ego Games	https://www.nintendo.com/store/products/re-turn-2-runaway-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 real-boxing-2-switch	Real Boxing 2	Nintendo Switch video game by QubicGames	https://www.nintendo.com/store/products/real-boxing-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 real-car-driving-simulator-and-parking-2022-games-switch	Real Car Driving Simulator & Parking 2022 Games	Nintendo Switch video game by INSTAMARKETINGANDGAME	https://www.nintendo.com/store/products/real-car-driving-simulator-and-parking-2022-games-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-real-truck-simulator-usa-car-games-driving-games-parking-sim-car-speed-racing-2022-switch	Real Truck Simulator USA Car Games - Driving Games, Parking Sim, Car Speed Racing 2022	Nintendo Switch video game by None	https://www.nintendo.com/store/products/real-truck-simulator-usa-car-games-driving-games-parking-sim-car-speed-racing-2022-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 reasoning-of-courage-nori-3-balanced-diet-switch	Reasoning of Courage Nori 3 Balanced Diet	Nintendo Switch video game by HERO GAME	https://www.nintendo.com/store/products/reasoning-of-courage-nori-3-balanced-diet-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 reasoning-of-courage123-switch	Reasoning of Courage123	Nintendo Switch video game by HERO GAME	https://www.nintendo.com/store/products/reasoning-of-courage123-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 rebel-cops-switch	Rebel Cops	Nintendo Switch video game by THQ Nordic	https://www.nintendo.com/store/products/rebel-cops-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2608,6 +2608,7 @@ resolutiion-switch	Resolutiion	Nintendo Switch video game by Deck 13	https://www
 restless-soul-switch	Restless Soul	Nintendo Switch video game by Graffiti Games	https://www.nintendo.com/store/products/restless-soul-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 retrace-memories-of-death-switch	Retrace: Memories of Death	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/retrace-memories-of-death-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 retro-goal-switch	Retro Goal	Nintendo Switch video game by FiveAcesPublishing	https://www.nintendo.com/store/products/retro-goal-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+retro-kart-rush-switch	Retro Kart Rush	Nintendo Switch video game by TuanisApps	https://www.nintendo.com/store/products/retro-kart-rush-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 retro-rollers-bundle-switch	Retro Rollers Bundle	Nintendo Switch video game by HOF Studios	https://www.nintendo.com/store/products/retro-rollers-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 return-of-the-obra-dinn-switch	Return of the Obra Dinn	Nintendo Switch video game by 3909	https://www.nintendo.com/store/products/return-of-the-obra-dinn-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 return-to-monkey-island-switch	Return to Monkey Island	Nintendo Switch video game by Devolver Digital	https://www.nintendo.com/store/products/return-to-monkey-island-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -2631,7 +2632,6 @@ ring-racer-switch	Ring Racer	Nintendo Switch video game by Noowanda	https://www.
 rise-and-shine-switch	Rise and Shine	Nintendo Switch video game by Adult Swim Games	https://www.nintendo.com/store/products/rise-and-shine-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 rise-of-fox-hero-switch	Rise of Fox Hero	Nintendo Switch video game by 2Awesome Studio	https://www.nintendo.com/store/products/rise-of-fox-hero-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 rise-of-insanity-switch	Rise of Insanity	Nintendo Switch video game by Pineapple Works	https://www.nintendo.com/store/products/rise-of-insanity-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-rise-of-the-slime-switch	Rise of the Slime	Nintendo Switch video game by Playstack	https://www.nintendo.com/store/products/rise-of-the-slime-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 rise-of-the-third-power-switch	Rise of the Third Power	Nintendo Switch video game by DANGEN Entertainment	https://www.nintendo.com/store/products/rise-of-the-third-power-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 risen-switch	Risen	Nintendo Switch video game by THQ Nordic	https://www.nintendo.com/store/products/risen-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 risk-system-switch	Risk System	Nintendo Switch video game by Hidden Trap	https://www.nintendo.com/store/products/risk-system-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -2653,6 +2653,7 @@ road-z-survival-the-last-winter-switch	Road Z Survival: The Last Winter	Nintendo
 road-of-death-switch	Road of Death	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/road-of-death-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 roar-of-revenge-switch	Roar of Revenge	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/roar-of-revenge-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 rob-riches-switch	Rob Riches	Nintendo Switch video game by Megapop	https://www.nintendo.com/store/products/rob-riches-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+robodunk-switch	RoboDunk	Nintendo Switch video game by Jollypunch Games	https://www.nintendo.com/store/products/robodunk-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 roboshark-rampage-switch	RoboShark Rampage	Nintendo Switch video game by Bolder Games	https://www.nintendo.com/store/products/roboshark-rampage-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 robolt-switch	Robolt	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/robolt-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 robot-car-war-transform-battle-machines-switch	Robot Car War: Transform Battle Machines	Nintendo Switch video game by Game Mavericks	https://www.nintendo.com/store/products/robot-car-war-transform-battle-machines-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2714,7 +2715,6 @@ sound-data-log-switch	SOUND DATA LOG	Nintendo Switch video game by Spike Chunsof
 spacetime-odissey-switch	SPACETIME ODISSEY	Nintendo Switch video game by Pix Arts	https://www.nintendo.com/store/products/spacetime-odissey-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 spookware-switch	SPOOKWARE	Nintendo Switch video game by Dread XP	https://www.nintendo.com/store/products/spookware-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 star-ocean-the-second-story-r-switch	STAR OCEAN THE SECOND STORY R	Nintendo Switch video game by SQUARE ENIX	https://www.nintendo.com/store/products/star-ocean-the-second-story-r-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864333
-star-wars-heritage-pack-2023-switch	STAR WARS Heritage Pack (2023)	Nintendo Switch video game by Aspyr	https://www.nintendo.com/store/products/star-wars-heritage-pack-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	
 star-wars-hunters-switch	STAR WARS: Hunters	Nintendo Switch video game by Zynga	https://www.nintendo.com/store/products/star-wars-hunters-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 star-wars-knights-of-the-old-republic-switch	STAR WARS: Knights of the Old Republic	Nintendo Switch video game by Aspyr	https://www.nintendo.com/store/products/star-wars-knights-of-the-old-republic-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch	STAR WARS: Knights of the Old Republic II: The Sith Lords	Nintendo Switch video game by Aspyr	https://www.nintendo.com/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2747,6 +2747,7 @@ sakura-angels-switch	Sakura Angels	Nintendo Switch video game by Gamuzumi	https:
 sakura-cupid-switch	Sakura Cupid	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-cupid-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sakura-dungeon-switch	Sakura Dungeon	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-dungeon-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sakura-fantasy-switch	Sakura Fantasy	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-fantasy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+sakura-fox-adventure-switch	Sakura Fox Adventure	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-fox-adventure-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sakura-gamer-switch	Sakura Gamer	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-gamer-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sakura-mmo-switch	Sakura MMO	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-mmo-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sakura-mmo-2-switch	Sakura MMO 2	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/sakura-mmo-2-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2785,7 +2786,6 @@ savior-of-the-abyss-switch	Savior of the Abyss	Nintendo Switch video game by CFK
 scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister-switch	Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister	Nintendo Switch video game by Mamekujira	https://www.nintendo.com/store/products/scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 scarlet-hood-and-the-wicked-wood-switch	Scarlet Hood and the Wicked Wood	Nintendo Switch video game by Headup Games	https://www.nintendo.com/store/products/scarlet-hood-and-the-wicked-wood-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 scheming-through-the-zombie-apocalypse-the-beginning-switch	Scheming Through The Zombie Apocalypse: The Beginning	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/scheming-through-the-zombie-apocalypse-the-beginning-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-school-race-gp-switch	School Race GP	Nintendo Switch video game by SAT-BOX	https://www.nintendo.com/store/products/school-race-gp-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 scramballed-switch	Scramballed!	Nintendo Switch video game by 11Sheep	https://www.nintendo.com/store/products/scramballed-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 scrap-bolts-switch	Scrap Bolts	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/scrap-bolts-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 scrap-games-switch	Scrap Games	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/scrap-games-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -2811,6 +2811,7 @@ seven-doors-switch	Seven Doors	Nintendo Switch video game by Soedesco	https://ww
 seven-pirates-h-switch	Seven Pirates H	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/seven-pirates-h-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 seventh-lair-switch	Seventh Lair	Nintendo Switch video game by MangaGamer	https://www.nintendo.com/store/products/seventh-lair-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 severed-steel-switch	Severed Steel	Nintendo Switch video game by Digerati	https://www.nintendo.com/store/products/severed-steel-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+shadow-bundle-shadow-quest-and-nightshade-ninja-warrior-switch	Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior	Nintendo Switch video game by Gametry	https://www.nintendo.com/store/products/shadow-bundle-shadow-quest-and-nightshade-ninja-warrior-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 shadow-corridor-switch	Shadow Corridor	Nintendo Switch video game by NIS America	https://www.nintendo.com/store/products/shadow-corridor-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 shadow-man-remastered-switch	Shadow Man Remastered	Nintendo Switch video game by Nightdive Studios	https://www.nintendo.com/store/products/shadow-man-remastered-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 shadow-quest-switch	Shadow Quest	Nintendo Switch video game by Gametry	https://www.nintendo.com/store/products/shadow-quest-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -2862,7 +2863,6 @@ sinless-switch	Sinless	Nintendo Switch video game by Forever Entertainment	https
 siralim-ultimate-switch	Siralim Ultimate	Nintendo Switch video game by Thylacine Studios	https://www.nintendo.com/store/products/siralim-ultimate-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 sissas-path-switch	Sissa's Path	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/sissas-path-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 skabma-snowfall-switch	Skabma - Snowfall	Nintendo Switch video game by Plug In Digital	https://www.nintendo.com/store/products/skabma-snowfall-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-skatebird-switch	SkateBIRD	Nintendo Switch video game by Glass Bottom Games	https://www.nintendo.com/store/products/skatebird-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 skateboard-drifting-with-maxwell-cat-the-game-simulator-switch	Skateboard Drifting with Maxwell Cat: The Game Simulator	Nintendo Switch video game by None	https://www.nintendo.com/store/products/skateboard-drifting-with-maxwell-cat-the-game-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 skautfold-shrouded-in-sanity-switch	Skautfold: Shrouded in Sanity	Nintendo Switch video game by RED ART GAMES	https://www.nintendo.com/store/products/skautfold-shrouded-in-sanity-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 skautfold-usurper-switch	Skautfold: Usurper	Nintendo Switch video game by RED ART GAMES	https://www.nintendo.com/store/products/skautfold-usurper-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2916,7 +2916,6 @@ song-of-memories-switch	Song of Memories	Nintendo Switch video game by Future Te
 song-of-nunu-a-league-of-legends-story-switch	Song of Nunu: A League of Legends Story	Nintendo Switch video game by Riot Forge	https://www.nintendo.com/store/products/song-of-nunu-a-league-of-legends-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 songpop-party-switch	SongPop Party	Nintendo Switch video game by Gameloft	https://www.nintendo.com/store/products/songpop-party-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 songs-for-a-hero-definitive-edition-switch	Songs for a Hero: Definitive Edition	Nintendo Switch video game by Dumativa	https://www.nintendo.com/store/products/songs-for-a-hero-definitive-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-sonic-superstars-switch	Sonic Superstars	Nintendo Switch video game by SEGA	https://www.nintendo.com/store/products/sonic-superstars-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864333
 sonority-switch	Sonority	Nintendo Switch video game by ASHGAMES	https://www.nintendo.com/store/products/sonority-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 sophstar-switch	Sophstar	Nintendo Switch video game by RED ART GAMES	https://www.nintendo.com/store/products/sophstar-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 sorcerer-knights-switch	Sorcerer Knights	Nintendo Switch video game by GAME NACIONAL	https://www.nintendo.com/store/products/sorcerer-knights-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -2947,6 +2946,7 @@ spectacular-sparky-switch	Spectacular Sparky	Nintendo Switch video game by Nical
 spectrolite-switch	Spectrolite	Nintendo Switch video game by Dolores Ent.	https://www.nintendo.com/store/products/spectrolite-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 speed-crew-switch	Speed Crew	Nintendo Switch video game by Wild Fields	https://www.nintendo.com/store/products/speed-crew-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 speedgunner-ultra-switch	Speedgunner Ultra	Nintendo Switch video game by ESDigital Games	https://www.nintendo.com/store/products/speedgunner-ultra-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+sphereout-switch	Sphereout	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/sphereout-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 spidersaurs-switch	Spidersaurs	Nintendo Switch video game by WayForward	https://www.nintendo.com/store/products/spidersaurs-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 spinfrog-all-aboard-the-frogcopter-switch	Spinfrog: All aboard the Frogcopter	Nintendo Switch video game by Studio Somewhere	https://www.nintendo.com/store/products/spinfrog-all-aboard-the-frogcopter-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 spirit-hunter-death-mark-switch	Spirit Hunter: Death Mark	Nintendo Switch video game by Aksys Games	https://www.nintendo.com/store/products/spirit-hunter-death-mark-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -2958,6 +2958,7 @@ split-switch	Split	Nintendo Switch video game by FREEMIND	https://www.nintendo.c
 spooky-spirit-shooting-gallery-switch	Spooky Spirit Shooting Gallery	Nintendo Switch video game by Aksys Games	https://www.nintendo.com/store/products/spooky-spirit-shooting-gallery-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 spookys-jump-scare-mansion-hd-renovation-switch	Spooky's Jump Scare Mansion: HD Renovation	Nintendo Switch video game by Albino Moose Games	https://www.nintendo.com/store/products/spookys-jump-scare-mansion-hd-renovation-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 sports-story-switch	Sports Story	Nintendo Switch video game by Sidebar Games	https://www.nintendo.com/store/products/sports-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+sprout-valley-switch	Sprout Valley	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/sprout-valley-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 spy-bros-switch	Spy Bros.	Nintendo Switch video game by RAWR Lab	https://www.nintendo.com/store/products/spy-bros-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 sqroma-switch	Sqroma	Nintendo Switch video game by Woum	https://www.nintendo.com/store/products/sqroma-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 squabble-switch	Squabble	Nintendo Switch video game by Atomic Realm	https://www.nintendo.com/store/products/squabble-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -3001,15 +3002,13 @@ street-drag-racing-car-driving-simulator-2022-games-switch	Street Drag Racing Ca
 street-racers-switch	Street Racers	Nintendo Switch video game by YeTa Games	https://www.nintendo.com/store/products/street-racers-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 strife-veteran-edition-switch	Strife: Veteran Edition	Nintendo Switch video game by Nightdive Studios	https://www.nintendo.com/store/products/strife-veteran-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 strike-buster-prototype-switch	Strike Buster Prototype	Nintendo Switch video game by BD Games	https://www.nintendo.com/store/products/strike-buster-prototype-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+strike-force-3-switch	Strike Force 3	Nintendo Switch video game by Polygon Art	https://www.nintendo.com/store/products/strike-force-3-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 strike-team-gladius-switch	Strike Team Gladius	Nintendo Switch video game by Silesia Games	https://www.nintendo.com/store/products/strike-team-gladius-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 stubbs-the-zombie-in-rebel-without-a-pulse-switch	Stubbs the Zombie in Rebel Without a Pulse	Nintendo Switch video game by Aspyr	https://www.nintendo.com/store/products/stubbs-the-zombie-in-rebel-without-a-pulse-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 sturmfront-the-mutant-war-ubel-edition-switch	SturmFront - The Mutant War: Übel Edition	Nintendo Switch video game by RED ART GAMES	https://www.nintendo.com/store/products/sturmfront-the-mutant-war-ubel-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-subnautica-switch	Subnautica	Nintendo Switch video game by Unknown Worlds Entertainment	https://www.nintendo.com/store/products/subnautica-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-subnautica-below-zero-switch	Subnautica: Below Zero	Nintendo Switch video game by Unknown Worlds Entertainment	https://www.nintendo.com/store/products/subnautica-below-zero-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 subway-simulator-underground-train-ride-station-ultimate-driving-games-switch	Subway Simulator - Underground Train Ride Station Ultimate Driving Games	Nintendo Switch video game by DEZVOLT GAMES	https://www.nintendo.com/store/products/subway-simulator-underground-train-ride-station-ultimate-driving-games-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 succubus-with-guns-switch	Succubus With Guns	Nintendo Switch video game by Sometimes You	https://www.nintendo.com/store/products/succubus-with-guns-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 sucker-for-love-first-date-switch	Sucker for Love: First Date	Nintendo Switch video game by Dread XP	https://www.nintendo.com/store/products/sucker-for-love-first-date-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
-sudoku-casual-puzzle-switch	Sudoku Casual Puzzle	Nintendo Switch video game by Megame	https://www.nintendo.com/store/products/sudoku-casual-puzzle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 sudoku-master-classic-sudoku-switch	Sudoku Master - Classic Sudoku	Nintendo Switch video game by Peaksel	https://www.nintendo.com/store/products/sudoku-master-classic-sudoku-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 sudoku-casual-board-game-switch	Sudoku: Casual Board Game	Nintendo Switch video game by Megame	https://www.nintendo.com/store/products/sudoku-casual-board-game-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 suhoshin-switch	Suhoshin	Nintendo Switch video game by No More 500	https://www.nintendo.com/store/products/suhoshin-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -3019,6 +3018,7 @@ summer-bubble-splash-switch	Summer Bubble Splash	Nintendo Switch video game by K
 summer-days-switch	Summer Days	Nintendo Switch video game by Gamuzumi	https://www.nintendo.com/store/products/summer-days-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 summer-daze-tillys-tale-switch	Summer Daze: Tilly's Tale	Nintendo Switch video game by Silesia Games	https://www.nintendo.com/store/products/summer-daze-tillys-tale-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 summer-valley-hike-switch	Summer Valley Hike	Nintendo Switch video game by Ultimate Games	https://www.nintendo.com/store/products/summer-valley-hike-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+summum-aeterna-switch	Summum Aeterna	Nintendo Switch video game by Aeternum Game Studios	https://www.nintendo.com/store/products/summum-aeterna-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 sun-wukong-vs-robot-switch	Sun Wukong VS Robot	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/sun-wukong-vs-robot-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 sunrise-gp-switch	Sunrise GP	Nintendo Switch video game by Gamedust	https://www.nintendo.com/store/products/sunrise-gp-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 sunshine-shuffle-switch	Sunshine Shuffle	Nintendo Switch video game by Strange Scaffold	https://www.nintendo.com/store/products/sunshine-shuffle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -3107,6 +3107,7 @@ tokoyo-the-tower-of-perpetuity-switch	TOKOYO: The Tower of Perpetuity	Nintendo S
 tomomi-switch	TOMOMI	Nintendo Switch video game by Waku Waku Games	https://www.nintendo.com/store/products/tomomi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 torinto-switch	TORINTO	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/torinto-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 tow-truck-driver-simulator-2023-switch	TOW TRUCK Driver Simulator 2023	Nintendo Switch video game by None	https://www.nintendo.com/store/products/tow-truck-driver-simulator-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+trapped-in-the-dim-mansion-switch	TRAPPED in The Dim Mansion	Nintendo Switch video game by Regista	https://www.nintendo.com/store/products/trapped-in-the-dim-mansion-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 trapped-in-the-kanal-switch	TRAPPED in The Kanal	Nintendo Switch video game by Regista	https://www.nintendo.com/store/products/trapped-in-the-kanal-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 triangle-strategy-switch	TRIANGLE STRATEGY	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/triangle-strategy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 tron-identity-switch	TRON: Identity	Nintendo Switch video game by Bithell Games	https://www.nintendo.com/store/products/tron-identity-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -3162,7 +3163,6 @@ the-addams-family-mansion-mayhem-switch	The Addams Family: Mansion Mayhem	Ninten
 the-adventure-of-ravi-n-navi-switch	The Adventure of Ravi 'n' Navi	Nintendo Switch video game by Mediascape	https://www.nintendo.com/store/products/the-adventure-of-ravi-n-navi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 the-adventures-of-poppe-switch	The Adventures of Poppe	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/the-adventures-of-poppe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 the-adventures-of-spunk-dodgers-and-splat-switch	The Adventures of Spunk Dodgers and Splat	Nintendo Switch video game by Bolder Games	https://www.nintendo.com/store/products/the-adventures-of-spunk-dodgers-and-splat-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-the-amazing-american-circus-switch	The Amazing American Circus	Nintendo Switch video game by Klabater	https://www.nintendo.com/store/products/the-amazing-american-circus-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 the-amazing-shinsengumi-heroes-in-love-switch	The Amazing Shinsengumi: Heroes in Love	Nintendo Switch video game by D3 Publisher	https://www.nintendo.com/store/products/the-amazing-shinsengumi-heroes-in-love-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 the-answer-is-42-switch	The Answer is 42	Nintendo Switch video game by Mens Sana Interactive	https://www.nintendo.com/store/products/the-answer-is-42-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 the-artful-escape-switch	The Artful Escape	Nintendo Switch video game by Annapurna Interactive	https://www.nintendo.com/store/products/the-artful-escape-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -3291,7 +3291,6 @@ the-snow-fable-mystery-of-the-flame-switch	The Snow Fable: Mystery of the Flame	
 the-solitaire-conspiracy-switch	The Solitaire Conspiracy	Nintendo Switch video game by Ant Workshop	https://www.nintendo.com/store/products/the-solitaire-conspiracy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 the-song-out-of-space-switch	The Song Out of Space	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/the-song-out-of-space-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 the-sorrowvirus-a-faceless-short-story-switch	The Sorrowvirus - A Faceless Short Story	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/the-sorrowvirus-a-faceless-short-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-the-spirit-and-the-mouse-switch	The Spirit and the Mouse	Nintendo Switch video game by Armor Games Studios	https://www.nintendo.com/store/products/the-spirit-and-the-mouse-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 the-stanley-parable-ultra-deluxe-switch	The Stanley Parable: Ultra Deluxe	Nintendo Switch video game by Crows Crows Crows	https://www.nintendo.com/store/products/the-stanley-parable-ultra-deluxe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 the-stretchers-switch	The Stretchers	Nintendo Switch video game by Nintendo	https://www.nintendo.com/store/products/the-stretchers-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 the-suicide-of-rachel-foster-switch	The Suicide of Rachel Foster	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/the-suicide-of-rachel-foster-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -3299,6 +3298,7 @@ the-sundew-switch	The Sundew	Nintendo Switch video game by 2054	https://www.nint
 the-tale-of-clouds-and-wind-qubyte-classics-switch	The Tale of Clouds and Wind (QUByte Classics)	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/the-tale-of-clouds-and-wind-qubyte-classics-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 the-tartarus-key-switch	The Tartarus Key	Nintendo Switch video game by Armor Games Studios	https://www.nintendo.com/store/products/the-tartarus-key-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 the-testament-of-sherlock-holmes-switch	The Testament of Sherlock Holmes	Nintendo Switch video game by Frogwares	https://www.nintendo.com/store/products/the-testament-of-sherlock-holmes-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+the-thief-simulator-2023-from-crook-to-boss-switch	The Thief Simulator 2023 - From Crook to Boss	Nintendo Switch video game by DEZVOLT GAMES	https://www.nintendo.com/store/products/the-thief-simulator-2023-from-crook-to-boss-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 the-three-little-pigs-interactive-book-switch	The Three Little Pigs: Interactive Book	Nintendo Switch video game by Aldora Games	https://www.nintendo.com/store/products/the-three-little-pigs-interactive-book-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 the-town-of-light-deluxe-edition-switch	The Town of Light: Deluxe Edition	Nintendo Switch video game by Wired Productions	https://www.nintendo.com/store/products/the-town-of-light-deluxe-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 the-uncertain-last-quiet-day-switch	The Uncertain: Last Quiet Day	Nintendo Switch video game by Postmeta Games	https://www.nintendo.com/store/products/the-uncertain-last-quiet-day-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -3349,7 +3349,6 @@ tiny-thor-switch	Tiny Thor	Nintendo Switch video game by Gameforge 4D	https://ww
 tiny-troopers-global-ops-switch	Tiny Troopers: Global Ops	Nintendo Switch video game by Wired Productions	https://www.nintendo.com/store/products/tiny-troopers-global-ops-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 tinykin-switch	Tinykin	Nintendo Switch video game by tinyBuild Games	https://www.nintendo.com/store/products/tinykin-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 tip-top-dont-fall-switch	Tip Top: Don't fall!	Nintendo Switch video game by Sometimes You	https://www.nintendo.com/store/products/tip-top-dont-fall-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-titan-chaser-switch	Titan Chaser	Nintendo Switch video game by Samustai	https://www.nintendo.com/store/products/titan-chaser-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 titanium-hound-switch	Titanium Hound	Nintendo Switch video game by OverGamez	https://www.nintendo.com/store/products/titanium-hound-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 to-be-or-not-to-be-switch	To Be Or Not To Be	Nintendo Switch video game by Tin Man Games	https://www.nintendo.com/store/products/to-be-or-not-to-be-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 to-hell-with-the-ugly-switch	To Hell with the Ugly	Nintendo Switch video game by ARTE Experience	https://www.nintendo.com/store/products/to-hell-with-the-ugly-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -3393,6 +3392,7 @@ tricky-thief-switch	Tricky Thief	Nintendo Switch video game by eastasiasoft	http
 trifox-switch	Trifox	Nintendo Switch video game by Big Sugar	https://www.nintendo.com/store/products/trifox-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 trigger-dungeon-switch	Trigger Dungeon	Nintendo Switch video game by Refold	https://www.nintendo.com/store/products/trigger-dungeon-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 trine-5-a-clockwork-conspiracy-switch	Trine 5: A Clockwork Conspiracy	Nintendo Switch video game by THQ Nordic	https://www.nintendo.com/store/products/trine-5-a-clockwork-conspiracy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+trip-world-dx-switch	Trip World DX	Nintendo Switch video game by SUNSOFT	https://www.nintendo.com/store/products/trip-world-dx-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 troll-patrol-switch	Troll Patrol	Nintendo Switch video game by Fellhuhn	https://www.nintendo.com/store/products/troll-patrol-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 trophy-switch	Trophy	Nintendo Switch video game by 8 Bit Legit	https://www.nintendo.com/store/products/trophy-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 tropical-resort-story-switch	Tropical Resort Story	Nintendo Switch video game by Kairosoft	https://www.nintendo.com/store/products/tropical-resort-story-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -3402,6 +3402,7 @@ trove-switch	Trove	Nintendo Switch video game by gamigo US	https://www.nintendo.
 trover-saves-the-universe-switch	Trover Saves The Universe	Nintendo Switch video game by Squanch Games	https://www.nintendo.com/store/products/trover-saves-the-universe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 truck-climb-racing-switch	Truck Climb Racing	Nintendo Switch video game by Nerd Games	https://www.nintendo.com/store/products/truck-climb-racing-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 truck-simulator-heavy-cargo-driver-2023-switch	Truck Simulator - Heavy Cargo Driver 2023	Nintendo Switch video game by GOGAME CONSOLE PUBLISHER	https://www.nintendo.com/store/products/truck-simulator-heavy-cargo-driver-2023-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+truck-simulator-2023-driver-europe-switch	Truck Simulator 2023 - Driver Europe	Nintendo Switch video game by SUCCESS GAMES	https://www.nintendo.com/store/products/truck-simulator-2023-driver-europe-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 truck-simulator-3-switch	Truck Simulator 3	Nintendo Switch video game by BoomHits	https://www.nintendo.com/store/products/truck-simulator-3-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 true-disc-golf-switch	True Disc Golf	Nintendo Switch video game by Kuvakertomo	https://www.nintendo.com/store/products/true-disc-golf-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 tsugunohi-switch	Tsugunohi	Nintendo Switch video game by Game magazine	https://www.nintendo.com/store/products/tsugunohi-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
@@ -3501,7 +3502,6 @@ vesper-zero-light-edition-switch	Vesper: Zero Light Edition	Nintendo Switch vide
 victor-vran-overkill-edition-switch	Victor Vran Overkill Edition	Nintendo Switch video game by HaemimontGames	https://www.nintendo.com/store/products/victor-vran-overkill-edition-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 virgo-versus-the-zodiac-switch	Virgo Versus The Zodiac	Nintendo Switch video game by Serenity Forge	https://www.nintendo.com/store/products/virgo-versus-the-zodiac-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 virtuaverse-switch	VirtuaVerse	Nintendo Switch video game by Blood Music	https://www.nintendo.com/store/products/virtuaverse-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
-virtual-families-cook-off-chapter-1-lets-go-flippin-switch	Virtual Families Cook Off: Chapter 1 Let's Go Flippin'	Nintendo Switch video game by Gogii Games	https://www.nintendo.com/store/products/virtual-families-cook-off-chapter-1-lets-go-flippin-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 virtual-families-cook-off-chapter-2-farm-life-switch	Virtual Families Cook Off: Chapter 2 Farm Life	Nintendo Switch video game by Gogii Games	https://www.nintendo.com/store/products/virtual-families-cook-off-chapter-2-farm-life-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 virtual-maid-streamer-ramie-switch	Virtual Maid Streamer Ramie	Nintendo Switch video game by iMel	https://www.nintendo.com/store/products/virtual-maid-streamer-ramie-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 virtuous-western-switch	Virtuous Western	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/virtuous-western-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -3547,7 +3547,7 @@ warp-drive-switch	Warp Drive	Nintendo Switch video game by Supergonk	https://www
 warp-frontier-switch	Warp Frontier	Nintendo Switch video game by Brawsome	https://www.nintendo.com/store/products/warp-frontier-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 warpips-switch	Warpips	Nintendo Switch video game by Daedalic Entertainment	https://www.nintendo.com/store/products/warpips-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 warplanes-bundle-switch	Warplanes Bundle	Nintendo Switch video game by 7Levels	https://www.nintendo.com/store/products/warplanes-bundle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-wash-simulator-clean-garage-house-cars-business-tycoons-switch	Wash Simulator - Clean Garage, House, Cars Business Tycoons	Nintendo Switch video game by DEZVOLT GAMES	https://www.nintendo.com/store/products/wash-simulator-clean-garage-house-cars-business-tycoons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+wash-simulator-clean-garage-house-cars-business-tycoons-switch	Wash Simulator - Clean Garage, House, Cars Business Tycoons	Nintendo Switch video game by DEZVOLT GAMES	https://www.nintendo.com/store/products/wash-simulator-clean-garage-house-cars-business-tycoons-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 wasteland-2-directors-cut-switch	Wasteland 2: Director's Cut	Nintendo Switch video game by inXile Entertainment	https://www.nintendo.com/store/products/wasteland-2-directors-cut-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 watch-switch	Watch	Nintendo Switch video game by Funalter Games	https://www.nintendo.com/store/products/watch-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 watch-over-christmas-switch	Watch Over Christmas	Nintendo Switch video game by DIONOUS GAMES	https://www.nintendo.com/store/products/watch-over-christmas-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -3571,6 +3571,7 @@ west-water-switch	West Water	Nintendo Switch video game by Elushis	https://www.n
 whack-first-fight-the-moles-switch	Whack first! - Fight the moles	Nintendo Switch video game by Cooking & Publishing	https://www.nintendo.com/store/products/whack-first-fight-the-moles-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 what-lies-in-the-multiverse-switch	What Lies in the Multiverse	Nintendo Switch video game by Untold Tales	https://www.nintendo.com/store/products/what-lies-in-the-multiverse-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 what-the-zombies-switch	What The Zombies?!	Nintendo Switch video game by Dawid Poleszczuk	https://www.nintendo.com/store/products/what-the-zombies-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
+whateverland-switch	Whateverland	Nintendo Switch video game by Drageus Games	https://www.nintendo.com/store/products/whateverland-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 where-cards-fall-switch	Where Cards Fall	Nintendo Switch video game by Snowman	https://www.nintendo.com/store/products/where-cards-fall-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 where-the-water-tastes-like-wine-switch	Where the Water Tastes Like Wine	Nintendo Switch video game by Serenity Forge	https://www.nintendo.com/store/products/where-the-water-tastes-like-wine-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 whiskey-mafia-leos-family-switch	Whiskey Mafia: Leo's Family	Nintendo Switch video game by ESDigital Games	https://www.nintendo.com/store/products/whiskey-mafia-leos-family-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
@@ -3578,12 +3579,13 @@ whisper-trip-switch	Whisper Trip	Nintendo Switch video game by OOO Valnat	https:
 whispike-survivors-switch	Whispike Survivors	Nintendo Switch video game by Grimorio of Games	https://www.nintendo.com/store/products/whispike-survivors-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 white-day-a-labyrinth-named-school-switch	White Day: A Labyrinth Named School	Nintendo Switch video game by PQube	https://www.nintendo.com/store/products/white-day-a-labyrinth-named-school-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 white-girl-switch	White Girl	Nintendo Switch video game by Otorakobo	https://www.nintendo.com/store/products/white-girl-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
+whitestone-switch	Whitestone	Nintendo Switch video game by Hailstorm Games	https://www.nintendo.com/store/products/whitestone-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 who-is-zombie-switch	Who Is Zombie	Nintendo Switch video game by CFK	https://www.nintendo.com/store/products/who-is-zombie-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 who-pressed-mute-on-uncle-marcus-switch	Who Pressed Mute on Uncle Marcus?	Nintendo Switch video game by Wales Interactive	https://www.nintendo.com/store/products/who-pressed-mute-on-uncle-marcus-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 wife-quest-switch	Wife Quest	Nintendo Switch video game by eastasiasoft	https://www.nintendo.com/store/products/wife-quest-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 wild-card-football-switch	Wild Card Football	Nintendo Switch video game by Saber Interactive Incorporated	https://www.nintendo.com/store/products/wild-card-football-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 wild-dogs-switch	Wild Dogs	Nintendo Switch video game by QUByte Interactive	https://www.nintendo.com/store/products/wild-dogs-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
-wild-legion-switch	Wild Legion	Nintendo Switch video game by BluSped Studio	https://www.nintendo.com/store/products/wild-legion-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
+wild-legion-switch	Wild Legion	Nintendo Switch video game by BluSped Studio	https://www.nintendo.com/store/products/wild-legion-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 wild-romance-switch	Wild Romance	Nintendo Switch video game by Sticky Rice Games	https://www.nintendo.com/store/products/wild-romance-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 wild-west-crops-switch	Wild West Crops	Nintendo Switch video game by Ratalaika Games	https://www.nintendo.com/store/products/wild-west-crops-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 wildagotchi-virtual-pet-switch	Wildagotchi: Virtual Pet	Nintendo Switch video game by RedDeer.Games	https://www.nintendo.com/store/products/wildagotchi-virtual-pet-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
@@ -3614,7 +3616,6 @@ wizodd-switch	Wizodd	Nintendo Switch video game by JanduSoft	https://www.nintend
 wizorb-switch	Wizorb	Nintendo Switch video game by Tribute Games	https://www.nintendo.com/store/products/wizorb-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
 wobbledogs-switch	Wobbledogs	Nintendo Switch video game by Secret Mode	https://www.nintendo.com/store/products/wobbledogs-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 wolf-simulator-rpg-survival-animal-battle-switch	Wolf Simulator: RPG Survival Animal Battle	Nintendo Switch video game by GOGAME CONSOLE PUBLISHER	https://www.nintendo.com/store/products/wolf-simulator-rpg-survival-animal-battle-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
-wolfenstein-ii-the-new-colossus-switch	Wolfenstein II: The New Colossus	Nintendo Switch video game by Bethesda	https://www.nintendo.com/store/products/wolfenstein-ii-the-new-colossus-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 wolfstride-switch	Wolfstride	Nintendo Switch video game by Raw Fury	https://www.nintendo.com/store/products/wolfstride-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 wonder-boy-anniversary-collection-switch	Wonder Boy Anniversary Collection	Nintendo Switch video game by Bliss Brain	https://www.nintendo.com/store/products/wonder-boy-anniversary-collection-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 wonder-boy-asha-in-monster-world-switch	Wonder Boy Asha in Monster World	Nintendo Switch video game by STUDIOARTDINK	https://www.nintendo.com/store/products/wonder-boy-asha-in-monster-world-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
@@ -3661,6 +3662,7 @@ yggdra-union-well-never-fight-alone-switch	YGGDRA UNION ~WE'LL NEVER FIGHT ALONE
 yiik-a-postmodern-rpg-switch	YIIK: A Postmodern RPG	Nintendo Switch video game by Ysbryd Games	https://www.nintendo.com/store/products/yiik-a-postmodern-rpg-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
 yonesawara-hospital-switch	YONESAWARA HOSPITAL	Nintendo Switch video game by DorsalFin Studio	https://www.nintendo.com/store/products/yonesawara-hospital-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-switch	YU-NO: A girl who chants love at the bound of this world.	Nintendo Switch video game by Spike Chunsoft US	https://www.nintendo.com/store/products/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864331
+yakiniku-simulator-switch	Yakiniku Simulator	Nintendo Switch video game by Flyhigh Works	https://www.nintendo.com/store/products/yakiniku-simulator-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 yeah-yeah-beebiss-ii-switch	Yeah Yeah Beebiss II	Nintendo Switch video game by Nami Tentou	https://www.nintendo.com/store/products/yeah-yeah-beebiss-ii-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864329
 yeahfighting-girl-switch	Yeah！Fighting Girl	Nintendo Switch video game by xiaoxiao	https://www.nintendo.com/store/products/yeahfighting-girl-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864330
 yello-adventures-switch	Yello Adventures	Nintendo Switch video game by Weakfish Studio	https://www.nintendo.com/store/products/yello-adventures-switch/	Q7889	Q19610114	Q54820071	Q3070866	Q14864328
