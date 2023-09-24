@@ -18,6 +18,7 @@ Arzest	Arzest	company	https://www.mariowiki.com/Arzest	Q4830453
 Asako_Kozuki	Asako Kozuki	human	https://www.mariowiki.com/Asako_Kozuki	Q5
 Ashley_Flannegan	Ashley Flannegan	human	https://www.mariowiki.com/Ashley_Flannegan	Q5
 Asuka_Hayazaki	Asuka Hayazaki	human	https://www.mariowiki.com/Asuka_Hayazaki	Q5
+Atsushi_Imaruoka	Atsushi Imaruoka	human	https://www.mariowiki.com/Atsushi_Imaruoka	Q5
 Atsushi_Masaki	Atsushi Masaki	human	https://www.mariowiki.com/Atsushi_Masaki	Q5
 BS_Super_Mario_Collection	BS Super Mario Collection	video game	https://www.mariowiki.com/BS_Super_Mario_Collection	Q7889
 BS_Super_Mario_USA	BS Super Mario USA	video game	https://www.mariowiki.com/BS_Super_Mario_USA	Q7889
@@ -47,6 +48,7 @@ Chad_York	Chad York	human	https://www.mariowiki.com/Chad_York	Q5
 Charles_Martinet	Charles Martinet	human	https://www.mariowiki.com/Charles_Martinet	Q5
 Charlie_Day	Charlie Day	human	https://www.mariowiki.com/Charlie_Day	Q5
 Chef	Chef	video game	https://www.mariowiki.com/Chef	Q7889
+Chisa_Yuuki	Chisa Yuuki	human	https://www.mariowiki.com/Chisa_Yuuki	Q5
 Chris_Meledandri	Chris Meledandri	human	https://www.mariowiki.com/Chris_Meledandri	Q5
 Chris_Pratt	Chris Pratt	human	https://www.mariowiki.com/Chris_Pratt	Q5
 Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherland	Q5
@@ -70,13 +72,13 @@ Dance_Dance_Revolution:_Mario_Mix	Dance Dance Revolution: Mario Mix	video game	h
 Danny_Wells	Danny Wells	human	https://www.mariowiki.com/Danny_Wells	Q5
 Dark_Horse_Comics	Dark Horse Comics	company	https://www.mariowiki.com/Dark_Horse_Comics	Q4830453
 David_Cooke	David Cooke	human	https://www.mariowiki.com/David_Cooke	Q5
+David_Gasman	David Gasman	human	https://www.mariowiki.com/David_Gasman	Q5
 David_Grenewetzki	David Grenewetzki	human	https://www.mariowiki.com/David_Grenewetzki	Q5
 David_Horowitz	David Horowitz	human	https://www.mariowiki.com/David_Horowitz	Q5
 David_J._Goldfarb	David J. Goldfarb	human	https://www.mariowiki.com/David_J._Goldfarb	Q5
 David_S._J._Hodgson	David S. J. Hodgson	human	https://www.mariowiki.com/David_S._J._Hodgson	Q5
 David_Wise	David Wise	human	https://www.mariowiki.com/David_Wise	Q5
 Dayvv_Brooks	Dayvv Brooks	human	https://www.mariowiki.com/Dayvv_Brooks	Q5
-Dean_Harrington	Dean Harrington	human	https://www.mariowiki.com/Dean_Harrington	Q5
 Deanna_Mustard	Deanna Mustard	human	https://www.mariowiki.com/Deanna_Mustard	Q5
 Dennis_Hopper	Dennis Hopper	human	https://www.mariowiki.com/Dennis_Hopper	Q5
 Densetsu_no_Stafy_3	Densetsu no Stafy 3	video game	https://www.mariowiki.com/Densetsu_no_Stafy_3	Q7889
@@ -226,7 +228,6 @@ Jack_Black	Jack Black	human	https://www.mariowiki.com/Jack_Black	Q5
 Jakks_Pacific	Jakks Pacific	company	https://www.mariowiki.com/Jakks_Pacific	Q4830453
 James_Phillipsen	James Phillipsen	human	https://www.mariowiki.com/James_Phillipsen	Q5
 Jeannie_Elias	Jeannie Elias	human	https://www.mariowiki.com/Jeannie_Elias	Q5
-Jeff_Manning	Jeff Manning	human	https://www.mariowiki.com/Jeff_Manning	Q5
 Jen_Taylor	Jen Taylor	human	https://www.mariowiki.com/Jen_Taylor	Q5
 Jessica_Chisum	Jessica Chisum	human	https://www.mariowiki.com/Jessica_Chisum	Q5
 Jessica_DiCicco	Jessica DiCicco	human	https://www.mariowiki.com/Jessica_DiCicco	Q5
@@ -291,10 +292,10 @@ Luigi's_Hammer_Toss	Luigi's Hammer Toss	video game	https://www.mariowiki.com/Lui
 Luigi's_Mansion	Luigi's Mansion	video game	https://www.mariowiki.com/Luigi%27s_Mansion	Q7889
 Luigi's_Mansion_(Nintendo_3DS)	Luigi's Mansion (Nintendo 3DS)	video game	https://www.mariowiki.com/Luigi%27s_Mansion_%28Nintendo_3DS%29	Q7889
 Luigi's_Mansion_(series)	Luigi's Mansion (series)	video game series	https://www.mariowiki.com/Luigi%27s_Mansion_%28series%29	Q7058673
+Luigi's_Mansion_2_HD	Luigi's Mansion 2 HD	video game	https://www.mariowiki.com/Luigi%27s_Mansion_2_HD	Q7889
 Luigi's_Mansion_3	Luigi's Mansion 3	video game	https://www.mariowiki.com/Luigi%27s_Mansion_3	Q7889
 Luigi's_Mansion_Arcade	Luigi's Mansion Arcade	video game	https://www.mariowiki.com/Luigi%27s_Mansion_Arcade	Q7889
 Luigi's_Mansion:_Dark_Moon	Luigi's Mansion: Dark Moon	video game	https://www.mariowiki.com/Luigi%27s_Mansion%3A_Dark_Moon	Q7889
-Luigi's_Mansion:_Dark_Moon_(Nintendo_Switch)	Luigi's Mansion: Dark Moon (Nintendo Switch)	video game	https://www.mariowiki.com/Luigi%27s_Mansion%3A_Dark_Moon_%28Nintendo_Switch%29	Q7889
 Lush	Lush	company	https://www.mariowiki.com/Lush	Q4830453
 Magic_Johnson	Magic Johnson	human	https://www.mariowiki.com/Magic_Johnson	Q5
 Mahito_Yokota	Mahito Yokota	human	https://www.mariowiki.com/Mahito_Yokota	Q5
@@ -333,6 +334,7 @@ Mario_Artist:_Polygon_Studio	Mario Artist: Polygon Studio	video game	https://www
 Mario_Artist:_Talent_Studio	Mario Artist: Talent Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Talent_Studio	Q7889
 Mario_Baseball_(series)	Mario Baseball (series)	video game series	https://www.mariowiki.com/Mario_Baseball_%28series%29	Q7058673
 Mario_Bros._(Game_&_Watch)	Mario Bros. (Game & Watch)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_%26_Watch%29	Q7889
+Mario_Bros._(Game_Boy_Advance)	Mario Bros. (Game Boy Advance)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_Boy_Advance%29	Q7889
 Mario_Bros._(game)	Mario Bros. (game)	video game	https://www.mariowiki.com/Mario_Bros._%28game%29	Q7889
 Mario_Bros._(series)	Mario Bros. (series)	video game series	https://www.mariowiki.com/Mario_Bros._%28series%29	Q7058673
 Mario_Bros._Special	Mario Bros. Special	video game	https://www.mariowiki.com/Mario_Bros._Special	Q7889
@@ -412,6 +414,7 @@ Mario_is_Missing!	Mario is Missing!	video game	https://www.mariowiki.com/Mario_i
 Mario_no_Photopi	Mario no Photopi	video game	https://www.mariowiki.com/Mario_no_Photopi	Q7889
 Mario_the_Juggler	Mario the Juggler	video game	https://www.mariowiki.com/Mario_the_Juggler	Q7889
 Mario_vs._Donkey_Kong	Mario vs. Donkey Kong	video game	https://www.mariowiki.com/Mario_vs._Donkey_Kong	Q7889
+Mario_vs._Donkey_Kong_(Nintendo_Switch)	Mario vs. Donkey Kong (Nintendo Switch)	video game	https://www.mariowiki.com/Mario_vs._Donkey_Kong_%28Nintendo_Switch%29	Q7889
 Mario_vs._Donkey_Kong_(series)	Mario vs. Donkey Kong (series)	video game series	https://www.mariowiki.com/Mario_vs._Donkey_Kong_%28series%29	Q7058673
 Mario_vs._Donkey_Kong_2:_March_of_the_Minis	Mario vs. Donkey Kong 2: March of the Minis	video game	https://www.mariowiki.com/Mario_vs._Donkey_Kong_2%3A_March_of_the_Minis	Q7889
 Mario_vs._Donkey_Kong:_Mini-Land_Mayhem!	Mario vs. Donkey Kong: Mini-Land Mayhem!	video game	https://www.mariowiki.com/Mario_vs._Donkey_Kong%3A_Mini-Land_Mayhem%21	Q7889
@@ -503,6 +506,7 @@ Paper_Mario:_Color_Splash	Paper Mario: Color Splash	video game	https://www.mario
 Paper_Mario:_Sticker_Star	Paper Mario: Sticker Star	video game	https://www.mariowiki.com/Paper_Mario%3A_Sticker_Star	Q7889
 Paper_Mario:_The_Origami_King	Paper Mario: The Origami King	video game	https://www.mariowiki.com/Paper_Mario%3A_The_Origami_King	Q7889
 Paper_Mario:_The_Thousand-Year_Door	Paper Mario: The Thousand-Year Door	video game	https://www.mariowiki.com/Paper_Mario%3A_The_Thousand-Year_Door	Q7889
+Paper_Mario:_The_Thousand-Year_Door_(Nintendo_Switch)	Paper Mario: The Thousand-Year Door (Nintendo Switch)	video game	https://www.mariowiki.com/Paper_Mario%3A_The_Thousand-Year_Door_%28Nintendo_Switch%29	Q7889
 Parachute_(Game_&_Watch)	Parachute (Game & Watch)	video game	https://www.mariowiki.com/Parachute_%28Game_%26_Watch%29	Q7889
 Patrick_Pinney	Patrick Pinney	human	https://www.mariowiki.com/Patrick_Pinney	Q5
 Peach's_Castle_(tech_demo)	Peach's Castle (tech demo)	video game	https://www.mariowiki.com/Peach%27s_Castle_%28tech_demo%29	Q7889
@@ -516,6 +520,7 @@ Picross_NP	Picross NP	video game	https://www.mariowiki.com/Picross_NP	Q7889
 Pinball_(game)	Pinball (game)	video game	https://www.mariowiki.com/Pinball_%28game%29	Q7889
 Poochy_&_Yoshi's_Woolly_World	Poochy & Yoshi's Woolly World	video game	https://www.mariowiki.com/Poochy_%26_Yoshi%27s_Woolly_World	Q7889
 Prima_Games	Prima Games	company	https://www.mariowiki.com/Prima_Games	Q4830453
+Princess_Peach:_Showtime!	Princess Peach: Showtime!	video game	https://www.mariowiki.com/Princess_Peach%3A_Showtime%21	Q7889
 Princess_Toadstool's_Castle_Run	Princess Toadstool's Castle Run	video game	https://www.mariowiki.com/Princess_Toadstool%27s_Castle_Run	Q7889
 Punch_Ball_Mario_Bros.	Punch Ball Mario Bros.	video game	https://www.mariowiki.com/Punch_Ball_Mario_Bros.	Q7889
 Punch-Out!!_(Wii)	Punch-Out!! (Wii)	video game	https://www.mariowiki.com/Punch-Out%21%21_%28Wii%29	Q7889
@@ -670,10 +675,12 @@ Ted_Woolsey	Ted Woolsey	human	https://www.mariowiki.com/Ted_Woolsey	Q5
 Terebi_Denwa:_Super_Mario_World	Terebi Denwa: Super Mario World	video game	https://www.mariowiki.com/Terebi_Denwa%3A_Super_Mario_World	Q7889
 Tetris	Tetris	video game	https://www.mariowiki.com/Tetris	Q7889
 Tetris_&_Dr._Mario	Tetris & Dr. Mario	video game	https://www.mariowiki.com/Tetris_%26_Dr._Mario	Q7889
+Tetris_99	Tetris 99	video game	https://www.mariowiki.com/Tetris_99	Q7889
 Tetris_Attack	Tetris Attack	video game	https://www.mariowiki.com/Tetris_Attack	Q7889
 Tetris_DS	Tetris DS	video game	https://www.mariowiki.com/Tetris_DS	Q7889
 The_Legend_of_Zelda:_Link's_Awakening	The Legend of Zelda: Link's Awakening	video game	https://www.mariowiki.com/The_Legend_of_Zelda%3A_Link%27s_Awakening	Q7889
 Thomas_Spindler	Thomas Spindler	human	https://www.mariowiki.com/Thomas_Spindler	Q5
+Toa_Yukinari	Toa Yukinari	human	https://www.mariowiki.com/Toa_Yukinari	Q5
 Todd_Haberkorn	Todd Haberkorn	human	https://www.mariowiki.com/Todd_Haberkorn	Q5
 Tomokazu_Seki	Tomokazu Seki	human	https://www.mariowiki.com/Tomokazu_Seki	Q5
 Tomoko_Maruno	Tomoko Maruno	human	https://www.mariowiki.com/Tomoko_Maruno	Q5
