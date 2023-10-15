@@ -52,6 +52,7 @@ Chisa_Yuuki	Chisa Yuuki	human	https://www.mariowiki.com/Chisa_Yuuki	Q5
 Chris_Meledandri	Chris Meledandri	human	https://www.mariowiki.com/Chris_Meledandri	Q5
 Chris_Pratt	Chris Pratt	human	https://www.mariowiki.com/Chris_Pratt	Q5
 Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherland	Q5
+Christophe_Héral	Christophe Héral	human	https://www.mariowiki.com/Christophe_H%C3%A9ral	Q5
 Christopher_Collins	Christopher Collins	human	https://www.mariowiki.com/Christopher_Collins	Q5
 Classic_NES_Series	Classic NES Series	video game series	https://www.mariowiki.com/Classic_NES_Series	Q7058673
 Claude_Moyse	Claude Moyse	human	https://www.mariowiki.com/Claude_Moyse	Q5
@@ -161,8 +162,6 @@ Famicom_Grand_Prix_(series)	Famicom Grand Prix (series)	video game series	https:
 Famicom_Grand_Prix_II:_3D_Hot_Rally	Famicom Grand Prix II: 3D Hot Rally	video game	https://www.mariowiki.com/Famicom_Grand_Prix_II%3A_3D_Hot_Rally	Q7889
 Famicom_Grand_Prix:_F1_Race	Famicom Grand Prix: F1 Race	video game	https://www.mariowiki.com/Famicom_Grand_Prix%3A_F1_Race	Q7889
 Family_BASIC	Family BASIC	video game	https://www.mariowiki.com/Family_BASIC	Q7889
-Family_Computer_Golf:_Japan_Course	Family Computer Golf: Japan Course	video game	https://www.mariowiki.com/Family_Computer_Golf%3A_Japan_Course	Q7889
-Family_Computer_Golf:_U.S._Course	Family Computer Golf: U.S. Course	video game	https://www.mariowiki.com/Family_Computer_Golf%3A_U.S._Course	Q7889
 Fangamer	Fangamer	company	https://www.mariowiki.com/Fangamer	Q4830453
 Fiona_Shaw	Fiona Shaw	human	https://www.mariowiki.com/Fiona_Shaw	Q5
 Fire_(Game_&_Watch)	Fire (Game & Watch)	video game	https://www.mariowiki.com/Fire_%28Game_%26_Watch%29	Q7889
@@ -187,6 +186,8 @@ Gareth_Coker	Gareth Coker	human	https://www.mariowiki.com/Gareth_Coker	Q5
 Gelato_Pique	Gelato Pique	company	https://www.mariowiki.com/Gelato_Pique	Q4830453
 Golf	Golf	video game	https://www.mariowiki.com/Golf	Q7889
 Golf_(series)	Golf (series)	video game series	https://www.mariowiki.com/Golf_%28series%29	Q7058673
+Golf:_Japan_Course	Golf: Japan Course	video game	https://www.mariowiki.com/Golf%3A_Japan_Course	Q7889
+Golf:_U.S._Course	Golf: U.S. Course	video game	https://www.mariowiki.com/Golf%3A_U.S._Course	Q7889
 Good-Feel	Good-Feel	company	https://www.mariowiki.com/Good-Feel	Q4830453
 Gordon_Masten	Gordon Masten	human	https://www.mariowiki.com/Gordon_Masten	Q5
 Goro_Abe	Goro Abe	human	https://www.mariowiki.com/Goro_Abe	Q5
@@ -264,6 +265,7 @@ Kenta_Motokura	Kenta Motokura	human	https://www.mariowiki.com/Kenta_Motokura	Q5
 Kenta_Nagata	Kenta Nagata	human	https://www.mariowiki.com/Kenta_Nagata	Q5
 Kenta_Usui	Kenta Usui	human	https://www.mariowiki.com/Kenta_Usui	Q5
 Kerri_Kane	Kerri Kane	human	https://www.mariowiki.com/Kerri_Kane	Q5
+Kevin_Afghani	Kevin Afghani	human	https://www.mariowiki.com/Kevin_Afghani	Q5
 Kevin_Bayliss	Kevin Bayliss	human	https://www.mariowiki.com/Kevin_Bayliss	Q5
 Kevin_Michael_Richardson	Kevin Michael Richardson	human	https://www.mariowiki.com/Kevin_Michael_Richardson	Q5
 Khary_Payton	Khary Payton	human	https://www.mariowiki.com/Khary_Payton	Q5
@@ -283,6 +285,7 @@ Lawrence_Schwedler	Lawrence Schwedler	human	https://www.mariowiki.com/Lawrence_S
 Leif_Peng	Leif Peng	human	https://www.mariowiki.com/Leif_Peng	Q5
 Leigh_Loveday	Leigh Loveday	human	https://www.mariowiki.com/Leigh_Loveday	Q5
 Leslie_Swan	Leslie Swan	human	https://www.mariowiki.com/Leslie_Swan	Q5
+Lexie_Kendrick	Lexie Kendrick	human	https://www.mariowiki.com/Lexie_Kendrick	Q5
 List_of_games	List of games	video game	https://www.mariowiki.com/List_of_games	Q7889
 List_of_games_by_date	List of games by date	video game	https://www.mariowiki.com/List_of_games_by_date	Q7889
 List_of_games_by_genre	List of games by genre	video game	https://www.mariowiki.com/List_of_games_by_genre	Q7889
@@ -336,7 +339,6 @@ Mario_Artist:_Polygon_Studio	Mario Artist: Polygon Studio	video game	https://www
 Mario_Artist:_Talent_Studio	Mario Artist: Talent Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Talent_Studio	Q7889
 Mario_Baseball_(series)	Mario Baseball (series)	video game series	https://www.mariowiki.com/Mario_Baseball_%28series%29	Q7058673
 Mario_Bros._(Game_&_Watch)	Mario Bros. (Game & Watch)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_%26_Watch%29	Q7889
-Mario_Bros._(Game_Boy_Advance)	Mario Bros. (Game Boy Advance)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_Boy_Advance%29	Q7889
 Mario_Bros._(game)	Mario Bros. (game)	video game	https://www.mariowiki.com/Mario_Bros._%28game%29	Q7889
 Mario_Bros._(series)	Mario Bros. (series)	video game series	https://www.mariowiki.com/Mario_Bros._%28series%29	Q7058673
 Mario_Bros._Special	Mario Bros. Special	video game	https://www.mariowiki.com/Mario_Bros._Special	Q7889
