@@ -34,6 +34,7 @@ Bill_Trinen	Bill Trinen	human	https://www.mariowiki.com/Bill_Trinen	Q5
 Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
 Bob_Hoskins	Bob Hoskins	human	https://www.mariowiki.com/Bob_Hoskins	Q5
+Bowser's_Fury	Bowser's Fury	video game	https://www.mariowiki.com/Bowser%27s_Fury	Q7889
 Brian_Bonsall	Brian Bonsall	human	https://www.mariowiki.com/Brian_Bonsall	Q5
 Brian_Tyler	Brian Tyler	human	https://www.mariowiki.com/Brian_Tyler	Q5
 Bruce_Sherfield	Bruce Sherfield	human	https://www.mariowiki.com/Bruce_Sherfield	Q5
@@ -55,7 +56,6 @@ Chris_Pratt	Chris Pratt	human	https://www.mariowiki.com/Chris_Pratt	Q5
 Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherland	Q5
 Christine_Marie_Cabanos	Christine Marie Cabanos	human	https://www.mariowiki.com/Christine_Marie_Cabanos	Q5
 Christophe_Héral	Christophe Héral	human	https://www.mariowiki.com/Christophe_H%C3%A9ral	Q5
-Christopher_Collins	Christopher Collins	human	https://www.mariowiki.com/Christopher_Collins	Q5
 Classic_NES_Series	Classic NES Series	video game series	https://www.mariowiki.com/Classic_NES_Series	Q7058673
 Claude_Moyse	Claude Moyse	human	https://www.mariowiki.com/Claude_Moyse	Q5
 Club_Nintendo_Picross	Club Nintendo Picross	video game	https://www.mariowiki.com/Club_Nintendo_Picross	Q7889
@@ -578,6 +578,7 @@ Shigeru_Miyamoto	Shigeru Miyamoto	human	https://www.mariowiki.com/Shigeru_Miyamo
 Shigetoshi_Gohara	Shigetoshi Gohara	human	https://www.mariowiki.com/Shigetoshi_Gohara	Q5
 Shiho_Fujii	Shiho Fujii	human	https://www.mariowiki.com/Shiho_Fujii	Q5
 Shinobu_Nagata	Shinobu Nagata	human	https://www.mariowiki.com/Shinobu_Nagata	Q5
+Shiro_Mouri	Shiro Mouri	human	https://www.mariowiki.com/Shiro_Mouri	Q5
 Sho_Murata	Sho Murata	human	https://www.mariowiki.com/Sho_Murata	Q5
 Shogakukan	Shogakukan	company	https://www.mariowiki.com/Shogakukan	Q4830453
 Shohei_Komatsu	Shohei Komatsu	human	https://www.mariowiki.com/Shohei_Komatsu	Q5
