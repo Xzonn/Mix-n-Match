@@ -87,6 +87,25 @@ def parse():
       "P21": "Q6581097" if person_data["gender"] == "m" else ("Q6581072" if person_data["gender"] == "f" else ""),
     }
 
+  with open("temp/vndb/db/chars.header", "r", -1, "utf8") as reader:
+    chars_header = reader.read().splitlines()[0].split("\t")
+  with open("temp/vndb/db/chars", "r", -1, "utf8") as reader:
+    chars = reader.read().splitlines()
+  for char in chars:
+    char_data = dict(zip(chars_header, char.split("\t")))
+    if len(char_data) != len(chars_header):
+      continue
+    char_id = char_data["id"]
+    results[char_id] = {
+      "id": char_id,
+      "q": "",
+      "name": char_data["name"],
+      "desc": "male" if char_data["gender"] == "m" else ("female" if char_data["gender"] == "f" else ""),
+      "url": f"https://vndb.org/{char_id}",
+      "type": "Q15632617",
+      "P21": "Q6581097" if char_data["gender"] == "m" else ("Q6581072" if char_data["gender"] == "f" else ""),
+    }
+
   results_list = sorted(results, key=lambda x: (results[x]["type"], results[x]["name"]))
 
   with open("results/VNDB.txt", "w", -1, "utf-8") as f:
