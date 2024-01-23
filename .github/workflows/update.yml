@@ -56,6 +56,14 @@ jobs:
       continue-on-error: true
       run: |
         python HowLongToBeat.py
+    - name: VNDB
+      continue-on-error: true
+      run: |
+        sudo apt-get install zstd -y
+        mkdir temp temp/vndb
+        wget https://dl.vndb.org/dump/vndb-db-latest.tar.zst -O temp/vndb.tar.zst
+        tar -I zstd -xf temp/vndb.tar.zst -C temp/vndb/
+        python VNDB.py
     - name: Save results
       run: |
         pushd results/ &>/dev/null
