@@ -21,41 +21,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Nintendo eShop
-      continue-on-error: true
-      run: |
-        python Nintendo_eShop.py
-    - name: Microsoft Store (Xbox)
-      continue-on-error: true
-      run: |
-        python Microsoft_Store.py
-    - name: StrategyWiki
-      continue-on-error: true
-      run: |
-        python StrategyWiki.py
-    - name: PCGamingWiki
-      continue-on-error: true
-      run: |
-        python PCGamingWiki.py
-    - name: Super Mario Wiki
-      continue-on-error: true
-      run: |
-        python Super_Mario_Wiki.py
-    - name: Moegirlpedia
-      continue-on-error: true
-      env:
-        MOEGIRLPEDIA_BOT_NAME: ${{ secrets.MOEGIRLPEDIA_BOT_NAME }}
-        MOEGIRLPEDIA_BOT_PASS: ${{ secrets.MOEGIRLPEDIA_BOT_PASS }}
-      run: |
-        python Moegirlpedia.py
-    - name: Famitsu
-      continue-on-error: true
-      run: |
-        python Famitsu.py
-    - name: HowLongToBeat
-      continue-on-error: true
-      run: |
-        python HowLongToBeat.py
     - name: VNDB
       continue-on-error: true
       run: |
@@ -63,7 +28,13 @@ jobs:
         mkdir temp temp/vndb
         wget https://dl.vndb.org/dump/vndb-db-latest.tar.zst -O temp/vndb.tar.zst
         tar -I zstd -xf temp/vndb.tar.zst -C temp/vndb/
-        python VNDB.py
+    - name: Create threads
+      continue-on-error: true
+      env:
+        MOEGIRLPEDIA_BOT_NAME: ${{ secrets.MOEGIRLPEDIA_BOT_NAME }}
+        MOEGIRLPEDIA_BOT_PASS: ${{ secrets.MOEGIRLPEDIA_BOT_PASS }}
+      run: |
+        python main.py
     - name: Save results
       run: |
         pushd results/ &>/dev/null

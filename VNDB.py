@@ -15,7 +15,7 @@ def parse():
       "q": ("Q" + game_data["l_wikidata"]) if game_data["l_wikidata"] != "\\N" else "",
       "name": "",
       "desc": "video game",
-      "url": f"https://vndb.org/{game_id}",
+      # "url": f"https://vndb.org/{game_id}",
       "type": "Q7889",
       "P21": "",
       "#olang": game_data["olang"],
@@ -52,7 +52,7 @@ def parse():
       "q": ("Q" + producer_data["l_wikidata"]) if producer_data["l_wikidata"] != "\\N" else "",
       "name": producer_data["name"],
       "desc": "video game developer/producer",
-      "url": f"https://vndb.org/{producer_id}",
+      # "url": f"https://vndb.org/{producer_id}",
       "type": "Q210167",
       "P21": "",
     }
@@ -82,7 +82,7 @@ def parse():
       "q": ("Q" + person_data["l_wikidata"]) if person_data["l_wikidata"] != "\\N" else "",
       "name": staff_names.get(person_data["main"], ""),
       "desc": "male" if person_data["gender"] == "m" else ("female" if person_data["gender"] == "f" else ""),
-      "url": f"https://vndb.org/{person_id}",
+      # "url": f"https://vndb.org/{person_id}",
       "type": "Q5",
       "P21": "Q6581097" if person_data["gender"] == "m" else ("Q6581072" if person_data["gender"] == "f" else ""),
     }
@@ -101,7 +101,7 @@ def parse():
       "q": "",
       "name": char_data["name"],
       "desc": "male" if char_data["gender"] == "m" else ("female" if char_data["gender"] == "f" else ""),
-      "url": f"https://vndb.org/{char_id}",
+      # "url": f"https://vndb.org/{char_id}",
       "type": "Q15632617",
       "P21": "Q6581097" if char_data["gender"] == "m" else ("Q6581072" if char_data["gender"] == "f" else ""),
     }

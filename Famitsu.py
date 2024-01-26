@@ -1,4 +1,4 @@
-from _platforms import PLATFORMS
+from _helpers import PLATFORMS
 from bs4 import BeautifulSoup
 import math
 import re
