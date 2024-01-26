@@ -18,7 +18,7 @@ def download() -> list[dict]:
       }
     ]
   }
-  PARAMS_RATINGS = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters={filters}&filters=(NOT%20topLevelFilters:DLC%20AND%20NOT%20dlcType:Bundle%20AND%20NOT%20dlcType:\"ROM%20Bundle\")"
+  PARAMS_RATINGS = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters={facet_filters}&filters=({filters})"
   AVAILABLE_PARAMETERS = {
     "corePlatforms": ["Nintendo Switch"],
     "editions": ["Digital"],
@@ -27,6 +27,11 @@ def download() -> list[dict]:
     "esrbRating": ["E", "E10", "T", "M"],
     "playerCount": ["", "2+", "Single Player"],
   }
+  FILTERS = [
+    ("topLevelFilters", "DLC"),
+    ("dlcType", "Bundle"),
+    ("dlcType", "ROM Bundle"),
+  ]
   HEADERS = {
     "x-algolia-api-key": "a29c6927638bfd8cee23993e51e721c9",
     "x-algolia-application-id": "U3B6GR4UA3",
@@ -38,8 +43,19 @@ def download() -> list[dict]:
   data_list = []
   keys = AVAILABLE_PARAMETERS.keys()
   for params in itertools.product(*AVAILABLE_PARAMETERS.values()):
-    facet_filters = json.dumps([f"{i[0]}:{i[1]}" for i in zip(keys, params)if i[1]], ensure_ascii=False, separators=(",", ":"))
-    params = PARAMS_RATINGS.format(filters=quote(facet_filters))
+    facet_filters = []
+    filters = copy.deepcopy(FILTERS)
+    for k, p in zip(keys, params):
+      if p:
+        facet_filters.append(f"{k}:{p}")
+      else:
+        for i in AVAILABLE_PARAMETERS[k]:
+          if i:
+            filters.append((k, i))
+
+    facet_filters_str = json.dumps(facet_filters, ensure_ascii=False, separators=(",", ":"))
+    filters_str = " AND ".join(f"NOT {k}:\"{v}\"" for k, v in filters)
+    params = PARAMS_RATINGS.format(filters=quote(filters_str), facet_filters=quote(facet_filters_str))
     data = copy.deepcopy(DATA)
     data["requests"][0]["params"] = params
     data_list.append(data)
