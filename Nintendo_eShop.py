@@ -73,7 +73,7 @@ def download() -> list[dict]:
 def parse(hits_all):
   results = {}
   for game in hits_all:
-    if "DLC" in game["topLevelFilters"] or ["Physical"] == game["editions"] or game["dlcType"]:
+    if "DLC" in game["topLevelFilters"] or ["Physical"] == game["editions"] or game["dlcType"] or (not game["nsuid"]):
       continue
     esrb = game.get("esrbRating", "")
     year = 0
@@ -90,7 +90,7 @@ def parse(hits_all):
         descriptors.append(ESRB_DESCRIPTORS[i])
     results[game["urlKey"].strip()] = {
       "id": game["urlKey"].strip(),
-      "name": game["title"].replace("™", "").replace("®", "").replace("\n", " ").strip(),
+      "name": game["title"].replace("™", " ").replace("®", " ").replace("\n", " ").replace("  ", " ").replace(" :", ":").strip(),
       "desc": f'{year or ""} {game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " ").strip(),
       # "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
