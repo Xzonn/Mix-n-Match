@@ -92,7 +92,7 @@ def parse(hits_all):
       "id": game["urlKey"].strip(),
       "name": game["title"].replace("™", " ").replace("®", " ").replace("\n", " ").replace("  ", " ").replace(" :", ":").strip(),
       "desc": f'{year or ""} {game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " ").strip(),
-      # "url": f'https://www.nintendo.com{game["url"]}',
+      "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
       "P400": "Q19610114",
       "P437": "Q54820071",

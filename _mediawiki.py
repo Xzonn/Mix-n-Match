@@ -46,7 +46,7 @@ def download(api_address, base_url, category, type="Q7889", desc="video game", s
         "id": page["title"].replace(" ", "_"),
         "name": page["title"],
         "desc": desc,
-        # "url": base_url + quote(page["title"].replace(" ", "_")),
+        "url": base_url + quote(page["title"].replace(" ", "_")),
         "type": type
       }
     if "continue" in json and "cmcontinue" in json["continue"]:

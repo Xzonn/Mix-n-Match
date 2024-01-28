@@ -50,7 +50,7 @@ def parse(game_list: list[dict]):
       "id": str(game["game_id"]),
       "name": game["game_name"].replace("™", "").replace("®", "").replace("\n", " ").strip(),
       "desc": f'{game["release_world"] or ""} {game["profile_platform"]} video game {"by " + game["profile_dev"] if game["profile_dev"] else ""}'.replace("  ", " ").strip(),
-      # "url": f'https://howlongtobeat.com/game/{game["game_id"]}',
+      "url": f'https://howlongtobeat.com/game/{game["game_id"]}',
       "type": "Q7889",
       "P1733": str(game["profile_steam"]) if game["profile_steam"] > 0 else "",
     }
