@@ -1,3 +1,6 @@
+import re
+
+
 PLATFORMS = {
   "PC": "Q1406",
   "Switch": "Q19610114",
@@ -105,3 +108,7 @@ ESRB_DESCRIPTORS = {
   "Violence": "Q60324429",
   "Violent References": "Q69573910",
 }
+
+def parse_title(original_title: str) -> str:
+  title = re.sub(r"[ \t\n]+", " ", original_title.replace("™", " ").replace("®", " ")).replace(" :", ":").strip()
+  return title

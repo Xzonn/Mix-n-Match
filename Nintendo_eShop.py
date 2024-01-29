@@ -1,4 +1,4 @@
-from _helpers import ESRB, ESRB_DESCRIPTORS
+from _helpers import ESRB, ESRB_DESCRIPTORS, parse_title
 import copy
 import datetime
 import itertools
@@ -90,8 +90,8 @@ def parse(hits_all):
         descriptors.append(ESRB_DESCRIPTORS[i])
     results[game["urlKey"].strip()] = {
       "id": game["urlKey"].strip(),
-      "name": game["title"].replace("™", " ").replace("®", " ").replace("\n", " ").replace("  ", " ").replace(" :", ":").strip(),
-      "desc": f'{year or ""} {game["platform"]} video game by {game["softwarePublisher"]}'.replace("  ", " ").strip(),
+      "name": parse_title(game["title"]),
+      "desc": f'{year or ""} {game["platform"]} video game by {parse_title(game["softwarePublisher"])}'.replace("  ", " ").strip(),
       "url": f'https://www.nintendo.com{game["url"]}',
       "type": "Q7889",
       "P400": "Q19610114",
@@ -101,7 +101,7 @@ def parse(hits_all):
       "#ESRB_DESCRIPTORS": "|".join(descriptors),
     }
 
-  results_list = sorted(results, key=lambda x:results[x]["name"])
+  results_list = sorted(results, key=lambda x: (results[x]["name"].lower(), results[x]["id"]))
 
   with open("results/Nintendo_eShop.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")

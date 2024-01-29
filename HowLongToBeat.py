@@ -1,3 +1,4 @@
+from _helpers import parse_title
 import requests
 
 def download():
@@ -48,14 +49,14 @@ def parse(game_list: list[dict]):
       continue
     results[game["game_id"]] = {
       "id": str(game["game_id"]),
-      "name": game["game_name"].replace("™", "").replace("®", "").replace("\n", " ").strip(),
-      "desc": f'{game["release_world"] or ""} {game["profile_platform"]} video game {"by " + game["profile_dev"] if game["profile_dev"] else ""}'.replace("  ", " ").strip(),
+      "name": parse_title(game["game_name"]),
+      "desc": f'{game["release_world"] or ""} {game["profile_platform"]} video game {"by " + parse_title(game["profile_dev"]) if game["profile_dev"] else ""}'.replace("  ", " ").strip(),
       "url": f'https://howlongtobeat.com/game/{game["game_id"]}',
       "type": "Q7889",
       "P1733": str(game["profile_steam"]) if game["profile_steam"] > 0 else "",
     }
 
-  results_list = sorted(results, key=lambda x:results[x]["name"])
+  results_list = sorted(results, key=lambda x: (results[x]["name"].lower(), int(results[x]["id"])))
 
   with open("results/HowLongToBeat.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")

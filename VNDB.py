@@ -1,3 +1,5 @@
+from _helpers import parse_title
+
 def parse():
   with open("temp/vndb/db/vn.header", "r", -1, "utf8") as reader:
     vn_header = reader.read().splitlines()[0].split("\t")
@@ -32,7 +34,7 @@ def parse():
     if game_id not in results or len(game_data) != len(vn_titles_header):
       continue
     if game_data["lang"] == "en" or (game_data["lang"] == results[game_id]["#olang"] and not results[game_id]["name"]):
-      results[game_id]["name"] = game_data["title"].replace("™", "").replace("®", "").replace("\n", " ").strip()
+      results[game_id]["name"] = parse_title(game_data["title"])
 
   for game in results.values():
     if "#olang" in game:
@@ -106,7 +108,7 @@ def parse():
       "P21": "Q6581097" if char_data["gender"] == "m" else ("Q6581072" if char_data["gender"] == "f" else ""),
     }
 
-  results_list = sorted(results, key=lambda x: (results[x]["type"], results[x]["name"]))
+  results_list = sorted(results, key=lambda x: (results[x]["type"], results[x]["name"].lower(), int(results[x]["id"][1:])))
 
   with open("results/VNDB.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")

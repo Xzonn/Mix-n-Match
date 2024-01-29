@@ -60,7 +60,7 @@ def download(api_address, base_url, category, type="Q7889", desc="video game", s
   return results
 
 def parse(results, file_name):
-  results_list = sorted(results, key=lambda x:results[x]["name"])
+  results_list = sorted(results, key=lambda x: results[x]["name"].lower())
 
   with open(f"results/{file_name}", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")

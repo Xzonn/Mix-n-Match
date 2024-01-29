@@ -62,7 +62,7 @@ def download():
   return results
 
 def parse(results):
-  results_list = sorted(results, key=lambda x:int(results[x]["id"]))
+  results_list = results_list = sorted(results, key=lambda x: (results[x]["name"].lower(), int(results[x]["id"])))
 
   with open("results/Famitsu.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")
