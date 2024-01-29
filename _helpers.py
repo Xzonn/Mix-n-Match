@@ -110,5 +110,5 @@ ESRB_DESCRIPTORS = {
 }
 
 def parse_title(original_title: str) -> str:
-  title = re.sub(r"[ \t\n]+", " ", original_title.replace("™", " ").replace("®", " ")).replace(" :", ":").strip()
+  title = re.sub(r"[ \t\n\u200B]+", " ", original_title.replace("™", " ").replace("®", " ")).replace(" :", ":").strip()
   return title
