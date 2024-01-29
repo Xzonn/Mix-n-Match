@@ -73,7 +73,7 @@ def download() -> list[dict]:
 def parse(hits_all):
   results = {}
   for game in hits_all:
-    if "DLC" in game["topLevelFilters"] or ["Physical"] == game["editions"] or game["dlcType"] or (not game["nsuid"]):
+    if "DLC" in game.get("topLevelFilters", []) or ["Physical"] == game.get("editions", []) or game.get("dlcType", None) or (not game.get("nsuid", None)):
       continue
     esrb = game.get("esrbRating", "")
     year = 0

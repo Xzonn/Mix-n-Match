@@ -14,7 +14,7 @@ FILE_NAMES = [
   "Microsoft_Store.py",
   "Famitsu.py",
   "HowLongToBeat.py",
-  "Moegirlpedia.py",
+  # "Moegirlpedia.py",
   "PCGamingWiki.py",
   "StrategyWiki.py",
   "Super_Mario_Wiki.py",
