@@ -1,6 +1,7 @@
 id	name	desc	url	type
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
+Ale_Pilar	Ale Pilar	human	https://www.mariowiki.com/Ale_Pilar	Q5
 Alejandra_Cazares	Alejandra Cazares	human	https://www.mariowiki.com/Alejandra_Cazares	Q5
 All_Night_Nippon:_Super_Mario_Bros.	All Night Nippon: Super Mario Bros.	video game	https://www.mariowiki.com/All_Night_Nippon%3A_Super_Mario_Bros.	Q7889
 Alleyway	Alleyway	video game	https://www.mariowiki.com/Alleyway	Q7889
@@ -34,6 +35,7 @@ Bill_Trinen	Bill Trinen	human	https://www.mariowiki.com/Bill_Trinen	Q5
 Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
 Bob_Hoskins	Bob Hoskins	human	https://www.mariowiki.com/Bob_Hoskins	Q5
+Bowser_Jr.'s_Journey	Bowser Jr.'s Journey	video game	https://www.mariowiki.com/Bowser_Jr.%27s_Journey	Q7889
 Bowser's_Fury	Bowser's Fury	video game	https://www.mariowiki.com/Bowser%27s_Fury	Q7889
 Brian_Bonsall	Brian Bonsall	human	https://www.mariowiki.com/Brian_Bonsall	Q5
 Brian_Tyler	Brian Tyler	human	https://www.mariowiki.com/Brian_Tyler	Q5
@@ -473,9 +475,9 @@ Milton_Supman	Milton Supman	human	https://www.mariowiki.com/Milton_Supman	Q5
 Minako_Hamano	Minako Hamano	human	https://www.mariowiki.com/Minako_Hamano	Q5
 Minecraft	Minecraft	video game	https://www.mariowiki.com/Minecraft	Q7889
 Mini_Mario_&_Friends:_amiibo_Challenge	Mini Mario & Friends: amiibo Challenge	video game	https://www.mariowiki.com/Mini_Mario_%26_Friends%3A_amiibo_Challenge	Q7889
+Minion_Quest:_The_Search_for_Bowser	Minion Quest: The Search for Bowser	video game	https://www.mariowiki.com/Minion_Quest%3A_The_Search_for_Bowser	Q7889
 Mitsuaki_Kanuka	Mitsuaki Kanuka	human	https://www.mariowiki.com/Mitsuaki_Kanuka	Q5
 Mobile_Golf	Mobile Golf	video game	https://www.mariowiki.com/Mobile_Golf	Q7889
-Mojo_Nixon	Mojo Nixon	human	https://www.mariowiki.com/Mojo_Nixon	Q5
 Monster_Games	Monster Games	company	https://www.mariowiki.com/Monster_Games	Q4830453
 Motoi_Sakuraba	Motoi Sakuraba	human	https://www.mariowiki.com/Motoi_Sakuraba	Q5
 Motoki_Takagi	Motoki Takagi	human	https://www.mariowiki.com/Motoki_Takagi	Q5
@@ -544,8 +546,10 @@ Punch-Out!!_(Wii)	Punch-Out!! (Wii)	video game	https://www.mariowiki.com/Punch-O
 Puzzle_&_Dragons:_Super_Mario_Bros._Edition	Puzzle & Dragons: Super Mario Bros. Edition	video game	https://www.mariowiki.com/Puzzle_%26_Dragons%3A_Super_Mario_Bros._Edition	Q7889
 Racjin	Racjin	company	https://www.mariowiki.com/Racjin	Q4830453
 Radical_Entertainment	Radical Entertainment	company	https://www.mariowiki.com/Radical_Entertainment	Q4830453
+Rafa_Romero	Rafa Romero	human	https://www.mariowiki.com/Rafa_Romero	Q5
 Ramón_Canals	Ramón Canals	human	https://www.mariowiki.com/Ram%C3%B3n_Canals	Q5
 Rare_Ltd.	Rare Ltd.	company	https://www.mariowiki.com/Rare_Ltd.	Q4830453
+Raúl_Anaya	Raúl Anaya	human	https://www.mariowiki.com/Ra%C3%BAl_Anaya	Q5
 Reggie_Fils-Aimé	Reggie Fils-Aimé	human	https://www.mariowiki.com/Reggie_Fils-Aim%C3%A9	Q5
 Retro_Studios	Retro Studios	company	https://www.mariowiki.com/Retro_Studios	Q4830453
 Return_of_Donkey_Kong	Return of Donkey Kong	video game	https://www.mariowiki.com/Return_of_Donkey_Kong	Q7889
@@ -555,6 +559,7 @@ Rino_Romano	Rino Romano	human	https://www.mariowiki.com/Rino_Romano	Q5
 Risa_Tabata	Risa Tabata	human	https://www.mariowiki.com/Risa_Tabata	Q5
 Rob_Stone	Rob Stone	human	https://www.mariowiki.com/Rob_Stone	Q5
 Robbie_Daymond	Robbie Daymond	human	https://www.mariowiki.com/Robbie_Daymond	Q5
+Roberto_Salguero	Roberto Salguero	human	https://www.mariowiki.com/Roberto_Salguero	Q5
 Royal_Philips_Electronics	Royal Philips Electronics	company	https://www.mariowiki.com/Royal_Philips_Electronics	Q4830453
 Ryan_Higgins	Ryan Higgins	human	https://www.mariowiki.com/Ryan_Higgins	Q5
 Ryo_Nagamatsu	Ryo Nagamatsu	human	https://www.mariowiki.com/Ryo_Nagamatsu	Q5
