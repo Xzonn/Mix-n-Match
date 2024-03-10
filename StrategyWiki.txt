@@ -70,6 +70,7 @@ id	name	desc	url	type
 7th_Dragon	7th Dragon	video game	https://strategywiki.org/wiki/7th_Dragon	Q7889
 7th_Dragon_III_Code:_VFD	7th Dragon III Code: VFD	video game	https://strategywiki.org/wiki/7th_Dragon_III_Code%3A_VFD	Q7889
 8_Eyes	8 Eyes	video game	https://strategywiki.org/wiki/8_Eyes	Q7889
+9_Years_of_Shadows	9 Years of Shadows	video game	https://strategywiki.org/wiki/9_Years_of_Shadows	Q7889
 999:_Nine_Hours,_Nine_Persons,_Nine_Doors	999: Nine Hours, Nine Persons, Nine Doors	video game	https://strategywiki.org/wiki/999%3A_Nine_Hours%2C_Nine_Persons%2C_Nine_Doors	Q7889
 9Dragons	9Dragons	video game	https://strategywiki.org/wiki/9Dragons	Q7889
 A_Boy_and_His_Blob	A Boy and His Blob	video game	https://strategywiki.org/wiki/A_Boy_and_His_Blob	Q7889
@@ -1984,6 +1985,11 @@ Dr._Mario_World	Dr. Mario World	video game	https://strategywiki.org/wiki/Dr._Mar
 Dr._Micro	Dr. Micro	video game	https://strategywiki.org/wiki/Dr._Micro	Q7889
 Dr._Muto	Dr. Muto	video game	https://strategywiki.org/wiki/Dr._Muto	Q7889
 Dr._Robotnik's_Mean_Bean_Machine	Dr. Robotnik's Mean Bean Machine	video game	https://strategywiki.org/wiki/Dr._Robotnik%27s_Mean_Bean_Machine	Q7889
+Dr._Slump	Dr. Slump	video game	https://strategywiki.org/wiki/Dr._Slump	Q7889
+Dr._Slump_(PlayStation)	Dr. Slump (PlayStation)	video game	https://strategywiki.org/wiki/Dr._Slump_%28PlayStation%29	Q7889
+Dr._Slump:_Arale-chan_(Nintendo_DS)	Dr. Slump: Arale-chan (Nintendo DS)	video game	https://strategywiki.org/wiki/Dr._Slump%3A_Arale-chan_%28Nintendo_DS%29	Q7889
+Dr._Slump:_Bubble_Daisakusen	Dr. Slump: Bubble Daisakusen	video game	https://strategywiki.org/wiki/Dr._Slump%3A_Bubble_Daisakusen	Q7889
+Dr._Slump:_Hashire!_Senbei-san	Dr. Slump: Hashire! Senbei-san	video game	https://strategywiki.org/wiki/Dr._Slump%3A_Hashire%21_Senbei-san	Q7889
 Draconius_GO	Draconius GO	video game	https://strategywiki.org/wiki/Draconius_GO	Q7889
 Dracula	Dracula	video game	https://strategywiki.org/wiki/Dracula	Q7889
 Dracula_Densetsu	Dracula Densetsu	video game	https://strategywiki.org/wiki/Dracula_Densetsu	Q7889
@@ -2124,6 +2130,7 @@ Dragon_Warrior_VII	Dragon Warrior VII	video game	https://strategywiki.org/wiki/D
 Dragon's_Crown	Dragon's Crown	video game	https://strategywiki.org/wiki/Dragon%27s_Crown	Q7889
 Dragon's_Curse	Dragon's Curse	video game	https://strategywiki.org/wiki/Dragon%27s_Curse	Q7889
 Dragon's_Dogma	Dragon's Dogma	video game	https://strategywiki.org/wiki/Dragon%27s_Dogma	Q7889
+Dragon's_Dogma_II	Dragon's Dogma II	video game	https://strategywiki.org/wiki/Dragon%27s_Dogma_II	Q7889
 Dragon's_Lair	Dragon's Lair	video game	https://strategywiki.org/wiki/Dragon%27s_Lair	Q7889
 Dragon's_Lair_(1984)	Dragon's Lair (1984)	video game	https://strategywiki.org/wiki/Dragon%27s_Lair_%281984%29	Q7889
 Dragon's_Lair:_Escape_from_Singe's_Castle	Dragon's Lair: Escape from Singe's Castle	video game	https://strategywiki.org/wiki/Dragon%27s_Lair%3A_Escape_from_Singe%27s_Castle	Q7889
@@ -2640,7 +2647,7 @@ Fire_Emblem:_Path_of_Radiance	Fire Emblem: Path of Radiance	video game	https://s
 Fire_Emblem:_Radiant_Dawn	Fire Emblem: Radiant Dawn	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Radiant_Dawn	Q7889
 Fire_Emblem:_Seisen_no_Keifu	Fire Emblem: Seisen no Keifu	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Seisen_no_Keifu	Q7889
 Fire_Emblem:_Shadow_Dragon	Fire Emblem: Shadow Dragon	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Shadow_Dragon	Q7889
-Fire_Emblem:_Shadow_Dragon_and_the_Blade_of_Light	Fire Emblem: Shadow Dragon and the Blade of Light	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Shadow_Dragon_and_the_Blade_of_Light	Q7889
+Fire_Emblem:_Shadow_Dragon_&_the_Blade_of_Light	Fire Emblem: Shadow Dragon & the Blade of Light	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Shadow_Dragon_%26_the_Blade_of_Light	Q7889
 Fire_Emblem:_Shin_Monshou_no_Nazo:_Hikari_to_Kage_no_Eiyuu	Fire Emblem: Shin Monshou no Nazo: Hikari to Kage no Eiyuu	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Shin_Monshou_no_Nazo%3A_Hikari_to_Kage_no_Eiyuu	Q7889
 Fire_Emblem:_Soen_no_Kiseki	Fire Emblem: Soen no Kiseki	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_Soen_no_Kiseki	Q7889
 Fire_Emblem:_The_Sacred_Stones	Fire Emblem: The Sacred Stones	video game	https://strategywiki.org/wiki/Fire_Emblem%3A_The_Sacred_Stones	Q7889
@@ -3469,6 +3476,7 @@ Human:_Fall_Flat	Human: Fall Flat	video game	https://strategywiki.org/wiki/Human
 Hunchback	Hunchback	video game	https://strategywiki.org/wiki/Hunchback	Q7889
 Hunt_&_Score	Hunt & Score	video game	https://strategywiki.org/wiki/Hunt_%26_Score	Q7889
 Hunt:_Showdown	Hunt: Showdown	video game	https://strategywiki.org/wiki/Hunt%3A_Showdown	Q7889
+Hunter_x_Hunter:_Nen_x_Impact	Hunter x Hunter: Nen x Impact	video game	https://strategywiki.org/wiki/Hunter_x_Hunter%3A_Nen_x_Impact	Q7889
 Hustle	Hustle	video game	https://strategywiki.org/wiki/Hustle	Q7889
 Huxley_Pig	Huxley Pig	video game	https://strategywiki.org/wiki/Huxley_Pig	Q7889
 Hyakki_Yakou	Hyakki Yakou	video game	https://strategywiki.org/wiki/Hyakki_Yakou	Q7889
@@ -3488,6 +3496,9 @@ Hyper_Pac-Man	Hyper Pac-Man	video game	https://strategywiki.org/wiki/Hyper_Pac-M
 Hyper_Princess_Pitch	Hyper Princess Pitch	video game	https://strategywiki.org/wiki/Hyper_Princess_Pitch	Q7889
 Hyper_Sports	Hyper Sports	video game	https://strategywiki.org/wiki/Hyper_Sports	Q7889
 Hyper_Street_Fighter_II	Hyper Street Fighter II	video game	https://strategywiki.org/wiki/Hyper_Street_Fighter_II	Q7889
+Hyperdimension_Neptunia_Re;Birth_1	Hyperdimension Neptunia Re;Birth 1	video game	https://strategywiki.org/wiki/Hyperdimension_Neptunia_Re%3BBirth_1	Q7889
+Hyperdimension_Neptunia_Re;Birth_2:_Sisters_Generation	Hyperdimension Neptunia Re;Birth 2: Sisters Generation	video game	https://strategywiki.org/wiki/Hyperdimension_Neptunia_Re%3BBirth_2%3A_Sisters_Generation	Q7889
+Hyperdimension_Neptunia_Re;Birth_3:_V_Generation	Hyperdimension Neptunia Re;Birth 3: V Generation	video game	https://strategywiki.org/wiki/Hyperdimension_Neptunia_Re%3BBirth_3%3A_V_Generation	Q7889
 Hyperdimension_Neptunia_U:_Action_Unleashed	Hyperdimension Neptunia U: Action Unleashed	video game	https://strategywiki.org/wiki/Hyperdimension_Neptunia_U%3A_Action_Unleashed	Q7889
 Hyrule_Warriors	Hyrule Warriors	video game	https://strategywiki.org/wiki/Hyrule_Warriors	Q7889
 Hyrule_Warriors:_Age_of_Calamity	Hyrule Warriors: Age of Calamity	video game	https://strategywiki.org/wiki/Hyrule_Warriors%3A_Age_of_Calamity	Q7889
@@ -4787,12 +4798,11 @@ Moeru!_Oniisan	Moeru! Oniisan	video game	https://strategywiki.org/wiki/Moeru%21_
 Mole_Mania	Mole Mania	video game	https://strategywiki.org/wiki/Mole_Mania	Q7889
 Momoko_120	Momoko 120	video game	https://strategywiki.org/wiki/Momoko_120	Q7889
 Momoko_1200%	Momoko 1200%	video game	https://strategywiki.org/wiki/Momoko_1200%25	Q7889
-Momotaro_Densetsu	Momotaro Densetsu	video game	https://strategywiki.org/wiki/Momotaro_Densetsu	Q7889
-Momotaro_Dentetsu_7	Momotaro Dentetsu 7	video game	https://strategywiki.org/wiki/Momotaro_Dentetsu_7	Q7889
-Momotaro_Dentetsu_World:_Chikyuu_wa_Kibou_de_Mawatteru!	Momotaro Dentetsu World: Chikyuu wa Kibou de Mawatteru!	video game	https://strategywiki.org/wiki/Momotaro_Dentetsu_World%3A_Chikyuu_wa_Kibou_de_Mawatteru%21	Q7889
-Momotaro_Dentetsu:_Showa,_Heisei,_Reiwa_Mo_Teiban!	Momotaro Dentetsu: Showa, Heisei, Reiwa Mo Teiban!	video game	https://strategywiki.org/wiki/Momotaro_Dentetsu%3A_Showa%2C_Heisei%2C_Reiwa_Mo_Teiban%21	Q7889
+Momotarou_Densetsu	Momotarou Densetsu	video game	https://strategywiki.org/wiki/Momotarou_Densetsu	Q7889
 Momotarou_Dentetsu	Momotarou Dentetsu	video game	https://strategywiki.org/wiki/Momotarou_Dentetsu	Q7889
 Momotarou_Dentetsu_7	Momotarou Dentetsu 7	video game	https://strategywiki.org/wiki/Momotarou_Dentetsu_7	Q7889
+Momotarou_Dentetsu_World:_Chikyuu_wa_Kibou_de_Mawatteru!	Momotarou Dentetsu World: Chikyuu wa Kibou de Mawatteru!	video game	https://strategywiki.org/wiki/Momotarou_Dentetsu_World%3A_Chikyuu_wa_Kibou_de_Mawatteru%21	Q7889
+Momotarou_Dentetsu:_Showa,_Heisei,_Reiwa_Mo_Teiban!	Momotarou Dentetsu: Showa, Heisei, Reiwa Mo Teiban!	video game	https://strategywiki.org/wiki/Momotarou_Dentetsu%3A_Showa%2C_Heisei%2C_Reiwa_Mo_Teiban%21	Q7889
 Mon-Yu	Mon-Yu	video game	https://strategywiki.org/wiki/Mon-Yu	Q7889
 Money_Puzzle_Exchanger	Money Puzzle Exchanger	video game	https://strategywiki.org/wiki/Money_Puzzle_Exchanger	Q7889
 Monkey_Donkey	Monkey Donkey	video game	https://strategywiki.org/wiki/Monkey_Donkey	Q7889
@@ -5215,7 +5225,6 @@ Ninja_Burai_Densetsu	Ninja Burai Densetsu	video game	https://strategywiki.org/wi
 Ninja_Combat	Ninja Combat	video game	https://strategywiki.org/wiki/Ninja_Combat	Q7889
 Ninja_Commando	Ninja Commando	video game	https://strategywiki.org/wiki/Ninja_Commando	Q7889
 Ninja_Cop_Saizou	Ninja Cop Saizou	video game	https://strategywiki.org/wiki/Ninja_Cop_Saizou	Q7889
-Ninja_Five-0	Ninja Five-0	video game	https://strategywiki.org/wiki/Ninja_Five-0	Q7889
 Ninja_Five-O	Ninja Five-O	video game	https://strategywiki.org/wiki/Ninja_Five-O	Q7889
 Ninja_Gaiden	Ninja Gaiden	video game	https://strategywiki.org/wiki/Ninja_Gaiden	Q7889
 Ninja_Gaiden_(NES)	Ninja Gaiden (NES)	video game	https://strategywiki.org/wiki/Ninja_Gaiden_%28NES%29	Q7889
@@ -6225,6 +6234,8 @@ Rock_Band:_Unplugged	Rock Band: Unplugged	video game	https://strategywiki.org/wi
 Rock_Climber	Rock Climber	video game	https://strategywiki.org/wiki/Rock_Climber	Q7889
 Rock_N'_Roll_Racing	Rock N' Roll Racing	video game	https://strategywiki.org/wiki/Rock_N%27_Roll_Racing	Q7889
 Rock-On	Rock-On	video game	https://strategywiki.org/wiki/Rock-On	Q7889
+Rocket_Knight_Adventures	Rocket Knight Adventures	video game	https://strategywiki.org/wiki/Rocket_Knight_Adventures	Q7889
+Rocket_Knight_Adventures:_Re-Sparked!	Rocket Knight Adventures: Re-Sparked!	video game	https://strategywiki.org/wiki/Rocket_Knight_Adventures%3A_Re-Sparked%21	Q7889
 Rocket_Ranger	Rocket Ranger	video game	https://strategywiki.org/wiki/Rocket_Ranger	Q7889
 Rockin'_Kats	Rockin' Kats	video game	https://strategywiki.org/wiki/Rockin%27_Kats	Q7889
 Rockman	Rockman	video game	https://strategywiki.org/wiki/Rockman	Q7889
@@ -6432,6 +6443,7 @@ Samurai_Warriors:_Spirit_of_Sanada	Samurai Warriors: Spirit of Sanada	video game
 Samurai_Warriors:_Xtreme_Legends	Samurai Warriors: Xtreme Legends	video game	https://strategywiki.org/wiki/Samurai_Warriors%3A_Xtreme_Legends	Q7889
 Sanada_Juu_Yuushi	Sanada Juu Yuushi	video game	https://strategywiki.org/wiki/Sanada_Juu_Yuushi	Q7889
 Sanctum	Sanctum	video game	https://strategywiki.org/wiki/Sanctum	Q7889
+Sand_Land	Sand Land	video game	https://strategywiki.org/wiki/Sand_Land	Q7889
 Sands_of_Destruction	Sands of Destruction	video game	https://strategywiki.org/wiki/Sands_of_Destruction	Q7889
 Sango_Fighter	Sango Fighter	video game	https://strategywiki.org/wiki/Sango_Fighter	Q7889
 Sango_Fighter_2	Sango Fighter 2	video game	https://strategywiki.org/wiki/Sango_Fighter_2	Q7889
@@ -7015,6 +7027,7 @@ Space_War	Space War	video game	https://strategywiki.org/wiki/Space_War	Q7889
 Space_Zap	Space Zap	video game	https://strategywiki.org/wiki/Space_Zap	Q7889
 SpaceChem	SpaceChem	video game	https://strategywiki.org/wiki/SpaceChem	Q7889
 Sparkster	Sparkster	video game	https://strategywiki.org/wiki/Sparkster	Q7889
+Sparkster:_Rocket_Knight_Adventures_2	Sparkster: Rocket Knight Adventures 2	video game	https://strategywiki.org/wiki/Sparkster%3A_Rocket_Knight_Adventures_2	Q7889
 Spatter	Spatter	video game	https://strategywiki.org/wiki/Spatter	Q7889
 Spectrobes	Spectrobes	video game	https://strategywiki.org/wiki/Spectrobes	Q7889
 Spectrobes:_Beyond_the_Portals	Spectrobes: Beyond the Portals	video game	https://strategywiki.org/wiki/Spectrobes%3A_Beyond_the_Portals	Q7889
@@ -8123,6 +8136,7 @@ The_Misadventures_of_Tron_Bonne	The Misadventures of Tron Bonne	video game	https
 The_Money_Game	The Money Game	video game	https://strategywiki.org/wiki/The_Money_Game	Q7889
 The_Money_Game_II:_Kabutochou_no_Kiseki	The Money Game II: Kabutochou no Kiseki	video game	https://strategywiki.org/wiki/The_Money_Game_II%3A_Kabutochou_no_Kiseki	Q7889
 The_Movies	The Movies	video game	https://strategywiki.org/wiki/The_Movies	Q7889
+The_Mummy_Demastered	The Mummy Demastered	video game	https://strategywiki.org/wiki/The_Mummy_Demastered	Q7889
 The_Mummy_Returns	The Mummy Returns	video game	https://strategywiki.org/wiki/The_Mummy_Returns	Q7889
 The_Mummy_Returns_(Game_Boy_Color)	The Mummy Returns (Game Boy Color)	video game	https://strategywiki.org/wiki/The_Mummy_Returns_%28Game_Boy_Color%29	Q7889
 The_Murder_of_Sonic_the_Hedgehog	The Murder of Sonic the Hedgehog	video game	https://strategywiki.org/wiki/The_Murder_of_Sonic_the_Hedgehog	Q7889
@@ -9023,6 +9037,7 @@ Wizard_of_Wor	Wizard of Wor	video game	https://strategywiki.org/wiki/Wizard_of_W
 Wizardry_II:_The_Knight_of_Diamonds	Wizardry II: The Knight of Diamonds	video game	https://strategywiki.org/wiki/Wizardry_II%3A_The_Knight_of_Diamonds	Q7889
 Wizardry_III:_Legacy_of_Llylgamyn	Wizardry III: Legacy of Llylgamyn	video game	https://strategywiki.org/wiki/Wizardry_III%3A_Legacy_of_Llylgamyn	Q7889
 Wizardry_V:_Heart_of_the_Maelstrom	Wizardry V: Heart of the Maelstrom	video game	https://strategywiki.org/wiki/Wizardry_V%3A_Heart_of_the_Maelstrom	Q7889
+Wizardry_Variants_Daphne	Wizardry Variants Daphne	video game	https://strategywiki.org/wiki/Wizardry_Variants_Daphne	Q7889
 Wizardry:_Labyrinth_of_Lost_Souls	Wizardry: Labyrinth of Lost Souls	video game	https://strategywiki.org/wiki/Wizardry%3A_Labyrinth_of_Lost_Souls	Q7889
 Wizardry:_Proving_Grounds_of_the_Mad_Overlord	Wizardry: Proving Grounds of the Mad Overlord	video game	https://strategywiki.org/wiki/Wizardry%3A_Proving_Grounds_of_the_Mad_Overlord	Q7889
 Wizards_&_Warriors	Wizards & Warriors	video game	https://strategywiki.org/wiki/Wizards_%26_Warriors	Q7889
