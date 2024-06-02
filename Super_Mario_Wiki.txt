@@ -12,6 +12,7 @@ Andy_Heyward	Andy Heyward	human	https://www.mariowiki.com/Andy_Heyward	Q5
 Ann_Yamane	Ann Yamane	human	https://www.mariowiki.com/Ann_Yamane	Q5
 Anya_Taylor-Joy	Anya Taylor-Joy	human	https://www.mariowiki.com/Anya_Taylor-Joy	Q5
 AR_Games	AR Games	video game	https://www.mariowiki.com/AR_Games	Q7889
+Arcade_Archives	Arcade Archives	video game series	https://www.mariowiki.com/Arcade_Archives	Q7058673
 Arcade_Classics_Series	Arcade Classics Series	video game series	https://www.mariowiki.com/Arcade_Classics_Series	Q7058673
 Arika	Arika	company	https://www.mariowiki.com/Arika	Q4830453
 Arisa_Shida	Arisa Shida	human	https://www.mariowiki.com/Arisa_Shida	Q5
@@ -26,7 +27,7 @@ Atsushi_Imaruoka	Atsushi Imaruoka	human	https://www.mariowiki.com/Atsushi_Imaruo
 Atsushi_Masaki	Atsushi Masaki	human	https://www.mariowiki.com/Atsushi_Masaki	Q5
 Audrey_Sourdive	Audrey Sourdive	human	https://www.mariowiki.com/Audrey_Sourdive	Q5
 Balloon_Trip	Balloon Trip	video game	https://www.mariowiki.com/Balloon_Trip	Q7889
-Bandai_Namco_Entertainment	Bandai Namco Entertainment	company	https://www.mariowiki.com/Bandai_Namco_Entertainment	Q4830453
+Bandai_Namco_Holdings	Bandai Namco Holdings	company	https://www.mariowiki.com/Bandai_Namco_Holdings	Q4830453
 Banpresto	Banpresto	company	https://www.mariowiki.com/Banpresto	Q4830453
 Baseball	Baseball	video game	https://www.mariowiki.com/Baseball	Q7889
 Ben_Campbell	Ben Campbell	human	https://www.mariowiki.com/Ben_Campbell	Q5
@@ -475,6 +476,7 @@ Michael_Teitelbaum	Michael Teitelbaum	human	https://www.mariowiki.com/Michael_Te
 Michelle_Hippe	Michelle Hippe	human	https://www.mariowiki.com/Michelle_Hippe	Q5
 Michelle_Powers	Michelle Powers	human	https://www.mariowiki.com/Michelle_Powers	Q5
 Mick_Wingert	Mick Wingert	human	https://www.mariowiki.com/Mick_Wingert	Q5
+Microsoft	Microsoft	company	https://www.mariowiki.com/Microsoft	Q4830453
 Miguel_Ángel_Ruiz	Miguel Ángel Ruiz	human	https://www.mariowiki.com/Miguel_%C3%81ngel_Ruiz	Q5
 Mike_Vaughn	Mike Vaughn	human	https://www.mariowiki.com/Mike_Vaughn	Q5
 Milton_Supman	Milton Supman	human	https://www.mariowiki.com/Milton_Supman	Q5
@@ -654,6 +656,7 @@ Super_Mario_Bros._Print_World	Super Mario Bros. Print World	video game	https://w
 Super_Mario_Bros._Special	Super Mario Bros. Special	video game	https://www.mariowiki.com/Super_Mario_Bros._Special	Q7889
 Super_Mario_Bros._Wonder	Super Mario Bros. Wonder	video game	https://www.mariowiki.com/Super_Mario_Bros._Wonder	Q7889
 Super_Mario_Bros.:_The_Lost_Levels	Super Mario Bros.: The Lost Levels	video game	https://www.mariowiki.com/Super_Mario_Bros.%3A_The_Lost_Levels	Q7889
+Super_Mario_Club_(Famicom_Network_System)	Super Mario Club (Famicom Network System)	video game	https://www.mariowiki.com/Super_Mario_Club_%28Famicom_Network_System%29	Q7889
 Super_Mario_Collection_Screen_Saver	Super Mario Collection Screen Saver	video game	https://www.mariowiki.com/Super_Mario_Collection_Screen_Saver	Q7889
 Super_Mario_Fushigi_no_Janjan_Land	Super Mario Fushigi no Janjan Land	video game	https://www.mariowiki.com/Super_Mario_Fushigi_no_Janjan_Land	Q7889
 Super_Mario_Fushigi_no_Korokoro_Party	Super Mario Fushigi no Korokoro Party	video game	https://www.mariowiki.com/Super_Mario_Fushigi_no_Korokoro_Party	Q7889
