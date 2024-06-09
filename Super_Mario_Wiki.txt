@@ -63,6 +63,7 @@ Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherla
 Christine_Marie_Cabanos	Christine Marie Cabanos	human	https://www.mariowiki.com/Christine_Marie_Cabanos	Q5
 Christophe_Héral	Christophe Héral	human	https://www.mariowiki.com/Christophe_H%C3%A9ral	Q5
 Classic_NES_Series	Classic NES Series	video game series	https://www.mariowiki.com/Classic_NES_Series	Q7058673
+Classic_Series	Classic Series	video game	https://www.mariowiki.com/Classic_Series	Q7889
 Claude_Moyse	Claude Moyse	human	https://www.mariowiki.com/Claude_Moyse	Q5
 Club_Nintendo_Picross	Club Nintendo Picross	video game	https://www.mariowiki.com/Club_Nintendo_Picross	Q7889
 Club_Nintendo_Picross+	Club Nintendo Picross+	video game	https://www.mariowiki.com/Club_Nintendo_Picross%2B	Q7889
@@ -259,6 +260,7 @@ Joy_Tanner	Joy Tanner	human	https://www.mariowiki.com/Joy_Tanner	Q5
 Judy_Strangis	Judy Strangis	human	https://www.mariowiki.com/Judy_Strangis	Q5
 Julien_Bardakoff	Julien Bardakoff	human	https://www.mariowiki.com/Julien_Bardakoff	Q5
 Jupiter	Jupiter	company	https://www.mariowiki.com/Jupiter	Q4830453
+Just_Dance_(series)	Just Dance (series)	video game series	https://www.mariowiki.com/Just_Dance_%28series%29	Q7058673
 Kaettekita_Mario_Bros.	Kaettekita Mario Bros.	video game	https://www.mariowiki.com/Kaettekita_Mario_Bros.	Q7889
 Kahoru_Sasajima	Kahoru Sasajima	human	https://www.mariowiki.com/Kahoru_Sasajima	Q5
 Kate_Fleming	Kate Fleming	human	https://www.mariowiki.com/Kate_Fleming	Q5
@@ -476,7 +478,6 @@ Michael_Teitelbaum	Michael Teitelbaum	human	https://www.mariowiki.com/Michael_Te
 Michelle_Hippe	Michelle Hippe	human	https://www.mariowiki.com/Michelle_Hippe	Q5
 Michelle_Powers	Michelle Powers	human	https://www.mariowiki.com/Michelle_Powers	Q5
 Mick_Wingert	Mick Wingert	human	https://www.mariowiki.com/Mick_Wingert	Q5
-Microsoft	Microsoft	company	https://www.mariowiki.com/Microsoft	Q4830453
 Miguel_Ángel_Ruiz	Miguel Ángel Ruiz	human	https://www.mariowiki.com/Miguel_%C3%81ngel_Ruiz	Q5
 Mike_Vaughn	Mike Vaughn	human	https://www.mariowiki.com/Mike_Vaughn	Q5
 Milton_Supman	Milton Supman	human	https://www.mariowiki.com/Milton_Supman	Q5
@@ -752,7 +753,8 @@ Wario_Blast:_Featuring_Bomberman!	Wario Blast: Featuring Bomberman!	video game	h
 Wario_Land_(series)	Wario Land (series)	video game series	https://www.mariowiki.com/Wario_Land_%28series%29	Q7058673
 Wario_Land:_Super_Mario_Land_3	Wario Land: Super Mario Land 3	video game	https://www.mariowiki.com/Wario_Land%3A_Super_Mario_Land_3	Q7889
 Wario_World	Wario World	video game	https://www.mariowiki.com/Wario_World	Q7889
-Wario's_Woods	Wario's Woods	video game	https://www.mariowiki.com/Wario%27s_Woods	Q7889
+Wario's_Woods_(Nintendo_Entertainment_System)	Wario's Woods (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Wario%27s_Woods_%28Nintendo_Entertainment_System%29	Q7889
+Wario's_Woods_(Super_Nintendo_Entertainment_System)	Wario's Woods (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Wario%27s_Woods_%28Super_Nintendo_Entertainment_System%29	Q7889
 Wario:_Master_of_Disguise	Wario: Master of Disguise	video game	https://www.mariowiki.com/Wario%3A_Master_of_Disguise	Q7889
 WarioWare_(series)	WarioWare (series)	video game series	https://www.mariowiki.com/WarioWare_%28series%29	Q7058673
 WarioWare,_Inc.:_Mega_Microgame$!	WarioWare, Inc.: Mega Microgame$!	video game	https://www.mariowiki.com/WarioWare%2C_Inc.%3A_Mega_Microgame%24%21	Q7889
