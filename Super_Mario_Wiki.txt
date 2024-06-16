@@ -63,7 +63,6 @@ Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherla
 Christine_Marie_Cabanos	Christine Marie Cabanos	human	https://www.mariowiki.com/Christine_Marie_Cabanos	Q5
 Christophe_Héral	Christophe Héral	human	https://www.mariowiki.com/Christophe_H%C3%A9ral	Q5
 Classic_NES_Series	Classic NES Series	video game series	https://www.mariowiki.com/Classic_NES_Series	Q7058673
-Classic_Series	Classic Series	video game	https://www.mariowiki.com/Classic_Series	Q7889
 Claude_Moyse	Claude Moyse	human	https://www.mariowiki.com/Claude_Moyse	Q5
 Club_Nintendo_Picross	Club Nintendo Picross	video game	https://www.mariowiki.com/Club_Nintendo_Picross	Q7889
 Club_Nintendo_Picross+	Club Nintendo Picross+	video game	https://www.mariowiki.com/Club_Nintendo_Picross%2B	Q7889
@@ -518,6 +517,7 @@ Nicole_Eggert	Nicole Eggert	human	https://www.mariowiki.com/Nicole_Eggert	Q5
 Nicole_Mills	Nicole Mills	human	https://www.mariowiki.com/Nicole_Mills	Q5
 Nintendo	Nintendo	company	https://www.mariowiki.com/Nintendo	Q4830453
 Nintendo_Badge_Arcade	Nintendo Badge Arcade	video game	https://www.mariowiki.com/Nintendo_Badge_Arcade	Q7889
+Nintendo_Classics	Nintendo Classics	video game	https://www.mariowiki.com/Nintendo_Classics	Q7889
 Nintendo_Land	Nintendo Land	video game	https://www.mariowiki.com/Nintendo_Land	Q7889
 Nintendo_PowerFest_'94	Nintendo PowerFest '94	video game	https://www.mariowiki.com/Nintendo_PowerFest_%2794	Q7889
 Nintendo_Puzzle_Collection	Nintendo Puzzle Collection	video game	https://www.mariowiki.com/Nintendo_Puzzle_Collection	Q7889
