@@ -184,6 +184,7 @@ Frank_Welker	Frank Welker	human	https://www.mariowiki.com/Frank_Welker	Q5
 Fred_Armisen	Fred Armisen	human	https://www.mariowiki.com/Fred_Armisen	Q5
 Freiberger	Freiberger	company	https://www.mariowiki.com/Freiberger	Q4830453
 Fryda_Wolff	Fryda Wolff	human	https://www.mariowiki.com/Fryda_Wolff	Q5
+Fumihiro_Okabayashi	Fumihiro Okabayashi	human	https://www.mariowiki.com/Fumihiro_Okabayashi	Q5
 Game_&_Wario	Game & Wario	video game	https://www.mariowiki.com/Game_%26_Wario	Q7889
 Game_&_Watch_Gallery	Game & Watch Gallery	video game	https://www.mariowiki.com/Game_%26_Watch_Gallery	Q7889
 Game_&_Watch_Gallery_(series)	Game & Watch Gallery (series)	video game series	https://www.mariowiki.com/Game_%26_Watch_Gallery_%28series%29	Q7058673
@@ -379,7 +380,9 @@ Mario_Golf:_Super_Rush	Mario Golf: Super Rush	video game	https://www.mariowiki.c
 Mario_Golf:_Toadstool_Tour	Mario Golf: Toadstool Tour	video game	https://www.mariowiki.com/Mario_Golf%3A_Toadstool_Tour	Q7889
 Mario_Golf:_World_Tour	Mario Golf: World Tour	video game	https://www.mariowiki.com/Mario_Golf%3A_World_Tour	Q7889
 Mario_Hoops_3-on-3	Mario Hoops 3-on-3	video game	https://www.mariowiki.com/Mario_Hoops_3-on-3	Q7889
-Mario_is_Missing!	Mario is Missing!	video game	https://www.mariowiki.com/Mario_is_Missing%21	Q7889
+Mario_is_Missing!_(Nintendo_Entertainment_System)	Mario is Missing! (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28Nintendo_Entertainment_System%29	Q7889
+Mario_is_Missing!_(PC)	Mario is Missing! (PC)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28PC%29	Q7889
+Mario_is_Missing!_(Super_Nintendo_Entertainment_System)	Mario is Missing! (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28Super_Nintendo_Entertainment_System%29	Q7889
 Mario_Kart_(series)	Mario Kart (series)	video game series	https://www.mariowiki.com/Mario_Kart_%28series%29	Q7058673
 Mario_Kart_64	Mario Kart 64	video game	https://www.mariowiki.com/Mario_Kart_64	Q7889
 Mario_Kart_64_(slot_machine)	Mario Kart 64 (slot machine)	video game	https://www.mariowiki.com/Mario_Kart_64_%28slot_machine%29	Q7889
@@ -460,7 +463,9 @@ Mario's_Picross	Mario's Picross	video game	https://www.mariowiki.com/Mario%27s_P
 Mario's_Picross_(series)	Mario's Picross (series)	video game series	https://www.mariowiki.com/Mario%27s_Picross_%28series%29	Q7058673
 Mario's_Super_Picross	Mario's Super Picross	video game	https://www.mariowiki.com/Mario%27s_Super_Picross	Q7889
 Mario's_Tennis	Mario's Tennis	video game	https://www.mariowiki.com/Mario%27s_Tennis	Q7889
-Mario's_Time_Machine	Mario's Time Machine	video game	https://www.mariowiki.com/Mario%27s_Time_Machine	Q7889
+Mario's_Time_Machine_(Nintendo_Entertainment_System)	Mario's Time Machine (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28Nintendo_Entertainment_System%29	Q7889
+Mario's_Time_Machine_(PC)	Mario's Time Machine (PC)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28PC%29	Q7889
+Mario's_Time_Machine_(Super_Nintendo_Entertainment_System)	Mario's Time Machine (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28Super_Nintendo_Entertainment_System%29	Q7889
 Mark_Stevenson	Mark Stevenson	human	https://www.mariowiki.com/Mark_Stevenson	Q5
 Marvelous_Inc.	Marvelous Inc.	company	https://www.mariowiki.com/Marvelous_Inc.	Q4830453
 Masahiro_Sakurai	Masahiro Sakurai	human	https://www.mariowiki.com/Masahiro_Sakurai	Q5
@@ -632,6 +637,7 @@ StreetPass_Mii_Plaza	StreetPass Mii Plaza	video game	https://www.mariowiki.com/S
 Stroke_&_Match_Golf	Stroke & Match Golf	video game	https://www.mariowiki.com/Stroke_%26_Match_Golf	Q7889
 Stuart_Stone	Stuart Stone	human	https://www.mariowiki.com/Stuart_Stone	Q5
 Sunshine_Biscuits	Sunshine Biscuits	company	https://www.mariowiki.com/Sunshine_Biscuits	Q4830453
+Super_Donkey_Kong_2_Swanky_no_Bonus_Slot	Super Donkey Kong 2 Swanky no Bonus Slot	video game	https://www.mariowiki.com/Super_Donkey_Kong_2_Swanky_no_Bonus_Slot	Q7889
 Super_Mario_(series)	Super Mario (series)	video game series	https://www.mariowiki.com/Super_Mario_%28series%29	Q7058673
 Super_Mario_128	Super Mario 128	video game	https://www.mariowiki.com/Super_Mario_128	Q7889
 Super_Mario_3D_All-Stars	Super Mario 3D All-Stars	video game	https://www.mariowiki.com/Super_Mario_3D_All-Stars	Q7889
@@ -639,6 +645,7 @@ Super_Mario_3D_Land	Super Mario 3D Land	video game	https://www.mariowiki.com/Sup
 Super_Mario_3D_World	Super Mario 3D World	video game	https://www.mariowiki.com/Super_Mario_3D_World	Q7889
 Super_Mario_3D_World_+_Bowser's_Fury	Super Mario 3D World + Bowser's Fury	video game	https://www.mariowiki.com/Super_Mario_3D_World_%2B_Bowser%27s_Fury	Q7889
 Super_Mario_64	Super Mario 64	video game	https://www.mariowiki.com/Super_Mario_64	Q7889
+Super_Mario_64_(slot_machine)	Super Mario 64 (slot machine)	video game	https://www.mariowiki.com/Super_Mario_64_%28slot_machine%29	Q7889
 Super_Mario_64_DS	Super Mario 64 DS	video game	https://www.mariowiki.com/Super_Mario_64_DS	Q7889
 Super_Mario_Advance	Super Mario Advance	video game	https://www.mariowiki.com/Super_Mario_Advance	Q7889
 Super_Mario_Advance_(series)	Super Mario Advance (series)	video game series	https://www.mariowiki.com/Super_Mario_Advance_%28series%29	Q7058673
@@ -708,6 +715,7 @@ Takashi_Nagasako	Takashi Nagasako	human	https://www.mariowiki.com/Takashi_Nagasa
 Takashi_Tezuka	Takashi Tezuka	human	https://www.mariowiki.com/Takashi_Tezuka	Q5
 Takehiko_Hosokawa	Takehiko Hosokawa	human	https://www.mariowiki.com/Takehiko_Hosokawa	Q5
 Taku_Sugioka	Taku Sugioka	human	https://www.mariowiki.com/Taku_Sugioka	Q5
+Tantalus_Media	Tantalus Media	company	https://www.mariowiki.com/Tantalus_Media	Q4830453
 Tara_Strong	Tara Strong	human	https://www.mariowiki.com/Tara_Strong	Q5
 Tasuku_Hatanaka	Tasuku Hatanaka	human	https://www.mariowiki.com/Tasuku_Hatanaka	Q5
 Tatsumi_Kimishima	Tatsumi Kimishima	human	https://www.mariowiki.com/Tatsumi_Kimishima	Q5
