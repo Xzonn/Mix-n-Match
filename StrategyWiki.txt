@@ -11,6 +11,7 @@ id	name	desc	url	type
 007_Racing	007 Racing	video game	https://strategywiki.org/wiki/007_Racing	Q7889
 007:_Licence_to_Kill	007: Licence to Kill	video game	https://strategywiki.org/wiki/007%3A_Licence_to_Kill	Q7889
 007:_Quantum_of_Solace	007: Quantum of Solace	video game	https://strategywiki.org/wiki/007%3A_Quantum_of_Solace	Q7889
+1_vs_100	1 vs 100	video game	https://strategywiki.org/wiki/1_vs_100	Q7889
 1_vs_100_(Xbox_360)	1 vs 100 (Xbox 360)	video game	https://strategywiki.org/wiki/1_vs_100_%28Xbox_360%29	Q7889
 10_Super_Jogos	10 Super Jogos	video game	https://strategywiki.org/wiki/10_Super_Jogos	Q7889
 10-Yard_Fight	10-Yard Fight	video game	https://strategywiki.org/wiki/10-Yard_Fight	Q7889
@@ -105,6 +106,8 @@ Abnormal_Check	Abnormal Check	video game	https://strategywiki.org/wiki/Abnormal_
 Abobo's_Big_Adventure	Abobo's Big Adventure	video game	https://strategywiki.org/wiki/Abobo%27s_Big_Adventure	Q7889
 Abuse	Abuse	video game	https://strategywiki.org/wiki/Abuse	Q7889
 ACA_Neo_Geo_3_Count_Bout	ACA Neo Geo 3 Count Bout	video game	https://strategywiki.org/wiki/ACA_Neo_Geo_3_Count_Bout	Q7889
+ACA_Neo_Geo_Aero_Fighters_2	ACA Neo Geo Aero Fighters 2	video game	https://strategywiki.org/wiki/ACA_Neo_Geo_Aero_Fighters_2	Q7889
+ACA_Neo_Geo_Aero_Fighters_3	ACA Neo Geo Aero Fighters 3	video game	https://strategywiki.org/wiki/ACA_Neo_Geo_Aero_Fighters_3	Q7889
 Ace_Attorney_Investigations_2:_Prosecutor's_Gambit	Ace Attorney Investigations 2: Prosecutor's Gambit	video game	https://strategywiki.org/wiki/Ace_Attorney_Investigations_2%3A_Prosecutor%27s_Gambit	Q7889
 Ace_Attorney_Investigations_Collection	Ace Attorney Investigations Collection	video game	https://strategywiki.org/wiki/Ace_Attorney_Investigations_Collection	Q7889
 Ace_Attorney_Investigations:_Miles_Edgeworth	Ace Attorney Investigations: Miles Edgeworth	video game	https://strategywiki.org/wiki/Ace_Attorney_Investigations%3A_Miles_Edgeworth	Q7889
@@ -114,9 +117,11 @@ Ace_Combat_3:_Electrosphere	Ace Combat 3: Electrosphere	video game	https://strat
 Ace_Combat_5:_The_Unsung_War	Ace Combat 5: The Unsung War	video game	https://strategywiki.org/wiki/Ace_Combat_5%3A_The_Unsung_War	Q7889
 Ace_Combat_6:_Fires_of_Liberation	Ace Combat 6: Fires of Liberation	video game	https://strategywiki.org/wiki/Ace_Combat_6%3A_Fires_of_Liberation	Q7889
 Ace_Combat_7:_Skies_Unknown	Ace Combat 7: Skies Unknown	video game	https://strategywiki.org/wiki/Ace_Combat_7%3A_Skies_Unknown	Q7889
+Ace_Combat_7:_Skies_Unknown_Deluxe_Edition	Ace Combat 7: Skies Unknown Deluxe Edition	video game	https://strategywiki.org/wiki/Ace_Combat_7%3A_Skies_Unknown_Deluxe_Edition	Q7889
 Ace_Combat_X:_Skies_of_Deception	Ace Combat X: Skies of Deception	video game	https://strategywiki.org/wiki/Ace_Combat_X%3A_Skies_of_Deception	Q7889
 Ace_Combat_Zero:_The_Belkan_War	Ace Combat Zero: The Belkan War	video game	https://strategywiki.org/wiki/Ace_Combat_Zero%3A_The_Belkan_War	Q7889
 Ace_Combat:_Assault_Horizon	Ace Combat: Assault Horizon	video game	https://strategywiki.org/wiki/Ace_Combat%3A_Assault_Horizon	Q7889
+Ace_Combat:_Assault_Horizon_-_Enhanced_Edition	Ace Combat: Assault Horizon - Enhanced Edition	video game	https://strategywiki.org/wiki/Ace_Combat%3A_Assault_Horizon_-_Enhanced_Edition	Q7889
 Ace_Driver	Ace Driver	video game	https://strategywiki.org/wiki/Ace_Driver	Q7889
 Ace_Driver:_Victory_Lap	Ace Driver: Victory Lap	video game	https://strategywiki.org/wiki/Ace_Driver%3A_Victory_Lap	Q7889
 Ace_Golf	Ace Golf	video game	https://strategywiki.org/wiki/Ace_Golf	Q7889
@@ -150,7 +155,9 @@ Adventure_II	Adventure II	video game	https://strategywiki.org/wiki/Adventure_II	
 Adventure_II_(AtariAge)	Adventure II (AtariAge)	video game	https://strategywiki.org/wiki/Adventure_II_%28AtariAge%29	Q7889
 Adventure_Island	Adventure Island	video game	https://strategywiki.org/wiki/Adventure_Island	Q7889
 Adventure_Island_3	Adventure Island 3	video game	https://strategywiki.org/wiki/Adventure_Island_3	Q7889
+Adventure_Island_Classic	Adventure Island Classic	video game	https://strategywiki.org/wiki/Adventure_Island_Classic	Q7889
 Adventure_Island_II	Adventure Island II	video game	https://strategywiki.org/wiki/Adventure_Island_II	Q7889
+Adventure_Island_II:_Aliens_in_Paradise	Adventure Island II: Aliens in Paradise	video game	https://strategywiki.org/wiki/Adventure_Island_II%3A_Aliens_in_Paradise	Q7889
 Adventure_Island_Quest_by_Takahashi_Meijin	Adventure Island Quest by Takahashi Meijin	video game	https://strategywiki.org/wiki/Adventure_Island_Quest_by_Takahashi_Meijin	Q7889
 Adventure_of_Tokyo_Disney_Sea	Adventure of Tokyo Disney Sea	video game	https://strategywiki.org/wiki/Adventure_of_Tokyo_Disney_Sea	Q7889
 Adventure_of_Tokyo_Disney_Sea_(PlayStation_2)	Adventure of Tokyo Disney Sea (PlayStation 2)	video game	https://strategywiki.org/wiki/Adventure_of_Tokyo_Disney_Sea_%28PlayStation_2%29	Q7889
@@ -420,6 +427,8 @@ Arc_the_Lad_II	Arc the Lad II	video game	https://strategywiki.org/wiki/Arc_the_L
 Arc_the_Lad:_Kishin_Fukkatsu	Arc the Lad: Kishin Fukkatsu	video game	https://strategywiki.org/wiki/Arc_the_Lad%3A_Kishin_Fukkatsu	Q7889
 Arcade_Archives_10-Yard_Fight	Arcade Archives 10-Yard Fight	video game	https://strategywiki.org/wiki/Arcade_Archives_10-Yard_Fight	Q7889
 Arcade_Archives_64th_Street	Arcade Archives 64th Street	video game	https://strategywiki.org/wiki/Arcade_Archives_64th_Street	Q7889
+Arcade_Archives_Aero_Fighters	Arcade Archives Aero Fighters	video game	https://strategywiki.org/wiki/Arcade_Archives_Aero_Fighters	Q7889
+Arcade_Archives_Formation_Z	Arcade Archives Formation Z	video game	https://strategywiki.org/wiki/Arcade_Archives_Formation_Z	Q7889
 Arcade_Archives_Thunder_Ceptor_II	Arcade Archives Thunder Ceptor II	video game	https://strategywiki.org/wiki/Arcade_Archives_Thunder_Ceptor_II	Q7889
 Arcade_Classic_No._1:_Asteroids_/_Missile_Command	Arcade Classic No. 1: Asteroids / Missile Command	video game	https://strategywiki.org/wiki/Arcade_Classic_No._1%3A_Asteroids_/_Missile_Command	Q7889
 Arcade_Classic_No._2:_Centipede_/_Millipede	Arcade Classic No. 2: Centipede / Millipede	video game	https://strategywiki.org/wiki/Arcade_Classic_No._2%3A_Centipede_/_Millipede	Q7889
@@ -3401,6 +3410,7 @@ Harvest_Moon:_The_Winds_of_Anthos	Harvest Moon: The Winds of Anthos	video game	h
 Harvest_Moon:_Tree_of_Tranquility	Harvest Moon: Tree of Tranquility	video game	https://strategywiki.org/wiki/Harvest_Moon%3A_Tree_of_Tranquility	Q7889
 Harvestella	Harvestella	video game	https://strategywiki.org/wiki/Harvestella	Q7889
 Hat_Trick	Hat Trick	video game	https://strategywiki.org/wiki/Hat_Trick	Q7889
+Hat_Trick_Hero	Hat Trick Hero	video game	https://strategywiki.org/wiki/Hat_Trick_Hero	Q7889
 Hatsune_Miku_Logic_Paint_S	Hatsune Miku Logic Paint S	video game	https://strategywiki.org/wiki/Hatsune_Miku_Logic_Paint_S	Q7889
 Hatsune_Miku:_Project_DIVA_F	Hatsune Miku: Project DIVA F	video game	https://strategywiki.org/wiki/Hatsune_Miku%3A_Project_DIVA_F	Q7889
 Hatsune_Miku:_Project_DIVA_Mega_Mix	Hatsune Miku: Project DIVA Mega Mix	video game	https://strategywiki.org/wiki/Hatsune_Miku%3A_Project_DIVA_Mega_Mix	Q7889
@@ -4515,6 +4525,7 @@ Martian_Memorandum	Martian Memorandum	video game	https://strategywiki.org/wiki/M
 Marusa_no_Onna	Marusa no Onna	video game	https://strategywiki.org/wiki/Marusa_no_Onna	Q7889
 Marvel_Land	Marvel Land	video game	https://strategywiki.org/wiki/Marvel_Land	Q7889
 Marvel_Pinball_3D	Marvel Pinball 3D	video game	https://strategywiki.org/wiki/Marvel_Pinball_3D	Q7889
+Marvel_Super_Hero_Squad	Marvel Super Hero Squad	video game	https://strategywiki.org/wiki/Marvel_Super_Hero_Squad	Q7889
 Marvel_Super_Heroes	Marvel Super Heroes	video game	https://strategywiki.org/wiki/Marvel_Super_Heroes	Q7889
 Marvel_Super_Heroes_vs._Street_Fighter	Marvel Super Heroes vs. Street Fighter	video game	https://strategywiki.org/wiki/Marvel_Super_Heroes_vs._Street_Fighter	Q7889
 Marvel_Ultimate_Alliance_2	Marvel Ultimate Alliance 2	video game	https://strategywiki.org/wiki/Marvel_Ultimate_Alliance_2	Q7889
@@ -5471,6 +5482,7 @@ Onimusha_Tactics	Onimusha Tactics	video game	https://strategywiki.org/wiki/Onimu
 Onimusha:_Dawn_of_Dreams	Onimusha: Dawn of Dreams	video game	https://strategywiki.org/wiki/Onimusha%3A_Dawn_of_Dreams	Q7889
 Onimusha:_Warlords	Onimusha: Warlords	video game	https://strategywiki.org/wiki/Onimusha%3A_Warlords	Q7889
 Onna_Sanshirou_-_Typhoon_Gal	Onna Sanshirou - Typhoon Gal	video game	https://strategywiki.org/wiki/Onna_Sanshirou_-_Typhoon_Gal	Q7889
+Onore_no_Shinzuru_Michi_wo_Yuke	Onore no Shinzuru Michi wo Yuke	video game	https://strategywiki.org/wiki/Onore_no_Shinzuru_Michi_wo_Yuke	Q7889
 Onyanko_Town	Onyanko Town	video game	https://strategywiki.org/wiki/Onyanko_Town	Q7889
 Operation_C	Operation C	video game	https://strategywiki.org/wiki/Operation_C	Q7889
 Operation_Darkness	Operation Darkness	video game	https://strategywiki.org/wiki/Operation_Darkness	Q7889
@@ -5489,6 +5501,7 @@ Oretachi_Game_Center_Zoku_Sono_2:_Crazy_Climber	Oretachi Game Center Zoku Sono 2
 Oretachi_Game_Center_Zoku_Sono_4:_Time_Pilot	Oretachi Game Center Zoku Sono 4: Time Pilot	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku_Sono_4%3A_Time_Pilot	Q7889
 Oretachi_Game_Center_Zoku:_Burger_Time	Oretachi Game Center Zoku: Burger Time	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku%3A_Burger_Time	Q7889
 Oretachi_Game_Center_Zoku:_Karate_Dou	Oretachi Game Center Zoku: Karate Dou	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku%3A_Karate_Dou	Q7889
+Oretachi_Game_Center_Zoku:_Sonic_Wings	Oretachi Game Center Zoku: Sonic Wings	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku%3A_Sonic_Wings	Q7889
 Oretachi_Game_Center_Zoku:_Terra_Cresta	Oretachi Game Center Zoku: Terra Cresta	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku%3A_Terra_Cresta	Q7889
 Oretachi_Game_Center_Zoku:_Yie_Ar_Kung_Fu	Oretachi Game Center Zoku: Yie Ar Kung Fu	video game	https://strategywiki.org/wiki/Oretachi_Game_Center_Zoku%3A_Yie_Ar_Kung_Fu	Q7889
 Oretachi_Game_Center:_Pooyan	Oretachi Game Center: Pooyan	video game	https://strategywiki.org/wiki/Oretachi_Game_Center%3A_Pooyan	Q7889
@@ -6353,6 +6366,7 @@ River_City_Ransom	River City Ransom	video game	https://strategywiki.org/wiki/Riv
 River_City_Ransom_EX	River City Ransom EX	video game	https://strategywiki.org/wiki/River_City_Ransom_EX	Q7889
 River_City_Ransom:_Underground	River City Ransom: Underground	video game	https://strategywiki.org/wiki/River_City_Ransom%3A_Underground	Q7889
 River_City_Saga:_Three_Kingdoms	River City Saga: Three Kingdoms	video game	https://strategywiki.org/wiki/River_City_Saga%3A_Three_Kingdoms	Q7889
+River_City_Saga:_Three_Kingdoms_Next	River City Saga: Three Kingdoms Next	video game	https://strategywiki.org/wiki/River_City_Saga%3A_Three_Kingdoms_Next	Q7889
 River_City_Soccer_Hooligans	River City Soccer Hooligans	video game	https://strategywiki.org/wiki/River_City_Soccer_Hooligans	Q7889
 River_City_Super_Sports_Challenge	River City Super Sports Challenge	video game	https://strategywiki.org/wiki/River_City_Super_Sports_Challenge	Q7889
 River_City_Super_Sports_Challenge:_All_Stars_Special	River City Super Sports Challenge: All Stars Special	video game	https://strategywiki.org/wiki/River_City_Super_Sports_Challenge%3A_All_Stars_Special	Q7889
@@ -7832,7 +7846,7 @@ Swords_of_Chaos	Swords of Chaos	video game	https://strategywiki.org/wiki/Swords_
 Sylvan_Tale	Sylvan Tale	video game	https://strategywiki.org/wiki/Sylvan_Tale	Q7889
 Sylvester_&_Tweety:_Breakfast_on_the_Run	Sylvester & Tweety: Breakfast on the Run	video game	https://strategywiki.org/wiki/Sylvester_%26_Tweety%3A_Breakfast_on_the_Run	Q7889
 Sylvester_and_Tweety_in_Cagey_Capers	Sylvester and Tweety in Cagey Capers	video game	https://strategywiki.org/wiki/Sylvester_and_Tweety_in_Cagey_Capers	Q7889
-Sylviana:_Ai_Ippai_no_Boukensha	Sylviana: Ai Ippai no Boukensha	video game	https://strategywiki.org/wiki/Sylviana%3A_Ai_Ippai_no_Boukensha	Q7889
+Sylviana:_Ai_Ippai_no_Little_Angel	Sylviana: Ai Ippai no Little Angel	video game	https://strategywiki.org/wiki/Sylviana%3A_Ai_Ippai_no_Little_Angel	Q7889
 Syndicate	Syndicate	video game	https://strategywiki.org/wiki/Syndicate	Q7889
 Syndicate:_American_Revolt	Syndicate: American Revolt	video game	https://strategywiki.org/wiki/Syndicate%3A_American_Revolt	Q7889
 System_Shock	System Shock	video game	https://strategywiki.org/wiki/System_Shock	Q7889
@@ -8358,6 +8372,12 @@ The_Peace_Keepers	The Peace Keepers	video game	https://strategywiki.org/wiki/The
 The_Polar_Express	The Polar Express	video game	https://strategywiki.org/wiki/The_Polar_Express	Q7889
 The_Popeye_Collection	The Popeye Collection	video game	https://strategywiki.org/wiki/The_Popeye_Collection	Q7889
 The_Postman_Pat_Hit_Collection	The Postman Pat Hit Collection	video game	https://strategywiki.org/wiki/The_Postman_Pat_Hit_Collection	Q7889
+The_Powerpuff_Girls:_Bad_Mojo_Jojo	The Powerpuff Girls: Bad Mojo Jojo	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Bad_Mojo_Jojo	Q7889
+The_Powerpuff_Girls:_Battle_HIM	The Powerpuff Girls: Battle HIM	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Battle_HIM	Q7889
+The_Powerpuff_Girls:_Chemical_X-Traction	The Powerpuff Girls: Chemical X-Traction	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Chemical_X-Traction	Q7889
+The_Powerpuff_Girls:_Mojo_Jojo_A-Go-Go	The Powerpuff Girls: Mojo Jojo A-Go-Go	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Mojo_Jojo_A-Go-Go	Q7889
+The_Powerpuff_Girls:_Paint_the_Townsville_Green	The Powerpuff Girls: Paint the Townsville Green	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Paint_the_Townsville_Green	Q7889
+The_Powerpuff_Girls:_Relish_Rampage	The Powerpuff Girls: Relish Rampage	video game	https://strategywiki.org/wiki/The_Powerpuff_Girls%3A_Relish_Rampage	Q7889
 The_Princess_Guide	The Princess Guide	video game	https://strategywiki.org/wiki/The_Princess_Guide	Q7889
 The_Punisher_(1993)	The Punisher (1993)	video game	https://strategywiki.org/wiki/The_Punisher_%281993%29	Q7889
 The_Punisher_(2005)	The Punisher (2005)	video game	https://strategywiki.org/wiki/The_Punisher_%282005%29	Q7889
