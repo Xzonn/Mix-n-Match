@@ -30,7 +30,7 @@ def download():
       total = int(re.findall(r"([\d,]+)本のソフトデータ", text)[0].replace(",", ""))
       max_page = min(max_page, math.ceil(total / item_per_page))
       parser = BeautifulSoup(text, "html.parser")
-      body = parser.find(class_="contents-sort--schedule").parent
+      body = parser.find(class_="schedule-row").parent
       headings = body.find_all(class_="heading--base")
       rows = body.find_all(class_="schedule-row")
       for heading, row in zip(headings, rows):

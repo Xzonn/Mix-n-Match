@@ -102,10 +102,10 @@ def parse():
       "id": char_id,
       "q": "",
       "name": char_data["name"],
-      "desc": "male" if char_data["gender"] == "m" else ("female" if char_data["gender"] == "f" else ""),
+      "desc": "male" if char_data["sex"] == "m" else ("female" if char_data["sex"] == "f" else ""),
       "url": f"https://vndb.org/{char_id}",
       "type": "Q15632617",
-      "P21": "Q6581097" if char_data["gender"] == "m" else ("Q6581072" if char_data["gender"] == "f" else ""),
+      "P21": "Q6581097" if char_data["sex"] == "m" else ("Q6581072" if char_data["sex"] == "f" else ""),
     }
 
   results_list = sorted(results, key=lambda x: (results[x]["type"], results[x]["name"].lower(), int(results[x]["id"][1:])))
