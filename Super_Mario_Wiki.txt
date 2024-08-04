@@ -1,6 +1,8 @@
 id	name	desc	url	type
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
 2-in-1_Super_Mario_Bros./Duck_Hunt	2-in-1 Super Mario Bros./Duck Hunt	video game	https://www.mariowiki.com/2-in-1_Super_Mario_Bros./Duck_Hunt	Q7889
+3-in-1_Super_Mario_Bros./Duck_Hunt/Track_Meet	3-in-1 Super Mario Bros./Duck Hunt/Track Meet	video game	https://www.mariowiki.com/3-in-1_Super_Mario_Bros./Duck_Hunt/Track_Meet	Q7889
+3-in-1_Super_Mario_Bros./Tetris/Nintendo_World_Cup	3-in-1 Super Mario Bros./Tetris/Nintendo World Cup	video game	https://www.mariowiki.com/3-in-1_Super_Mario_Bros./Tetris/Nintendo_World_Cup	Q7889
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
 Ale_Pilar	Ale Pilar	human	https://www.mariowiki.com/Ale_Pilar	Q5
 Alejandra_Cazares	Alejandra Cazares	human	https://www.mariowiki.com/Alejandra_Cazares	Q5
@@ -133,6 +135,7 @@ Donkey_Kong_Country_Returns_3D	Donkey Kong Country Returns 3D	video game	https:/
 Donkey_Kong_Country_Returns_HD	Donkey Kong Country Returns HD	video game	https://www.mariowiki.com/Donkey_Kong_Country_Returns_HD	Q7889
 Donkey_Kong_Country:_Tropical_Freeze	Donkey Kong Country: Tropical Freeze	video game	https://www.mariowiki.com/Donkey_Kong_Country%3A_Tropical_Freeze	Q7889
 Donkey_Kong_Country:_Tropical_Freeze_(Nintendo_Switch)	Donkey Kong Country: Tropical Freeze (Nintendo Switch)	video game	https://www.mariowiki.com/Donkey_Kong_Country%3A_Tropical_Freeze_%28Nintendo_Switch%29	Q7889
+Donkey_Kong_GB:_Dinky_Kong_&_Dixie_Kong	Donkey Kong GB: Dinky Kong & Dixie Kong	video game	https://www.mariowiki.com/Donkey_Kong_GB%3A_Dinky_Kong_%26_Dixie_Kong	Q7889
 Donkey_Kong_Hockey	Donkey Kong Hockey	video game	https://www.mariowiki.com/Donkey_Kong_Hockey	Q7889
 Donkey_Kong_II	Donkey Kong II	video game	https://www.mariowiki.com/Donkey_Kong_II	Q7889
 Donkey_Kong_Jr._(Game_&_Watch)	Donkey Kong Jr. (Game & Watch)	video game	https://www.mariowiki.com/Donkey_Kong_Jr._%28Game_%26_Watch%29	Q7889
@@ -440,6 +443,7 @@ Mario_Super_Sluggers	Mario Super Sluggers	video game	https://www.mariowiki.com/M
 Mario_Superstar_Baseball	Mario Superstar Baseball	video game	https://www.mariowiki.com/Mario_Superstar_Baseball	Q7889
 Mario_Takes_America	Mario Takes America	video game	https://www.mariowiki.com/Mario_Takes_America	Q7889
 Mario_Teaches_Typing	Mario Teaches Typing	video game	https://www.mariowiki.com/Mario_Teaches_Typing	Q7889
+Mario_Teaches_Typing_(series)	Mario Teaches Typing (series)	video game series	https://www.mariowiki.com/Mario_Teaches_Typing_%28series%29	Q7058673
 Mario_Teaches_Typing_2	Mario Teaches Typing 2	video game	https://www.mariowiki.com/Mario_Teaches_Typing_2	Q7889
 Mario_Tennis_(Game_Boy_Color)	Mario Tennis (Game Boy Color)	video game	https://www.mariowiki.com/Mario_Tennis_%28Game_Boy_Color%29	Q7889
 Mario_Tennis_(Nintendo_64)	Mario Tennis (Nintendo 64)	video game	https://www.mariowiki.com/Mario_Tennis_%28Nintendo_64%29	Q7889
@@ -505,6 +509,7 @@ Monster_Games	Monster Games	company	https://www.mariowiki.com/Monster_Games	Q483
 Motoi_Sakuraba	Motoi Sakuraba	human	https://www.mariowiki.com/Motoi_Sakuraba	Q5
 Motoki_Takagi	Motoki Takagi	human	https://www.mariowiki.com/Motoki_Takagi	Q5
 Mun_Nam-suk	Mun Nam-suk	human	https://www.mariowiki.com/Mun_Nam-suk	Q5
+Mélanie_Angélie	Mélanie Angélie	human	https://www.mariowiki.com/M%C3%A9lanie_Ang%C3%A9lie	Q5
 Nagatanien	Nagatanien	company	https://www.mariowiki.com/Nagatanien	Q4830453
 Naoko_Mori	Naoko Mori	human	https://www.mariowiki.com/Naoko_Mori	Q5
 Nate_Bihldorff	Nate Bihldorff	human	https://www.mariowiki.com/Nate_Bihldorff	Q5
