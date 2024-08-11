@@ -186,6 +186,7 @@ Family_BASIC	Family BASIC	video game	https://www.mariowiki.com/Family_BASIC	Q788
 Fangamer	Fangamer	company	https://www.mariowiki.com/Fangamer	Q4830453
 Fiona_Shaw	Fiona Shaw	human	https://www.mariowiki.com/Fiona_Shaw	Q5
 First4Figures	First4Figures	company	https://www.mariowiki.com/First4Figures	Q4830453
+Forever_Entertainment	Forever Entertainment	company	https://www.mariowiki.com/Forever_Entertainment	Q4830453
 Fortune_Street	Fortune Street	video game	https://www.mariowiki.com/Fortune_Street	Q7889
 Frank_Welker	Frank Welker	human	https://www.mariowiki.com/Frank_Welker	Q5
 Fred_Armisen	Fred Armisen	human	https://www.mariowiki.com/Fred_Armisen	Q5
@@ -206,7 +207,6 @@ Gelato_Pique	Gelato Pique	company	https://www.mariowiki.com/Gelato_Pique	Q483045
 Giselle_Fernandez	Giselle Fernandez	human	https://www.mariowiki.com/Giselle_Fernandez	Q5
 Golf	Golf	video game	https://www.mariowiki.com/Golf	Q7889
 Golf_(Game_Boy)	Golf (Game Boy)	video game	https://www.mariowiki.com/Golf_%28Game_Boy%29	Q7889
-Golf_(series)	Golf (series)	video game series	https://www.mariowiki.com/Golf_%28series%29	Q7058673
 Golf:_Japan_Course	Golf: Japan Course	video game	https://www.mariowiki.com/Golf%3A_Japan_Course	Q7889
 Golf:_U.S._Course	Golf: U.S. Course	video game	https://www.mariowiki.com/Golf%3A_U.S._Course	Q7889
 Good-Feel	Good-Feel	company	https://www.mariowiki.com/Good-Feel	Q4830453
@@ -256,6 +256,7 @@ Jack_Black	Jack Black	human	https://www.mariowiki.com/Jack_Black	Q5
 Jakks_Pacific	Jakks Pacific	company	https://www.mariowiki.com/Jakks_Pacific	Q4830453
 James_Phillipsen	James Phillipsen	human	https://www.mariowiki.com/James_Phillipsen	Q5
 James_Rankin	James Rankin	human	https://www.mariowiki.com/James_Rankin	Q5
+Jean-Claude_Donda	Jean-Claude Donda	human	https://www.mariowiki.com/Jean-Claude_Donda	Q5
 Jeannie_Elias	Jeannie Elias	human	https://www.mariowiki.com/Jeannie_Elias	Q5
 Jen_Taylor	Jen Taylor	human	https://www.mariowiki.com/Jen_Taylor	Q5
 Jessica_Chisum	Jessica Chisum	human	https://www.mariowiki.com/Jessica_Chisum	Q5
@@ -272,6 +273,9 @@ Judy_Strangis	Judy Strangis	human	https://www.mariowiki.com/Judy_Strangis	Q5
 Julien_Bardakoff	Julien Bardakoff	human	https://www.mariowiki.com/Julien_Bardakoff	Q5
 Jupiter	Jupiter	company	https://www.mariowiki.com/Jupiter	Q4830453
 Just_Dance_(series)	Just Dance (series)	video game series	https://www.mariowiki.com/Just_Dance_%28series%29	Q7058673
+Just_Dance_2018	Just Dance 2018	video game	https://www.mariowiki.com/Just_Dance_2018	Q7889
+Just_Dance_3	Just Dance 3	video game	https://www.mariowiki.com/Just_Dance_3	Q7889
+Just_Dance_Wii	Just Dance Wii	video game	https://www.mariowiki.com/Just_Dance_Wii	Q7889
 Kaettekita_Mario_Bros.	Kaettekita Mario Bros.	video game	https://www.mariowiki.com/Kaettekita_Mario_Bros.	Q7889
 Kahoru_Sasajima	Kahoru Sasajima	human	https://www.mariowiki.com/Kahoru_Sasajima	Q5
 Kate_Fleming	Kate Fleming	human	https://www.mariowiki.com/Kate_Fleming	Q5
@@ -743,6 +747,7 @@ Tetris_DS	Tetris DS	video game	https://www.mariowiki.com/Tetris_DS	Q7889
 The_Legend_of_Zelda:_Link's_Awakening	The Legend of Zelda: Link's Awakening	video game	https://www.mariowiki.com/The_Legend_of_Zelda%3A_Link%27s_Awakening	Q7889
 The_Software_Toolworks	The Software Toolworks	company	https://www.mariowiki.com/The_Software_Toolworks	Q4830453
 Thomas_Spindler	Thomas Spindler	human	https://www.mariowiki.com/Thomas_Spindler	Q5
+Tim_Stamper	Tim Stamper	human	https://www.mariowiki.com/Tim_Stamper	Q5
 Toa_Yukinari	Toa Yukinari	human	https://www.mariowiki.com/Toa_Yukinari	Q5
 Todd_Haberkorn	Todd Haberkorn	human	https://www.mariowiki.com/Todd_Haberkorn	Q5
 Tomokazu_Seki	Tomokazu Seki	human	https://www.mariowiki.com/Tomokazu_Seki	Q5
