@@ -93,7 +93,6 @@ id	name	desc	url	type	P400
 43813	Last Light	Switch video game	https://www.famitsu.com/games/t/43813/	Q7889	Q19610114
 34679	Link： The Unleashed Nexus	PS4 video game	https://www.famitsu.com/games/t/34679/	Q7889	Q5014725
 50933	Little Kitty, Big City	2024 Switch video game	https://www.famitsu.com/games/t/50933/	Q7889	Q19610114
-50934	Little Kitty, Big City	2024 PC video game	https://www.famitsu.com/games/t/50934/	Q7889	Q1406
 51608	Little Kitty, Big City	2024 XSX video game	https://www.famitsu.com/games/t/51608/	Q7889	Q98973368
 51609	Little Kitty, Big City	2024 XOne video game	https://www.famitsu.com/games/t/51609/	Q7889	Q13361286
 46592	LOST EPIC	2024 PS5 video game	https://www.famitsu.com/games/t/46592/	Q7889	Q63184502
@@ -207,7 +206,6 @@ id	name	desc	url	type	P400
 56416	おうちでゴルフ練習 パターうまくな～る！	2024 Switch video game	https://www.famitsu.com/games/t/56416/	Q7889	Q19610114
 51490	きみのまち サンドロック	PS4 video game	https://www.famitsu.com/games/t/51490/	Q7889	Q5014725
 49237	つるぎ姫	2024 PC video game	https://www.famitsu.com/games/t/49237/	Q7889	Q1406
-54164	とうほう夜雀食堂	2024 Switch video game	https://www.famitsu.com/games/t/54164/	Q7889	Q19610114
 55163	のらねこものがたり ねこねこEdition	2024 Switch video game	https://www.famitsu.com/games/t/55163/	Q7889	Q19610114
 56347	のらねこものがたり2: お外は危ないよ	2024 Switch video game	https://www.famitsu.com/games/t/56347/	Q7889	Q19610114
 55434	はむぱふぇ ハムスターのスイーツパズル	2024 Switch video game	https://www.famitsu.com/games/t/55434/	Q7889	Q19610114
@@ -309,7 +307,6 @@ id	name	desc	url	type	P400
 32868	ファイナルファンタジー零式 オンライン	PC video game	https://www.famitsu.com/games/t/32868/	Q7889	Q1406
 56812	ファミコン探偵倶楽部 笑み男	2024 Switch video game	https://www.famitsu.com/games/t/56812/	Q7889	Q19610114
 50050	ファンタジーライフ i グルグルの竜と時をぬすむ少女	2024 Switch video game	https://www.famitsu.com/games/t/50050/	Q7889	Q19610114
-55433	フォーエバーブルー ルミナス	2024 Switch video game	https://www.famitsu.com/games/t/55433/	Q7889	Q19610114
 55556	フロントミッション セカンド：リメイク	2024 PS5 video game	https://www.famitsu.com/games/t/55556/	Q7889	Q63184502
 55557	フロントミッション セカンド：リメイク	2024 PS4 video game	https://www.famitsu.com/games/t/55557/	Q7889	Q5014725
 42427	ブラスターマスター ゼロ 3	PC video game	https://www.famitsu.com/games/t/42427/	Q7889	Q1406
