@@ -26,6 +26,7 @@ Arzest	Arzest	company	https://www.mariowiki.com/Arzest	Q4830453
 Asako_Kozuki	Asako Kozuki	human	https://www.mariowiki.com/Asako_Kozuki	Q5
 Ashley_Flannegan	Ashley Flannegan	human	https://www.mariowiki.com/Ashley_Flannegan	Q5
 Asuka_Hayazaki	Asuka Hayazaki	human	https://www.mariowiki.com/Asuka_Hayazaki	Q5
+Atari,_Inc.	Atari, Inc.	company	https://www.mariowiki.com/Atari%2C_Inc.	Q4830453
 Atsushi_Imaruoka	Atsushi Imaruoka	human	https://www.mariowiki.com/Atsushi_Imaruoka	Q5
 Atsushi_Masaki	Atsushi Masaki	human	https://www.mariowiki.com/Atsushi_Masaki	Q5
 Audrey_Sourdive	Audrey Sourdive	human	https://www.mariowiki.com/Audrey_Sourdive	Q5
@@ -104,6 +105,7 @@ Diddy_Kong_Pilot_(2003)	Diddy Kong Pilot (2003)	video game	https://www.mariowiki
 Diddy_Kong_Racing	Diddy Kong Racing	video game	https://www.mariowiki.com/Diddy_Kong_Racing	Q7889
 Diddy_Kong_Racing_Adventure	Diddy Kong Racing Adventure	video game	https://www.mariowiki.com/Diddy_Kong_Racing_Adventure	Q7889
 Diddy_Kong_Racing_DS	Diddy Kong Racing DS	video game	https://www.mariowiki.com/Diddy_Kong_Racing_DS	Q7889
+Dirk_Petrick	Dirk Petrick	human	https://www.mariowiki.com/Dirk_Petrick	Q5
 DK_(series)	DK (series)	video game series	https://www.mariowiki.com/DK_%28series%29	Q7058673
 DK:_Jungle_Climber	DK: Jungle Climber	video game	https://www.mariowiki.com/DK%3A_Jungle_Climber	Q7889
 DK:_King_of_Swing	DK: King of Swing	video game	https://www.mariowiki.com/DK%3A_King_of_Swing	Q7889
@@ -172,6 +174,7 @@ DSiWare	DSiWare	video game	https://www.mariowiki.com/DSiWare	Q7889
 Easy_Racer	Easy Racer	video game	https://www.mariowiki.com/Easy_Racer	Q7889
 Ed_Solomon	Ed Solomon	human	https://www.mariowiki.com/Ed_Solomon	Q5
 Edward_Bosco	Edward Bosco	human	https://www.mariowiki.com/Edward_Bosco	Q5
+Emiliano_Coltorti	Emiliano Coltorti	human	https://www.mariowiki.com/Emiliano_Coltorti	Q5
 Eric_Bauza	Eric Bauza	human	https://www.mariowiki.com/Eric_Bauza	Q5
 Eric_Newsome	Eric Newsome	human	https://www.mariowiki.com/Eric_Newsome	Q5
 Erica_Lindbeck	Erica Lindbeck	human	https://www.mariowiki.com/Erica_Lindbeck	Q5
@@ -191,12 +194,14 @@ First4Figures	First4Figures	company	https://www.mariowiki.com/First4Figures	Q483
 Forever_Entertainment	Forever Entertainment	company	https://www.mariowiki.com/Forever_Entertainment	Q4830453
 Fortune_Street	Fortune Street	video game	https://www.mariowiki.com/Fortune_Street	Q7889
 France_2	France 2	company	https://www.mariowiki.com/France_2	Q4830453
+Franco_Mannella	Franco Mannella	human	https://www.mariowiki.com/Franco_Mannella	Q5
 Frank_Welker	Frank Welker	human	https://www.mariowiki.com/Frank_Welker	Q5
 Fred_Armisen	Fred Armisen	human	https://www.mariowiki.com/Fred_Armisen	Q5
 Freiberger	Freiberger	company	https://www.mariowiki.com/Freiberger	Q4830453
 Fryda_Wolff	Fryda Wolff	human	https://www.mariowiki.com/Fryda_Wolff	Q5
 Fumihiro_Okabayashi	Fumihiro Okabayashi	human	https://www.mariowiki.com/Fumihiro_Okabayashi	Q5
 Game_&_Wario	Game & Wario	video game	https://www.mariowiki.com/Game_%26_Wario	Q7889
+Game_&_Watch_Collection	Game & Watch Collection	video game	https://www.mariowiki.com/Game_%26_Watch_Collection	Q7889
 Game_&_Watch_Gallery	Game & Watch Gallery	video game	https://www.mariowiki.com/Game_%26_Watch_Gallery	Q7889
 Game_&_Watch_Gallery_(series)	Game & Watch Gallery (series)	video game series	https://www.mariowiki.com/Game_%26_Watch_Gallery_%28series%29	Q7058673
 Game_&_Watch_Gallery_2	Game & Watch Gallery 2	video game	https://www.mariowiki.com/Game_%26_Watch_Gallery_2	Q7889
@@ -537,7 +542,6 @@ NES_Remix	NES Remix	video game	https://www.mariowiki.com/NES_Remix	Q7889
 NES_Remix_(series)	NES Remix (series)	video game series	https://www.mariowiki.com/NES_Remix_%28series%29	Q7058673
 NES_Remix_2	NES Remix 2	video game	https://www.mariowiki.com/NES_Remix_2	Q7889
 NES_Remix_Pack	NES Remix Pack	video game	https://www.mariowiki.com/NES_Remix_Pack	Q7889
-New_Play_Control!	New Play Control!	video game	https://www.mariowiki.com/New_Play_Control%21	Q7889
 New_Play_Control!_Donkey_Kong_Jungle_Beat	New Play Control! Donkey Kong Jungle Beat	video game	https://www.mariowiki.com/New_Play_Control%21_Donkey_Kong_Jungle_Beat	Q7889
 New_Super_Mario_Bros.	New Super Mario Bros.	video game	https://www.mariowiki.com/New_Super_Mario_Bros.	Q7889
 New_Super_Mario_Bros._2	New Super Mario Bros. 2	video game	https://www.mariowiki.com/New_Super_Mario_Bros._2	Q7889
@@ -551,13 +555,10 @@ Nicole_Eggert	Nicole Eggert	human	https://www.mariowiki.com/Nicole_Eggert	Q5
 Nicole_Mills	Nicole Mills	human	https://www.mariowiki.com/Nicole_Mills	Q5
 Nintendo	Nintendo	company	https://www.mariowiki.com/Nintendo	Q4830453
 Nintendo_Badge_Arcade	Nintendo Badge Arcade	video game	https://www.mariowiki.com/Nintendo_Badge_Arcade	Q7889
-Nintendo_Classics	Nintendo Classics	video game	https://www.mariowiki.com/Nintendo_Classics	Q7889
 Nintendo_Cube	Nintendo Cube	company	https://www.mariowiki.com/Nintendo_Cube	Q4830453
 Nintendo_Land	Nintendo Land	video game	https://www.mariowiki.com/Nintendo_Land	Q7889
 Nintendo_PowerFest_'94	Nintendo PowerFest '94	video game	https://www.mariowiki.com/Nintendo_PowerFest_%2794	Q7889
 Nintendo_Puzzle_Collection	Nintendo Puzzle Collection	video game	https://www.mariowiki.com/Nintendo_Puzzle_Collection	Q7889
-Nintendo_Selects	Nintendo Selects	video game	https://www.mariowiki.com/Nintendo_Selects	Q7889
-Nintendo_World_Championships	Nintendo World Championships	video game	https://www.mariowiki.com/Nintendo_World_Championships	Q7889
 Nintendo_World_Championships_1990	Nintendo World Championships 1990	video game	https://www.mariowiki.com/Nintendo_World_Championships_1990	Q7889
 Nintendo_World_Championships:_NES_Edition	Nintendo World Championships: NES Edition	video game	https://www.mariowiki.com/Nintendo_World_Championships%3A_NES_Edition	Q7889
 Nobuyuki_Hiyama	Nobuyuki Hiyama	human	https://www.mariowiki.com/Nobuyuki_Hiyama	Q5
@@ -699,7 +700,6 @@ Super_Mario_Bros._Print_World	Super Mario Bros. Print World	video game	https://w
 Super_Mario_Bros._Special	Super Mario Bros. Special	video game	https://www.mariowiki.com/Super_Mario_Bros._Special	Q7889
 Super_Mario_Bros._Wonder	Super Mario Bros. Wonder	video game	https://www.mariowiki.com/Super_Mario_Bros._Wonder	Q7889
 Super_Mario_Bros.:_The_Lost_Levels	Super Mario Bros.: The Lost Levels	video game	https://www.mariowiki.com/Super_Mario_Bros.%3A_The_Lost_Levels	Q7889
-Super_Mario_Club_(Famicom_Network_System)	Super Mario Club (Famicom Network System)	video game	https://www.mariowiki.com/Super_Mario_Club_%28Famicom_Network_System%29	Q7889
 Super_Mario_Collection_Screen_Saver	Super Mario Collection Screen Saver	video game	https://www.mariowiki.com/Super_Mario_Collection_Screen_Saver	Q7889
 Super_Mario_Fushigi_no_Janjan_Land	Super Mario Fushigi no Janjan Land	video game	https://www.mariowiki.com/Super_Mario_Fushigi_no_Janjan_Land	Q7889
 Super_Mario_Fushigi_no_Korokoro_Party	Super Mario Fushigi no Korokoro Party	video game	https://www.mariowiki.com/Super_Mario_Fushigi_no_Korokoro_Party	Q7889
