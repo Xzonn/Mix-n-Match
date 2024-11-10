@@ -70,6 +70,7 @@ Chad_York	Chad York	human	https://www.mariowiki.com/Chad_York	Q5
 Charles_Martinet	Charles Martinet	human	https://www.mariowiki.com/Charles_Martinet	Q5
 Charlie_Day	Charlie Day	human	https://www.mariowiki.com/Charlie_Day	Q5
 Chisa_Yuuki	Chisa Yuuki	human	https://www.mariowiki.com/Chisa_Yuuki	Q5
+Choi_Seok-pil	Choi Seok-pil	human	https://www.mariowiki.com/Choi_Seok-pil	Q5
 Chris_Meledandri	Chris Meledandri	human	https://www.mariowiki.com/Chris_Meledandri	Q5
 Chris_Pratt	Chris Pratt	human	https://www.mariowiki.com/Chris_Pratt	Q5
 Chris_Sutherland	Chris Sutherland	human	https://www.mariowiki.com/Chris_Sutherland	Q5
@@ -267,6 +268,7 @@ Hostess	Hostess	company	https://www.mariowiki.com/Hostess	Q4830453
 Hotel_Mario	Hotel Mario	video game	https://www.mariowiki.com/Hotel_Mario	Q7889
 Howard_Phillips	Howard Phillips	human	https://www.mariowiki.com/Howard_Phillips	Q5
 Hudson_Soft	Hudson Soft	company	https://www.mariowiki.com/Hudson_Soft	Q4830453
+Hwang_Chang-yeong	Hwang Chang-yeong	human	https://www.mariowiki.com/Hwang_Chang-yeong	Q5
 I_am_a_teacher:_Super_Mario_Sweater	I am a teacher: Super Mario Sweater	video game	https://www.mariowiki.com/I_am_a_teacher%3A_Super_Mario_Sweater	Q7889
 Ian_James_Corlett	Ian James Corlett	human	https://www.mariowiki.com/Ian_James_Corlett	Q5
 Ichiro_Shimakura	Ichiro Shimakura	human	https://www.mariowiki.com/Ichiro_Shimakura	Q5
@@ -406,7 +408,6 @@ Mario_Artist:_Communication_Kit	Mario Artist: Communication Kit	video game	https
 Mario_Artist:_Paint_Studio	Mario Artist: Paint Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Paint_Studio	Q7889
 Mario_Artist:_Polygon_Studio	Mario Artist: Polygon Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Polygon_Studio	Q7889
 Mario_Artist:_Talent_Studio	Mario Artist: Talent Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Talent_Studio	Q7889
-Mario_Baseball_(series)	Mario Baseball (series)	video game series	https://www.mariowiki.com/Mario_Baseball_%28series%29	Q7058673
 Mario_Bros._(Game_&_Watch)	Mario Bros. (Game & Watch)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_%26_Watch%29	Q7889
 Mario_Bros._(game)	Mario Bros. (game)	video game	https://www.mariowiki.com/Mario_Bros._%28game%29	Q7889
 Mario_Bros._(series)	Mario Bros. (series)	video game series	https://www.mariowiki.com/Mario_Bros._%28series%29	Q7058673
@@ -415,7 +416,7 @@ Mario_Bros._Special	Mario Bros. Special	video game	https://www.mariowiki.com/Mar
 Mario_Calculator	Mario Calculator	video game	https://www.mariowiki.com/Mario_Calculator	Q7889
 Mario_Clash	Mario Clash	video game	https://www.mariowiki.com/Mario_Clash	Q7889
 Mario_Clock	Mario Clock	video game	https://www.mariowiki.com/Mario_Clock	Q7889
-Mario_Discovery_(series)	Mario Discovery (series)	video game series	https://www.mariowiki.com/Mario_Discovery_%28series%29	Q7058673
+Mario_Discovery_Series	Mario Discovery Series	video game series	https://www.mariowiki.com/Mario_Discovery_Series	Q7058673
 Mario_Family	Mario Family	video game	https://www.mariowiki.com/Mario_Family	Q7889
 Mario_Golf_(Game_Boy_Color)	Mario Golf (Game Boy Color)	video game	https://www.mariowiki.com/Mario_Golf_%28Game_Boy_Color%29	Q7889
 Mario_Golf_(Nintendo_64)	Mario Golf (Nintendo 64)	video game	https://www.mariowiki.com/Mario_Golf_%28Nintendo_64%29	Q7889
@@ -612,6 +613,7 @@ Princess_Toadstool's_Castle_Run	Princess Toadstool's Castle Run	video game	https
 Punch_Ball_Mario_Bros.	Punch Ball Mario Bros.	video game	https://www.mariowiki.com/Punch_Ball_Mario_Bros.	Q7889
 Punch-Out!!_(Wii)	Punch-Out!! (Wii)	video game	https://www.mariowiki.com/Punch-Out%21%21_%28Wii%29	Q7889
 Puzzle_&_Dragons:_Super_Mario_Bros._Edition	Puzzle & Dragons: Super Mario Bros. Edition	video game	https://www.mariowiki.com/Puzzle_%26_Dragons%3A_Super_Mario_Bros._Edition	Q7889
+Pétros_Damulís	Pétros Damulís	human	https://www.mariowiki.com/P%C3%A9tros_Damul%C3%ADs	Q5
 Racjin	Racjin	company	https://www.mariowiki.com/Racjin	Q4830453
 Radical_Entertainment	Radical Entertainment	company	https://www.mariowiki.com/Radical_Entertainment	Q4830453
 Rafa_Romero	Rafa Romero	human	https://www.mariowiki.com/Rafa_Romero	Q5
@@ -743,6 +745,7 @@ Super_Mario_RPG_(Nintendo_Switch)	Super Mario RPG (Nintendo Switch)	video game	h
 Super_Mario_RPG:_Legend_of_the_Seven_Stars	Super Mario RPG: Legend of the Seven Stars	video game	https://www.mariowiki.com/Super_Mario_RPG%3A_Legend_of_the_Seven_Stars	Q7889
 Super_Mario_Run	Super Mario Run	video game	https://www.mariowiki.com/Super_Mario_Run	Q7889
 Super_Mario_Spikers	Super Mario Spikers	video game	https://www.mariowiki.com/Super_Mario_Spikers	Q7889
+Super_Mario_Stadium_(series)	Super Mario Stadium (series)	video game series	https://www.mariowiki.com/Super_Mario_Stadium_%28series%29	Q7058673
 Super_Mario_Strikers	Super Mario Strikers	video game	https://www.mariowiki.com/Super_Mario_Strikers	Q7889
 Super_Mario_Sunshine	Super Mario Sunshine	video game	https://www.mariowiki.com/Super_Mario_Sunshine	Q7889
 Super_Mario_World	Super Mario World	video game	https://www.mariowiki.com/Super_Mario_World	Q7889
