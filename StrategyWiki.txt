@@ -1255,6 +1255,7 @@ Car_Hunt	Car Hunt	video game	https://strategywiki.org/wiki/Car_Hunt	Q7889
 Caravan_Shooting_Collection	Caravan Shooting Collection	video game	https://strategywiki.org/wiki/Caravan_Shooting_Collection	Q7889
 Card_Shark	Card Shark	video game	https://strategywiki.org/wiki/Card_Shark	Q7889
 Carmageddon	Carmageddon	video game	https://strategywiki.org/wiki/Carmageddon	Q7889
+Carmageddon_Splat_Pack	Carmageddon Splat Pack	video game	https://strategywiki.org/wiki/Carmageddon_Splat_Pack	Q7889
 Carmen_Sandiego	Carmen Sandiego	video game	https://strategywiki.org/wiki/Carmen_Sandiego	Q7889
 Carnival	Carnival	video game	https://strategywiki.org/wiki/Carnival	Q7889
 Carnival_Funfair_Games	Carnival Funfair Games	video game	https://strategywiki.org/wiki/Carnival_Funfair_Games	Q7889
@@ -1352,7 +1353,6 @@ Chaos;Child	Chaos;Child	video game	https://strategywiki.org/wiki/Chaos%3BChild	Q
 Chase	Chase	video game	https://strategywiki.org/wiki/Chase	Q7889
 Chase_H.Q.	Chase H.Q.	video game	https://strategywiki.org/wiki/Chase_H.Q.	Q7889
 Chase_H.Q._Plus_S.C.I.	Chase H.Q. Plus S.C.I.	video game	https://strategywiki.org/wiki/Chase_H.Q._Plus_S.C.I.	Q7889
-Chasing_Wind:_Quest_for_the_Crown	Chasing Wind: Quest for the Crown	video game	https://strategywiki.org/wiki/Chasing_Wind%3A_Quest_for_the_Crown	Q7889
 Checkmate	Checkmate	video game	https://strategywiki.org/wiki/Checkmate	Q7889
 Cheese_Cat-Astrophe_Starring_Speedy_Gonzales	Cheese Cat-Astrophe Starring Speedy Gonzales	video game	https://strategywiki.org/wiki/Cheese_Cat-Astrophe_Starring_Speedy_Gonzales	Q7889
 Chefrens_Pyramid	Chefrens Pyramid	video game	https://strategywiki.org/wiki/Chefrens_Pyramid	Q7889
@@ -2608,6 +2608,7 @@ Fantasy_Zone_(Sega_Game_Gear)	Fantasy Zone (Sega Game Gear)	video game	https://s
 Fantasy_Zone_II:_The_Tears_of_Opa-Opa	Fantasy Zone II: The Tears of Opa-Opa	video game	https://strategywiki.org/wiki/Fantasy_Zone_II%3A_The_Tears_of_Opa-Opa	Q7889
 Fantasy_Zone:_The_Maze	Fantasy Zone: The Maze	video game	https://strategywiki.org/wiki/Fantasy_Zone%3A_The_Maze	Q7889
 Far_Cry	Far Cry	video game	https://strategywiki.org/wiki/Far_Cry	Q7889
+Far_Cry_3	Far Cry 3	video game	https://strategywiki.org/wiki/Far_Cry_3	Q7889
 Far_Cry_New_Dawn	Far Cry New Dawn	video game	https://strategywiki.org/wiki/Far_Cry_New_Dawn	Q7889
 Far_Cry_Vengeance	Far Cry Vengeance	video game	https://strategywiki.org/wiki/Far_Cry_Vengeance	Q7889
 Faria	Faria	video game	https://strategywiki.org/wiki/Faria	Q7889
@@ -8278,6 +8279,7 @@ The_Elder_Scrolls_V:_Skyrim	The Elder Scrolls V: Skyrim	video game	https://strat
 The_Elder_Scrolls:_Arena	The Elder Scrolls: Arena	video game	https://strategywiki.org/wiki/The_Elder_Scrolls%3A_Arena	Q7889
 The_Electric_Yo-Yo	The Electric Yo-Yo	video game	https://strategywiki.org/wiki/The_Electric_Yo-Yo	Q7889
 The_Empire_Strikes_Back	The Empire Strikes Back	video game	https://strategywiki.org/wiki/The_Empire_Strikes_Back	Q7889
+The_Enjenir	The Enjenir	video game	https://strategywiki.org/wiki/The_Enjenir	Q7889
 The_Entropy_Centre	The Entropy Centre	video game	https://strategywiki.org/wiki/The_Entropy_Centre	Q7889
 The_Eye_of_Typhoon	The Eye of Typhoon	video game	https://strategywiki.org/wiki/The_Eye_of_Typhoon	Q7889
 The_Fairyland_Story	The Fairyland Story	video game	https://strategywiki.org/wiki/The_Fairyland_Story	Q7889
