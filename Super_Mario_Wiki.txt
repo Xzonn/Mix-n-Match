@@ -1,9 +1,6 @@
 id	name	desc	url	type
 1-Up_Hunt!	1-Up Hunt!	video game	https://www.mariowiki.com/1-Up_Hunt%21	Q7889
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
-2-in-1_Super_Mario_Bros./Duck_Hunt	2-in-1 Super Mario Bros./Duck Hunt	video game	https://www.mariowiki.com/2-in-1_Super_Mario_Bros./Duck_Hunt	Q7889
-3-in-1_Super_Mario_Bros./Duck_Hunt/Track_Meet	3-in-1 Super Mario Bros./Duck Hunt/Track Meet	video game	https://www.mariowiki.com/3-in-1_Super_Mario_Bros./Duck_Hunt/Track_Meet	Q7889
-3-in-1_Super_Mario_Bros./Tetris/Nintendo_World_Cup	3-in-1 Super Mario Bros./Tetris/Nintendo World Cup	video game	https://www.mariowiki.com/3-in-1_Super_Mario_Bros./Tetris/Nintendo_World_Cup	Q7889
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
 Acquire	Acquire	company	https://www.mariowiki.com/Acquire	Q4830453
 Aiko_Okubo	Aiko Okubo	human	https://www.mariowiki.com/Aiko_Okubo	Q5
@@ -352,6 +349,7 @@ Lani_Minella	Lani Minella	human	https://www.mariowiki.com/Lani_Minella	Q5
 Laura_Faye_Smith	Laura Faye Smith	human	https://www.mariowiki.com/Laura_Faye_Smith	Q5
 Lawrence_Schwedler	Lawrence Schwedler	human	https://www.mariowiki.com/Lawrence_Schwedler	Q5
 LEGO_Super_Mario_Goal	LEGO Super Mario Goal	video game	https://www.mariowiki.com/LEGO_Super_Mario_Goal	Q7889
+LEGO_Super_Mario_Jigsaw_Puzzle	LEGO Super Mario Jigsaw Puzzle	video game	https://www.mariowiki.com/LEGO_Super_Mario_Jigsaw_Puzzle	Q7889
 Leif_Peng	Leif Peng	human	https://www.mariowiki.com/Leif_Peng	Q5
 Leigh_Loveday	Leigh Loveday	human	https://www.mariowiki.com/Leigh_Loveday	Q5
 Len_Carlson	Len Carlson	human	https://www.mariowiki.com/Len_Carlson	Q5
@@ -543,7 +541,6 @@ Miguel_Ángel_Ruiz	Miguel Ángel Ruiz	human	https://www.mariowiki.com/Miguel_%C3
 Mike_Vaughn	Mike Vaughn	human	https://www.mariowiki.com/Mike_Vaughn	Q5
 Milton_Supman	Milton Supman	human	https://www.mariowiki.com/Milton_Supman	Q5
 Minako_Hamano	Minako Hamano	human	https://www.mariowiki.com/Minako_Hamano	Q5
-Mindscape	Mindscape	company	https://www.mariowiki.com/Mindscape	Q4830453
 Minecraft	Minecraft	video game	https://www.mariowiki.com/Minecraft	Q7889
 Mini_Mario_&_Friends:_amiibo_Challenge	Mini Mario & Friends: amiibo Challenge	video game	https://www.mariowiki.com/Mini_Mario_%26_Friends%3A_amiibo_Challenge	Q7889
 Minion_Quest:_The_Search_for_Bowser	Minion Quest: The Search for Bowser	video game	https://www.mariowiki.com/Minion_Quest%3A_The_Search_for_Bowser	Q7889
@@ -792,7 +789,6 @@ Tetris_Attack	Tetris Attack	video game	https://www.mariowiki.com/Tetris_Attack	Q
 Tetris_DS	Tetris DS	video game	https://www.mariowiki.com/Tetris_DS	Q7889
 Tetris_DS_Puzzle_Mode	Tetris DS Puzzle Mode	video game	https://www.mariowiki.com/Tetris_DS_Puzzle_Mode	Q7889
 The_Legend_of_Zelda:_Link's_Awakening	The Legend of Zelda: Link's Awakening	video game	https://www.mariowiki.com/The_Legend_of_Zelda%3A_Link%27s_Awakening	Q7889
-The_Software_Toolworks	The Software Toolworks	company	https://www.mariowiki.com/The_Software_Toolworks	Q4830453
 Thomas_Spindler	Thomas Spindler	human	https://www.mariowiki.com/Thomas_Spindler	Q5
 Toa_Yukinari	Toa Yukinari	human	https://www.mariowiki.com/Toa_Yukinari	Q5
 Todd_Haberkorn	Todd Haberkorn	human	https://www.mariowiki.com/Todd_Haberkorn	Q5
