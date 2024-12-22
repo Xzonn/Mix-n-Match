@@ -3,6 +3,7 @@ id	name	desc	url	type
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
 Acquire	Acquire	company	https://www.mariowiki.com/Acquire	Q4830453
+Aeon	Aeon	company	https://www.mariowiki.com/Aeon	Q4830453
 Aiko_Okubo	Aiko Okubo	human	https://www.mariowiki.com/Aiko_Okubo	Q5
 Ale_Pilar	Ale Pilar	human	https://www.mariowiki.com/Ale_Pilar	Q5
 Alejandra_Cazares	Alejandra Cazares	human	https://www.mariowiki.com/Alejandra_Cazares	Q5
@@ -46,6 +47,7 @@ Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
 BlackMilk_Clothing	BlackMilk Clothing	company	https://www.mariowiki.com/BlackMilk_Clothing	Q4830453
 Bob_Hoskins	Bob Hoskins	human	https://www.mariowiki.com/Bob_Hoskins	Q5
+Bomb_Desktop_Buddy	Bomb Desktop Buddy	video game	https://www.mariowiki.com/Bomb_Desktop_Buddy	Q7889
 Bowser_Jr.'s_Journey	Bowser Jr.'s Journey	video game	https://www.mariowiki.com/Bowser_Jr.%27s_Journey	Q7889
 Bowser's_Fury	Bowser's Fury	video game	https://www.mariowiki.com/Bowser%27s_Fury	Q7889
 Brian_A._Rice,_Inc.	Brian A. Rice, Inc.	company	https://www.mariowiki.com/Brian_A._Rice%2C_Inc.	Q4830453
@@ -549,6 +551,7 @@ Milton_Supman	Milton Supman	human	https://www.mariowiki.com/Milton_Supman	Q5
 Minako_Hamano	Minako Hamano	human	https://www.mariowiki.com/Minako_Hamano	Q5
 Minecraft	Minecraft	video game	https://www.mariowiki.com/Minecraft	Q7889
 Mini_Mario_&_Friends:_amiibo_Challenge	Mini Mario & Friends: amiibo Challenge	video game	https://www.mariowiki.com/Mini_Mario_%26_Friends%3A_amiibo_Challenge	Q7889
+Mini_Mario_Desktop_Buddy	Mini Mario Desktop Buddy	video game	https://www.mariowiki.com/Mini_Mario_Desktop_Buddy	Q7889
 Minion_Quest:_The_Search_for_Bowser	Minion Quest: The Search for Bowser	video game	https://www.mariowiki.com/Minion_Quest%3A_The_Search_for_Bowser	Q7889
 Mitsuaki_Kanuka	Mitsuaki Kanuka	human	https://www.mariowiki.com/Mitsuaki_Kanuka	Q5
 Miyuki	Miyuki	human	https://www.mariowiki.com/Miyuki	Q5
@@ -824,7 +827,6 @@ Ubisoft	Ubisoft	company	https://www.mariowiki.com/Ubisoft	Q4830453
 Ultimate_NES_Remix	Ultimate NES Remix	video game	https://www.mariowiki.com/Ultimate_NES_Remix	Q7889
 UNDAKE30_Same_Game	UNDAKE30 Same Game	video game	https://www.mariowiki.com/UNDAKE30_Same_Game	Q7889
 Universal_Pictures	Universal Pictures	company	https://www.mariowiki.com/Universal_Pictures	Q4830453
-Unnamed_Worlds_A-C_human	Unnamed Worlds A-C human	human	https://www.mariowiki.com/Unnamed_Worlds_A-C_human	Q5
 Valiant_Comics	Valiant Comics	company	https://www.mariowiki.com/Valiant_Comics	Q4830453
 VB_Mario_Land	VB Mario Land	video game	https://www.mariowiki.com/VB_Mario_Land	Q7889
 Vegas_Trip	Vegas Trip	human	https://www.mariowiki.com/Vegas_Trip	Q5
