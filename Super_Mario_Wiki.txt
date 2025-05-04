@@ -3,6 +3,7 @@ id	name	desc	url	type
 1-UP_Studio	1-UP Studio	company	https://www.mariowiki.com/1-UP_Studio	Q4830453
 2_Mario_Bros._PINBALL_GAMES_&_2_Donkey_Kong_PINBALL_GAMES	2 Mario Bros. PINBALL GAMES & 2 Donkey Kong PINBALL GAMES	video game	https://www.mariowiki.com/2_Mario_Bros._PINBALL_GAMES_%26_2_Donkey_Kong_PINBALL_GAMES	Q7889
 2_Mario_Bros._WATER_GAMES_&_2_Donkey_Kong_WATER_GAMES	2 Mario Bros. WATER GAMES & 2 Donkey Kong WATER GAMES	video game	https://www.mariowiki.com/2_Mario_Bros._WATER_GAMES_%26_2_Donkey_Kong_WATER_GAMES	Q7889
+25th_Anniversary_SUPER_MARIO_BROS.	25th Anniversary SUPER MARIO BROS.	video game	https://www.mariowiki.com/25th_Anniversary_SUPER_MARIO_BROS.	Q7889
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
 Acquire	Acquire	company	https://www.mariowiki.com/Acquire	Q4830453
 Action_Yoshi-2	Action Yoshi-2	video game	https://www.mariowiki.com/Action_Yoshi-2	Q7889
@@ -190,6 +191,7 @@ Donkey_Kong_Land_(series)	Donkey Kong Land (series)	video game series	https://ww
 Donkey_Kong_Land_2	Donkey Kong Land 2	video game	https://www.mariowiki.com/Donkey_Kong_Land_2	Q7889
 Donkey_Kong_Land_III	Donkey Kong Land III	video game	https://www.mariowiki.com/Donkey_Kong_Land_III	Q7889
 Donkey_Kong_no_Ongaku_Asobi	Donkey Kong no Ongaku Asobi	video game	https://www.mariowiki.com/Donkey_Kong_no_Ongaku_Asobi	Q7889
+Donkey_Kong_Original_Edition	Donkey Kong Original Edition	video game	https://www.mariowiki.com/Donkey_Kong_Original_Edition	Q7889
 Donkey_Kong_Racing	Donkey Kong Racing	video game	https://www.mariowiki.com/Donkey_Kong_Racing	Q7889
 Donkey_Kong,_Donkey_Kong_Junior,_Mario_Bros.	Donkey Kong, Donkey Kong Junior, Mario Bros.	video game	https://www.mariowiki.com/Donkey_Kong%2C_Donkey_Kong_Junior%2C_Mario_Bros.	Q7889
 Donkey_Kong:_Banana_Kingdom	Donkey Kong: Banana Kingdom	video game	https://www.mariowiki.com/Donkey_Kong%3A_Banana_Kingdom	Q7889
@@ -301,6 +303,7 @@ Hana_Takeda	Hana Takeda	human	https://www.mariowiki.com/Hana_Takeda	Q5
 Hanabira_Game	Hanabira Game	video game	https://www.mariowiki.com/Hanabira_Game	Q7889
 Harry_Blackstone_Jr.	Harry Blackstone Jr.	human	https://www.mariowiki.com/Harry_Blackstone_Jr.	Q5
 Heads-Up	Heads-Up	video game	https://www.mariowiki.com/Heads-Up	Q7889
+Hervé_Grull	Hervé Grull	human	https://www.mariowiki.com/Herv%C3%A9_Grull	Q5
 Hetchara_Ban	Hetchara Ban	video game	https://www.mariowiki.com/Hetchara_Ban	Q7889
 Hetchara_Ban_DX	Hetchara Ban DX	video game	https://www.mariowiki.com/Hetchara_Ban_DX	Q7889
 Hidechan	Hidechan	human	https://www.mariowiki.com/Hidechan	Q5
@@ -486,6 +489,7 @@ Mario_Clash	Mario Clash	video game	https://www.mariowiki.com/Mario_Clash	Q7889
 Mario_Clock	Mario Clock	video game	https://www.mariowiki.com/Mario_Clock	Q7889
 Mario_Coinage	Mario Coinage	video game	https://www.mariowiki.com/Mario_Coinage	Q7889
 Mario_Discovery_Series	Mario Discovery Series	video game series	https://www.mariowiki.com/Mario_Discovery_Series	Q7058673
+Mario_Factory	Mario Factory	video game	https://www.mariowiki.com/Mario_Factory	Q7889
 Mario_Family	Mario Family	video game	https://www.mariowiki.com/Mario_Family	Q7889
 Mario_Golf_(Game_Boy_Color)	Mario Golf (Game Boy Color)	video game	https://www.mariowiki.com/Mario_Golf_%28Game_Boy_Color%29	Q7889
 Mario_Golf_(Nintendo_64)	Mario Golf (Nintendo 64)	video game	https://www.mariowiki.com/Mario_Golf_%28Nintendo_64%29	Q7889
@@ -671,6 +675,7 @@ Nintendo_Puzzle_Collection	Nintendo Puzzle Collection	video game	https://www.mar
 Nintendo_World_Championships_1990	Nintendo World Championships 1990	video game	https://www.mariowiki.com/Nintendo_World_Championships_1990	Q7889
 Nintendo_World_Championships:_NES_Edition	Nintendo World Championships: NES Edition	video game	https://www.mariowiki.com/Nintendo_World_Championships%3A_NES_Edition	Q7889
 Nobuyuki_Hiyama	Nobuyuki Hiyama	human	https://www.mariowiki.com/Nobuyuki_Hiyama	Q5
+Noisycroak	Noisycroak	company	https://www.mariowiki.com/Noisycroak	Q4830453
 Noritake	Noritake	human	https://www.mariowiki.com/Noritake	Q5
 NovaLogic	NovaLogic	company	https://www.mariowiki.com/NovaLogic	Q4830453
 Oliviero_Corbetta	Oliviero Corbetta	human	https://www.mariowiki.com/Oliviero_Corbetta	Q5
@@ -809,6 +814,7 @@ Super_Mario_3D_Land	Super Mario 3D Land	video game	https://www.mariowiki.com/Sup
 Super_Mario_3D_World	Super Mario 3D World	video game	https://www.mariowiki.com/Super_Mario_3D_World	Q7889
 Super_Mario_3D_World_+_Bowser's_Fury	Super Mario 3D World + Bowser's Fury	video game	https://www.mariowiki.com/Super_Mario_3D_World_%2B_Bowser%27s_Fury	Q7889
 Super_Mario_64	Super Mario 64	video game	https://www.mariowiki.com/Super_Mario_64	Q7889
+Super_Mario_64_(Petit_Maze)	Super Mario 64 (Petit Maze)	video game	https://www.mariowiki.com/Super_Mario_64_%28Petit_Maze%29	Q7889
 Super_Mario_64_(slot_machine)	Super Mario 64 (slot machine)	video game	https://www.mariowiki.com/Super_Mario_64_%28slot_machine%29	Q7889
 Super_Mario_64_DS	Super Mario 64 DS	video game	https://www.mariowiki.com/Super_Mario_64_DS	Q7889
 Super_Mario_Advance	Super Mario Advance	video game	https://www.mariowiki.com/Super_Mario_Advance	Q7889
