@@ -80,6 +80,7 @@ Captain_Toad:_Treasure_Tracker	Captain Toad: Treasure Tracker	video game	https:/
 Captain_Toad:_Treasure_Tracker_(Nintendo_Switch_/_Nintendo_3DS)	Captain Toad: Treasure Tracker (Nintendo Switch / Nintendo 3DS)	video game	https://www.mariowiki.com/Captain_Toad%3A_Treasure_Tracker_%28Nintendo_Switch_/_Nintendo_3DS%29	Q7889
 Carlee_McManus	Carlee McManus	human	https://www.mariowiki.com/Carlee_McManus	Q5
 Caterina_Rochira	Caterina Rochira	human	https://www.mariowiki.com/Caterina_Rochira	Q5
+Catherine_Lafond	Catherine Lafond	human	https://www.mariowiki.com/Catherine_Lafond	Q5
 Chad_York	Chad York	human	https://www.mariowiki.com/Chad_York	Q5
 Charles_Martinet	Charles Martinet	human	https://www.mariowiki.com/Charles_Martinet	Q5
 Charlie_Day	Charlie Day	human	https://www.mariowiki.com/Charlie_Day	Q5
@@ -162,6 +163,7 @@ Donkey_Kong_3:_Dai_Gyakushū	Donkey Kong 3: Dai Gyakushū	video game	https://www
 Donkey_Kong_64	Donkey Kong 64	video game	https://www.mariowiki.com/Donkey_Kong_64	Q7889
 Donkey_Kong_Bananza	Donkey Kong Bananza	video game	https://www.mariowiki.com/Donkey_Kong_Bananza	Q7889
 Donkey_Kong_Barrel_Blast	Donkey Kong Barrel Blast	video game	https://www.mariowiki.com/Donkey_Kong_Barrel_Blast	Q7889
+Donkey_Kong_Bath_and_Shower_Foam	Donkey Kong Bath and Shower Foam	video game	https://www.mariowiki.com/Donkey_Kong_Bath_and_Shower_Foam	Q7889
 Donkey_Kong_Bath_Game	Donkey Kong Bath Game	video game	https://www.mariowiki.com/Donkey_Kong_Bath_Game	Q7889
 Donkey_Kong_Circus	Donkey Kong Circus	video game	https://www.mariowiki.com/Donkey_Kong_Circus	Q7889
 Donkey_Kong_Classics	Donkey Kong Classics	video game	https://www.mariowiki.com/Donkey_Kong_Classics	Q7889
@@ -481,6 +483,7 @@ Mario_Artist:_Communication_Kit	Mario Artist: Communication Kit	video game	https
 Mario_Artist:_Paint_Studio	Mario Artist: Paint Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Paint_Studio	Q7889
 Mario_Artist:_Polygon_Studio	Mario Artist: Polygon Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Polygon_Studio	Q7889
 Mario_Artist:_Talent_Studio	Mario Artist: Talent Studio	video game	https://www.mariowiki.com/Mario_Artist%3A_Talent_Studio	Q7889
+Mario_Bros._(Classic_Serie)	Mario Bros. (Classic Serie)	video game	https://www.mariowiki.com/Mario_Bros._%28Classic_Serie%29	Q7889
 Mario_Bros._(Game_&_Watch)	Mario Bros. (Game & Watch)	video game	https://www.mariowiki.com/Mario_Bros._%28Game_%26_Watch%29	Q7889
 Mario_Bros._(game)	Mario Bros. (game)	video game	https://www.mariowiki.com/Mario_Bros._%28game%29	Q7889
 Mario_Bros._(series)	Mario Bros. (series)	video game series	https://www.mariowiki.com/Mario_Bros._%28series%29	Q7058673
@@ -657,6 +660,7 @@ NES_Remix_(series)	NES Remix (series)	video game series	https://www.mariowiki.co
 NES_Remix_2	NES Remix 2	video game	https://www.mariowiki.com/NES_Remix_2	Q7889
 NES_Remix_Pack	NES Remix Pack	video game	https://www.mariowiki.com/NES_Remix_Pack	Q7889
 New_Play_Control!_Donkey_Kong_Jungle_Beat	New Play Control! Donkey Kong Jungle Beat	video game	https://www.mariowiki.com/New_Play_Control%21_Donkey_Kong_Jungle_Beat	Q7889
+New_Play_Control!_Mario_Power_Tennis	New Play Control! Mario Power Tennis	video game	https://www.mariowiki.com/New_Play_Control%21_Mario_Power_Tennis	Q7889
 New_Super_Mario_Bros.	New Super Mario Bros.	video game	https://www.mariowiki.com/New_Super_Mario_Bros.	Q7889
 New_Super_Mario_Bros._2	New Super Mario Bros. 2	video game	https://www.mariowiki.com/New_Super_Mario_Bros._2	Q7889
 New_Super_Mario_Bros._Mii	New Super Mario Bros. Mii	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Mii	Q7889
@@ -670,11 +674,12 @@ Nicole_Eggert	Nicole Eggert	human	https://www.mariowiki.com/Nicole_Eggert	Q5
 Nicole_Mills	Nicole Mills	human	https://www.mariowiki.com/Nicole_Mills	Q5
 Nintendo	Nintendo	company	https://www.mariowiki.com/Nintendo	Q4830453
 Nintendo_Badge_Arcade	Nintendo Badge Arcade	video game	https://www.mariowiki.com/Nintendo_Badge_Arcade	Q7889
-Nintendo_Bath_Game	Nintendo Bath Game	video game	https://www.mariowiki.com/Nintendo_Bath_Game	Q7889
+Nintendo_Bath_Game_(Super_Mario_64)	Nintendo Bath Game (Super Mario 64)	video game	https://www.mariowiki.com/Nintendo_Bath_Game_%28Super_Mario_64%29	Q7889
 Nintendo_Cube	Nintendo Cube	company	https://www.mariowiki.com/Nintendo_Cube	Q4830453
 Nintendo_Land	Nintendo Land	video game	https://www.mariowiki.com/Nintendo_Land	Q7889
 Nintendo_PowerFest_'94	Nintendo PowerFest '94	video game	https://www.mariowiki.com/Nintendo_PowerFest_%2794	Q7889
 Nintendo_Puzzle_Collection	Nintendo Puzzle Collection	video game	https://www.mariowiki.com/Nintendo_Puzzle_Collection	Q7889
+Nintendo_Switch_2_Welcome_Tour	Nintendo Switch 2 Welcome Tour	video game	https://www.mariowiki.com/Nintendo_Switch_2_Welcome_Tour	Q7889
 Nintendo_World_Championships_1990	Nintendo World Championships 1990	video game	https://www.mariowiki.com/Nintendo_World_Championships_1990	Q7889
 Nintendo_World_Championships:_NES_Edition	Nintendo World Championships: NES Edition	video game	https://www.mariowiki.com/Nintendo_World_Championships%3A_NES_Edition	Q7889
 Nobuyuki_Hiyama	Nobuyuki Hiyama	human	https://www.mariowiki.com/Nobuyuki_Hiyama	Q5
@@ -915,6 +920,7 @@ Ted_Woolsey	Ted Woolsey	human	https://www.mariowiki.com/Ted_Woolsey	Q5
 Terebi_Denwa:_Super_Mario_World	Terebi Denwa: Super Mario World	video game	https://www.mariowiki.com/Terebi_Denwa%3A_Super_Mario_World	Q7889
 Tetris	Tetris	video game	https://www.mariowiki.com/Tetris	Q7889
 Tetris_&_Dr._Mario	Tetris & Dr. Mario	video game	https://www.mariowiki.com/Tetris_%26_Dr._Mario	Q7889
+Tetris_(NES)	Tetris (NES)	video game	https://www.mariowiki.com/Tetris_%28NES%29	Q7889
 Tetris_99	Tetris 99	video game	https://www.mariowiki.com/Tetris_99	Q7889
 Tetris_Attack	Tetris Attack	video game	https://www.mariowiki.com/Tetris_Attack	Q7889
 Tetris_DS	Tetris DS	video game	https://www.mariowiki.com/Tetris_DS	Q7889
@@ -958,6 +964,7 @@ Veronica_Pivetti	Veronica Pivetti	human	https://www.mariowiki.com/Veronica_Pivet
 Vince_Joly	Vince Joly	human	https://www.mariowiki.com/Vince_Joly	Q5
 Virtual_Boy_Wario_Land	Virtual Boy Wario Land	video game	https://www.mariowiki.com/Virtual_Boy_Wario_Land	Q7889
 Virus_Attack!	Virus Attack!	video game	https://www.mariowiki.com/Virus_Attack%21	Q7889
+VS._Dr._Mario	VS. Dr. Mario	video game	https://www.mariowiki.com/VS._Dr._Mario	Q7889
 VS._Super_Mario_Bros.	VS. Super Mario Bros.	video game	https://www.mariowiki.com/VS._Super_Mario_Bros.	Q7889
 VS._Wrecking_Crew	VS. Wrecking Crew	video game	https://www.mariowiki.com/VS._Wrecking_Crew	Q7889
 Véronique_Chantel	Véronique Chantel	human	https://www.mariowiki.com/V%C3%A9ronique_Chantel	Q5
