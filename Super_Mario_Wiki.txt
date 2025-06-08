@@ -287,6 +287,7 @@ Golf_(Game_Boy)	Golf (Game Boy)	video game	https://www.mariowiki.com/Golf_%28Gam
 Golf:_Japan_Course	Golf: Japan Course	video game	https://www.mariowiki.com/Golf%3A_Japan_Course	Q7889
 Golf:_Japan_Course_(Champions'_Course)	Golf: Japan Course (Champions' Course)	video game	https://www.mariowiki.com/Golf%3A_Japan_Course_%28Champions%27_Course%29	Q7889
 Golf:_Japan_Course_(Professional_Course)	Golf: Japan Course (Professional Course)	video game	https://www.mariowiki.com/Golf%3A_Japan_Course_%28Professional_Course%29	Q7889
+Golf:_Special_Course	Golf: Special Course	video game	https://www.mariowiki.com/Golf%3A_Special_Course	Q7889
 Golf:_US_Course	Golf: US Course	video game	https://www.mariowiki.com/Golf%3A_US_Course	Q7889
 Good-Feel	Good-Feel	company	https://www.mariowiki.com/Good-Feel	Q4830453
 Gordon_Masten	Gordon Masten	human	https://www.mariowiki.com/Gordon_Masten	Q5
@@ -512,6 +513,7 @@ Mario_Hoops_3-on-3	Mario Hoops 3-on-3	video game	https://www.mariowiki.com/Mario
 Mario_is_Missing!_(Nintendo_Entertainment_System)	Mario is Missing! (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28Nintendo_Entertainment_System%29	Q7889
 Mario_is_Missing!_(PC)	Mario is Missing! (PC)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28PC%29	Q7889
 Mario_is_Missing!_(Super_Nintendo_Entertainment_System)	Mario is Missing! (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario_is_Missing%21_%28Super_Nintendo_Entertainment_System%29	Q7889
+Mario_is_Missing!_CD-ROM_Deluxe	Mario is Missing! CD-ROM Deluxe	video game	https://www.mariowiki.com/Mario_is_Missing%21_CD-ROM_Deluxe	Q7889
 Mario_Kart_(series)	Mario Kart (series)	video game series	https://www.mariowiki.com/Mario_Kart_%28series%29	Q7058673
 Mario_Kart_64	Mario Kart 64	video game	https://www.mariowiki.com/Mario_Kart_64	Q7889
 Mario_Kart_64_(Petit_Maze)	Mario Kart 64 (Petit Maze)	video game	https://www.mariowiki.com/Mario_Kart_64_%28Petit_Maze%29	Q7889
@@ -569,6 +571,7 @@ Mario_Sports_Superstars	Mario Sports Superstars	video game	https://www.mariowiki
 Mario_Strikers_(series)	Mario Strikers (series)	video game series	https://www.mariowiki.com/Mario_Strikers_%28series%29	Q7058673
 Mario_Strikers_Charged	Mario Strikers Charged	video game	https://www.mariowiki.com/Mario_Strikers_Charged	Q7889
 Mario_Strikers:_Battle_League	Mario Strikers: Battle League	video game	https://www.mariowiki.com/Mario_Strikers%3A_Battle_League	Q7889
+Mario_Strikers:_Battle_League_First_Kick	Mario Strikers: Battle League First Kick	video game	https://www.mariowiki.com/Mario_Strikers%3A_Battle_League_First_Kick	Q7889
 Mario_Super_Sluggers	Mario Super Sluggers	video game	https://www.mariowiki.com/Mario_Super_Sluggers	Q7889
 Mario_Superstar_Baseball	Mario Superstar Baseball	video game	https://www.mariowiki.com/Mario_Superstar_Baseball	Q7889
 Mario_Takes_America	Mario Takes America	video game	https://www.mariowiki.com/Mario_Takes_America	Q7889
@@ -579,6 +582,8 @@ Mario_Tennis_(Game_Boy_Color)	Mario Tennis (Game Boy Color)	video game	https://w
 Mario_Tennis_(Nintendo_64)	Mario Tennis (Nintendo 64)	video game	https://www.mariowiki.com/Mario_Tennis_%28Nintendo_64%29	Q7889
 Mario_Tennis_(series)	Mario Tennis (series)	video game series	https://www.mariowiki.com/Mario_Tennis_%28series%29	Q7058673
 Mario_Tennis_Aces	Mario Tennis Aces	video game	https://www.mariowiki.com/Mario_Tennis_Aces	Q7889
+Mario_Tennis_Aces:_Online_Tournament_Demo	Mario Tennis Aces: Online Tournament Demo	video game	https://www.mariowiki.com/Mario_Tennis_Aces%3A_Online_Tournament_Demo	Q7889
+Mario_Tennis_Aces:_Special_Online_Demo	Mario Tennis Aces: Special Online Demo	video game	https://www.mariowiki.com/Mario_Tennis_Aces%3A_Special_Online_Demo	Q7889
 Mario_Tennis_Open	Mario Tennis Open	video game	https://www.mariowiki.com/Mario_Tennis_Open	Q7889
 Mario_Tennis:_Power_Tour	Mario Tennis: Power Tour	video game	https://www.mariowiki.com/Mario_Tennis%3A_Power_Tour	Q7889
 Mario_Tennis:_Ultra_Smash	Mario Tennis: Ultra Smash	video game	https://www.mariowiki.com/Mario_Tennis%3A_Ultra_Smash	Q7889
@@ -654,6 +659,7 @@ Nadine_van_der_Velde	Nadine van der Velde	human	https://www.mariowiki.com/Nadine
 Nagatanien	Nagatanien	company	https://www.mariowiki.com/Nagatanien	Q4830453
 Naoko_Mori	Naoko Mori	human	https://www.mariowiki.com/Naoko_Mori	Q5
 Nate_Bihldorff	Nate Bihldorff	human	https://www.mariowiki.com/Nate_Bihldorff	Q5
+Natsuki_Mori	Natsuki Mori	human	https://www.mariowiki.com/Natsuki_Mori	Q5
 Natsuko_Yokoyama	Natsuko Yokoyama	human	https://www.mariowiki.com/Natsuko_Yokoyama	Q5
 NBA_Street_V3	NBA Street V3	video game	https://www.mariowiki.com/NBA_Street_V3	Q7889
 NCircle_Entertainment	NCircle Entertainment	company	https://www.mariowiki.com/NCircle_Entertainment	Q4830453
