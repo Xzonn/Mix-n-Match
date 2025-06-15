@@ -366,6 +366,7 @@ John_Grusd	John Grusd	human	https://www.mariowiki.com/John_Grusd	Q5
 John_Leguizamo	John Leguizamo	human	https://www.mariowiki.com/John_Leguizamo	Q5
 John_Stocker	John Stocker	human	https://www.mariowiki.com/John_Stocker	Q5
 Jorge_Roig	Jorge Roig	human	https://www.mariowiki.com/Jorge_Roig	Q5
+Joseph_Bridgers	Joseph Bridgers	human	https://www.mariowiki.com/Joseph_Bridgers	Q5
 José_Antonio_Macías	José Antonio Macías	human	https://www.mariowiki.com/Jos%C3%A9_Antonio_Mac%C3%ADas	Q5
 José_Padilla	José Padilla	human	https://www.mariowiki.com/Jos%C3%A9_Padilla	Q5
 Joy_Tanner	Joy Tanner	human	https://www.mariowiki.com/Joy_Tanner	Q5
@@ -430,6 +431,7 @@ List_of_games	List of games	video game	https://www.mariowiki.com/List_of_games	Q
 List_of_games_by_date	List of games by date	video game	https://www.mariowiki.com/List_of_games_by_date	Q7889
 List_of_games_by_genre	List of games by genre	video game	https://www.mariowiki.com/List_of_games_by_genre	Q7889
 List_of_implied_people	List of implied people	human	https://www.mariowiki.com/List_of_implied_people	Q5
+List_of_physical_games	List of physical games	video game	https://www.mariowiki.com/List_of_physical_games	Q7889
 List_of_proposed_media	List of proposed media	video game	https://www.mariowiki.com/List_of_proposed_media	Q7889
 List_of_unreleased_media	List of unreleased media	video game	https://www.mariowiki.com/List_of_unreleased_media	Q7889
 Lists_of_games	Lists of games	video game	https://www.mariowiki.com/Lists_of_games	Q7889
@@ -578,6 +580,7 @@ Mario_Takes_America	Mario Takes America	video game	https://www.mariowiki.com/Mar
 Mario_Teaches_Typing	Mario Teaches Typing	video game	https://www.mariowiki.com/Mario_Teaches_Typing	Q7889
 Mario_Teaches_Typing_(series)	Mario Teaches Typing (series)	video game series	https://www.mariowiki.com/Mario_Teaches_Typing_%28series%29	Q7058673
 Mario_Teaches_Typing_2	Mario Teaches Typing 2	video game	https://www.mariowiki.com/Mario_Teaches_Typing_2	Q7889
+Mario_Teaches_Typing_Enhanced_CD-ROM	Mario Teaches Typing Enhanced CD-ROM	video game	https://www.mariowiki.com/Mario_Teaches_Typing_Enhanced_CD-ROM	Q7889
 Mario_Tennis_(Game_Boy_Color)	Mario Tennis (Game Boy Color)	video game	https://www.mariowiki.com/Mario_Tennis_%28Game_Boy_Color%29	Q7889
 Mario_Tennis_(Nintendo_64)	Mario Tennis (Nintendo 64)	video game	https://www.mariowiki.com/Mario_Tennis_%28Nintendo_64%29	Q7889
 Mario_Tennis_(series)	Mario Tennis (series)	video game series	https://www.mariowiki.com/Mario_Tennis_%28series%29	Q7058673
@@ -612,6 +615,7 @@ Mario's_Tennis	Mario's Tennis	video game	https://www.mariowiki.com/Mario%27s_Ten
 Mario's_Time_Machine_(Nintendo_Entertainment_System)	Mario's Time Machine (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28Nintendo_Entertainment_System%29	Q7889
 Mario's_Time_Machine_(PC)	Mario's Time Machine (PC)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28PC%29	Q7889
 Mario's_Time_Machine_(Super_Nintendo_Entertainment_System)	Mario's Time Machine (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28Super_Nintendo_Entertainment_System%29	Q7889
+Mario's_Time_Machine_Deluxe	Mario's Time Machine Deluxe	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_Deluxe	Q7889
 Mark_Stevenson	Mark Stevenson	human	https://www.mariowiki.com/Mark_Stevenson	Q5
 Marvelous_Inc.	Marvelous Inc.	company	https://www.mariowiki.com/Marvelous_Inc.	Q4830453
 María_Fernanda_Morales	María Fernanda Morales	human	https://www.mariowiki.com/Mar%C3%ADa_Fernanda_Morales	Q5
@@ -900,6 +904,7 @@ Super_Mario_Strikers	Super Mario Strikers	video game	https://www.mariowiki.com/S
 Super_Mario_Sunshine	Super Mario Sunshine	video game	https://www.mariowiki.com/Super_Mario_Sunshine	Q7889
 Super_Mario_World	Super Mario World	video game	https://www.mariowiki.com/Super_Mario_World	Q7889
 Super_Mario_World_(arcade)	Super Mario World (arcade)	video game	https://www.mariowiki.com/Super_Mario_World_%28arcade%29	Q7889
+Super_Mario_World_(Barcode_Battler_II)	Super Mario World (Barcode Battler II)	video game	https://www.mariowiki.com/Super_Mario_World_%28Barcode_Battler_II%29	Q7889
 Super_Mario_World_(handheld_pinball_game)	Super Mario World (handheld pinball game)	video game	https://www.mariowiki.com/Super_Mario_World_%28handheld_pinball_game%29	Q7889
 Super_Mario_World_(Nelsonic_Game_Watch)	Super Mario World (Nelsonic Game Watch)	video game	https://www.mariowiki.com/Super_Mario_World_%28Nelsonic_Game_Watch%29	Q7889
 Super_Mario_World_(slot_machine)	Super Mario World (slot machine)	video game	https://www.mariowiki.com/Super_Mario_World_%28slot_machine%29	Q7889
@@ -1045,6 +1050,7 @@ Yoshi's_New_Island	Yoshi's New Island	video game	https://www.mariowiki.com/Yoshi
 Yoshi's_Safari	Yoshi's Safari	video game	https://www.mariowiki.com/Yoshi%27s_Safari	Q7889
 Yoshi's_Story	Yoshi's Story	video game	https://www.mariowiki.com/Yoshi%27s_Story	Q7889
 Yoshi's_Woolly_World	Yoshi's Woolly World	video game	https://www.mariowiki.com/Yoshi%27s_Woolly_World	Q7889
+Yoshi,_the_Web_Pet	Yoshi, the Web Pet	video game	https://www.mariowiki.com/Yoshi%2C_the_Web_Pet	Q7889
 Yoshiaki_Koizumi	Yoshiaki Koizumi	human	https://www.mariowiki.com/Yoshiaki_Koizumi	Q5
 Yoshio_Sakamoto	Yoshio Sakamoto	human	https://www.mariowiki.com/Yoshio_Sakamoto	Q5
 Yoshito_Sekigawa	Yoshito Sekigawa	human	https://www.mariowiki.com/Yoshito_Sekigawa	Q5
