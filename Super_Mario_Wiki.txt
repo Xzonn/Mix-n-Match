@@ -355,6 +355,7 @@ Hanabira_Game	Hanabira Game	video game	https://www.mariowiki.com/Hanabira_Game	Q
 Harry_Blackstone_Jr.	Harry Blackstone Jr.	human	https://www.mariowiki.com/Harry_Blackstone_Jr.	Q5
 Heads-Up	Heads-Up	video game	https://www.mariowiki.com/Heads-Up	Q7889
 Hello,_Mario!_(game)	Hello, Mario! (game)	video game	https://www.mariowiki.com/Hello%2C_Mario%21_%28game%29	Q7889
+Hello,_Yoshi!	Hello, Yoshi!	video game	https://www.mariowiki.com/Hello%2C_Yoshi%21	Q7889
 Hervé_Grull	Hervé Grull	human	https://www.mariowiki.com/Herv%C3%A9_Grull	Q5
 Hetchara_Ban	Hetchara Ban	video game	https://www.mariowiki.com/Hetchara_Ban	Q7889
 Hetchara_Ban_DX	Hetchara Ban DX	video game	https://www.mariowiki.com/Hetchara_Ban_DX	Q7889
@@ -426,7 +427,6 @@ Juliet_Jelenic	Juliet Jelenic	human	https://www.mariowiki.com/Juliet_Jelenic	Q5
 Jupiter	Jupiter	company	https://www.mariowiki.com/Jupiter	Q4830453
 József_Kerekes	József Kerekes	human	https://www.mariowiki.com/J%C3%B3zsef_Kerekes	Q5
 Kahoru_Sasajima	Kahoru Sasajima	human	https://www.mariowiki.com/Kahoru_Sasajima	Q5
-Kao_Yoshi	Kao Yoshi	video game	https://www.mariowiki.com/Kao_Yoshi	Q7889
 Kate_Fleming	Kate Fleming	human	https://www.mariowiki.com/Kate_Fleming	Q5
 Kate_Higgins	Kate Higgins	human	https://www.mariowiki.com/Kate_Higgins	Q5
 Katsumi_Suzuki	Katsumi Suzuki	human	https://www.mariowiki.com/Katsumi_Suzuki	Q5
@@ -702,6 +702,7 @@ Melissa_Hutchison	Melissa Hutchison	human	https://www.mariowiki.com/Melissa_Hutc
 Melissa_Joan_Hart	Melissa Joan Hart	human	https://www.mariowiki.com/Melissa_Joan_Hart	Q5
 Memory_Kong	Memory Kong	video game	https://www.mariowiki.com/Memory_Kong	Q7889
 Mercedes_Rose	Mercedes Rose	human	https://www.mariowiki.com/Mercedes_Rose	Q5
+MIA_Co.,_Ltd.	MIA Co., Ltd.	company	https://www.mariowiki.com/MIA_Co.%2C_Ltd.	Q4830453
 Michael_Kelbaugh	Michael Kelbaugh	human	https://www.mariowiki.com/Michael_Kelbaugh	Q5
 Michael_Pan	Michael Pan	human	https://www.mariowiki.com/Michael_Pan	Q5
 Michael_Stark	Michael Stark	human	https://www.mariowiki.com/Michael_Stark	Q5
