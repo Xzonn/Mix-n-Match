@@ -16,6 +16,7 @@ id	name	desc	url	type
 1_vs_100	1 vs 100	video game	https://strategywiki.org/wiki/1_vs_100	Q7889
 1_vs_100_(Xbox_360)	1 vs 100 (Xbox 360)	video game	https://strategywiki.org/wiki/1_vs_100_%28Xbox_360%29	Q7889
 10_Super_Jogos	10 Super Jogos	video game	https://strategywiki.org/wiki/10_Super_Jogos	Q7889
+10-Pin_Bowling	10-Pin Bowling	video game	https://strategywiki.org/wiki/10-Pin_Bowling	Q7889
 10-Yard_Fight	10-Yard Fight	video game	https://strategywiki.org/wiki/10-Yard_Fight	Q7889
 100th_Black_Market	100th Black Market	video game	https://strategywiki.org/wiki/100th_Black_Market	Q7889
 101_Dalmatians:_Escape_from_DeVil_Manor	101 Dalmatians: Escape from DeVil Manor	video game	https://strategywiki.org/wiki/101_Dalmatians%3A_Escape_from_DeVil_Manor	Q7889
@@ -626,6 +627,7 @@ Atelier_Escha_&_Logy:_Alchemists_of_the_Dusk_Sky	Atelier Escha & Logy: Alchemist
 Atelier_Firis:_The_Alchemist_and_the_Mysterious_Journey	Atelier Firis: The Alchemist and the Mysterious Journey	video game	https://strategywiki.org/wiki/Atelier_Firis%3A_The_Alchemist_and_the_Mysterious_Journey	Q7889
 Atelier_Lulua:_The_Scion_of_Arland	Atelier Lulua: The Scion of Arland	video game	https://strategywiki.org/wiki/Atelier_Lulua%3A_The_Scion_of_Arland	Q7889
 Atelier_Lydie_&_Suelle:_The_Alchemists_and_the_Mysterious_Paintings	Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings	video game	https://strategywiki.org/wiki/Atelier_Lydie_%26_Suelle%3A_The_Alchemists_and_the_Mysterious_Paintings	Q7889
+Atelier_Marie_GB	Atelier Marie GB	video game	https://strategywiki.org/wiki/Atelier_Marie_GB	Q7889
 Atelier_Marie_Remake:_The_Alchemist_of_Salburg	Atelier Marie Remake: The Alchemist of Salburg	video game	https://strategywiki.org/wiki/Atelier_Marie_Remake%3A_The_Alchemist_of_Salburg	Q7889
 Atelier_Marie:_The_Alchemist_of_Salburg	Atelier Marie: The Alchemist of Salburg	video game	https://strategywiki.org/wiki/Atelier_Marie%3A_The_Alchemist_of_Salburg	Q7889
 Atelier_Meruru:_The_Apprentice_of_Arland	Atelier Meruru: The Apprentice of Arland	video game	https://strategywiki.org/wiki/Atelier_Meruru%3A_The_Apprentice_of_Arland	Q7889
@@ -1471,8 +1473,9 @@ Cho_Aniki_Collection	Cho Aniki Collection	video game	https://strategywiki.org/wi
 Cho_Aniki:_Bakuretsu_Rantou_Hen	Cho Aniki: Bakuretsu Rantou Hen	video game	https://strategywiki.org/wiki/Cho_Aniki%3A_Bakuretsu_Rantou_Hen	Q7889
 Cho_Ren_Sha_68K	Cho Ren Sha 68K	video game	https://strategywiki.org/wiki/Cho_Ren_Sha_68K	Q7889
 Chocobo_GP	Chocobo GP	video game	https://strategywiki.org/wiki/Chocobo_GP	Q7889
+Chocobo_no_Fushigi_na_Dungeon	Chocobo no Fushigi na Dungeon	video game	https://strategywiki.org/wiki/Chocobo_no_Fushigi_na_Dungeon	Q7889
 Chocobo_Racing	Chocobo Racing	video game	https://strategywiki.org/wiki/Chocobo_Racing	Q7889
-Chocobo's_Mystery_Dungeon:_Every_Buddy!	Chocobo's Mystery Dungeon: Every Buddy!	video game	https://strategywiki.org/wiki/Chocobo%27s_Mystery_Dungeon%3A_Every_Buddy%21	Q7889
+Chocobo's_Mystery_Dungeon_EVERY_BUDDY!	Chocobo's Mystery Dungeon EVERY BUDDY!	video game	https://strategywiki.org/wiki/Chocobo%27s_Mystery_Dungeon_EVERY_BUDDY%21	Q7889
 Choplifter!	Choplifter!	video game	https://strategywiki.org/wiki/Choplifter%21	Q7889
 Chopper_I	Chopper I	video game	https://strategywiki.org/wiki/Chopper_I	Q7889
 Choujikuu_Yousai_Macross	Choujikuu Yousai Macross	video game	https://strategywiki.org/wiki/Choujikuu_Yousai_Macross	Q7889
@@ -2082,6 +2085,7 @@ Disney's_Aladdin_(Capcom)	Disney's Aladdin (Capcom)	video game	https://strategyw
 Disney's_Aladdin_(Sega)	Disney's Aladdin (Sega)	video game	https://strategywiki.org/wiki/Disney%27s_Aladdin_%28Sega%29	Q7889
 Disney's_Beauty_and_the_Beast_(SNES)	Disney's Beauty and the Beast (SNES)	video game	https://strategywiki.org/wiki/Disney%27s_Beauty_and_the_Beast_%28SNES%29	Q7889
 Disney's_Bonkers	Disney's Bonkers	video game	https://strategywiki.org/wiki/Disney%27s_Bonkers	Q7889
+Disney's_Dinosaur	Disney's Dinosaur	video game	https://strategywiki.org/wiki/Disney%27s_Dinosaur	Q7889
 Disney's_Hades_Challenge	Disney's Hades Challenge	video game	https://strategywiki.org/wiki/Disney%27s_Hades_Challenge	Q7889
 Disney's_Kim_Possible_3:_Team_Possible	Disney's Kim Possible 3: Team Possible	video game	https://strategywiki.org/wiki/Disney%27s_Kim_Possible_3%3A_Team_Possible	Q7889
 Disney's_Magical_Mirror_Starring_Mickey_Mouse	Disney's Magical Mirror Starring Mickey Mouse	video game	https://strategywiki.org/wiki/Disney%27s_Magical_Mirror_Starring_Mickey_Mouse	Q7889
@@ -2799,6 +2803,7 @@ Fatty_Bear's_Birthday_Surprise	Fatty Bear's Birthday Surprise	video game	https:/
 Faulty_Towers	Faulty Towers	video game	https://strategywiki.org/wiki/Faulty_Towers	Q7889
 Faunasphere	Faunasphere	video game	https://strategywiki.org/wiki/Faunasphere	Q7889
 Faxanadu	Faxanadu	video game	https://strategywiki.org/wiki/Faxanadu	Q7889
+Fear_Effect_2:_Retro_Helix	Fear Effect 2: Retro Helix	video game	https://strategywiki.org/wiki/Fear_Effect_2%3A_Retro_Helix	Q7889
 Feel_the_Magic:_XY/XX	Feel the Magic: XY/XX	video game	https://strategywiki.org/wiki/Feel_the_Magic%3A_XY/XX	Q7889
 Feelers	Feelers	video game	https://strategywiki.org/wiki/Feelers	Q7889
 Felix_the_Cat	Felix the Cat	video game	https://strategywiki.org/wiki/Felix_the_Cat	Q7889
@@ -4719,6 +4724,7 @@ Magicka_2	Magicka 2	video game	https://strategywiki.org/wiki/Magicka_2	Q7889
 Magicoal	Magicoal	video game	https://strategywiki.org/wiki/Magicoal	Q7889
 Maglam_Lord	Maglam Lord	video game	https://strategywiki.org/wiki/Maglam_Lord	Q7889
 Magma_Project_Hacker	Magma Project Hacker	video game	https://strategywiki.org/wiki/Magma_Project_Hacker	Q7889
+Magna_Braban:_Henreki_no_Yuusha	Magna Braban: Henreki no Yuusha	video game	https://strategywiki.org/wiki/Magna_Braban%3A_Henreki_no_Yuusha	Q7889
 Magna_Carta:_Crimson_Stigmata	Magna Carta: Crimson Stigmata	video game	https://strategywiki.org/wiki/Magna_Carta%3A_Crimson_Stigmata	Q7889
 MagnaCarta_II	MagnaCarta II	video game	https://strategywiki.org/wiki/MagnaCarta_II	Q7889
 Magnetica_Twist	Magnetica Twist	video game	https://strategywiki.org/wiki/Magnetica_Twist	Q7889
@@ -4776,7 +4782,6 @@ Marathon	Marathon	video game	https://strategywiki.org/wiki/Marathon	Q7889
 Marble_Madness	Marble Madness	video game	https://strategywiki.org/wiki/Marble_Madness	Q7889
 March_to_a_Million	March to a Million	video game	https://strategywiki.org/wiki/March_to_a_Million	Q7889
 Marchen_Veil	Marchen Veil	video game	https://strategywiki.org/wiki/Marchen_Veil	Q7889
-Marie_no_Atelier_GB	Marie no Atelier GB	video game	https://strategywiki.org/wiki/Marie_no_Atelier_GB	Q7889
 Marine_Date	Marine Date	video game	https://strategywiki.org/wiki/Marine_Date	Q7889
 Mariner	Mariner	video game	https://strategywiki.org/wiki/Mariner	Q7889
 Mario_&_Luigi:_Bowser's_Inside_Story	Mario & Luigi: Bowser's Inside Story	video game	https://strategywiki.org/wiki/Mario_%26_Luigi%3A_Bowser%27s_Inside_Story	Q7889
@@ -7164,6 +7169,7 @@ Sega_Arcade_Gallery	Sega Arcade Gallery	video game	https://strategywiki.org/wiki
 Sega_Bass_Fishing	Sega Bass Fishing	video game	https://strategywiki.org/wiki/Sega_Bass_Fishing	Q7889
 Sega_Classics_Arcade_Collection	Sega Classics Arcade Collection	video game	https://strategywiki.org/wiki/Sega_Classics_Arcade_Collection	Q7889
 Sega_Classics_Collection	Sega Classics Collection	video game	https://strategywiki.org/wiki/Sega_Classics_Collection	Q7889
+Sega_Extreme_Sports	Sega Extreme Sports	video game	https://strategywiki.org/wiki/Sega_Extreme_Sports	Q7889
 Sega_Genesis_Classics	Sega Genesis Classics	video game	https://strategywiki.org/wiki/Sega_Genesis_Classics	Q7889
 Sega_Genesis_Collection	Sega Genesis Collection	video game	https://strategywiki.org/wiki/Sega_Genesis_Collection	Q7889
 Sega_Genesis_Mini	Sega Genesis Mini	video game	https://strategywiki.org/wiki/Sega_Genesis_Mini	Q7889
@@ -7847,6 +7853,7 @@ Star_Citizen	Star Citizen	video game	https://strategywiki.org/wiki/Star_Citizen	
 Star_Cruiser	Star Cruiser	video game	https://strategywiki.org/wiki/Star_Cruiser	Q7889
 Star_Defender_2	Star Defender 2	video game	https://strategywiki.org/wiki/Star_Defender_2	Q7889
 Star_Defender_3	Star Defender 3	video game	https://strategywiki.org/wiki/Star_Defender_3	Q7889
+Star_Defender_4	Star Defender 4	video game	https://strategywiki.org/wiki/Star_Defender_4	Q7889
 Star_Force	Star Force	video game	https://strategywiki.org/wiki/Star_Force	Q7889
 Star_Fox	Star Fox	video game	https://strategywiki.org/wiki/Star_Fox	Q7889
 Star_Fox_2	Star Fox 2	video game	https://strategywiki.org/wiki/Star_Fox_2	Q7889
@@ -9097,6 +9104,7 @@ The_Wonderful_End_of_the_World	The Wonderful End of the World	video game	https:/
 The_World_Ends_with_You	The World Ends with You	video game	https://strategywiki.org/wiki/The_World_Ends_with_You	Q7889
 The_World_Is_Not_Enough	The World Is Not Enough	video game	https://strategywiki.org/wiki/The_World_Is_Not_Enough	Q7889
 The_Worst_Witch	The Worst Witch	video game	https://strategywiki.org/wiki/The_Worst_Witch	Q7889
+The_X-Files_Game	The X-Files Game	video game	https://strategywiki.org/wiki/The_X-Files_Game	Q7889
 The_X-Files:_Resist_or_Serve	The X-Files: Resist or Serve	video game	https://strategywiki.org/wiki/The_X-Files%3A_Resist_or_Serve	Q7889
 The_Yakuza_Remastered_Collection	The Yakuza Remastered Collection	video game	https://strategywiki.org/wiki/The_Yakuza_Remastered_Collection	Q7889
 The_Young_Ones	The Young Ones	video game	https://strategywiki.org/wiki/The_Young_Ones	Q7889
@@ -10158,6 +10166,7 @@ YouYou_Jinsei	YouYou Jinsei	video game	https://strategywiki.org/wiki/YouYou_Jins
 Ys	Ys	video game	https://strategywiki.org/wiki/Ys	Q7889
 Ys_I_&_II	Ys I & II	video game	https://strategywiki.org/wiki/Ys_I_%26_II	Q7889
 Ys_I_&_II_Chronicles	Ys I & II Chronicles	video game	https://strategywiki.org/wiki/Ys_I_%26_II_Chronicles	Q7889
+Ys_I_&_II_Chronicles+	Ys I & II Chronicles+	video game	https://strategywiki.org/wiki/Ys_I_%26_II_Chronicles%2B	Q7889
 Ys_I_&_II_Complete	Ys I & II Complete	video game	https://strategywiki.org/wiki/Ys_I_%26_II_Complete	Q7889
 Ys_I_&_II:_Eternal_Story	Ys I & II: Eternal Story	video game	https://strategywiki.org/wiki/Ys_I_%26_II%3A_Eternal_Story	Q7889
 Ys_II:_Ancient_Ys_Vanished_-_The_Final_Chapter	Ys II: Ancient Ys Vanished - The Final Chapter	video game	https://strategywiki.org/wiki/Ys_II%3A_Ancient_Ys_Vanished_-_The_Final_Chapter	Q7889
@@ -10168,6 +10177,7 @@ Ys_Origin	Ys Origin	video game	https://strategywiki.org/wiki/Ys_Origin	Q7889
 Ys_Seven	Ys Seven	video game	https://strategywiki.org/wiki/Ys_Seven	Q7889
 Ys_Strategy	Ys Strategy	video game	https://strategywiki.org/wiki/Ys_Strategy	Q7889
 Ys_V:_Lost_Kefin,_Kingdom_of_Sand	Ys V: Lost Kefin, Kingdom of Sand	video game	https://strategywiki.org/wiki/Ys_V%3A_Lost_Kefin%2C_Kingdom_of_Sand	Q7889
+Ys_V:_Ushinawareta_Suna_no_Miyako_Kefin	Ys V: Ushinawareta Suna no Miyako Kefin	video game	https://strategywiki.org/wiki/Ys_V%3A_Ushinawareta_Suna_no_Miyako_Kefin	Q7889
 Ys_VI:_The_Ark_of_Napishtim	Ys VI: The Ark of Napishtim	video game	https://strategywiki.org/wiki/Ys_VI%3A_The_Ark_of_Napishtim	Q7889
 Ys_VIII:_Lacrimosa_of_DANA	Ys VIII: Lacrimosa of DANA	video game	https://strategywiki.org/wiki/Ys_VIII%3A_Lacrimosa_of_DANA	Q7889
 Ys_vs._Trails_in_the_Sky:_Alternative_Saga	Ys vs. Trails in the Sky: Alternative Saga	video game	https://strategywiki.org/wiki/Ys_vs._Trails_in_the_Sky%3A_Alternative_Saga	Q7889
