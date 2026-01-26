@@ -1,4 +1,3 @@
-from _helpers import ESRB, ESRB_DESCRIPTORS, parse_title
 import copy
 import datetime
 import itertools
@@ -6,74 +5,88 @@ import json
 import random
 import time
 from urllib.parse import quote
+
 import requests
 
+from _helpers import ESRB, ESRB_DESCRIPTORS, PLATFORMS, parse_title
+
+
 def download() -> list[dict]:
-  QUERY_URL = r"https://u3b6gr4ua3-1.algolianet.com/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.11.0)%3B%20Browser%3B%20JS%20Helper%20(3.6.2)%3B%20react%20(17.0.2)%3B%20react-instantsearch%20(6.15.0)"
+  QUERY_URL = r"https://u3b6gr4ua3-3.algolianet.com/1/indexes/store_game_en_us/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.23.2)%3B%20Browser"
   DATA = {
-    "requests": [
-      {
-        "indexName": "store_game_en_us",
-        "params": ""
-      }
-    ]
+    "query": "",
+    "filters": "",
+    "hitsPerPage": 1000,
+    "analytics": False,
+    "facetingAfterDistinct": True,
+    "clickAnalytics": False,
+    # "highlightPreTag": "^*^^",
+    # "highlightPostTag": "^*",
+    # "attributesToHighlight": ["description"],
+    "facets": ["*"],
+    "maxValuesPerFacet": 1000,
+    "page": 0,
   }
-  PARAMS_RATINGS = "hitsPerPage=1000&analytics=false&distinct=true&enablePersonalization=false&page=0&facetFilters={facet_filters}&filters=({filters})"
-  AVAILABLE_PARAMETERS = {
-    "corePlatforms": ["Nintendo Switch"],
-    "editions": ["Digital"],
-    "topLevelFilters": ["", "Deals", "Demo Available", "Games with DLC"],
-    "priceRange": ["", "$10 - $19.99", "$20 - $39.99", "$40+"],
-    "esrbRating": ["E", "E10", "T", "M"],
-    "playerCount": ["", "2+", "Single Player"],
-  }
-  FILTERS = [
-    ("topLevelFilters", "DLC"),
-    ("dlcType", "Bundle"),
-    ("dlcType", "ROM Bundle"),
+  DEFAULT_FILTERS = [
+    '(NOT editions:"Physical")',
+    '(editions:"Digital")',
+    '(NOT topLevelFilters:"DLC")',
+    '(NOT topLevelFilters:"Upgrade pack")',
   ]
+  AVAILABLE_PARAMETERS = {
+    "corePlatforms": ["Nintendo Switch", "Nintendo Switch 2"],
+    "topLevelFilters": ["", "Deals", "Demo available", "Games with DLC"],
+    "priceRange": ["", "$10 - $19.99", "$20 - $39.99", "$40+"],
+    # "contentRatingCode": ["", "E", "E10", "T", "M"],
+    # "playerCount": ["", "2+", "Single Player"],
+  }
   HEADERS = {
     "x-algolia-api-key": "a29c6927638bfd8cee23993e51e721c9",
     "x-algolia-application-id": "U3B6GR4UA3",
     "Referer": "https://www.nintendo.com/",
     "Origin": "https://www.nintendo.com",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.114.514 Safari/537.36 XzonnMixnMatch/0.1"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.114.514 Safari/537.36 XzonnMixnMatch/0.1",
   }
 
   data_list = []
   keys = AVAILABLE_PARAMETERS.keys()
   for params in itertools.product(*AVAILABLE_PARAMETERS.values()):
-    facet_filters = []
-    filters = copy.deepcopy(FILTERS)
+    filters = copy.deepcopy(DEFAULT_FILTERS)
     for k, p in zip(keys, params):
       if p:
-        facet_filters.append(f"{k}:{p}")
-      else:
-        for i in AVAILABLE_PARAMETERS[k]:
-          if i:
-            filters.append((k, i))
+        filters.append(f'({k}:"{p}")')
 
-    facet_filters_str = json.dumps(facet_filters, ensure_ascii=False, separators=(",", ":"))
-    filters_str = " AND ".join(f"NOT {k}:\"{v}\"" for k, v in filters)
-    params = PARAMS_RATINGS.format(filters=quote(filters_str), facet_filters=quote(facet_filters_str))
+    filters_str = " AND ".join(filters)
     data = copy.deepcopy(DATA)
-    data["requests"][0]["params"] = params
+    data["filters"] = filters_str
     data_list.append(data)
 
   hits_all: list[dict] = []
   session = requests.Session()
   for data in data_list:
-    request = session.post(QUERY_URL, json=data, headers=HEADERS)
-    hits = request.json()["results"][0]["hits"]
+    try:
+      request = session.post(QUERY_URL, json=data, headers=HEADERS)
+    except Exception as e:
+      print(f"Error: {e}")
+      time.sleep(5)
+      continue
+
+    hits = request.json()["hits"]
     hits_all += hits
     time.sleep(random.random() * 2)
 
   return hits_all
 
+
 def parse(hits_all):
   results = {}
   for game in hits_all:
-    if "DLC" in game.get("topLevelFilters", []) or ["Physical"] == game.get("editions", []) or game.get("dlcType", None) or (not game.get("nsuid", None)):
+    if (
+      "DLC" in game.get("topLevelFilters", [])
+      or ["Physical"] == game.get("editions", [])
+      or game.get("dlcType", None)
+      or (not game.get("nsuid", None))
+    ):
       continue
     esrb = game.get("esrbRating", "")
     year = 0
@@ -88,13 +101,19 @@ def parse(hits_all):
         print(f"Warning: {i} not in ESRB_DESCRIPTORS")
       else:
         descriptors.append(ESRB_DESCRIPTORS[i])
+
+    platform = game.get("platform", "")
+    platformQid = PLATFORMS.get(platform, "")
+
     results[game["urlKey"].strip()] = {
       "id": game["urlKey"].strip(),
       "name": parse_title(game["title"]),
-      "desc": f'{year or ""} {game["platform"]} video game by {parse_title(game["softwarePublisher"])}'.replace("  ", " ").strip(),
-      "url": f'https://www.nintendo.com{game["url"]}',
+      "desc": f"{year or ''} {platform} video game by {parse_title(game['softwarePublisher'])}".replace(
+        "  ", " "
+      ).strip(),
+      "url": f"https://www.nintendo.com{game['url']}",
       "type": "Q7889",
-      "P400": "Q19610114",
+      "P400": platformQid,
       "P437": "Q54820071",
       "P750": "Q3070866",
       "P852": ESRB.get(esrb, ""),
@@ -103,14 +122,19 @@ def parse(hits_all):
 
   results_list = sorted(results, key=lambda x: (results[x]["name"].lower(), results[x]["id"]))
 
-  with open("results/Nintendo_eShop.txt", "w", -1, "utf-8") as f:
-    f.write("\t".join(results[results_list[0]].keys()) + "\n")
+  with open("results/Nintendo_eShop.txt", "w", -1, "utf-8") as writer:
+    writer.write("\t".join(results[results_list[0]].keys()) + "\n")
     for game in results_list:
       game = results[game]
-      f.write("\t".join(game.values()) + "\n")
+      writer.write("\t".join(game.values()) + "\n")
+
 
 if __name__ == "__main__":
   import os
+
   os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
   results = download()
+  with open("results/Nintendo_eShop.json", "w", -1, "utf-8") as writer:
+    json.dump(results, writer, indent=2, ensure_ascii=False)
   parse(results)

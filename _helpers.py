@@ -1,9 +1,11 @@
 import re
 
-
 PLATFORMS = {
   "PC": "Q1406",
   "Switch": "Q19610114",
+  "Nintendo Switch": "Q19610114",
+  "Switch 2": "Q122761124",
+  "Nintendo Switch 2": "Q122761124",
   "Wii U": "Q56942",
   "WiiU": "Q56942",
   "3DS": "Q203597",
@@ -108,6 +110,7 @@ ESRB_DESCRIPTORS = {
   "Violence": "Q60324429",
   "Violent References": "Q69573910",
 }
+
 
 def parse_title(original_title: str) -> str:
   if not original_title:
