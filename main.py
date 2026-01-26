@@ -14,7 +14,7 @@ def run_python(file_name):
 FILE_NAMES = [
   "Nintendo_eShop.py",
   # "Microsoft_Store.py",
-  "Famitsu.py",
+  # "Famitsu.py",
   "HowLongToBeat.py",
   # "Moegirlpedia.py",
   "PCGamingWiki.py",
