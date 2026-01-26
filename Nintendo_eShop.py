@@ -136,5 +136,5 @@ if __name__ == "__main__":
 
   results = download()
   with open("results/Nintendo_eShop.json", "w", -1, "utf-8") as writer:
-    json.dump(results, writer, indent=2, ensure_ascii=False)
+    json.dump(results, writer, ensure_ascii=False, separators=(",", ":"))
   parse(results)
