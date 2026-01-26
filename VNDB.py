@@ -1,6 +1,40 @@
+import json
+
 from _helpers import parse_title
 
+
 def parse():
+  with open("temp/vndb/db/wikidata.header", "r", -1, "utf8") as reader:
+    wikidata_header = reader.read().splitlines()[0].split("\t")
+  with open("temp/vndb/db/wikidata", "r", -1, "utf8") as reader:
+    wikidata_raw = reader.read().splitlines()
+
+  wikidata = {}
+  for entry in wikidata_raw:
+    entry_data = dict(zip(wikidata_header, entry.split("\t")))
+    cleaned_entry_data = {}
+    for key, value in entry_data.items():
+      if value == "\\N":
+        continue
+      elif value[0] == "{" and value[-1] == "}":
+        cleaned_entry_data[key] = value[1:-1].split(",")
+      else:
+        cleaned_entry_data[key] = value
+    entry_data = cleaned_entry_data
+    if "vndb" not in entry_data:
+      continue
+    if "id" not in entry_data:
+      continue
+
+    wikidata_id = entry_data["id"]
+    entry_data["wikidata"] = f"Q{wikidata_id}"
+    del entry_data["id"]
+    for vndb_id in entry_data["vndb"]:
+      wikidata[vndb_id] = entry_data
+
+  with open("temp/VNDB_wikidata.json", "w", -1, "utf8") as writer:
+    json.dump(wikidata, writer, ensure_ascii=False, indent=2)
+
   with open("temp/vndb/db/vn.header", "r", -1, "utf8") as reader:
     vn_header = reader.read().splitlines()[0].split("\t")
   with open("temp/vndb/db/vn", "r", -1, "utf8") as reader:
@@ -14,7 +48,7 @@ def parse():
     game_id = game_data["id"]
     results[game_id] = {
       "id": game_id,
-      "q": ("Q" + game_data["l_wikidata"]) if game_data["l_wikidata"] != "\\N" else "",
+      "q": wikidata.get(game_id, {}).get("wikidata", ""),
       "name": "",
       "desc": "video game",
       "url": f"https://vndb.org/{game_id}",
@@ -27,7 +61,7 @@ def parse():
     vn_titles_header = reader.read().splitlines()[0].split("\t")
   with open("temp/vndb/db/vn_titles", "r", -1, "utf8") as reader:
     vn_titles = reader.read().splitlines()
-  
+
   for game in vn_titles:
     game_data = dict(zip(vn_titles_header, game.split("\t")))
     game_id = game_data["id"]
@@ -51,7 +85,7 @@ def parse():
     producer_id = producer_data["id"]
     results[producer_id] = {
       "id": producer_id,
-      "q": ("Q" + producer_data["l_wikidata"]) if producer_data["l_wikidata"] != "\\N" else "",
+      "q": wikidata.get(producer_id, {}).get("wikidata", ""),
       "name": producer_data["name"],
       "desc": "video game developer/producer",
       "url": f"https://vndb.org/{producer_id}",
@@ -81,7 +115,7 @@ def parse():
     person_id = person_data["id"]
     results[person_id] = {
       "id": person_id,
-      "q": ("Q" + person_data["l_wikidata"]) if person_data["l_wikidata"] != "\\N" else "",
+      "q": wikidata.get(person_id, {}).get("wikidata", ""),
       "name": staff_names.get(person_data["main"], ""),
       "desc": "male" if person_data["gender"] == "m" else ("female" if person_data["gender"] == "f" else ""),
       "url": f"https://vndb.org/{person_id}",
@@ -89,26 +123,9 @@ def parse():
       "P21": "Q6581097" if person_data["gender"] == "m" else ("Q6581072" if person_data["gender"] == "f" else ""),
     }
 
-  with open("temp/vndb/db/chars.header", "r", -1, "utf8") as reader:
-    chars_header = reader.read().splitlines()[0].split("\t")
-  with open("temp/vndb/db/chars", "r", -1, "utf8") as reader:
-    chars = reader.read().splitlines()
-  for char in chars:
-    char_data = dict(zip(chars_header, char.split("\t")))
-    if len(char_data) != len(chars_header):
-      continue
-    char_id = char_data["id"]
-    results[char_id] = {
-      "id": char_id,
-      "q": "",
-      "name": char_data["name"],
-      "desc": "male" if char_data["sex"] == "m" else ("female" if char_data["sex"] == "f" else ""),
-      "url": f"https://vndb.org/{char_id}",
-      "type": "Q15632617",
-      "P21": "Q6581097" if char_data["sex"] == "m" else ("Q6581072" if char_data["sex"] == "f" else ""),
-    }
-
-  results_list = sorted(results, key=lambda x: (results[x]["type"], results[x]["name"].lower(), int(results[x]["id"][1:])))
+  results_list = sorted(
+    results, key=lambda x: (results[x]["type"], results[x]["name"].lower(), int(results[x]["id"][1:]))
+  )
 
   with open("results/VNDB.txt", "w", -1, "utf-8") as f:
     f.write("\t".join(results[results_list[0]].keys()) + "\n")
@@ -116,7 +133,9 @@ def parse():
       game = results[game]
       f.write("\t".join(game.values()) + "\n")
 
+
 if __name__ == "__main__":
   import os
+
   os.chdir(os.path.dirname(os.path.abspath(__file__)))
   parse()
