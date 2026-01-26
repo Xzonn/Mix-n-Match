@@ -28,10 +28,7 @@ def download() -> list[dict]:
     "page": 0,
   }
   DEFAULT_FILTERS = [
-    '(NOT editions:"Physical")',
     '(editions:"Digital")',
-    '(NOT topLevelFilters:"DLC")',
-    '(NOT topLevelFilters:"Upgrade pack")',
   ]
   AVAILABLE_PARAMETERS = {
     "corePlatforms": ["Nintendo Switch", "Nintendo Switch 2"],
@@ -88,6 +85,10 @@ def parse(hits_all):
       or (not game.get("nsuid", None))
     ):
       continue
+    productType = game.get("eshopDetails", {}).get("productType", "")
+    if productType not in ["TITLE"]:
+      continue
+
     esrb = game.get("contentRatingCode", "")
     year = 0
     try:
