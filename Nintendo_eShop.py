@@ -48,7 +48,7 @@ def download() -> list[dict]:
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.114.514 Safari/537.36 XzonnMixnMatch/0.1",
   }
 
-  data_list = []
+  data_list = [copy.deepcopy(DATA)]
   keys = AVAILABLE_PARAMETERS.keys()
   for params in itertools.product(*AVAILABLE_PARAMETERS.values()):
     filters = copy.deepcopy(DEFAULT_FILTERS)
@@ -88,7 +88,7 @@ def parse(hits_all):
       or (not game.get("nsuid", None))
     ):
       continue
-    esrb = game.get("esrbRating", "")
+    esrb = game.get("contentRatingCode", "")
     year = 0
     try:
       release_date = datetime.datetime.strptime(game.get("releaseDate", ""), "%Y-%m-%dT%H:%M:%S.%fZ")
@@ -96,11 +96,14 @@ def parse(hits_all):
     except:
       pass
     descriptors = []
-    for i in game.get("esrbDescriptors", []) or []:
-      if i not in ESRB_DESCRIPTORS:
-        print(f"Warning: {i} not in ESRB_DESCRIPTORS")
+    for i in game.get("contentDescriptors", []) or []:
+      label = i.get("label", "")
+      if label not in ESRB_DESCRIPTORS:
+        if "www.esrb.org" in label:
+          continue
+        print(f"Warning: {label} not in ESRB_DESCRIPTORS")
       else:
-        descriptors.append(ESRB_DESCRIPTORS[i])
+        descriptors.append(ESRB_DESCRIPTORS[label])
 
     platform = game.get("platform", "")
     platformQid = PLATFORMS.get(platform, "")

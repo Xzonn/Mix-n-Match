@@ -46,6 +46,7 @@ ESRB_DESCRIPTORS = {
   "Fantasy Violence": "Q60317581",
   "Fine Motor Skills": "Q98556733",
   "Gambling": "Q97543276",
+  "Gambling Themes": "Q131522956",
   "Game Experience May Change During Online Play": "Q97302889",
   "Gaming": "Q103531650",
   "Higher-Level Thinking Skills": "Q98556734",
@@ -115,5 +116,5 @@ ESRB_DESCRIPTORS = {
 def parse_title(original_title: str) -> str:
   if not original_title:
     return ""
-  title = re.sub(r"[ \t\n\u200B]+", " ", original_title.replace("™", " ").replace("®", " ")).replace(" :", ":").strip()
+  title = re.sub(r"[ \t\n\u200B™®\"]+", " ", original_title).replace(" :", ":").replace("  ", " ").strip()
   return title
