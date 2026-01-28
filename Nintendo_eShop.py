@@ -32,10 +32,40 @@ def download() -> list[dict]:
   ]
   AVAILABLE_PARAMETERS = {
     "corePlatforms": ["Nintendo Switch", "Nintendo Switch 2"],
-    "topLevelFilters": ["", "Deals", "Demo available", "Games with DLC"],
+    "topLevelFilters": ["", "Demo available", "Games with DLC"],
     "priceRange": ["", "$10 - $19.99", "$20 - $39.99", "$40+"],
     # "contentRatingCode": ["", "E", "E10", "T", "M"],
     # "playerCount": ["", "2+", "Single Player"],
+    "nsoFeatures": ["", "Online Play", "Save Data Cloud"],
+  }
+  AVAILABLE_PUBLISHERS = {
+    "corePlatforms": ["Nintendo Switch", "Nintendo Switch 2"],
+    "softwarePublisher": [
+      "BANDAI NAMCO Entertainment",
+      "KOEI TECMO AMERICA",
+      "NIS America",
+      "Nintendo",
+      "CAPCOM",
+      "KEMCO",
+      "Marvelous (XSEED)",
+      "SEGA",
+      "SQUARE ENIX",
+      "WB Games",
+      "THQ Nordic",
+      "Ubisoft",
+      "Team17",
+      "TAITO",
+      "D3PUBLISHER",
+      "Bushiroad",
+      "Electronic Arts",
+      "2K",
+      "ARC SYSTEM WORKS",
+      "GungHo America",
+      "Devolver Digital",
+      "Atari",
+      "Idea Factory",
+      "Kairosoft",
+    ],
   }
   HEADERS = {
     "x-algolia-api-key": "a29c6927638bfd8cee23993e51e721c9",
@@ -46,17 +76,18 @@ def download() -> list[dict]:
   }
 
   data_list = [copy.deepcopy(DATA)]
-  keys = AVAILABLE_PARAMETERS.keys()
-  for params in itertools.product(*AVAILABLE_PARAMETERS.values()):
-    filters = copy.deepcopy(DEFAULT_FILTERS)
-    for k, p in zip(keys, params):
-      if p:
-        filters.append(f'({k}:"{p}")')
+  for params in [AVAILABLE_PARAMETERS, AVAILABLE_PUBLISHERS]:
+    keys = params.keys()
+    for params in itertools.product(*params.values()):
+      filters = copy.deepcopy(DEFAULT_FILTERS)
+      for k, p in zip(keys, params):
+        if p:
+          filters.append(f'({k}:"{p}")')
 
-    filters_str = " AND ".join(filters)
-    data = copy.deepcopy(DATA)
-    data["filters"] = filters_str
-    data_list.append(data)
+      filters_str = " AND ".join(filters)
+      data = copy.deepcopy(DATA)
+      data["filters"] = filters_str
+      data_list.append(data)
 
   hits_all: list[dict] = []
   session = requests.Session()
@@ -85,7 +116,7 @@ def parse(hits_all):
       or (not game.get("nsuid", None))
     ):
       continue
-    productType = game.get("eshopDetails", {}).get("productType", "")
+    productType = (game.get("eshopDetails") or {}).get("productType", "")
     if productType not in ["TITLE"]:
       continue
 
@@ -97,6 +128,7 @@ def parse(hits_all):
     except:
       pass
     descriptors = []
+    interactive_elements = []
     for i in game.get("contentDescriptors", []) or []:
       label = i.get("label", "")
       if label not in ESRB_DESCRIPTORS:
@@ -104,7 +136,10 @@ def parse(hits_all):
           continue
         print(f"Warning: {label} not in ESRB_DESCRIPTORS")
       else:
-        descriptors.append(ESRB_DESCRIPTORS[label])
+        if i["type"] == "CONTENT_DESCRIPTOR":
+          descriptors.append(ESRB_DESCRIPTORS[label])
+        elif i["type"] == "INTERACTIVE_ELEMENT":
+          interactive_elements.append(ESRB_DESCRIPTORS[label])
 
     platform = game.get("platform", "")
     platformQid = PLATFORMS.get(platform, "")
@@ -122,6 +157,7 @@ def parse(hits_all):
       "P750": "Q3070866",
       "P852": ESRB.get(esrb, ""),
       "#ESRB_DESCRIPTORS": "|".join(descriptors),
+      "#ESRB_INTERACTIVE_ELEMENTS": "|".join(interactive_elements),
     }
 
   results_list = sorted(results, key=lambda x: (results[x]["name"].lower(), results[x]["id"]))
