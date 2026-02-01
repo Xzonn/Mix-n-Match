@@ -76,7 +76,6 @@ Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
 BlackMilk_Clothing	BlackMilk Clothing	company	https://www.mariowiki.com/BlackMilk_Clothing	Q4830453
 Bob_Hoskins	Bob Hoskins	human	https://www.mariowiki.com/Bob_Hoskins	Q5
-Bomb_Desktop_Buddy	Bomb Desktop Buddy	video game	https://www.mariowiki.com/Bomb_Desktop_Buddy	Q7889
 Bowser_Jr.'s_Journey	Bowser Jr.'s Journey	video game	https://www.mariowiki.com/Bowser_Jr.%27s_Journey	Q7889
 Bowser's_Fury	Bowser's Fury	video game	https://www.mariowiki.com/Bowser%27s_Fury	Q7889
 Bowser's_Lair_Hockey	Bowser's Lair Hockey	video game	https://www.mariowiki.com/Bowser%27s_Lair_Hockey	Q7889
@@ -161,6 +160,7 @@ David_Wise	David Wise	human	https://www.mariowiki.com/David_Wise	Q5
 Davide_Garbolino	Davide Garbolino	human	https://www.mariowiki.com/Davide_Garbolino	Q5
 Davide_Soliani	Davide Soliani	human	https://www.mariowiki.com/Davide_Soliani	Q5
 Dawn_M._Bennett	Dawn M. Bennett	human	https://www.mariowiki.com/Dawn_M._Bennett	Q5
+Daylan_Williams	Daylan Williams	human	https://www.mariowiki.com/Daylan_Williams	Q5
 Dayvv_Brooks	Dayvv Brooks	human	https://www.mariowiki.com/Dayvv_Brooks	Q5
 Deanna_Mustard	Deanna Mustard	human	https://www.mariowiki.com/Deanna_Mustard	Q5
 Deborah_Morese	Deborah Morese	human	https://www.mariowiki.com/Deborah_Morese	Q5
@@ -266,6 +266,7 @@ Dwarf_studios	Dwarf studios	company	https://www.mariowiki.com/Dwarf_studios	Q483
 Easy_Racer	Easy Racer	video game	https://www.mariowiki.com/Easy_Racer	Q7889
 Ed_Solomon	Ed Solomon	human	https://www.mariowiki.com/Ed_Solomon	Q5
 Edward_Bosco	Edward Bosco	human	https://www.mariowiki.com/Edward_Bosco	Q5
+Ekkehardt_Belle	Ekkehardt Belle	human	https://www.mariowiki.com/Ekkehardt_Belle	Q5
 Emiliano_Coltorti	Emiliano Coltorti	human	https://www.mariowiki.com/Emiliano_Coltorti	Q5
 Emmanuel_Curtil	Emmanuel Curtil	human	https://www.mariowiki.com/Emmanuel_Curtil	Q5
 Enric_Puig	Enric Puig	human	https://www.mariowiki.com/Enric_Puig	Q5
@@ -710,6 +711,7 @@ Mario's_Time_Machine_(PC)	Mario's Time Machine (PC)	video game	https://www.mario
 Mario's_Time_Machine_(Super_Nintendo_Entertainment_System)	Mario's Time Machine (Super Nintendo Entertainment System)	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_%28Super_Nintendo_Entertainment_System%29	Q7889
 Mario's_Time_Machine_Deluxe	Mario's Time Machine Deluxe	video game	https://www.mariowiki.com/Mario%27s_Time_Machine_Deluxe	Q7889
 Mark_Stevenson	Mark Stevenson	human	https://www.mariowiki.com/Mark_Stevenson	Q5
+Marta_Costello	Marta Costello	human	https://www.mariowiki.com/Marta_Costello	Q5
 Martín_Soto	Martín Soto	human	https://www.mariowiki.com/Mart%C3%ADn_Soto	Q5
 Maru_Guerrero	Maru Guerrero	human	https://www.mariowiki.com/Maru_Guerrero	Q5
 Marvelous_Inc.	Marvelous Inc.	company	https://www.mariowiki.com/Marvelous_Inc.	Q4830453
@@ -1059,6 +1061,7 @@ SUZAK_Inc.	SUZAK Inc.	company	https://www.mariowiki.com/SUZAK_Inc.	Q4830453
 Sven_Plate	Sven Plate	human	https://www.mariowiki.com/Sven_Plate	Q5
 Sylvia_Garcel	Sylvia Garcel	human	https://www.mariowiki.com/Sylvia_Garcel	Q5
 Sébastien_Desjours	Sébastien Desjours	human	https://www.mariowiki.com/S%C3%A9bastien_Desjours	Q5
+Sía_Koskiná	Sía Koskiná	human	https://www.mariowiki.com/S%C3%ADa_Koskin%C3%A1	Q5
 Tabitha_St._Germain	Tabitha St. Germain	human	https://www.mariowiki.com/Tabitha_St._Germain	Q5
 Taco_Bell	Taco Bell	company	https://www.mariowiki.com/Taco_Bell	Q4830453
 Tadd_Morgan	Tadd Morgan	human	https://www.mariowiki.com/Tadd_Morgan	Q5
@@ -1163,6 +1166,7 @@ WarioWare:_Get_It_Together!	WarioWare: Get It Together!	video game	https://www.m
 WarioWare:_Move_It!	WarioWare: Move It!	video game	https://www.mariowiki.com/WarioWare%3A_Move_It%21	Q7889
 WarioWare:_Smooth_Moves	WarioWare: Smooth Moves	video game	https://www.mariowiki.com/WarioWare%3A_Smooth_Moves	Q7889
 WarioWare:_Snapped!	WarioWare: Snapped!	video game	https://www.mariowiki.com/WarioWare%3A_Snapped%21	Q7889
+WarioWare:_Touched_Souvenier	WarioWare: Touched Souvenier	video game	https://www.mariowiki.com/WarioWare%3A_Touched_Souvenier	Q7889
 WarioWare:_Twisted!	WarioWare: Twisted!	video game	https://www.mariowiki.com/WarioWare%3A_Twisted%21	Q7889
 Welcome_to_Nintendo_World!	Welcome to Nintendo World!	video game	https://www.mariowiki.com/Welcome_to_Nintendo_World%21	Q7889
 Wendy's	Wendy's	company	https://www.mariowiki.com/Wendy%27s	Q4830453
