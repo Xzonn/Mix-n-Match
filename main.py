@@ -21,7 +21,7 @@ FILE_NAMES = [
   "StrategyWiki.py",
   "Super_Mario_Wiki.py",
   "VNDB.py",
-  "MetaCritic.py",
+  "Metacritic.py",
   "OpenCritic.py",
 ]
 
