@@ -138,6 +138,7 @@ Create-N-Send_A_Donkey_Kong_Country_Family_Portrait	Create-N-Send A Donkey Kong 
 Cristina_Vee	Cristina Vee	human	https://www.mariowiki.com/Cristina_Vee	Q5
 Cup_of_Tea_Productions	Cup of Tea Productions	company	https://www.mariowiki.com/Cup_of_Tea_Productions	Q4830453
 Céline_Monsarrat	Céline Monsarrat	human	https://www.mariowiki.com/C%C3%A9line_Monsarrat	Q5
+César_Lechiguero	César Lechiguero	human	https://www.mariowiki.com/C%C3%A9sar_Lechiguero	Q5
 César_Soto	César Soto	human	https://www.mariowiki.com/C%C3%A9sar_Soto	Q5
 Daiki_Yamashita	Daiki Yamashita	human	https://www.mariowiki.com/Daiki_Yamashita	Q5
 Damon_D'Oliveira	Damon D'Oliveira	human	https://www.mariowiki.com/Damon_D%27Oliveira	Q5
@@ -356,6 +357,7 @@ Gregg_Mayles	Gregg Mayles	human	https://www.mariowiki.com/Gregg_Mayles	Q5
 GREZZO_Co.,_Ltd.	GREZZO Co., Ltd.	company	https://www.mariowiki.com/GREZZO_Co.%2C_Ltd.	Q4830453
 Griffin_Puatu	Griffin Puatu	human	https://www.mariowiki.com/Griffin_Puatu	Q5
 Gudo_Hoegel	Gudo Hoegel	human	https://www.mariowiki.com/Gudo_Hoegel	Q5
+Guilherme_Lopes	Guilherme Lopes	human	https://www.mariowiki.com/Guilherme_Lopes	Q5
 Guillermo_Romero	Guillermo Romero	human	https://www.mariowiki.com/Guillermo_Romero	Q5
 Guillermo_Sauceda	Guillermo Sauceda	human	https://www.mariowiki.com/Guillermo_Sauceda	Q5
 Guinness_World_Records	Guinness World Records	company	https://www.mariowiki.com/Guinness_World_Records	Q4830453
@@ -507,6 +509,7 @@ Len_Carlson	Len Carlson	human	https://www.mariowiki.com/Len_Carlson	Q5
 Leslie_Swan	Leslie Swan	human	https://www.mariowiki.com/Leslie_Swan	Q5
 Lexie_Kendrick	Lexie Kendrick	human	https://www.mariowiki.com/Lexie_Kendrick	Q5
 LINE	LINE	company	https://www.mariowiki.com/LINE	Q4830453
+Linus_Wahlgren	Linus Wahlgren	human	https://www.mariowiki.com/Linus_Wahlgren	Q5
 List_of_games	List of games	video game	https://www.mariowiki.com/List_of_games	Q7889
 List_of_games_by_date	List of games by date	video game	https://www.mariowiki.com/List_of_games_by_date	Q7889
 List_of_games_by_genre	List of games by genre	video game	https://www.mariowiki.com/List_of_games_by_genre	Q7889
@@ -794,6 +797,7 @@ New_Super_Mario_Bros._U_Deluxe	New Super Mario Bros. U Deluxe	video game	https:/
 New_Super_Mario_Bros._Wii	New Super Mario Bros. Wii	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Wii	Q7889
 New_Super_Mario_Bros._Wii_Coin_World	New Super Mario Bros. Wii Coin World	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Wii_Coin_World	Q7889
 Next_Level_Games	Next Level Games	company	https://www.mariowiki.com/Next_Level_Games	Q4830453
+Niclas_Wahlgren	Niclas Wahlgren	human	https://www.mariowiki.com/Niclas_Wahlgren	Q5
 Nicolas_Bienvenu	Nicolas Bienvenu	human	https://www.mariowiki.com/Nicolas_Bienvenu	Q5
 Nicole_Eggert	Nicole Eggert	human	https://www.mariowiki.com/Nicole_Eggert	Q5
 Nicole_Mills	Nicole Mills	human	https://www.mariowiki.com/Nicole_Mills	Q5
@@ -1061,6 +1065,7 @@ SUZAK_Inc.	SUZAK Inc.	company	https://www.mariowiki.com/SUZAK_Inc.	Q4830453
 Sven_Plate	Sven Plate	human	https://www.mariowiki.com/Sven_Plate	Q5
 Sylvia_Garcel	Sylvia Garcel	human	https://www.mariowiki.com/Sylvia_Garcel	Q5
 Sébastien_Desjours	Sébastien Desjours	human	https://www.mariowiki.com/S%C3%A9bastien_Desjours	Q5
+Sérgio_Moreno	Sérgio Moreno	human	https://www.mariowiki.com/S%C3%A9rgio_Moreno	Q5
 Sía_Koskiná	Sía Koskiná	human	https://www.mariowiki.com/S%C3%ADa_Koskin%C3%A1	Q5
 Tabitha_St._Germain	Tabitha St. Germain	human	https://www.mariowiki.com/Tabitha_St._Germain	Q5
 Taco_Bell	Taco Bell	company	https://www.mariowiki.com/Taco_Bell	Q4830453
@@ -1142,8 +1147,8 @@ Walker_Boone	Walker Boone	human	https://www.mariowiki.com/Walker_Boone	Q5
 Wario_Blast:_Featuring_Bomberman!	Wario Blast: Featuring Bomberman!	video game	https://www.mariowiki.com/Wario_Blast%3A_Featuring_Bomberman%21	Q7889
 Wario_Busters	Wario Busters	video game	https://www.mariowiki.com/Wario_Busters	Q7889
 Wario_Land_(series)	Wario Land (series)	video game series	https://www.mariowiki.com/Wario_Land_%28series%29	Q7058673
-Wario_Land:_Shake_It!_bag_game	Wario Land: Shake It! bag game	video game	https://www.mariowiki.com/Wario_Land%3A_Shake_It%21_bag_game	Q7889
 Wario_Land:_Super_Mario_Land_3	Wario Land: Super Mario Land 3	video game	https://www.mariowiki.com/Wario_Land%3A_Super_Mario_Land_3	Q7889
+Wario_Land:_The_Shake_Dimension_(Flash_game)	Wario Land: The Shake Dimension (Flash game)	video game	https://www.mariowiki.com/Wario_Land%3A_The_Shake_Dimension_%28Flash_game%29	Q7889
 Wario_no_Mori_Bakushō_Version	Wario no Mori Bakushō Version	video game	https://www.mariowiki.com/Wario_no_Mori_Bakush%C5%8D_Version	Q7889
 Wario_no_Mori_Event_Version	Wario no Mori Event Version	video game	https://www.mariowiki.com/Wario_no_Mori_Event_Version	Q7889
 Wario_no_Mori_Futatabi	Wario no Mori Futatabi	video game	https://www.mariowiki.com/Wario_no_Mori_Futatabi	Q7889
