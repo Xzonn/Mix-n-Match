@@ -61,7 +61,6 @@ id	name	desc	url	type
 8406	A Knight's Quest	2019 video game	https://opencritic.com/game/8406/a-knights-quest	Q7889
 12162	A Little Golf Journey	2021 video game	https://opencritic.com/game/12162/a-little-golf-journey	Q7889
 13959	A Little to the Left	2022 video game	https://opencritic.com/game/13959/a-little-to-the-left	Q7889
-19869	A Maiden's Serenade	2025 PC video game	https://opencritic.com/game/19869/a-maidens-serenade	Q7889
 12934	A Memoir Blue	2022 video game	https://opencritic.com/game/12934/a-memoir-blue	Q7889
 10145	A Monster's Expedition	2020 video game	https://opencritic.com/game/10145/a-monsters-expedition	Q7889
 12832	A Musical Story	2022 video game	https://opencritic.com/game/12832/a-musical-story	Q7889
@@ -321,7 +320,6 @@ id	name	desc	url	type
 5782	Ash of Gods: Redemption	2018 video game	https://opencritic.com/game/5782/ash-of-gods-redemption	Q7889
 6979	Ashen	2018 video game	https://opencritic.com/game/6979/ashen	Q7889
 5184	Ashes Cricket	2017 video game	https://opencritic.com/game/5184/ashes-cricket	Q7889
-19744	Ashes of Creation	2025 PC video game	https://opencritic.com/game/19744/ashes-of-creation	Q7889
 2541	Ashes of the Singularity	2016 video game	https://opencritic.com/game/2541/ashes-of-the-singularity	Q7889
 11222	Ashwalkers	2021 video game	https://opencritic.com/game/11222/ashwalkers	Q7889
 12490	Aspire: Ina's Tale	2021 video game	https://opencritic.com/game/12490/aspire-inas-tale	Q7889
@@ -953,7 +951,7 @@ id	name	desc	url	type
 8943	Code Shifter	2020 video game	https://opencritic.com/game/8943/code-shifter	Q7889
 8079	Code Vein	2019 video game	https://opencritic.com/game/8079/code-vein	Q7889
 19371	Code Vein II	2026 PC, PS5, XBXS video game	https://opencritic.com/game/19371/code-vein-ii	Q7889
-19172	Code Violet	2025 PS5 video game	https://opencritic.com/game/19172/code-violet	Q7889
+19172	Code Violet	2025 video game	https://opencritic.com/game/19172/code-violet	Q7889
 7296	Code: Realize ~Wintertide Miracles~	2019 video game	https://opencritic.com/game/7296/code-realize-wintertide-miracles-	Q7889
 6268	Coffee Crisis	2018 video game	https://opencritic.com/game/6268/coffee-crisis	Q7889
 8901	Coffee Talk	2020 video game	https://opencritic.com/game/8901/coffee-talk	Q7889
@@ -985,6 +983,7 @@ id	name	desc	url	type
 4901	Conga Master Party!	2017 video game	https://opencritic.com/game/4901/conga-master-party-	Q7889
 9027	Conglomerate 451	2020 video game	https://opencritic.com/game/9027/conglomerate-451	Q7889
 17011	CONSCRIPT	2024 video game	https://opencritic.com/game/17011/conscript	Q7889
+20159	Console Archives - Cool Boarders	2026 Switch 2, PS5 video game	https://opencritic.com/game/20159/console-archives-cool-boarders	Q7889
 20089	Console Archives - Ninja Gaiden II: The Dark Sword of Chaos	2026 Switch 2, PS5 video game	https://opencritic.com/game/20089/console-archives-ninja-gaiden-ii-the-dark-sword-of-chaos	Q7889
 669	CONSORTIUM	2014 video game	https://opencritic.com/game/669/consortium	Q7889
 19641	Constance	2025 video game	https://opencritic.com/game/19641/constance	Q7889
@@ -1029,7 +1028,6 @@ id	name	desc	url	type
 225	CounterSpy	2014 video game	https://opencritic.com/game/225/counterspy	Q7889
 19425	Cozy Caravan	2024 video game	https://opencritic.com/game/19425/cozy-caravan	Q7889
 11178	Cozy Grove	2021 video game	https://opencritic.com/game/11178/cozy-grove	Q7889
-19746	Cozyrama	2025 PC video game	https://opencritic.com/game/19746/cozyrama	Q7889
 1515	Crackdown 3	2019 video game	https://opencritic.com/game/1515/crackdown-3	Q7889
 19986	Craftlings	2026 PC video game	https://opencritic.com/game/19986/craftlings	Q7889
 9900	Crash Bandicoot 4: It's About Time	2020 video game	https://opencritic.com/game/9900/crash-bandicoot-4-its-about-time	Q7889
@@ -1042,6 +1040,7 @@ id	name	desc	url	type
 6754	Crayola Scoot	2018 video game	https://opencritic.com/game/6754/crayola-scoot	Q7889
 9827	Creaks	2020 video game	https://opencritic.com/game/9827/creaks	Q7889
 8215	Creature in the Well	2019 video game	https://opencritic.com/game/8215/creature-in-the-well	Q7889
+20152	Creature Kitchen	2026 PC video game	https://opencritic.com/game/20152/creature-kitchen	Q7889
 17073	Creatures of Ava	2024 video game	https://opencritic.com/game/17073/creatures-of-ava	Q7889
 6662	Creed: Rise to Glory	2018 video game	https://opencritic.com/game/6662/creed-rise-to-glory	Q7889
 5137	Creeping Terror	2017 video game	https://opencritic.com/game/5137/creeping-terror	Q7889
@@ -1051,6 +1050,7 @@ id	name	desc	url	type
 14493	Crime Boss: Rockay City	2023 video game	https://opencritic.com/game/14493/crime-boss-rockay-city	Q7889
 15169	Crime O'Clock	2023 video game	https://opencritic.com/game/15169/crime-oclock	Q7889
 3312	Criminal Girls 2: Party Favors	2016 video game	https://opencritic.com/game/3312/criminal-girls-2-party-favors	Q7889
+20147	Crimson Capes	2026 PC video game	https://opencritic.com/game/20147/crimson-capes	Q7889
 864	Crimson Dragon	2013 video game	https://opencritic.com/game/864/crimson-dragon	Q7889
 6944	Crimson Keep	2018 video game	https://opencritic.com/game/6944/crimson-keep	Q7889
 237	Crimsonland	2014 video game	https://opencritic.com/game/237/crimsonland	Q7889
@@ -1336,6 +1336,7 @@ id	name	desc	url	type
 14353	Diablo IV	2023 video game	https://opencritic.com/game/14353/diablo-iv	Q7889
 17122	Diablo IV: Vessel of Hatred	2024 video game	https://opencritic.com/game/17122/diablo-iv-vessel-of-hatred	Q7889
 3292	Diaries of a Spaceport Janitor	2016 video game	https://opencritic.com/game/3292/diaries-of-a-spaceport-janitor	Q7889
+20153	Dice A Million	2026 PC video game	https://opencritic.com/game/20153/dice-a-million	Q7889
 11932	Dice Legacy	2021 video game	https://opencritic.com/game/11932/dice-legacy	Q7889
 16335	Dicefolk	2024 video game	https://opencritic.com/game/16335/dicefolk	Q7889
 8104	Dicey Dungeons	2019 video game	https://opencritic.com/game/8104/dicey-dungeons	Q7889
@@ -1401,6 +1402,7 @@ id	name	desc	url	type
 88	DmC: Devil May Cry Definitive Edition	2015 video game	https://opencritic.com/game/88/dmc-devil-may-cry-definitive-edition	Q7889
 13289	DNF Duel	2022 video game	https://opencritic.com/game/13289/dnf-duel	Q7889
 6816	Do Not Feed The Monkeys	2018 video game	https://opencritic.com/game/6816/do-not-feed-the-monkeys	Q7889
+20164	Dobbel Dungeon	2026 PC video game	https://opencritic.com/game/20164/dobbel-dungeon	Q7889
 12195	Doctor Who: The Edge of Reality	2021 video game	https://opencritic.com/game/12195/doctor-who-the-edge-of-reality	Q7889
 8583	Doctor Who: The Edge of Time	2019 video game	https://opencritic.com/game/8583/doctor-who-the-edge-of-time	Q7889
 11102	Doctor Who: The Lonely Assassins	2021 video game	https://opencritic.com/game/11102/doctor-who-the-lonely-assassins	Q7889
@@ -1455,6 +1457,7 @@ id	name	desc	url	type
 8745	Dr. Kawashima's Brain Training	2020 video game	https://opencritic.com/game/8745/dr-kawashimas-brain-training	Q7889
 1475	Dr. Luigi	2013 video game	https://opencritic.com/game/1475/dr-luigi	Q7889
 2275	Dr. Mario: Miracle Cure	2015 video game	https://opencritic.com/game/2275/dr-mario-miracle-cure	Q7889
+20158	DRACU-RIOT!	2026 PC video game	https://opencritic.com/game/20158/dracu-riot-	Q7889
 18802	Drag x Drive	2025 video game	https://opencritic.com/game/18802/drag-x-drive	Q7889
 1831	Dragon Age Inquisition - The Descent	2015 video game	https://opencritic.com/game/1831/dragon-age-inquisition-the-descent	Q7889
 156	Dragon Age: Inquisition	2014 video game	https://opencritic.com/game/156/dragon-age-inquisition	Q7889
@@ -1511,7 +1514,6 @@ id	name	desc	url	type
 17054	Dredge: The Iron Rig	2024 video game	https://opencritic.com/game/17054/dredge-the-iron-rig	Q7889
 15862	Dredge: The Pale Reach	2023 video game	https://opencritic.com/game/15862/dredge-the-pale-reach	Q7889
 4464	Drifting Lands	2017 video game	https://opencritic.com/game/4464/drifting-lands	Q7889
-20122	DRINK HUMAN BEANS	2025 PC video game	https://opencritic.com/game/20122/drink-human-beans	Q7889
 4439	Drive Girls	2017 video game	https://opencritic.com/game/4439/drive-girls	Q7889
 3673	Drive!Drive!Drive!	2016 video game	https://opencritic.com/game/3673/drive-drive-drive-	Q7889
 193	Driveclub	2014 video game	https://opencritic.com/game/193/driveclub	Q7889
@@ -1544,7 +1546,6 @@ id	name	desc	url	type
 13004	Dungeons of Dreadrock	2022 video game	https://opencritic.com/game/13004/dungeons-of-dreadrock	Q7889
 16996	Dungeons of Hinterberg	2024 video game	https://opencritic.com/game/16996/dungeons-of-hinterberg	Q7889
 20088	DunHero	2026 Switch 2, Switch, PC video game	https://opencritic.com/game/20088/dunhero	Q7889
-19858	Dunjungle	2025 PC, Switch, PS5, PS4, XBXS, Switch 2 video game	https://opencritic.com/game/19858/dunjungle	Q7889
 4927	DUSK	2017 video game	https://opencritic.com/game/4927/dusk	Q7889
 8477	Dusk Diver	2019 video game	https://opencritic.com/game/8477/dusk-diver	Q7889
 13581	Dusk Diver 2	2022 video game	https://opencritic.com/game/13581/dusk-diver-2	Q7889
@@ -1816,6 +1817,7 @@ id	name	desc	url	type
 14409	Fatal Frame: Mask of the Lunar Eclipse	2023 video game	https://opencritic.com/game/14409/fatal-frame-mask-of-the-lunar-eclipse	Q7889
 17789	Fatal Fury: City of the Wolves	2025 video game	https://opencritic.com/game/17789/fatal-fury-city-of-the-wolves	Q7889
 10728	Fatal Fury: First Contact	2020 video game	https://opencritic.com/game/10728/fatal-fury-first-contact	Q7889
+20162	Fate's Theater	2026 PC video game	https://opencritic.com/game/20162/fates-theater	Q7889
 7463	Fate/Extella Link	2019 video game	https://opencritic.com/game/7463/fate-extella-link	Q7889
 3463	Fate/EXTELLA: The Umbral Star	2017 video game	https://opencritic.com/game/3463/fate-extella-the-umbral-star	Q7889
 15559	Fate/Samurai Remnant	2023 video game	https://opencritic.com/game/15559/fate-samurai-remnant	Q7889
@@ -2043,6 +2045,7 @@ id	name	desc	url	type
 2184	FullBlast	2015 video game	https://opencritic.com/game/2184/fullblast	Q7889
 833	Funk of Titans	2015 video game	https://opencritic.com/game/833/funk-of-titans	Q7889
 17293	Funko Fusion	2024 video game	https://opencritic.com/game/17293/funko-fusion	Q7889
+20148	FUR Squadron Phoenix	2026 Switch, Switch 2, PC video game	https://opencritic.com/game/20148/fur-squadron-phoenix	Q7889
 2940	Furi	2016 video game	https://opencritic.com/game/2940/furi	Q7889
 9292	Fury Unleashed	2020 video game	https://opencritic.com/game/9292/fury-unleashed	Q7889
 10481	Fuser	2020 video game	https://opencritic.com/game/10481/fuser	Q7889
@@ -2286,6 +2289,7 @@ id	name	desc	url	type
 10805	Habroxia 2	2021 video game	https://opencritic.com/game/10805/habroxia-2	Q7889
 10181	Hades	2020 video game	https://opencritic.com/game/10181/hades	Q7889
 16683	Hades II	2025 video game	https://opencritic.com/game/16683/hades-ii	Q7889
+20157	Hakuoki SSL ~Sweet School Life~	2026 Switch, Switch 2 video game	https://opencritic.com/game/20157/hakuoki-ssl-sweet-school-life-	Q7889
 5694	Hakuoki: Edo Blossoms	2018 video game	https://opencritic.com/game/5694/hakuoki-edo-blossoms	Q7889
 4247	Hakuoki: Kyoto Winds	2017 video game	https://opencritic.com/game/4247/hakuoki-kyoto-winds	Q7889
 3254	Halcyon 6: Starbase Commander	2016 video game	https://opencritic.com/game/3254/halcyon-6-starbase-commander	Q7889
@@ -2304,6 +2308,7 @@ id	name	desc	url	type
 5373	Hammerwatch	2013 video game	https://opencritic.com/game/5373/hammerwatch	Q7889
 15364	Hammerwatch II	2023 video game	https://opencritic.com/game/15364/hammerwatch-ii	Q7889
 8048	Hamsterdam	2019 video game	https://opencritic.com/game/8048/hamsterdam	Q7889
+20144	HAMSTERMIND	2026 PC video game	https://opencritic.com/game/20144/hamstermind	Q7889
 110	Hand of Fate	2015 video game	https://opencritic.com/game/110/hand-of-fate	Q7889
 5117	Hand of Fate 2	2017 video game	https://opencritic.com/game/5117/hand-of-fate-2	Q7889
 20066	HANK: Drowning On Dry Land	2026 PC video game	https://opencritic.com/game/20066/hank-drowning-on-dry-land	Q7889
@@ -2636,8 +2641,6 @@ id	name	desc	url	type
 8279	Jet Kave Adventure	2019 video game	https://opencritic.com/game/8279/jet-kave-adventure	Q7889
 12068	JETT: The Far Shore	2021 video game	https://opencritic.com/game/12068/jett-the-far-shore	Q7889
 4867	Jettomero: Hero of the Universe	2017 video game	https://opencritic.com/game/4867/jettomero-hero-of-the-universe	Q7889
-20058	Jewel Match Atlantis Solitaire 5 - Collector's Edition	2025 PC video game	https://opencritic.com/game/20058/jewel-match-atlantis-solitaire-5-collectors-edition	Q7889
-20029	Jixo 4: Magical Nights Collector's Edition	2025 PC video game	https://opencritic.com/game/20029/jixo-4-magical-nights-collectors-edition	Q7889
 2557	Job Simulator (VR)	2016 video game	https://opencritic.com/game/2557/job-simulator-vr-	Q7889
 6741	Joggernauts	2018 video game	https://opencritic.com/game/6741/joggernauts	Q7889
 8394	John Wick Hex	2019 video game	https://opencritic.com/game/8394/john-wick-hex	Q7889
@@ -2848,7 +2851,6 @@ id	name	desc	url	type
 7757	Layers of Fear 2	2019 video game	https://opencritic.com/game/7757/layers-of-fear-2	Q7889
 3054	Layers of Fear: Inheritance	2016 video game	https://opencritic.com/game/3054/layers-of-fear-inheritance	Q7889
 5587	Layers of Fear: Legacy	2018 video game	https://opencritic.com/game/5587/layers-of-fear-legacy	Q7889
-19949	Layers of Fear: The Final Masterpiece Edition	2025 Switch 2 video game	https://opencritic.com/game/19949/layers-of-fear-the-final-masterpiece-edition	Q7889
 8548	Layton's Mystery Journey (Deluxe Edition)	2019 video game	https://opencritic.com/game/8548/laytons-mystery-journey-deluxe-edition-	Q7889
 4970	Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy	2017 video game	https://opencritic.com/game/4970/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy	Q7889
 4790	League of Evil	2016 video game	https://opencritic.com/game/4790/league-of-evil	Q7889
@@ -2856,6 +2858,7 @@ id	name	desc	url	type
 2537	Leap of Fate	2016 video game	https://opencritic.com/game/2537/leap-of-fate	Q7889
 3915	Leaving Lyndow	2017 video game	https://opencritic.com/game/3915/leaving-lyndow	Q7889
 7086	Left Alive	2019 video game	https://opencritic.com/game/7086/left-alive	Q7889
+20104	Legacy of Kain: Defiance Remastered	2026 PC video game	https://opencritic.com/game/20104/legacy-of-kain-defiance-remastered	Q7889
 17733	Legacy of Kain: Soul Reaver 1 & 2 Remastered	2024 video game	https://opencritic.com/game/17733/legacy-of-kain-soul-reaver-1-2-remastered	Q7889
 510	Legend of Grimrock II	2014 video game	https://opencritic.com/game/510/legend-of-grimrock-ii	Q7889
 1850	Legend of Kay Anniversary	2015 video game	https://opencritic.com/game/1850/legend-of-kay-anniversary	Q7889
@@ -3315,7 +3318,6 @@ id	name	desc	url	type
 19840	MIO: Memories in Orbit	2026 PC, PS5, XBXS, Switch 2, Switch video game	https://opencritic.com/game/19840/mio-memories-in-orbit	Q7889
 3681	Mirage: Arcane Warfare	2017 video game	https://opencritic.com/game/3681/mirage-arcane-warfare	Q7889
 1549	Mirror's Edge Catalyst	2016 video game	https://opencritic.com/game/1549/mirrors-edge-catalyst	Q7889
-17952	MiSide	2025 PC video game	https://opencritic.com/game/17952/miside	Q7889
 9517	Missile Command: Recharged	2020 video game	https://opencritic.com/game/9517/missile-command-recharged	Q7889
 8409	Mistover	2019 video game	https://opencritic.com/game/8409/mistover	Q7889
 2323	Mitsurugi Kamui Hikae	2013 video game	https://opencritic.com/game/2323/mitsurugi-kamui-hikae	Q7889
@@ -3331,6 +3333,7 @@ id	name	desc	url	type
 14347	MLB The Show 23	2023 video game	https://opencritic.com/game/14347/mlb-the-show-23	Q7889
 16470	MLB The Show 24	2024 video game	https://opencritic.com/game/16470/mlb-the-show-24	Q7889
 18055	MLB The Show 25	2025 video game	https://opencritic.com/game/18055/mlb-the-show-25	Q7889
+20150	MLB The Show 26	2026 video game	https://opencritic.com/game/20150/mlb-the-show-26	Q7889
 8635	MO: Astray	2019 video game	https://opencritic.com/game/8635/mo-astray	Q7889
 9889	Mobile Suit Gundam Extreme Vs. MaxiBoost ON	2020 video game	https://opencritic.com/game/9889/mobile-suit-gundam-extreme-vs-maxiboost-on	Q7889
 18606	MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED	2025 video game	https://opencritic.com/game/18606/mobile-suit-gundam-seed-battle-destiny-remastered	Q7889
@@ -3410,7 +3413,6 @@ id	name	desc	url	type
 10021	Mortal Shell	2020 video game	https://opencritic.com/game/10021/mortal-shell	Q7889
 11016	Mortal Shell: Enhanced Edition	2020 video game	https://opencritic.com/game/11016/mortal-shell-enhanced-edition	Q7889
 8689	Mosaic	2019 video game	https://opencritic.com/game/8689/mosaic	Q7889
-19977	Mosaic of the Strange	2025 PC video game	https://opencritic.com/game/19977/mosaic-of-the-strange	Q7889
 5618	Moss	2018 video game	https://opencritic.com/game/5618/moss	Q7889
 12965	Moss: Book II	2022 video game	https://opencritic.com/game/12965/moss-book-ii	Q7889
 1699	Mother Russia Bleeds	2016 video game	https://opencritic.com/game/1699/mother-russia-bleeds	Q7889
@@ -3573,9 +3575,11 @@ id	name	desc	url	type
 11093	Neurodeck	2021 video game	https://opencritic.com/game/11093/neurodeck	Q7889
 3210	NeuroVoider	2016 video game	https://opencritic.com/game/3210/neurovoider	Q7889
 17456	Neva	2024 video game	https://opencritic.com/game/17456/neva	Q7889
+20151	Neva: Prologue	2026 PC, PS5, XBXS, Switch video game	https://opencritic.com/game/20151/neva-prologue	Q7889
 18174	Never 7: The End of Infinity	2025 video game	https://opencritic.com/game/18174/never-7-the-end-of-infinity	Q7889
 160	Never Alone	2014 video game	https://opencritic.com/game/160/never-alone	Q7889
 8110	Never Give Up	2019 video game	https://opencritic.com/game/8110/never-give-up	Q7889
+19683	Never Grave: The Witch and the Curse	2026 PC, PS5, PS4, XBXS, Switch video game	https://opencritic.com/game/19683/never-grave-the-witch-and-the-curse	Q7889
 5292	Never Stop Sneakin'	2017 video game	https://opencritic.com/game/5292/never-stop-sneakin	Q7889
 13740	NeverAwake	2022 video game	https://opencritic.com/game/13740/neverawake	Q7889
 1404	Neverending Nightmares	2014 video game	https://opencritic.com/game/1404/neverending-nightmares	Q7889
@@ -3895,6 +3899,7 @@ id	name	desc	url	type
 10551	PAW Patrol Mighty Pups Save Adventure Bay	2020 video game	https://opencritic.com/game/10551/paw-patrol-mighty-pups-save-adventure-bay	Q7889
 15582	PAW Patrol World	2023 video game	https://opencritic.com/game/15582/paw-patrol-world	Q7889
 8007	PAWARUMI	2018 video game	https://opencritic.com/game/8007/pawarumi	Q7889
+19973	Pax Autocratica	2026 PC video game	https://opencritic.com/game/19973/pax-autocratica	Q7889
 5604	Payday 2 - Nintendo Switch Edition	2018 video game	https://opencritic.com/game/5604/payday-2-nintendo-switch-edition	Q7889
 356	Payday 2: Crimewave Edition	2015 video game	https://opencritic.com/game/356/payday-2-crimewave-edition	Q7889
 15193	PAYDAY 3	2023 video game	https://opencritic.com/game/15193/payday-3	Q7889
@@ -3973,7 +3978,6 @@ id	name	desc	url	type
 3891	Pinball FX2 - Star Wars Pinball: Rogue One	2017 video game	https://opencritic.com/game/3891/pinball-fx2-star-wars-pinball-rogue-one	Q7889
 4855	Pinball FX3	2017 video game	https://opencritic.com/game/4855/pinball-fx3	Q7889
 4293	Pinstripe	2017 video game	https://opencritic.com/game/4293/pinstripe	Q7889
-19842	Pioneers of Pagonia	2025 PC video game	https://opencritic.com/game/19842/pioneers-of-pagonia	Q7889
 18270	Pipistrello and the Cursed Yoyo	2025 video game	https://opencritic.com/game/18270/pipistrello-and-the-cursed-yoyo	Q7889
 3481	Pirate Pop Plus	2016 video game	https://opencritic.com/game/3481/pirate-pop-plus	Q7889
 9356	Pirates Outlaws	2019 video game	https://opencritic.com/game/9356/pirates-outlaws	Q7889
@@ -3995,6 +3999,7 @@ id	name	desc	url	type
 17583	Planet Coaster 2	2024 video game	https://opencritic.com/game/17583/planet-coaster-2	Q7889
 10513	Planet Coaster: Console Edition	2020 video game	https://opencritic.com/game/10513/planet-coaster-console-edition	Q7889
 14952	Planet of Lana	2023 video game	https://opencritic.com/game/14952/planet-of-lana	Q7889
+20146	Planet of Lana II	2026 PC, XBXS, PS5, Switch 2, Switch, PS4 video game	https://opencritic.com/game/20146/planet-of-lana-ii	Q7889
 5209	Planet of the Apes: Last Frontier	2017 video game	https://opencritic.com/game/5209/planet-of-the-apes-last-frontier	Q7889
 1904	Planet of the Eyes	2015 video game	https://opencritic.com/game/1904/planet-of-the-eyes	Q7889
 7900	Planet Zoo	2019 video game	https://opencritic.com/game/7900/planet-zoo	Q7889
@@ -4014,6 +4019,7 @@ id	name	desc	url	type
 6322	Pocket Rumble	2018 video game	https://opencritic.com/game/6322/pocket-rumble	Q7889
 13073	Pocky & Rocky Reshrined	2022 video game	https://opencritic.com/game/13073/pocky-rocky-reshrined	Q7889
 6235	Pode	2018 video game	https://opencritic.com/game/6235/pode	Q7889
+20161	Pogui	2026 Switch, Switch 2, PC video game	https://opencritic.com/game/20161/pogui	Q7889
 5065	Poi: Explorer Edition	2017 video game	https://opencritic.com/game/5065/poi-explorer-edition	Q7889
 11207	Poison Control	2021 video game	https://opencritic.com/game/11207/poison-control	Q7889
 11625	Pokemon Brilliant Diamond and Shining Pearl	2021 video game	https://opencritic.com/game/11625/pokemon-brilliant-diamond-and-shining-pearl	Q7889
@@ -4031,7 +4037,6 @@ id	name	desc	url	type
 12091	PokÃ©mon Legends: Arceus	2022 video game	https://opencritic.com/game/12091/pok-mon-legends-arceus	Q7889
 19873	PokÃ©mon Legends: Z-A Mega Dimension	2025 video game	https://opencritic.com/game/19873/pok-mon-legends-z-a-mega-dimension	Q7889
 8947	PokÃ©mon Mystery Dungeon: Rescue Team DX	2020 video game	https://opencritic.com/game/8947/pok-mon-mystery-dungeon-rescue-team-dx	Q7889
-19667	PokÃ©mon Pokopia	2026 video game	https://opencritic.com/game/19667/pok-mon-pokopia	Q7889
 6173	PokÃ©mon Quest	2018 video game	https://opencritic.com/game/6173/pok-mon-quest	Q7889
 13350	PokÃ©mon Scarlet & Violet	2022 video game	https://opencritic.com/game/13350/pok-mon-scarlet-violet	Q7889
 15989	PokÃ©mon Scarlet & Violet: The Indigo Disk	2023 video game	https://opencritic.com/game/15989/pok-mon-scarlet-violet-the-indigo-disk	Q7889
@@ -4039,6 +4044,8 @@ id	name	desc	url	type
 7899	PokÃ©mon Sword and Shield	2019 video game	https://opencritic.com/game/7899/pok-mon-sword-and-shield	Q7889
 10408	PokÃ©mon Sword and Shield - The Crown Tundra	2020 video game	https://opencritic.com/game/10408/pok-mon-sword-and-shield-the-crown-tundra	Q7889
 6216	PokÃ©mon: Let's Go	2018 video game	https://opencritic.com/game/6216/pok-mon-lets-go	Q7889
+20172	Pokémon FireRed and LeafGreen	2026 Switch video game	https://opencritic.com/game/20172/pok-mon-firered-and-leafgreen	Q7889
+19667	Pokémon Pokopia	2026 Switch, Switch 2 video game	https://opencritic.com/game/19667/pok-mon-pokopia	Q7889
 13965	Police Simulator: Patrol Officers	2022 video game	https://opencritic.com/game/13965/police-simulator-patrol-officers	Q7889
 1778	Poly Bridge	2016 video game	https://opencritic.com/game/1778/poly-bridge	Q7889
 1781	Poncho	2015 video game	https://opencritic.com/game/1781/poncho	Q7889
@@ -4200,6 +4207,7 @@ id	name	desc	url	type
 15173	Ray'z Arcade Chronology	2023 video game	https://opencritic.com/game/15173/rayz-arcade-chronology	Q7889
 288	Rayman Legends	2013 video game	https://opencritic.com/game/288/rayman-legends	Q7889
 4826	Rayman Legends: Definitive Edition	2017 video game	https://opencritic.com/game/4826/rayman-legends-definitive-edition	Q7889
+20106	Rayman: 30th Anniversary Edition	1970 video game	https://opencritic.com/game/20106/rayman-30th-anniversary-edition	Q7889
 9186	RBI Baseball 20	2020 video game	https://opencritic.com/game/9186/rbi-baseball-20	Q7889
 10137	Re:Turn - One Way Trip	2020 video game	https://opencritic.com/game/10137/re-turn-one-way-trip	Q7889
 10797	Re:ZERO -Starting Life in Another World- The Prophecy of the Throne	2021 video game	https://opencritic.com/game/10797/re-zero-starting-life-in-another-world-the-prophecy-of-the-throne	Q7889
@@ -4236,6 +4244,7 @@ id	name	desc	url	type
 3110	Reigns	2016 video game	https://opencritic.com/game/3110/reigns	Q7889
 6793	Reigns: Game of Thrones	2018 video game	https://opencritic.com/game/6793/reigns-game-of-thrones	Q7889
 5269	Reigns: Her Majesty	2017 video game	https://opencritic.com/game/5269/reigns-her-majesty	Q7889
+20145	Reigns: The Witcher	2026 PC video game	https://opencritic.com/game/20145/reigns-the-witcher	Q7889
 8632	REKT! High Octane Stunts	2019 video game	https://opencritic.com/game/8632/rekt-high-octane-stunts	Q7889
 12918	Relayer	2022 video game	https://opencritic.com/game/12918/relayer	Q7889
 9924	Relicta	2020 video game	https://opencritic.com/game/9924/relicta	Q7889
@@ -4272,7 +4281,7 @@ id	name	desc	url	type
 5303	Resident Evil 7: Biohazard - End of Zoe	2017 video game	https://opencritic.com/game/5303/resident-evil-7-biohazard-end-of-zoe	Q7889
 5284	Resident Evil 7: Biohazard - Not a Hero	2017 video game	https://opencritic.com/game/5284/resident-evil-7-biohazard-not-a-hero	Q7889
 127	Resident Evil HD Remaster	2015 video game	https://opencritic.com/game/127/resident-evil-hd-remaster	Q7889
-18716	Resident Evil Requiem	2026 PC, PS5, XBXS video game	https://opencritic.com/game/18716/resident-evil-requiem	Q7889
+18716	Resident Evil Requiem	2026 PC, PS5, XBXS, Switch 2 video game	https://opencritic.com/game/18716/resident-evil-requiem	Q7889
 9266	Resident Evil Resistance	2020 video game	https://opencritic.com/game/9266/resident-evil-resistance	Q7889
 10995	Resident Evil Village	2021 video game	https://opencritic.com/game/10995/resident-evil-village	Q7889
 13876	Resident Evil Village: Shadows of Rose - Winters' Expansion	2022 video game	https://opencritic.com/game/13876/resident-evil-village-shadows-of-rose-winters-expansion	Q7889
@@ -4754,7 +4763,6 @@ id	name	desc	url	type
 8998	Snack World: The Dungeon Crawl - Gold	2020 video game	https://opencritic.com/game/8998/snack-world-the-dungeon-crawl-gold	Q7889
 4113	Snake Pass	2017 video game	https://opencritic.com/game/4113/snake-pass	Q7889
 9249	Snakeybus	2019 video game	https://opencritic.com/game/9249/snakeybus	Q7889
-19953	Sniffin For Bones	2025 PC video game	https://opencritic.com/game/19953/sniffin-for-bones	Q7889
 3497	Sniper Elite 4	2017 video game	https://opencritic.com/game/3497/sniper-elite-4	Q7889
 12905	Sniper Elite 5	2022 video game	https://opencritic.com/game/12905/sniper-elite-5	Q7889
 240	Sniper Elite III	2014 video game	https://opencritic.com/game/240/sniper-elite-iii	Q7889
@@ -4813,7 +4821,6 @@ id	name	desc	url	type
 18727	Sonic Racing: CrossWorlds	2025 video game	https://opencritic.com/game/18727/sonic-racing-crossworlds	Q7889
 15199	Sonic Superstars	2023 video game	https://opencritic.com/game/15199/sonic-superstars	Q7889
 17505	Sonic X Shadow Generations	2024 video game	https://opencritic.com/game/17505/sonic-x-shadow-generations	Q7889
-19899	Sophia's Animal Clinic - Mission Wildlife Park	2025 Switch 2, Switch video game	https://opencritic.com/game/19899/sophias-animal-clinic-mission-wildlife-park	Q7889
 1379	Sorcerer King	2015 video game	https://opencritic.com/game/1379/sorcerer-king	Q7889
 2190	Sorcery! Parts 1 and 2	2016 video game	https://opencritic.com/game/2190/sorcery-parts-1-and-2	Q7889
 17662	Sorry We're Closed	2024 video game	https://opencritic.com/game/17662/sorry-were-closed	Q7889
@@ -5158,6 +5165,7 @@ id	name	desc	url	type
 3639	Surgeon Simulator: ER (VR)	2016 video game	https://opencritic.com/game/3639/surgeon-simulator-er-vr-	Q7889
 18654	Survival Kids	2025 video game	https://opencritic.com/game/18654/survival-kids	Q7889
 5735	Surviving Mars	2018 video game	https://opencritic.com/game/5735/surviving-mars	Q7889
+19803	Sushi Cat - Tower Defense	2026 Switch, PC, Switch 2 video game	https://opencritic.com/game/19803/sushi-cat-tower-defense	Q7889
 6185	Sushi Striker: The Way of Sushido	2018 video game	https://opencritic.com/game/6185/sushi-striker-the-way-of-sushido	Q7889
 10629	Suzerain	2020 video game	https://opencritic.com/game/10629/suzerain	Q7889
 5152	Swim Out	2017 video game	https://opencritic.com/game/5152/swim-out	Q7889
@@ -5281,7 +5289,7 @@ id	name	desc	url	type
 10476	TENS!	2020 video game	https://opencritic.com/game/10476/tens-	Q7889
 12928	Tentacular	2022 video game	https://opencritic.com/game/12928/tentacular	Q7889
 5837	TERA - Console Edition	2018 video game	https://opencritic.com/game/5837/tera-console-edition	Q7889
-19850	Terminator 2D: NO FATE	2025 XBXS, Switch 2, PS5, Switch, PC, XB1, PS4 video game	https://opencritic.com/game/19850/terminator-2d-no-fate	Q7889
+19850	Terminator 2D: NO FATE	2025 video game	https://opencritic.com/game/19850/terminator-2d-no-fate	Q7889
 8595	Terminator: Resistance	2019 video game	https://opencritic.com/game/8595/terminator-resistance	Q7889
 12474	Terminator: Resistance Annihilation Line	2021 video game	https://opencritic.com/game/12474/terminator-resistance-annihilation-line	Q7889
 11286	Terminator: Resistance Enhanced	2021 video game	https://opencritic.com/game/11286/terminator-resistance-enhanced	Q7889
@@ -5687,7 +5695,6 @@ id	name	desc	url	type
 1498	The Talos Principle: Road To Gehenna	2015 video game	https://opencritic.com/game/1498/the-talos-principle-road-to-gehenna	Q7889
 15013	The Tartarus Key	2023 video game	https://opencritic.com/game/15013/the-tartarus-key	Q7889
 2609	The Technomancer	2016 video game	https://opencritic.com/game/2609/the-technomancer	Q7889
-19860	The Temple of Elemental Evil	2025 PC video game	https://opencritic.com/game/19860/the-temple-of-elemental-evil	Q7889
 15357	The Texas Chain Saw Massacre	2023 video game	https://opencritic.com/game/15357/the-texas-chain-saw-massacre	Q7889
 7309	The Textorcist	2019 video game	https://opencritic.com/game/7309/the-textorcist	Q7889
 16393	The Thaumaturge	2024 video game	https://opencritic.com/game/16393/the-thaumaturge	Q7889
@@ -5727,6 +5734,7 @@ id	name	desc	url	type
 7173	The Walking Dead: The Final Season - Episode 3	2018 video game	https://opencritic.com/game/7173/the-walking-dead-the-final-season-episode-3	Q7889
 7487	The Walking Dead: The Final Season - Episode 4	2018 video game	https://opencritic.com/game/7487/the-walking-dead-the-final-season-episode-4	Q7889
 8244	The Walking Dead: The Telltale Definitive Series	2019 video game	https://opencritic.com/game/8244/the-walking-dead-the-telltale-definitive-series	Q7889
+20166	The Walking Trade	2026 PC video game	https://opencritic.com/game/20166/the-walking-trade	Q7889
 8607	The Wanderer: Frankenstein's Creature	2019 video game	https://opencritic.com/game/8607/the-wanderer-frankensteins-creature	Q7889
 13691	The Wandering Village	2022 video game	https://opencritic.com/game/13691/the-wandering-village	Q7889
 4243	The Wardrobe	2017 video game	https://opencritic.com/game/4243/the-wardrobe	Q7889
@@ -5768,7 +5776,6 @@ id	name	desc	url	type
 19827	Thief VR: Legacy of Shadow	2025 video game	https://opencritic.com/game/19827/thief-vr-legacy-of-shadow	Q7889
 4127	Thimbleweed Park	2017 video game	https://opencritic.com/game/4127/thimbleweed-park	Q7889
 15761	Thirsty Suitors	2023 video game	https://opencritic.com/game/15761/thirsty-suitors	Q7889
-19819	This Ain't Even Poker, Ya Joker	2025 PC video game	https://opencritic.com/game/19819/this-aint-even-poker-ya-joker	Q7889
 3040	This Is the Police	2016 video game	https://opencritic.com/game/3040/this-is-the-police	Q7889
 6417	This Is the Police 2	2018 video game	https://opencritic.com/game/6417/this-is-the-police-2	Q7889
 10310	This Is The Zodiac Speaking	2020 video game	https://opencritic.com/game/10310/this-is-the-zodiac-speaking	Q7889
@@ -5844,7 +5851,7 @@ id	name	desc	url	type
 15618	Tomb Raider I-III Remastered	2024 video game	https://opencritic.com/game/15618/tomb-raider-i-iii-remastered	Q7889
 17745	Tomb Raider IV-VI Remastered	2025 video game	https://opencritic.com/game/17745/tomb-raider-iv-vi-remastered	Q7889
 19742	Tomb Raider: Definitive Edition	2025 video game	https://opencritic.com/game/19742/tomb-raider-definitive-edition	Q7889
-19865	Tomba! 2: The Evil Swine Return Special Edition	2025 PS5, Switch, PC, Switch 2 video game	https://opencritic.com/game/19865/tomba-2-the-evil-swine-return-special-edition	Q7889
+19865	Tomba! 2: The Evil Swine Return Special Edition	2025 video game	https://opencritic.com/game/19865/tomba-2-the-evil-swine-return-special-edition	Q7889
 17058	Tomba! Special Edition	2024 video game	https://opencritic.com/game/17058/tomba-special-edition	Q7889
 2358	Tomodachi Life	2014 video game	https://opencritic.com/game/2358/tomodachi-life	Q7889
 9440	Tony Hawk's Pro Skater 1 + 2	2020 video game	https://opencritic.com/game/9440/tony-hawks-pro-skater-1-2	Q7889
@@ -5951,7 +5958,6 @@ id	name	desc	url	type
 20050	Tropicalia	2026 Switch, Switch 2 video game	https://opencritic.com/game/20050/tropicalia	Q7889
 27	Tropico 5	2014 video game	https://opencritic.com/game/27/tropico-5	Q7889
 7015	Tropico 6	2019 video game	https://opencritic.com/game/7015/tropico-6	Q7889
-19866	Trouble Witches FINAL! Episode 01 Daughters of Amalgam	2025 Switch, PS4, PC, Switch 2 video game	https://opencritic.com/game/19866/trouble-witches-final-episode-01-daughters-of-amalgam	Q7889
 4074	Trove	2015 video game	https://opencritic.com/game/4074/trove	Q7889
 7812	Trover Saves the Universe	2019 video game	https://opencritic.com/game/7812/trover-saves-the-universe	Q7889
 7426	Truberbrook	2019 video game	https://opencritic.com/game/7426/truberbrook	Q7889
@@ -6046,7 +6052,6 @@ id	name	desc	url	type
 16930	Until Then	2024 video game	https://opencritic.com/game/16930/until-then	Q7889
 10266	Until You Fall	2020 video game	https://opencritic.com/game/10266/until-you-fall	Q7889
 8308	Untitled Goose Game	2019 video game	https://opencritic.com/game/8308/untitled-goose-game	Q7889
-19832	Unto Deepest Depths	2025 Switch 2, Switch, PC video game	https://opencritic.com/game/19832/unto-deepest-depths	Q7889
 10655	Unto the End	2020 video game	https://opencritic.com/game/10655/unto-the-end	Q7889
 13810	Unusual Findings	2022 video game	https://opencritic.com/game/13810/unusual-findings	Q7889
 3119	Uppers	2016 video game	https://opencritic.com/game/3119/uppers	Q7889
@@ -6081,6 +6086,7 @@ id	name	desc	url	type
 6685	Valthirian Arc: Hero School Story	2018 video game	https://opencritic.com/game/6685/valthirian-arc-hero-school-story	Q7889
 7770	Vambrace: Cold Soul	2019 video game	https://opencritic.com/game/7770/vambrace-cold-soul	Q7889
 12685	Vampire Survivors	2021 video game	https://opencritic.com/game/12685/vampire-survivors	Q7889
+17030	Vampire Therapist	2024 video game	https://opencritic.com/game/17030/vampire-therapist	Q7889
 13111	Vampire: The Masquerade - Bloodhunt	2022 video game	https://opencritic.com/game/13111/vampire-the-masquerade-bloodhunt	Q7889
 19138	Vampire: The Masquerade - Bloodlines 2	2025 video game	https://opencritic.com/game/19138/vampire-the-masquerade-bloodlines-2	Q7889
 8719	Vampire: The Masquerade - Coteries of New York	2019 video game	https://opencritic.com/game/8719/vampire-the-masquerade-coteries-of-new-york	Q7889
@@ -6177,7 +6183,6 @@ id	name	desc	url	type
 7672	Warhammer: Chaosbane	2019 video game	https://opencritic.com/game/7672/warhammer-chaosbane	Q7889
 1688	Warhammer: End Times - Vermintide	2015 video game	https://opencritic.com/game/1688/warhammer-end-times-vermintide	Q7889
 5673	Warhammer: Vermintide 2	2018 video game	https://opencritic.com/game/5673/warhammer-vermintide-2	Q7889
-20000	Warhead Circus	2025 PC video game	https://opencritic.com/game/20000/warhead-circus	Q7889
 6413	WarioWare Gold	2018 video game	https://opencritic.com/game/6413/warioware-gold	Q7889
 11617	WarioWare: Get It Together!	2021 video game	https://opencritic.com/game/11617/warioware-get-it-together-	Q7889
 15395	WarioWare: Move It!	2023 video game	https://opencritic.com/game/15395/warioware-move-it-	Q7889
