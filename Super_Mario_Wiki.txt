@@ -198,7 +198,6 @@ Donald_Burda	Donald Burda	human	https://www.mariowiki.com/Donald_Burda	Q5
 Donald_Glover	Donald Glover	human	https://www.mariowiki.com/Donald_Glover	Q5
 Donald_Reignoux	Donald Reignoux	human	https://www.mariowiki.com/Donald_Reignoux	Q5
 Donatella_Fanfani	Donatella Fanfani	human	https://www.mariowiki.com/Donatella_Fanfani	Q5
-Donkey_Kong_(A-Maze-Ing_Arcade_game)	Donkey Kong (A-Maze-Ing Arcade game)	video game	https://www.mariowiki.com/Donkey_Kong_%28A-Maze-Ing_Arcade_game%29	Q7889
 Donkey_Kong_(Dynatech_Play2O)	Donkey Kong (Dynatech Play2O)	video game	https://www.mariowiki.com/Donkey_Kong_%28Dynatech_Play2O%29	Q7889
 Donkey_Kong_(Game_&_Watch)	Donkey Kong (Game & Watch)	video game	https://www.mariowiki.com/Donkey_Kong_%28Game_%26_Watch%29	Q7889
 Donkey_Kong_(Game_Boy)	Donkey Kong (Game Boy)	video game	https://www.mariowiki.com/Donkey_Kong_%28Game_Boy%29	Q7889
@@ -216,7 +215,6 @@ Donkey_Kong_64_Lore_Quiz	Donkey Kong 64 Lore Quiz	video game	https://www.mariowi
 Donkey_Kong_Bananza	Donkey Kong Bananza	video game	https://www.mariowiki.com/Donkey_Kong_Bananza	Q7889
 Donkey_Kong_Bath_and_Shower_Foam	Donkey Kong Bath and Shower Foam	video game	https://www.mariowiki.com/Donkey_Kong_Bath_and_Shower_Foam	Q7889
 Donkey_Kong_Bath_Game	Donkey Kong Bath Game	video game	https://www.mariowiki.com/Donkey_Kong_Bath_Game	Q7889
-Donkey_Kong_Candy_Maze	Donkey Kong Candy Maze	video game	https://www.mariowiki.com/Donkey_Kong_Candy_Maze	Q7889
 Donkey_Kong_Circus	Donkey Kong Circus	video game	https://www.mariowiki.com/Donkey_Kong_Circus	Q7889
 Donkey_Kong_Classics	Donkey Kong Classics	video game	https://www.mariowiki.com/Donkey_Kong_Classics	Q7889
 Donkey_Kong_Coconut_Crackers	Donkey Kong Coconut Crackers	video game	https://www.mariowiki.com/Donkey_Kong_Coconut_Crackers	Q7889
@@ -246,6 +244,7 @@ Donkey_Kong_Land	Donkey Kong Land	video game	https://www.mariowiki.com/Donkey_Ko
 Donkey_Kong_Land_(series)	Donkey Kong Land (series)	video game series	https://www.mariowiki.com/Donkey_Kong_Land_%28series%29	Q7058673
 Donkey_Kong_Land_2	Donkey Kong Land 2	video game	https://www.mariowiki.com/Donkey_Kong_Land_2	Q7889
 Donkey_Kong_Land_III	Donkey Kong Land III	video game	https://www.mariowiki.com/Donkey_Kong_Land_III	Q7889
+Donkey_Kong_Mini_Maze_Game	Donkey Kong Mini Maze Game	video game series	https://www.mariowiki.com/Donkey_Kong_Mini_Maze_Game	Q7058673
 Donkey_Kong_no_Ongaku_Asobi	Donkey Kong no Ongaku Asobi	video game	https://www.mariowiki.com/Donkey_Kong_no_Ongaku_Asobi	Q7889
 Donkey_Kong_Original_Edition	Donkey Kong Original Edition	video game	https://www.mariowiki.com/Donkey_Kong_Original_Edition	Q7889
 Donkey_Kong_Racing	Donkey Kong Racing	video game	https://www.mariowiki.com/Donkey_Kong_Racing	Q7889
@@ -283,6 +282,7 @@ Ed_Skudder	Ed Skudder	human	https://www.mariowiki.com/Ed_Skudder	Q5
 Ed_Solomon	Ed Solomon	human	https://www.mariowiki.com/Ed_Solomon	Q5
 Eduardo_Bosch	Eduardo Bosch	human	https://www.mariowiki.com/Eduardo_Bosch	Q5
 Edward_Bosco	Edward Bosco	human	https://www.mariowiki.com/Edward_Bosco	Q5
+Eiji_Takeuchi	Eiji Takeuchi	human	https://www.mariowiki.com/Eiji_Takeuchi	Q5
 Ekkehardt_Belle	Ekkehardt Belle	human	https://www.mariowiki.com/Ekkehardt_Belle	Q5
 Emiliano_Coltorti	Emiliano Coltorti	human	https://www.mariowiki.com/Emiliano_Coltorti	Q5
 Emmanuel_Curtil	Emmanuel Curtil	human	https://www.mariowiki.com/Emmanuel_Curtil	Q5
@@ -398,9 +398,8 @@ Harry_Blackstone_Jr.	Harry Blackstone Jr.	human	https://www.mariowiki.com/Harry_
 Heads-Up	Heads-Up	video game	https://www.mariowiki.com/Heads-Up	Q7889
 Hello,_Mario!_(game)	Hello, Mario! (game)	video game	https://www.mariowiki.com/Hello%2C_Mario%21_%28game%29	Q7889
 Hello,_Yoshi!	Hello, Yoshi!	video game	https://www.mariowiki.com/Hello%2C_Yoshi%21	Q7889
+Hernán_Fernández	Hernán Fernández	human	https://www.mariowiki.com/Hern%C3%A1n_Fern%C3%A1ndez	Q5
 Hervé_Grull	Hervé Grull	human	https://www.mariowiki.com/Herv%C3%A9_Grull	Q5
-Hetchara_Ban	Hetchara Ban	video game	https://www.mariowiki.com/Hetchara_Ban	Q7889
-Hetchara_Ban_DX	Hetchara Ban DX	video game	https://www.mariowiki.com/Hetchara_Ban_DX	Q7889
 Hideki_Konno	Hideki Konno	human	https://www.mariowiki.com/Hideki_Konno	Q5
 Hideki_Sakamoto	Hideki Sakamoto	human	https://www.mariowiki.com/Hideki_Sakamoto	Q5
 Hirofumi_Matsuoka	Hirofumi Matsuoka	human	https://www.mariowiki.com/Hirofumi_Matsuoka	Q5
@@ -438,6 +437,7 @@ Interplay	Interplay	company	https://www.mariowiki.com/Interplay	Q4830453
 IQue	IQue	company	https://www.mariowiki.com/IQue	Q4830453
 Isaac_Marshall	Isaac Marshall	human	https://www.mariowiki.com/Isaac_Marshall	Q5
 Issa_Rae	Issa Rae	human	https://www.mariowiki.com/Issa_Rae	Q5
+It's_Mario_Quiz_time!	It's Mario Quiz time!	video game	https://www.mariowiki.com/It%27s_Mario_Quiz_time%21	Q7889
 Itadaki_Street_DS	Itadaki Street DS	video game	https://www.mariowiki.com/Itadaki_Street_DS	Q7889
 Ivana_Korolová	Ivana Korolová	human	https://www.mariowiki.com/Ivana_Korolov%C3%A1	Q5
 Jack_Black	Jack Black	human	https://www.mariowiki.com/Jack_Black	Q5
@@ -525,6 +525,7 @@ Kōji_Takeda	Kōji Takeda	human	https://www.mariowiki.com/K%C5%8Dji_Takeda	Q5
 Laila_Berzins	Laila Berzins	human	https://www.mariowiki.com/Laila_Berzins	Q5
 Lani_Minella	Lani Minella	human	https://www.mariowiki.com/Lani_Minella	Q5
 Laura_Faye_Smith	Laura Faye Smith	human	https://www.mariowiki.com/Laura_Faye_Smith	Q5
+Laura_Monedero	Laura Monedero	human	https://www.mariowiki.com/Laura_Monedero	Q5
 Laura_Stahl	Laura Stahl	human	https://www.mariowiki.com/Laura_Stahl	Q5
 Lawrence_Bayne	Lawrence Bayne	human	https://www.mariowiki.com/Lawrence_Bayne	Q5
 Lawrence_Schwedler	Lawrence Schwedler	human	https://www.mariowiki.com/Lawrence_Schwedler	Q5
@@ -793,6 +794,7 @@ Mini_Mario_&_Friends:_amiibo_Challenge	Mini Mario & Friends: amiibo Challenge	vi
 Mini_Mario_Widget	Mini Mario Widget	video game	https://www.mariowiki.com/Mini_Mario_Widget	Q7889
 Minion_Quest:_The_Search_for_Bowser	Minion Quest: The Search for Bowser	video game	https://www.mariowiki.com/Minion_Quest%3A_The_Search_for_Bowser	Q7889
 Mitsuaki_Kanuka	Mitsuaki Kanuka	human	https://www.mariowiki.com/Mitsuaki_Kanuka	Q5
+Mitsuhiro_Takano	Mitsuhiro Takano	human	https://www.mariowiki.com/Mitsuhiro_Takano	Q5
 Mobile_Golf	Mobile Golf	video game	https://www.mariowiki.com/Mobile_Golf	Q7889
 Mojo_Nixon	Mojo Nixon	human	https://www.mariowiki.com/Mojo_Nixon	Q5
 Monolith_Soft	Monolith Soft	company	https://www.mariowiki.com/Monolith_Soft	Q4830453
@@ -851,6 +853,7 @@ Nintendo_World_Championships_1990	Nintendo World Championships 1990	video game	h
 Nintendo_World_Championships:_NES_Edition	Nintendo World Championships: NES Edition	video game	https://www.mariowiki.com/Nintendo_World_Championships%3A_NES_Edition	Q7889
 Nobuyuki_Hiyama	Nobuyuki Hiyama	human	https://www.mariowiki.com/Nobuyuki_Hiyama	Q5
 Noisycroak	Noisycroak	company	https://www.mariowiki.com/Noisycroak	Q4830453
+Norio_Asakura	Norio Asakura	human	https://www.mariowiki.com/Norio_Asakura	Q5
 NovaLogic	NovaLogic	company	https://www.mariowiki.com/NovaLogic	Q4830453
 Oana_Mereuță	Oana Mereuță	human	https://www.mariowiki.com/Oana_Mereu%C8%9B%C4%83	Q5
 Oliviero_Corbetta	Oliviero Corbetta	human	https://www.mariowiki.com/Oliviero_Corbetta	Q5
@@ -897,6 +900,7 @@ Pika_Pika_Mario	Pika Pika Mario	video game	https://www.mariowiki.com/Pika_Pika_M
 Pinball	Pinball	video game	https://www.mariowiki.com/Pinball	Q7889
 Pino_Pirovano	Pino Pirovano	human	https://www.mariowiki.com/Pino_Pirovano	Q5
 Poochy_&_Yoshi's_Woolly_World	Poochy & Yoshi's Woolly World	video game	https://www.mariowiki.com/Poochy_%26_Yoshi%27s_Woolly_World	Q7889
+POP_Multimedia	POP Multimedia	company	https://www.mariowiki.com/POP_Multimedia	Q4830453
 Prima_Games	Prima Games	company	https://www.mariowiki.com/Prima_Games	Q4830453
 Princess_Peach:_Showtime!	Princess Peach: Showtime!	video game	https://www.mariowiki.com/Princess_Peach%3A_Showtime%21	Q7889
 Princess_Toadstool's_Castle_Run	Princess Toadstool's Castle Run	video game	https://www.mariowiki.com/Princess_Toadstool%27s_Castle_Run	Q7889
@@ -936,6 +940,7 @@ Roberto_Colombo	Roberto Colombo	human	https://www.mariowiki.com/Roberto_Colombo	
 Roberto_Molina	Roberto Molina	human	https://www.mariowiki.com/Roberto_Molina	Q5
 Roberto_Salguero	Roberto Salguero	human	https://www.mariowiki.com/Roberto_Salguero	Q5
 Romanus_Fuhrmann	Romanus Fuhrmann	human	https://www.mariowiki.com/Romanus_Fuhrmann	Q5
+Romi_Park	Romi Park	human	https://www.mariowiki.com/Romi_Park	Q5
 Ron_Rubin	Ron Rubin	human	https://www.mariowiki.com/Ron_Rubin	Q5
 Royal_Philips_Electronics	Royal Philips Electronics	company	https://www.mariowiki.com/Royal_Philips_Electronics	Q4830453
 Ryan_Higgins	Ryan Higgins	human	https://www.mariowiki.com/Ryan_Higgins	Q5
@@ -972,12 +977,15 @@ Shigeyuki_Asuke	Shigeyuki Asuke	human	https://www.mariowiki.com/Shigeyuki_Asuke	
 Shiho_Fujii	Shiho Fujii	human	https://www.mariowiki.com/Shiho_Fujii	Q5
 Shin_Matsushige	Shin Matsushige	human	https://www.mariowiki.com/Shin_Matsushige	Q5
 Shin-ichiro_Miki	Shin-ichiro Miki	human	https://www.mariowiki.com/Shin-ichiro_Miki	Q5
+Shinobu_Amayake	Shinobu Amayake	human	https://www.mariowiki.com/Shinobu_Amayake	Q5
 Shinobu_Nagata	Shinobu Nagata	human	https://www.mariowiki.com/Shinobu_Nagata	Q5
 Shinya_Hiratake	Shinya Hiratake	human	https://www.mariowiki.com/Shinya_Hiratake	Q5
 Shiro_Mouri	Shiro Mouri	human	https://www.mariowiki.com/Shiro_Mouri	Q5
 Sho_Murata	Sho Murata	human	https://www.mariowiki.com/Sho_Murata	Q5
 Shogakukan	Shogakukan	company	https://www.mariowiki.com/Shogakukan	Q4830453
 Shohei_Komatsu	Shohei Komatsu	human	https://www.mariowiki.com/Shohei_Komatsu	Q5
+Shout!_Factory	Shout! Factory	company	https://www.mariowiki.com/Shout%21_Factory	Q4830453
+Shu_Fujii	Shu Fujii	human	https://www.mariowiki.com/Shu_Fujii	Q5
 Shu_uemura	Shu uemura	company	https://www.mariowiki.com/Shu_uemura	Q4830453
 Shugo_Takahashi	Shugo Takahashi	human	https://www.mariowiki.com/Shugo_Takahashi	Q5
 Shuntaro_Furukawa	Shuntaro Furukawa	human	https://www.mariowiki.com/Shuntaro_Furukawa	Q5
@@ -1007,11 +1015,11 @@ Stevie_Coyle	Stevie Coyle	human	https://www.mariowiki.com/Stevie_Coyle	Q5
 StreetPass_Mii_Plaza	StreetPass Mii Plaza	video game	https://www.mariowiki.com/StreetPass_Mii_Plaza	Q7889
 Stroke_&_Match_Golf	Stroke & Match Golf	video game	https://www.mariowiki.com/Stroke_%26_Match_Golf	Q7889
 Stuart_Stone	Stuart Stone	human	https://www.mariowiki.com/Stuart_Stone	Q5
+Studio_306	Studio 306	company	https://www.mariowiki.com/Studio_306	Q4830453
 Suevia_Films	Suevia Films	company	https://www.mariowiki.com/Suevia_Films	Q4830453
 Sunshine_Biscuits	Sunshine Biscuits	company	https://www.mariowiki.com/Sunshine_Biscuits	Q4830453
 Suntory	Suntory	company	https://www.mariowiki.com/Suntory	Q4830453
 Super_Donkey_Kong_2_Swanky_no_Bonus_Slot	Super Donkey Kong 2 Swanky no Bonus Slot	video game	https://www.mariowiki.com/Super_Donkey_Kong_2_Swanky_no_Bonus_Slot	Q7889
-Super_Donkey_Kong_3_(Petit_Maze)	Super Donkey Kong 3 (Petit Maze)	video game	https://www.mariowiki.com/Super_Donkey_Kong_3_%28Petit_Maze%29	Q7889
 Super_Donkey_Kong:_Ooki_Donkey	Super Donkey Kong: Ooki Donkey	video game	https://www.mariowiki.com/Super_Donkey_Kong%3A_Ooki_Donkey	Q7889
 Super_Mario_(series)	Super Mario (series)	video game series	https://www.mariowiki.com/Super_Mario_%28series%29	Q7058673
 Super_Mario_128	Super Mario 128	video game	https://www.mariowiki.com/Super_Mario_128	Q7889
@@ -1020,7 +1028,6 @@ Super_Mario_3D_Land	Super Mario 3D Land	video game	https://www.mariowiki.com/Sup
 Super_Mario_3D_World	Super Mario 3D World	video game	https://www.mariowiki.com/Super_Mario_3D_World	Q7889
 Super_Mario_3D_World_+_Bowser's_Fury	Super Mario 3D World + Bowser's Fury	video game	https://www.mariowiki.com/Super_Mario_3D_World_%2B_Bowser%27s_Fury	Q7889
 Super_Mario_64	Super Mario 64	video game	https://www.mariowiki.com/Super_Mario_64	Q7889
-Super_Mario_64_(Petit_Maze)	Super Mario 64 (Petit Maze)	video game	https://www.mariowiki.com/Super_Mario_64_%28Petit_Maze%29	Q7889
 Super_Mario_64_(slot_machine)	Super Mario 64 (slot machine)	video game	https://www.mariowiki.com/Super_Mario_64_%28slot_machine%29	Q7889
 Super_Mario_64_DS	Super Mario 64 DS	video game	https://www.mariowiki.com/Super_Mario_64_DS	Q7889
 Super_Mario_Advance	Super Mario Advance	video game	https://www.mariowiki.com/Super_Mario_Advance	Q7889
@@ -1036,7 +1043,6 @@ Super_Mario_Bros._&_Friends:_When_I_Grow_Up	Super Mario Bros. & Friends: When I 
 Super_Mario_Bros._(Dynatech_Play2O)	Super Mario Bros. (Dynatech Play2O)	video game	https://www.mariowiki.com/Super_Mario_Bros._%28Dynatech_Play2O%29	Q7889
 Super_Mario_Bros._(Game_&_Watch)	Super Mario Bros. (Game & Watch)	video game	https://www.mariowiki.com/Super_Mario_Bros._%28Game_%26_Watch%29	Q7889
 Super_Mario_Bros._(Nelsonic_Game_Watch)	Super Mario Bros. (Nelsonic Game Watch)	video game	https://www.mariowiki.com/Super_Mario_Bros._%28Nelsonic_Game_Watch%29	Q7889
-Super_Mario_Bros._(Puzzler)	Super Mario Bros. (Puzzler)	video game	https://www.mariowiki.com/Super_Mario_Bros._%28Puzzler%29	Q7889
 Super_Mario_Bros._(Water_Teaser)	Super Mario Bros. (Water Teaser)	video game	https://www.mariowiki.com/Super_Mario_Bros._%28Water_Teaser%29	Q7889
 Super_Mario_Bros._2	Super Mario Bros. 2	video game	https://www.mariowiki.com/Super_Mario_Bros._2	Q7889
 Super_Mario_Bros._3	Super Mario Bros. 3	video game	https://www.mariowiki.com/Super_Mario_Bros._3	Q7889
@@ -1115,6 +1121,7 @@ Takashi_Nagasako	Takashi Nagasako	human	https://www.mariowiki.com/Takashi_Nagasa
 Takashi_Tezuka	Takashi Tezuka	human	https://www.mariowiki.com/Takashi_Tezuka	Q5
 Takehiko_Hosokawa	Takehiko Hosokawa	human	https://www.mariowiki.com/Takehiko_Hosokawa	Q5
 Taku_Sugioka	Taku Sugioka	human	https://www.mariowiki.com/Taku_Sugioka	Q5
+Takumi_Kawagoe	Takumi Kawagoe	human	https://www.mariowiki.com/Takumi_Kawagoe	Q5
 Tantalus_Media	Tantalus Media	company	https://www.mariowiki.com/Tantalus_Media	Q4830453
 Tara_Strong	Tara Strong	human	https://www.mariowiki.com/Tara_Strong	Q5
 Tarek_Alarabi_Tourgane	Tarek Alarabi Tourgane	human	https://www.mariowiki.com/Tarek_Alarabi_Tourgane	Q5
@@ -1263,6 +1270,7 @@ Yukio_Sawada	Yukio Sawada	human	https://www.mariowiki.com/Yukio_Sawada	Q5
 Yume_Kōjō:_Doki_Doki_Panic	Yume Kōjō: Doki Doki Panic	video game	https://www.mariowiki.com/Yume_K%C5%8Dj%C5%8D%3A_Doki_Doki_Panic	Q7889
 Yurianne_Eve	Yurianne Eve	human	https://www.mariowiki.com/Yurianne_Eve	Q5
 Yuriko_Fuchizaki	Yuriko Fuchizaki	human	https://www.mariowiki.com/Yuriko_Fuchizaki	Q5
+Yusaku_Yara	Yusaku Yara	human	https://www.mariowiki.com/Yusaku_Yara	Q5
 Yusuke_Beppu	Yusuke Beppu	human	https://www.mariowiki.com/Yusuke_Beppu	Q5
 Yutaka_Aoyama	Yutaka Aoyama	human	https://www.mariowiki.com/Yutaka_Aoyama	Q5
 Yuya_Takezawa	Yuya Takezawa	human	https://www.mariowiki.com/Yuya_Takezawa	Q5
