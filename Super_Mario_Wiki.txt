@@ -50,7 +50,7 @@ Arturo_Casanova	Arturo Casanova	human	https://www.mariowiki.com/Arturo_Casanova	
 Arzest	Arzest	company	https://www.mariowiki.com/Arzest	Q4830453
 Asako_Kozuki	Asako Kozuki	human	https://www.mariowiki.com/Asako_Kozuki	Q5
 Ashley_Flannegan	Ashley Flannegan	human	https://www.mariowiki.com/Ashley_Flannegan	Q5
-Ask_Cranky	Ask Cranky	video game	https://www.mariowiki.com/Ask_Cranky	Q7889
+Ask_Cranky_(2005)	Ask Cranky (2005)	video game	https://www.mariowiki.com/Ask_Cranky_%282005%29	Q7889
 Ask_Madame_Clairvoya	Ask Madame Clairvoya	video game	https://www.mariowiki.com/Ask_Madame_Clairvoya	Q7889
 Asuka_Hayazaki	Asuka Hayazaki	human	https://www.mariowiki.com/Asuka_Hayazaki	Q5
 Atari,_Inc.	Atari, Inc.	company	https://www.mariowiki.com/Atari%2C_Inc.	Q4830453
@@ -63,7 +63,6 @@ Audrey_Sourdive	Audrey Sourdive	human	https://www.mariowiki.com/Audrey_Sourdive	
 Augustin_Clermont	Augustin Clermont	human	https://www.mariowiki.com/Augustin_Clermont	Q5
 Baby_Mario's_A-Maze-ing_Game	Baby Mario's A-Maze-ing Game	video game	https://www.mariowiki.com/Baby_Mario%27s_A-Maze-ing_Game	Q7889
 Bad_Animals	Bad Animals	company	https://www.mariowiki.com/Bad_Animals	Q4830453
-Ball_Ire_Game	Ball Ire Game	video game	https://www.mariowiki.com/Ball_Ire_Game	Q7889
 Balloon_Trip	Balloon Trip	video game	https://www.mariowiki.com/Balloon_Trip	Q7889
 Banana_Ice	Banana Ice	human	https://www.mariowiki.com/Banana_Ice	Q5
 Bandai_Namco_Holdings	Bandai Namco Holdings	company	https://www.mariowiki.com/Bandai_Namco_Holdings	Q4830453
@@ -84,6 +83,7 @@ Bimbo	Bimbo	company	https://www.mariowiki.com/Bimbo	Q4830453
 Bioworld	Bioworld	company	https://www.mariowiki.com/Bioworld	Q4830453
 Bird_&_Beans	Bird & Beans	video game	https://www.mariowiki.com/Bird_%26_Beans	Q7889
 BlackMilk_Clothing	BlackMilk Clothing	company	https://www.mariowiki.com/BlackMilk_Clothing	Q4830453
+Blit_Interactive	Blit Interactive	company	https://www.mariowiki.com/Blit_Interactive	Q4830453
 Bob_Hoskins	Bob Hoskins	human	https://www.mariowiki.com/Bob_Hoskins	Q5
 Bowser_Jr.'s_Journey	Bowser Jr.'s Journey	video game	https://www.mariowiki.com/Bowser_Jr.%27s_Journey	Q7889
 Bowser's_Fury	Bowser's Fury	video game	https://www.mariowiki.com/Bowser%27s_Fury	Q7889
@@ -324,7 +324,6 @@ Farahnaz_Nikray	Farahnaz Nikray	human	https://www.mariowiki.com/Farahnaz_Nikray	
 Feastables	Feastables	company	https://www.mariowiki.com/Feastables	Q4830453
 Federica_Valenti	Federica Valenti	human	https://www.mariowiki.com/Federica_Valenti	Q5
 Fiona_Shaw	Fiona Shaw	human	https://www.mariowiki.com/Fiona_Shaw	Q5
-Fire_Mario_no_Ball_Game	Fire Mario no Ball Game	video game	https://www.mariowiki.com/Fire_Mario_no_Ball_Game	Q7889
 First4Figures	First4Figures	company	https://www.mariowiki.com/First4Figures	Q4830453
 Flashback_Entertainment	Flashback Entertainment	company	https://www.mariowiki.com/Flashback_Entertainment	Q4830453
 Forever_Entertainment	Forever Entertainment	company	https://www.mariowiki.com/Forever_Entertainment	Q4830453
@@ -396,9 +395,9 @@ HAL_Laboratory	HAL Laboratory	company	https://www.mariowiki.com/HAL_Laboratory	Q
 Hallmark	Hallmark	company	https://www.mariowiki.com/Hallmark	Q4830453
 HAMSTER_Corporation	HAMSTER Corporation	company	https://www.mariowiki.com/HAMSTER_Corporation	Q4830453
 Hana_Takeda	Hana Takeda	human	https://www.mariowiki.com/Hana_Takeda	Q5
-Hanabira_Game	Hanabira Game	video game	https://www.mariowiki.com/Hanabira_Game	Q7889
 Hans-Rainer_Müller	Hans-Rainer Müller	human	https://www.mariowiki.com/Hans-Rainer_M%C3%BCller	Q5
 Harry_Blackstone_Jr.	Harry Blackstone Jr.	human	https://www.mariowiki.com/Harry_Blackstone_Jr.	Q5
+Harumi_Nishizawa	Harumi Nishizawa	human	https://www.mariowiki.com/Harumi_Nishizawa	Q5
 Heads-Up	Heads-Up	video game	https://www.mariowiki.com/Heads-Up	Q7889
 Hello,_Mario!_(game)	Hello, Mario! (game)	video game	https://www.mariowiki.com/Hello%2C_Mario%21_%28game%29	Q7889
 Hello,_Yoshi!	Hello, Yoshi!	video game	https://www.mariowiki.com/Hello%2C_Yoshi%21	Q7889
@@ -563,7 +562,6 @@ Luca_Bottale	Luca Bottale	human	https://www.mariowiki.com/Luca_Bottale	Q5
 Luca_Sandri	Luca Sandri	human	https://www.mariowiki.com/Luca_Sandri	Q5
 Luca_Semeraro	Luca Semeraro	human	https://www.mariowiki.com/Luca_Semeraro	Q5
 Ludovic_Savonnière	Ludovic Savonnière	human	https://www.mariowiki.com/Ludovic_Savonni%C3%A8re	Q5
-Luigi_no_Block_Game	Luigi no Block Game	video game	https://www.mariowiki.com/Luigi_no_Block_Game	Q7889
 Luigi's_Hammer_Toss	Luigi's Hammer Toss	video game	https://www.mariowiki.com/Luigi%27s_Hammer_Toss	Q7889
 Luigi's_Mansion	Luigi's Mansion	video game	https://www.mariowiki.com/Luigi%27s_Mansion	Q7889
 Luigi's_Mansion_(Nintendo_3DS)	Luigi's Mansion (Nintendo 3DS)	video game	https://www.mariowiki.com/Luigi%27s_Mansion_%28Nintendo_3DS%29	Q7889
@@ -670,8 +668,6 @@ Mario_Kart_World	Mario Kart World	video game	https://www.mariowiki.com/Mario_Kar
 Mario_Kart:_Double_Dash!!	Mario Kart: Double Dash!!	video game	https://www.mariowiki.com/Mario_Kart%3A_Double_Dash%21%21	Q7889
 Mario_Kart:_Double_Dash!!_(guide)	Mario Kart: Double Dash!! (guide)	video game	https://www.mariowiki.com/Mario_Kart%3A_Double_Dash%21%21_%28guide%29	Q7889
 Mario_Kart:_Super_Circuit	Mario Kart: Super Circuit	video game	https://www.mariowiki.com/Mario_Kart%3A_Super_Circuit	Q7889
-Mario_no_Coin_Adventure	Mario no Coin Adventure	video game	https://www.mariowiki.com/Mario_no_Coin_Adventure	Q7889
-Mario_no_Coin_Game	Mario no Coin Game	video game	https://www.mariowiki.com/Mario_no_Coin_Game	Q7889
 Mario_no_Daibōken_(arcade)	Mario no Daibōken (arcade)	video game	https://www.mariowiki.com/Mario_no_Daib%C5%8Dken_%28arcade%29	Q7889
 Mario_no_Medal_Island	Mario no Medal Island	video game	https://www.mariowiki.com/Mario_no_Medal_Island	Q7889
 Mario_no_Photopi	Mario no Photopi	video game	https://www.mariowiki.com/Mario_no_Photopi	Q7889
@@ -956,6 +952,7 @@ Romanus_Fuhrmann	Romanus Fuhrmann	human	https://www.mariowiki.com/Romanus_Fuhrma
 Romi_Park	Romi Park	human	https://www.mariowiki.com/Romi_Park	Q5
 Ron_Rubin	Ron Rubin	human	https://www.mariowiki.com/Ron_Rubin	Q5
 Royal_Philips_Electronics	Royal Philips Electronics	company	https://www.mariowiki.com/Royal_Philips_Electronics	Q4830453
+Rubén_Cerda	Rubén Cerda	human	https://www.mariowiki.com/Rub%C3%A9n_Cerda	Q5
 Ryan_Higgins	Ryan Higgins	human	https://www.mariowiki.com/Ryan_Higgins	Q5
 Ryo_Nagamatsu	Ryo Nagamatsu	human	https://www.mariowiki.com/Ryo_Nagamatsu	Q5
 Ryoji_Yoshitomi	Ryoji Yoshitomi	human	https://www.mariowiki.com/Ryoji_Yoshitomi	Q5
@@ -1111,7 +1108,6 @@ Super_Mario_World_Popcorn	Super Mario World Popcorn	video game	https://www.mario
 Super_Mario_World:_Mario_to_Yoshi_no_Bōken_Land	Super Mario World: Mario to Yoshi no Bōken Land	video game	https://www.mariowiki.com/Super_Mario_World%3A_Mario_to_Yoshi_no_B%C5%8Dken_Land	Q7889
 Super_Mario_World:_Super_Mario_Advance_2	Super Mario World: Super Mario Advance 2	video game	https://www.mariowiki.com/Super_Mario_World%3A_Super_Mario_Advance_2	Q7889
 Super_Mario's_Wacky_Worlds	Super Mario's Wacky Worlds	video game	https://www.mariowiki.com/Super_Mario%27s_Wacky_Worlds	Q7889
-Super_Nintendo_World_(water_game)	Super Nintendo World (water game)	video game	https://www.mariowiki.com/Super_Nintendo_World_%28water_game%29	Q7889
 Super_Paper_Mario	Super Paper Mario	video game	https://www.mariowiki.com/Super_Paper_Mario	Q7889
 Super_Princess_Peach	Super Princess Peach	video game	https://www.mariowiki.com/Super_Princess_Peach	Q7889
 Super_Smash_Bros.	Super Smash Bros.	video game	https://www.mariowiki.com/Super_Smash_Bros.	Q7889
@@ -1143,6 +1139,7 @@ Tarek_Alarabi_Tourgane	Tarek Alarabi Tourgane	human	https://www.mariowiki.com/Ta
 Taro_Bando	Taro Bando	human	https://www.mariowiki.com/Taro_Bando	Q5
 Tasuku_Hatanaka	Tasuku Hatanaka	human	https://www.mariowiki.com/Tasuku_Hatanaka	Q5
 Tatsumi_Kimishima	Tatsumi Kimishima	human	https://www.mariowiki.com/Tatsumi_Kimishima	Q5
+Tatá_Guarnieri	Tatá Guarnieri	human	https://www.mariowiki.com/Tat%C3%A1_Guarnieri	Q5
 Tech_demo	Tech demo	video game	https://www.mariowiki.com/Tech_demo	Q7889
 Ted_Woolsey	Ted Woolsey	human	https://www.mariowiki.com/Ted_Woolsey	Q5
 Terebi_Denwa:_Super_Mario_World	Terebi Denwa: Super Mario World	video game	https://www.mariowiki.com/Terebi_Denwa%3A_Super_Mario_World	Q7889
@@ -1215,9 +1212,7 @@ Wario_Land:_The_Shake_Dimension_(Flash_game)	Wario Land: The Shake Dimension (Fl
 Wario_no_Mori_Bakushō_Version	Wario no Mori Bakushō Version	video game	https://www.mariowiki.com/Wario_no_Mori_Bakush%C5%8D_Version	Q7889
 Wario_no_Mori_Event_Version	Wario no Mori Event Version	video game	https://www.mariowiki.com/Wario_no_Mori_Event_Version	Q7889
 Wario_no_Mori_Futatabi	Wario no Mori Futatabi	video game	https://www.mariowiki.com/Wario_no_Mori_Futatabi	Q7889
-Wario_no_Wanage_Game	Wario no Wanage Game	video game	https://www.mariowiki.com/Wario_no_Wanage_Game	Q7889
 Wario_World	Wario World	video game	https://www.mariowiki.com/Wario_World	Q7889
-Wario's_Desert_Dunk	Wario's Desert Dunk	video game	https://www.mariowiki.com/Wario%27s_Desert_Dunk	Q7889
 Wario's_Flashin'_Fruit_Punch_Splash	Wario's Flashin' Fruit Punch Splash	video game	https://www.mariowiki.com/Wario%27s_Flashin%27_Fruit_Punch_Splash	Q7889
 Wario's_Whack_Attack	Wario's Whack Attack	video game	https://www.mariowiki.com/Wario%27s_Whack_Attack	Q7889
 Wario's_Woods_(Nintendo_Entertainment_System)	Wario's Woods (Nintendo Entertainment System)	video game	https://www.mariowiki.com/Wario%27s_Woods_%28Nintendo_Entertainment_System%29	Q7889
