@@ -6,7 +6,6 @@ id	name	desc	url	type
 Aaron_Horvath	Aaron Horvath	human	https://www.mariowiki.com/Aaron_Horvath	Q5
 Abbey_Home_Entertainment	Abbey Home Entertainment	company	https://www.mariowiki.com/Abbey_Home_Entertainment	Q4830453
 Acquire	Acquire	company	https://www.mariowiki.com/Acquire	Q4830453
-Action_Yoshi-2	Action Yoshi-2	video game	https://www.mariowiki.com/Action_Yoshi-2	Q7889
 Adrian_Smith	Adrian Smith	human	https://www.mariowiki.com/Adrian_Smith	Q5
 Adrian_Truss	Adrian Truss	human	https://www.mariowiki.com/Adrian_Truss	Q5
 Aeon	Aeon	company	https://www.mariowiki.com/Aeon	Q4830453
@@ -353,7 +352,6 @@ Game_&_Watch_Gallery_4	Game & Watch Gallery 4	video game	https://www.mariowiki.c
 Game_&_Watch:_Super_Mario_Bros.	Game & Watch: Super Mario Bros.	video game	https://www.mariowiki.com/Game_%26_Watch%3A_Super_Mario_Bros.	Q7889
 Game_Arts	Game Arts	company	https://www.mariowiki.com/Game_Arts	Q4830453
 Game_Boy_Advance_Shampoo_(water_game)	Game Boy Advance Shampoo (water game)	video game	https://www.mariowiki.com/Game_Boy_Advance_Shampoo_%28water_game%29	Q7889
-Game_Boy_Advance_Shampoo_Mario_Kart	Game Boy Advance Shampoo Mario Kart	video game	https://www.mariowiki.com/Game_Boy_Advance_Shampoo_Mario_Kart	Q7889
 Game_Boy_Camera	Game Boy Camera	video game	https://www.mariowiki.com/Game_Boy_Camera	Q7889
 Game_Boy_Color_Promotional_Demo	Game Boy Color Promotional Demo	video game	https://www.mariowiki.com/Game_Boy_Color_Promotional_Demo	Q7889
 Game_Boy_Gallery	Game Boy Gallery	video game	https://www.mariowiki.com/Game_Boy_Gallery	Q7889
@@ -368,6 +366,7 @@ Giovanni_Battezzato	Giovanni Battezzato	human	https://www.mariowiki.com/Giovanni
 Giselle_Fernandez	Giselle Fernandez	human	https://www.mariowiki.com/Giselle_Fernandez	Q5
 Giulia_Maniglio_Bonaldo	Giulia Maniglio Bonaldo	human	https://www.mariowiki.com/Giulia_Maniglio_Bonaldo	Q5
 Glen_Powell	Glen Powell	human	https://www.mariowiki.com/Glen_Powell	Q5
+GM_Corporation	GM Corporation	company	https://www.mariowiki.com/GM_Corporation	Q4830453
 Go_Shinomiya	Go Shinomiya	human	https://www.mariowiki.com/Go_Shinomiya	Q5
 Go!_Go!_Mario_Circuit	Go! Go! Mario Circuit	video game	https://www.mariowiki.com/Go%21_Go%21_Mario_Circuit	Q7889
 Golf	Golf	video game	https://www.mariowiki.com/Golf	Q7889
@@ -910,6 +909,7 @@ Picross_NP_Vol.2	Picross NP Vol.2	video game	https://www.mariowiki.com/Picross_N
 Picross_NP_Vol.6	Picross NP Vol.6	video game	https://www.mariowiki.com/Picross_NP_Vol.6	Q7889
 Picross_NP_Vol.7	Picross NP Vol.7	video game	https://www.mariowiki.com/Picross_NP_Vol.7	Q7889
 Picross_NP_Vol.8	Picross NP Vol.8	video game	https://www.mariowiki.com/Picross_NP_Vol.8	Q7889
+Pidax_Film	Pidax Film	company	https://www.mariowiki.com/Pidax_Film	Q4830453
 Pierre_Leduc	Pierre Leduc	human	https://www.mariowiki.com/Pierre_Leduc	Q5
 Pierre_Tessier	Pierre Tessier	human	https://www.mariowiki.com/Pierre_Tessier	Q5
 Pietro_Ubaldi	Pietro Ubaldi	human	https://www.mariowiki.com/Pietro_Ubaldi	Q5
@@ -1054,7 +1054,6 @@ Super_Mario_64_DS	Super Mario 64 DS	video game	https://www.mariowiki.com/Super_M
 Super_Mario_Advance	Super Mario Advance	video game	https://www.mariowiki.com/Super_Mario_Advance	Q7889
 Super_Mario_Advance_(series)	Super Mario Advance (series)	video game series	https://www.mariowiki.com/Super_Mario_Advance_%28series%29	Q7058673
 Super_Mario_Advance_4:_Super_Mario_Bros._3	Super Mario Advance 4: Super Mario Bros. 3	video game	https://www.mariowiki.com/Super_Mario_Advance_4%3A_Super_Mario_Bros._3	Q7889
-Super_Mario_Advance_Bath_and_Shower_Foam	Super Mario Advance Bath and Shower Foam	video game	https://www.mariowiki.com/Super_Mario_Advance_Bath_and_Shower_Foam	Q7889
 Super_Mario_All-Stars	Super Mario All-Stars	video game	https://www.mariowiki.com/Super_Mario_All-Stars	Q7889
 Super_Mario_All-Stars_+_Super_Mario_World	Super Mario All-Stars + Super Mario World	video game	https://www.mariowiki.com/Super_Mario_All-Stars_%2B_Super_Mario_World	Q7889
 Super_Mario_All-Stars_Limited_Edition	Super Mario All-Stars Limited Edition	video game	https://www.mariowiki.com/Super_Mario_All-Stars_Limited_Edition	Q7889
@@ -1143,6 +1142,7 @@ Takashi_Tezuka	Takashi Tezuka	human	https://www.mariowiki.com/Takashi_Tezuka	Q5
 Takehiko_Hosokawa	Takehiko Hosokawa	human	https://www.mariowiki.com/Takehiko_Hosokawa	Q5
 Taku_Sugioka	Taku Sugioka	human	https://www.mariowiki.com/Taku_Sugioka	Q5
 Takumi_Kawagoe	Takumi Kawagoe	human	https://www.mariowiki.com/Takumi_Kawagoe	Q5
+Tang_Shuiyu	Tang Shuiyu	human	https://www.mariowiki.com/Tang_Shuiyu	Q5
 Tantalus_Media	Tantalus Media	company	https://www.mariowiki.com/Tantalus_Media	Q4830453
 Tara_Strong	Tara Strong	human	https://www.mariowiki.com/Tara_Strong	Q5
 Tarek_Alarabi_Tourgane	Tarek Alarabi Tourgane	human	https://www.mariowiki.com/Tarek_Alarabi_Tourgane	Q5
@@ -1250,6 +1250,7 @@ Who_Wants_to_Win_a_Banana_Hoard?	Who Wants to Win a Banana Hoard?	video game	htt
 WIC_Entertainment	WIC Entertainment	company	https://www.mariowiki.com/WIC_Entertainment	Q4830453
 WiiWare	WiiWare	video game	https://www.mariowiki.com/WiiWare	Q7889
 WILL_Co.,_Ltd.	WILL Co., Ltd.	company	https://www.mariowiki.com/WILL_Co.%2C_Ltd.	Q4830453
+World_Movie_Sky_Cinema	World Movie Sky Cinema	company	https://www.mariowiki.com/World_Movie_Sky_Cinema	Q4830453
 Wrecking_Crew	Wrecking Crew	video game	https://www.mariowiki.com/Wrecking_Crew	Q7889
 Wrecking_Crew_'98	Wrecking Crew '98	video game	https://www.mariowiki.com/Wrecking_Crew_%2798	Q7889
 Wrecking_Crew_(series)	Wrecking Crew (series)	video game series	https://www.mariowiki.com/Wrecking_Crew_%28series%29	Q7058673
@@ -1299,6 +1300,7 @@ Yusuke_Beppu	Yusuke Beppu	human	https://www.mariowiki.com/Yusuke_Beppu	Q5
 Yutaka_Aoyama	Yutaka Aoyama	human	https://www.mariowiki.com/Yutaka_Aoyama	Q5
 Yuya_Takezawa	Yuya Takezawa	human	https://www.mariowiki.com/Yuya_Takezawa	Q5
 Yū_Hayashi	Yū Hayashi	human	https://www.mariowiki.com/Y%C5%AB_Hayashi	Q5
+Zhao_Mingzhou	Zhao Mingzhou	human	https://www.mariowiki.com/Zhao_Mingzhou	Q5
 Zhenying_Communication_Co.,_Ltd.	Zhenying Communication Co., Ltd.	company	https://www.mariowiki.com/Zhenying_Communication_Co.%2C_Ltd.	Q4830453
 Zoe_Nelson	Zoe Nelson	human	https://www.mariowiki.com/Zoe_Nelson	Q5
 Ángel_De_Gracia	Ángel De Gracia	human	https://www.mariowiki.com/%C3%81ngel_De_Gracia	Q5
