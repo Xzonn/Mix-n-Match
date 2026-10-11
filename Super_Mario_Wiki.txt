@@ -420,7 +420,9 @@ Hans-Rainer_Müller	Hans-Rainer Müller	human	https://www.mariowiki.com/Hans-Rai
 Harry_Blackstone_Jr.	Harry Blackstone Jr.	human	https://www.mariowiki.com/Harry_Blackstone_Jr.	Q5
 Harumi_Nishizawa	Harumi Nishizawa	human	https://www.mariowiki.com/Harumi_Nishizawa	Q5
 Heads-Up	Heads-Up	video game	https://www.mariowiki.com/Heads-Up	Q7889
+Hello,_Luigi!	Hello, Luigi!	video game	https://www.mariowiki.com/Hello%2C_Luigi%21	Q7889
 Hello,_Mario!_(game)	Hello, Mario! (game)	video game	https://www.mariowiki.com/Hello%2C_Mario%21_%28game%29	Q7889
+Hello,_Peach!	Hello, Peach!	video game	https://www.mariowiki.com/Hello%2C_Peach%21	Q7889
 Hello,_Yoshi!	Hello, Yoshi!	video game	https://www.mariowiki.com/Hello%2C_Yoshi%21	Q7889
 Hernán_Fernández	Hernán Fernández	human	https://www.mariowiki.com/Hern%C3%A1n_Fern%C3%A1ndez	Q5
 Hervé_Grull	Hervé Grull	human	https://www.mariowiki.com/Herv%C3%A9_Grull	Q5
@@ -575,6 +577,7 @@ Lexibook	Lexibook	company	https://www.mariowiki.com/Lexibook	Q4830453
 Lexie_Kendrick	Lexie Kendrick	human	https://www.mariowiki.com/Lexie_Kendrick	Q5
 LINE	LINE	company	https://www.mariowiki.com/LINE	Q4830453
 Linus_Wahlgren	Linus Wahlgren	human	https://www.mariowiki.com/Linus_Wahlgren	Q5
+List_of_browser_games_by_date	List of browser games by date	video game	https://www.mariowiki.com/List_of_browser_games_by_date	Q7889
 List_of_games	List of games	video game	https://www.mariowiki.com/List_of_games	Q7889
 List_of_games_by_date	List of games by date	video game	https://www.mariowiki.com/List_of_games_by_date	Q7889
 List_of_games_by_genre	List of games by genre	video game	https://www.mariowiki.com/List_of_games_by_genre	Q7889
@@ -871,7 +874,6 @@ New_Super_Mario_Bros._2	New Super Mario Bros. 2	video game	https://www.mariowiki
 New_Super_Mario_Bros._Mii	New Super Mario Bros. Mii	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Mii	Q7889
 New_Super_Mario_Bros._U	New Super Mario Bros. U	video game	https://www.mariowiki.com/New_Super_Mario_Bros._U	Q7889
 New_Super_Mario_Bros._U_Deluxe	New Super Mario Bros. U Deluxe	video game	https://www.mariowiki.com/New_Super_Mario_Bros._U_Deluxe	Q7889
-New_Super_Mario_Bros._U_Dokodemo_Game_Collection	New Super Mario Bros. U Dokodemo Game Collection	video game series	https://www.mariowiki.com/New_Super_Mario_Bros._U_Dokodemo_Game_Collection	Q7058673
 New_Super_Mario_Bros._Wii	New Super Mario Bros. Wii	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Wii	Q7889
 New_Super_Mario_Bros._Wii_Coin_World	New Super Mario Bros. Wii Coin World	video game	https://www.mariowiki.com/New_Super_Mario_Bros._Wii_Coin_World	Q7889
 Next_Level_Games	Next Level Games	company	https://www.mariowiki.com/Next_Level_Games	Q4830453
@@ -900,6 +902,7 @@ Norio_Asakura	Norio Asakura	human	https://www.mariowiki.com/Norio_Asakura	Q5
 NovaLogic	NovaLogic	company	https://www.mariowiki.com/NovaLogic	Q4830453
 Nuno_Pardal	Nuno Pardal	human	https://www.mariowiki.com/Nuno_Pardal	Q5
 Oana_Mereuță	Oana Mereuță	human	https://www.mariowiki.com/Oana_Mereu%C8%9B%C4%83	Q5
+Odile_Schmitt	Odile Schmitt	human	https://www.mariowiki.com/Odile_Schmitt	Q5
 Oliviero_Corbetta	Oliviero Corbetta	human	https://www.mariowiki.com/Oliviero_Corbetta	Q5
 Owen_Thomas	Owen Thomas	human	https://www.mariowiki.com/Owen_Thomas	Q5
 Pacific_Rim_Productions,_Inc.	Pacific Rim Productions, Inc.	company	https://www.mariowiki.com/Pacific_Rim_Productions%2C_Inc.	Q4830453
@@ -962,6 +965,7 @@ Pétros_Damoulís	Pétros Damoulís	human	https://www.mariowiki.com/P%C3%A9tros_
 Racjin	Racjin	company	https://www.mariowiki.com/Racjin	Q4830453
 Radical_Entertainment	Radical Entertainment	company	https://www.mariowiki.com/Radical_Entertainment	Q4830453
 Rafa_Romero	Rafa Romero	human	https://www.mariowiki.com/Rafa_Romero	Q5
+Rafael_Alonso_Naranjo_Jr.	Rafael Alonso Naranjo Jr.	human	https://www.mariowiki.com/Rafael_Alonso_Naranjo_Jr.	Q5
 Rafael_Parra	Rafael Parra	human	https://www.mariowiki.com/Rafael_Parra	Q5
 Ramón_Canals	Ramón Canals	human	https://www.mariowiki.com/Ram%C3%B3n_Canals	Q5
 Rare	Rare	company	https://www.mariowiki.com/Rare	Q4830453
@@ -1234,6 +1238,8 @@ Twinkl	Twinkl	company	https://www.mariowiki.com/Twinkl	Q4830453
 Txema_Moscoso	Txema Moscoso	human	https://www.mariowiki.com/Txema_Moscoso	Q5
 Tyler_Shamy	Tyler Shamy	human	https://www.mariowiki.com/Tyler_Shamy	Q5
 Ubisoft	Ubisoft	company	https://www.mariowiki.com/Ubisoft	Q4830453
+Ulf_Jürgen_Söhmisch	Ulf Jürgen Söhmisch	human	https://www.mariowiki.com/Ulf_J%C3%BCrgen_S%C3%B6hmisch	Q5
+Ulrich_Frank	Ulrich Frank	human	https://www.mariowiki.com/Ulrich_Frank	Q5
 Ultimate_NES_Remix	Ultimate NES Remix	video game	https://www.mariowiki.com/Ultimate_NES_Remix	Q7889
 UNDAKE30_Same_Game	UNDAKE30 Same Game	video game	https://www.mariowiki.com/UNDAKE30_Same_Game	Q7889
 Unilever	Unilever	company	https://www.mariowiki.com/Unilever	Q4830453
@@ -1344,6 +1350,7 @@ Yusaku_Yara	Yusaku Yara	human	https://www.mariowiki.com/Yusaku_Yara	Q5
 Yusuke_Beppu	Yusuke Beppu	human	https://www.mariowiki.com/Yusuke_Beppu	Q5
 Yutaka_Aoyama	Yutaka Aoyama	human	https://www.mariowiki.com/Yutaka_Aoyama	Q5
 Yuya_Takezawa	Yuya Takezawa	human	https://www.mariowiki.com/Yuya_Takezawa	Q5
+Yves_Barsacq	Yves Barsacq	human	https://www.mariowiki.com/Yves_Barsacq	Q5
 Yvonne_Greitzke	Yvonne Greitzke	human	https://www.mariowiki.com/Yvonne_Greitzke	Q5
 Yū_Hayashi	Yū Hayashi	human	https://www.mariowiki.com/Y%C5%AB_Hayashi	Q5
 Zhao_Mingzhou	Zhao Mingzhou	human	https://www.mariowiki.com/Zhao_Mingzhou	Q5
