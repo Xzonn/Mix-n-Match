@@ -122,6 +122,7 @@ p1446		Another	video game developer/producer	https://vndb.org/p1446	Q210167
 p29933		AnotherIndie	video game developer/producer	https://vndb.org/p29933	Q210167	
 p2737		AnotherRoom	video game developer/producer	https://vndb.org/p2737	Q210167	
 p26020		aNTIQ	video game developer/producer	https://vndb.org/p26020	Q210167	
+p27127		Anuttacon	video game developer/producer	https://vndb.org/p27127	Q210167	
 p1136		anxious	video game developer/producer	https://vndb.org/p1136	Q210167	
 p12669		Aozora	video game developer/producer	https://vndb.org/p12669	Q210167	
 p1030		Ape & Frog	video game developer/producer	https://vndb.org/p1030	Q210167	
@@ -261,6 +262,7 @@ p16106		blissful beryl	video game developer/producer	https://vndb.org/p16106	Q21
 p7650		Blissful Work's	video game developer/producer	https://vndb.org/p7650	Q210167	
 p17306	Q178824	Blizzard Entertainment	video game developer/producer	https://vndb.org/p17306	Q210167	
 p6673	Q91125606	Bloom Digital Media Inc.	video game developer/producer	https://vndb.org/p6673	Q210167	
+p31626		Blossom	video game developer/producer	https://vndb.org/p31626	Q210167	
 p4958		BLT	video game developer/producer	https://vndb.org/p4958	Q210167	
 p1116		Blue Crescent Moon	video game developer/producer	https://vndb.org/p1116	Q210167	
 p182		Blue Gale	video game developer/producer	https://vndb.org/p182	Q210167	
@@ -300,6 +302,7 @@ p217		BUNBUN	video game developer/producer	https://vndb.org/p217	Q210167
 p1420		bunny hole studio	video game developer/producer	https://vndb.org/p1420	Q210167	
 p1993		burston	video game developer/producer	https://vndb.org/p1993	Q210167	
 p8765		Bメイト★	video game developer/producer	https://vndb.org/p8765	Q210167	
+p31674		C#4R4CT3R	video game developer/producer	https://vndb.org/p31674	Q210167	
 p6663		C-Class	video game developer/producer	https://vndb.org/p6663	Q210167	
 p12661		C-Garden NEXT-B	video game developer/producer	https://vndb.org/p12661	Q210167	
 p167		C-Side	video game developer/producer	https://vndb.org/p167	Q210167	
@@ -1131,6 +1134,7 @@ p29	Q11346279	Liar-soft	video game developer/producer	https://vndb.org/p29	Q2101
 p6693		Liberi Gothica Games	video game developer/producer	https://vndb.org/p6693	Q210167	
 p872		LIBI	video game developer/producer	https://vndb.org/p872	Q210167	
 p103	Q11229012	LIBIDO	video game developer/producer	https://vndb.org/p103	Q210167	
+p31654		Librastral Studio	video game developer/producer	https://vndb.org/p31654	Q210167	
 p16377		LicoBiTs	video game developer/producer	https://vndb.org/p16377	Q210167	
 p2274		Liddell	video game developer/producer	https://vndb.org/p2274	Q210167	
 p6218		LIFE0	video game developer/producer	https://vndb.org/p6218	Q210167	
@@ -1888,6 +1892,7 @@ p20348		SOFTOP	video game developer/producer	https://vndb.org/p20348	Q210167
 p26815		Softzen	video game developer/producer	https://vndb.org/p26815	Q210167	
 p6771		SOIR	video game developer/producer	https://vndb.org/p6771	Q210167	
 p9804		Soiree	video game developer/producer	https://vndb.org/p9804	Q210167	
+p31629		Sokay	video game developer/producer	https://vndb.org/p31629	Q210167	
 p7033	Q59211782	Sol Press	video game developer/producer	https://vndb.org/p7033	Q210167	
 p1054		Soleil	video game developer/producer	https://vndb.org/p1054	Q210167	
 p5472		Soloflare Interactive Ltd	video game developer/producer	https://vndb.org/p5472	Q210167	
@@ -2063,6 +2068,7 @@ p12304		Team Silver Mitts	video game developer/producer	https://vndb.org/p12304	
 p11873		Team Toadhouse	video game developer/producer	https://vndb.org/p11873	Q210167	
 p1806		Teardrop	video game developer/producer	https://vndb.org/p1806	Q210167	
 p15624		Tears of Mermaid	video game developer/producer	https://vndb.org/p15624	Q210167	
+p31638		TEATIME	video game developer/producer	https://vndb.org/p31638	Q210167	
 p9465		TechnoCat Games	video game developer/producer	https://vndb.org/p9465	Q210167	
 p1352		Tecnuro Entertainment Ltd.	video game developer/producer	https://vndb.org/p1352	Q210167	
 p10313		Tempest Digital Ltd.	video game developer/producer	https://vndb.org/p10313	Q210167	
@@ -2624,7 +2630,6 @@ p3309		アイル【チーム・ラヴリス】	video game developer/producer	htt
 p1742	Q617752	アイレムソフトウェアエンジニアリング株式会社	video game developer/producer	https://vndb.org/p1742	Q210167	
 p748		アイン	video game developer/producer	https://vndb.org/p748	Q210167	
 p6980		アインツ	video game developer/producer	https://vndb.org/p6980	Q210167	
-p20229		アイ・スタジオ	video game developer/producer	https://vndb.org/p20229	Q210167	
 p5343		アウトグリッド	video game developer/producer	https://vndb.org/p5343	Q210167	
 p5075		アウローラ	video game developer/producer	https://vndb.org/p5075	Q210167	
 p1708		アクアウェイブ	video game developer/producer	https://vndb.org/p1708	Q210167	
@@ -2778,7 +2783,6 @@ p356		エクセレンツ	video game developer/producer	https://vndb.org/p356	Q21
 p4385		エクレール	video game developer/producer	https://vndb.org/p4385	Q210167	
 p403	Q11290014	エスクード	video game developer/producer	https://vndb.org/p403	Q210167	
 p6675		エスプレッソ	video game developer/producer	https://vndb.org/p6675	Q210167	
-p3467	Q11290135	エス・オー・エフ・ティー	video game developer/producer	https://vndb.org/p3467	Q210167	
 p2175		エックスワン	video game developer/producer	https://vndb.org/p2175	Q210167	
 p846		エッジ	video game developer/producer	https://vndb.org/p846	Q210167	
 p6667		エデン	video game developer/producer	https://vndb.org/p6667	Q210167	
@@ -3448,7 +3452,6 @@ p12872	Q155152	ポリドール	video game developer/producer	https://vndb.org/p1
 p27977		ポーンソフトウェア株式会社	video game developer/producer	https://vndb.org/p27977	Q210167	
 p2418		マイアミソフト	video game developer/producer	https://vndb.org/p2418	Q210167	
 p9783		マイコンシティー	video game developer/producer	https://vndb.org/p9783	Q210167	
-p5878		マイティークラフト	video game developer/producer	https://vndb.org/p5878	Q210167	
 p17169		マイネットゲームス	video game developer/producer	https://vndb.org/p17169	Q210167	
 p2348		マイ・ハーベスト	video game developer/producer	https://vndb.org/p2348	Q210167	
 p7092		マウントポジション	video game developer/producer	https://vndb.org/p7092	Q210167	
@@ -3477,7 +3480,6 @@ p8914		ミックスナッツ	video game developer/producer	https://vndb.org/p891
 p2070		ミニヨン	video game developer/producer	https://vndb.org/p2070	Q210167	
 p27599		ミュウテック	video game developer/producer	https://vndb.org/p27599	Q210167	
 p28887		ミュージアムピクチャーズ	video game developer/producer	https://vndb.org/p28887	Q210167	
-p9309		ミリアルディー	video game developer/producer	https://vndb.org/p9309	Q210167	
 p28979	Q11242737	ミルキー	video game developer/producer	https://vndb.org/p28979	Q210167	
 p6697		ミルキーファーム	video game developer/producer	https://vndb.org/p6697	Q210167	
 p2328		ミルクキャンディー	video game developer/producer	https://vndb.org/p2328	Q210167	
@@ -3692,6 +3694,7 @@ p11320		合同会社Navila Software Japan	video game developer/producer	https://
 p21517	Q136459271	合同会社Re,AER	video game developer/producer	https://vndb.org/p21517	Q210167	
 p10566		合同会社Seikei Production	video game developer/producer	https://vndb.org/p10566	Q210167	
 p19202	Q119658492	合同会社SHINYUDEN	video game developer/producer	https://vndb.org/p19202	Q210167	
+p31637		合同会社いけふく	video game developer/producer	https://vndb.org/p31637	Q210167	
 p5627		合同会社アイリスデザインワークス	video game developer/producer	https://vndb.org/p5627	Q210167	
 p26165		合同会社アシストリック	video game developer/producer	https://vndb.org/p26165	Q210167	
 p5639		合同会社アトリエアクア	video game developer/producer	https://vndb.org/p5639	Q210167	
@@ -3756,6 +3759,7 @@ p22371		奥秘之家	video game developer/producer	https://vndb.org/p22371	Q2101
 p20124		奧創資訊	video game developer/producer	https://vndb.org/p20124	Q210167	
 p10688		奧爾資訊	video game developer/producer	https://vndb.org/p10688	Q210167	
 p834		女体光学研究所	video game developer/producer	https://vndb.org/p834	Q210167	
+p31671		好活游戏	video game developer/producer	https://vndb.org/p31671	Q210167	
 p1596		姫ちゃんカンパニー	video game developer/producer	https://vndb.org/p1596	Q210167	
 p118	Q11447398	姫屋ソフト	video game developer/producer	https://vndb.org/p118	Q210167	
 p13057		威向文化	video game developer/producer	https://vndb.org/p13057	Q210167	
@@ -3978,6 +3982,8 @@ p28850		有限会社マイトレジャー	video game developer/producer	https://
 p7408		有限会社マジテック	video game developer/producer	https://vndb.org/p7408	Q210167	
 p373	Q11341057	有限会社マリゴールド	video game developer/producer	https://vndb.org/p373	Q210167	
 p5757		有限会社ミマス	video game developer/producer	https://vndb.org/p5757	Q210167	
+p9309		有限会社ミリアルディー	video game developer/producer	https://vndb.org/p9309	Q210167	
+p31615		有限会社ムーンパロット	video game developer/producer	https://vndb.org/p31615	Q210167	
 p28828		有限会社メディアクルーズ	video game developer/producer	https://vndb.org/p28828	Q210167	
 p5695		有限会社メディアボックス	video game developer/producer	https://vndb.org/p5695	Q210167	
 p5759		有限会社モフモフ	video game developer/producer	https://vndb.org/p5759	Q210167	
@@ -4079,7 +4085,6 @@ p1320	Q11242808	株式会社SEAMS	video game developer/producer	https://vndb.org
 p6950	Q119380652	株式会社SEEC	video game developer/producer	https://vndb.org/p6950	Q210167	
 p621	Q1044563	株式会社SNK	video game developer/producer	https://vndb.org/p621	Q210167	
 p12058		株式会社Trynity	video game developer/producer	https://vndb.org/p12058	Q210167	
-p30762		株式会社TSH	video game developer/producer	https://vndb.org/p30762	Q210167	
 p28359		株式会社UPD	video game developer/producer	https://vndb.org/p28359	Q210167	
 p13304		株式会社Xemono	video game developer/producer	https://vndb.org/p13304	Q210167	
 p16168		株式会社あしびかんぱにー	video game developer/producer	https://vndb.org/p16168	Q210167	
@@ -4185,6 +4190,7 @@ p7333		株式会社エスエスビー	video game developer/producer	https://vndb
 p11359		株式会社エスカドラ	video game developer/producer	https://vndb.org/p11359	Q210167	
 p15886		株式会社エスコート	video game developer/producer	https://vndb.org/p15886	Q210167	
 p5655		株式会社エスデジタル	video game developer/producer	https://vndb.org/p5655	Q210167	
+p3467	Q11290135	株式会社エス・オー・エフ・ティー	video game developer/producer	https://vndb.org/p3467	Q210167	
 p30714		株式会社エス・ピー・エス	video game developer/producer	https://vndb.org/p30714	Q210167	
 p21827	Q11290251	株式会社エディア	video game developer/producer	https://vndb.org/p21827	Q210167	
 p1258	Q1343212	株式会社エニックス	video game developer/producer	https://vndb.org/p1258	Q210167	
@@ -4448,6 +4454,7 @@ p31079		株式会社ポーラスター	video game developer/producer	https://vnd
 p424	Q4348557	株式会社マイクロキャビン	video game developer/producer	https://vndb.org/p424	Q210167	
 p3851		株式会社マイクロビジョン	video game developer/producer	https://vndb.org/p3851	Q210167	
 p10833	Q11339589	株式会社マイクロマガジン	video game developer/producer	https://vndb.org/p10833	Q210167	
+p5878		株式会社マイティークラフト	video game developer/producer	https://vndb.org/p5878	Q210167	
 p19200	Q11340032	株式会社マクロミル	video game developer/producer	https://vndb.org/p19200	Q210167	
 p2715		株式会社マシス	video game developer/producer	https://vndb.org/p2715	Q210167	
 p14869		株式会社マメクジラ	video game developer/producer	https://vndb.org/p14869	Q210167	
@@ -4506,6 +4513,7 @@ p22800		株式会社偃月	video game developer/producer	https://vndb.org/p22800
 p28586		株式会社八咫鴉	video game developer/producer	https://vndb.org/p28586	Q210167	
 p28196		株式会社和	video game developer/producer	https://vndb.org/p28196	Q210167	
 p29586		株式会社四喜和	video game developer/producer	https://vndb.org/p29586	Q210167	
+p31617		株式会社大海社	video game developer/producer	https://vndb.org/p31617	Q210167	
 p4417		株式会社天沼矛	video game developer/producer	https://vndb.org/p4417	Q210167	
 p5671		株式会社広美	video game developer/producer	https://vndb.org/p5671	Q210167	
 p5725		株式会社彩文館出版	video game developer/producer	https://vndb.org/p5725	Q210167	
@@ -4835,6 +4843,7 @@ s13090		.Ree		https://vndb.org/s13090	Q5
 s22958		.８４		https://vndb.org/s22958	Q5	
 s38600		/a/non scanlations		https://vndb.org/s38600	Q5	
 s14250		/p tぽk		https://vndb.org/s14250	Q5	
+s57171		/skk/ Atelier		https://vndb.org/s57171	Q5	
 s2370		0103カン		https://vndb.org/s2370	Q5	
 s42454		01846	male	https://vndb.org/s42454	Q5	Q6581097
 s30160		01SoundEarth		https://vndb.org/s30160	Q5	
@@ -5019,6 +5028,7 @@ s18484		@Jin		https://vndb.org/s18484	Q5
 s22219		@lice		https://vndb.org/s22219	Q5	
 s35919		@mcf_works	male	https://vndb.org/s35919	Q5	Q6581097
 s45046		@mottaimpamyu		https://vndb.org/s45046	Q5	
+s57225		@NEN		https://vndb.org/s57225	Q5	
 s45359		@shinji_zone		https://vndb.org/s45359	Q5	
 s6109		@sound		https://vndb.org/s6109	Q5	
 s6651		@the Little Jam		https://vndb.org/s6651	Q5	
@@ -5321,6 +5331,7 @@ s36119		afuera		https://vndb.org/s36119	Q5
 s7040		AGA		https://vndb.org/s7040	Q5	
 s30774		Agang		https://vndb.org/s30774	Q5	
 s12510		Agashi		https://vndb.org/s12510	Q5	
+s57273		age3		https://vndb.org/s57273	Q5	
 s3231		Ageha	female	https://vndb.org/s3231	Q5	Q6581072
 s44285		Agelheed		https://vndb.org/s44285	Q5	
 s38529		Agent Lee		https://vndb.org/s38529	Q5	
@@ -5338,6 +5349,7 @@ s7205		AGプロモーション		https://vndb.org/s7205	Q5
 s42387		Ah-ya	female	https://vndb.org/s42387	Q5	Q6581072
 s43023		Ahkumu		https://vndb.org/s43023	Q5	
 s51002		AHOBAKA	male	https://vndb.org/s51002	Q5	Q6581097
+s57268		Ahoguru		https://vndb.org/s57268	Q5	
 s39963		Ahoミカ	female	https://vndb.org/s39963	Q5	Q6581072
 s22029		Ahwy		https://vndb.org/s22029	Q5	
 s11029		Ai		https://vndb.org/s11029	Q5	
@@ -6633,6 +6645,7 @@ s45558		Astra3000		https://vndb.org/s45558	Q5
 s35069		Astraeus		https://vndb.org/s35069	Q5	
 s52604		Astral		https://vndb.org/s52604	Q5	
 s33246		AstralAria	male	https://vndb.org/s33246	Q5	Q6581097
+s57181		ASTRE		https://vndb.org/s57181	Q5	
 s54256		Astrea Games		https://vndb.org/s54256	Q5	
 s36812		Astro Kid		https://vndb.org/s36812	Q5	
 s49387		AstroNoteS		https://vndb.org/s49387	Q5	
@@ -7191,6 +7204,7 @@ s50623		BIC・STUDIO		https://vndb.org/s50623	Q5
 s39145		bie		https://vndb.org/s39145	Q5	
 s28237		Biedrona92		https://vndb.org/s28237	Q5	
 s42992		BIG		https://vndb.org/s42992	Q5	
+s57269		Big Bear Nose		https://vndb.org/s57269	Q5	
 s42983		BIG kuma		https://vndb.org/s42983	Q5	
 s43936		BIG LUCK	male	https://vndb.org/s43936	Q5	Q6581097
 s7302		BIG たあぼう		https://vndb.org/s7302	Q5	
@@ -7263,6 +7277,7 @@ s22719		BLACK		https://vndb.org/s22719	Q5
 s52423		Black Cat Entertainment		https://vndb.org/s52423	Q5	
 s49271		black imperator		https://vndb.org/s49271	Q5	
 s47264		Black mist iland		https://vndb.org/s47264	Q5	
+s57261		Black RX		https://vndb.org/s57261	Q5	
 s20886	Q11191337	BLACK VELVET		https://vndb.org/s20886	Q5	
 s28410		Black99		https://vndb.org/s28410	Q5	
 s48387		BLACKART		https://vndb.org/s48387	Q5	
@@ -8392,7 +8407,7 @@ s34957		ChS	male	https://vndb.org/s34957	Q5	Q6581097
 s48872		Chs		https://vndb.org/s48872	Q5	
 s42477		Chtobi		https://vndb.org/s42477	Q5	
 s35266		chu!chu!		https://vndb.org/s35266	Q5	
-s21316		Chu!☆Lips	female	https://vndb.org/s21316	Q5	Q6581072
+s21316		Chu!☆Lips		https://vndb.org/s21316	Q5	
 s3757		Chu-3	female	https://vndb.org/s3757	Q5	Q6581072
 s56428		chu.β		https://vndb.org/s56428	Q5	
 s43456		Chucmellan translations		https://vndb.org/s43456	Q5	
@@ -8554,6 +8569,7 @@ s39695		CMD+G Design Inc		https://vndb.org/s39695	Q5
 s46950		cmos		https://vndb.org/s46950	Q5	
 s20148		Cnoc		https://vndb.org/s20148	Q5	
 s30209		CNVsound		https://vndb.org/s30209	Q5	
+s57280		Co.		https://vndb.org/s57280	Q5	
 s40388		CobaltKobold	male	https://vndb.org/s40388	Q5	Q6581097
 s39687		Coby Arriola		https://vndb.org/s39687	Q5	
 s38638		Coco Tollini		https://vndb.org/s38638	Q5	
@@ -9486,6 +9502,7 @@ s22314		Demetrius Parham	male	https://vndb.org/s22314	Q5	Q6581097
 s28248		Demi		https://vndb.org/s28248	Q5	
 s48717		Demi		https://vndb.org/s48717	Q5	
 s28638		Demi Elizabeth	female	https://vndb.org/s28638	Q5	Q6581072
+s57178		DemiAnime	male	https://vndb.org/s57178	Q5	Q6581097
 s35696		DemiDevi		https://vndb.org/s35696	Q5	
 s41802		Demon		https://vndb.org/s41802	Q5	
 s23898		DemonBear	female	https://vndb.org/s23898	Q5	Q6581072
@@ -9901,7 +9918,6 @@ s52419		DRG		https://vndb.org/s52419	Q5
 s49782		Drgn		https://vndb.org/s49782	Q5	
 s31026		Dri Gomez		https://vndb.org/s31026	Q5	
 s42049		Drimster		https://vndb.org/s42049	Q5	
-s42070		Drimster_akaLord		https://vndb.org/s42070	Q5	
 s27558		DrMason		https://vndb.org/s27558	Q5	
 s9135		Drop		https://vndb.org/s9135	Q5	
 s2511		drops-tone		https://vndb.org/s2511	Q5	
@@ -10018,7 +10034,7 @@ s53226		E.L		https://vndb.org/s53226	Q5
 s11582		e10		https://vndb.org/s11582	Q5	
 s49356		e:cho		https://vndb.org/s49356	Q5	
 s14355		E;ROS		https://vndb.org/s14355	Q5	
-s6504		E=MC2		https://vndb.org/s6504	Q5	
+s6504		E=MC2	male	https://vndb.org/s6504	Q5	Q6581097
 s44265		E=ロイ		https://vndb.org/s44265	Q5	
 s32108		EAG		https://vndb.org/s32108	Q5	
 s35534		Eals		https://vndb.org/s35534	Q5	
@@ -10446,6 +10462,7 @@ s54528		Enfants du ChäoS		https://vndb.org/s54528	Q5
 s25575		Engels Fernandez	male	https://vndb.org/s25575	Q5	Q6581097
 s35836		Engr. RJ Asba		https://vndb.org/s35836	Q5	
 s38659		Enhance		https://vndb.org/s38659	Q5	
+s57310		Eni	female	https://vndb.org/s57310	Q5	Q6581072
 s38101		Enid Chan	female	https://vndb.org/s38101	Q5	Q6581072
 s36443		EnigmaAM		https://vndb.org/s36443	Q5	
 s28022		enigmaopoeia		https://vndb.org/s28022	Q5	
@@ -10590,6 +10607,7 @@ s45882		Esgardo Valadez		https://vndb.org/s45882	Q5
 s28027		esha	female	https://vndb.org/s28027	Q5	Q6581072
 s35970		Esham		https://vndb.org/s35970	Q5	
 s53936		Eshera	female	https://vndb.org/s53936	Q5	Q6581072
+s57177		Eshineko22	male	https://vndb.org/s57177	Q5	Q6581097
 s49160		Eshuji		https://vndb.org/s49160	Q5	
 s48186		ESME MORI		https://vndb.org/s48186	Q5	
 s54915		ESMERAIN	female	https://vndb.org/s54915	Q5	Q6581072
@@ -10686,6 +10704,7 @@ s36038		EverlastingTale		https://vndb.org/s36038	Q5
 s32267		Evgeniy Makhnyov		https://vndb.org/s32267	Q5	
 s32277		Evgeniya Shpakovskaya		https://vndb.org/s32277	Q5	
 s11609		Evgeny Bychkov		https://vndb.org/s11609	Q5	
+s57313		Evie Lund	female	https://vndb.org/s57313	Q5	Q6581072
 s50933		evil and de(b)vil team		https://vndb.org/s50933	Q5	
 s41967		EVIL LINE RECORDS		https://vndb.org/s41967	Q5	
 s38543		Evil Pony		https://vndb.org/s38543	Q5	
@@ -10752,6 +10771,7 @@ s42240		F.E.L		https://vndb.org/s42240	Q5
 s3613		F.S	male	https://vndb.org/s3613	Q5	Q6581097
 s9910		F.W.N		https://vndb.org/s9910	Q5	
 s35799		F1reshark	female	https://vndb.org/s35799	Q5	Q6581072
+s57326		F4elon		https://vndb.org/s57326	Q5	
 s31470		F4MI		https://vndb.org/s31470	Q5	
 s37162		f7f7f7		https://vndb.org/s37162	Q5	
 s55386		f@bLER		https://vndb.org/s55386	Q5	
@@ -10764,6 +10784,7 @@ s26045		Fable+Grimoire		https://vndb.org/s26045	Q5
 s30975		Fabled Ways		https://vndb.org/s30975	Q5	
 s56487		facata	male	https://vndb.org/s56487	Q5	Q6581097
 s42339		Face 2 fAKE		https://vndb.org/s42339	Q5	
+s57160		Facundo Seghezzo	male	https://vndb.org/s57160	Q5	Q6581097
 s21053		Fadel Ragheb	male	https://vndb.org/s21053	Q5	Q6581097
 s50741		Fae Cordae-Young		https://vndb.org/s50741	Q5	
 s20576		Fae Lalune	female	https://vndb.org/s20576	Q5	Q6581072
@@ -10831,6 +10852,7 @@ s32087		Faust		https://vndb.org/s32087	Q5
 s50848		Faux Synder	female	https://vndb.org/s50848	Q5	Q6581072
 s41629		Fava Beans		https://vndb.org/s41629	Q5	
 s46125		FavonianFantasy		https://vndb.org/s46125	Q5	
+s57270		Fawnclouds		https://vndb.org/s57270	Q5	
 s35915		fawnedness	female	https://vndb.org/s35915	Q5	Q6581072
 s29195		fawnyawns		https://vndb.org/s29195	Q5	
 s40623		Faxia		https://vndb.org/s40623	Q5	
@@ -10896,6 +10918,7 @@ s51644		FER.SUSTAINER		https://vndb.org/s51644	Q5
 s36953		Ferallove		https://vndb.org/s36953	Q5	
 s36183		Ferchank		https://vndb.org/s36183	Q5	
 s50835		Ferd		https://vndb.org/s50835	Q5	
+s57246		Ferdinand The Cat		https://vndb.org/s57246	Q5	
 s49138		Ferdy		https://vndb.org/s49138	Q5	
 s47027		Feri		https://vndb.org/s47027	Q5	
 s33250		Fernand		https://vndb.org/s33250	Q5	
@@ -11115,7 +11138,7 @@ s26780		FoxxCop		https://vndb.org/s26780	Q5
 s39821		FoxyTheMoron		https://vndb.org/s39821	Q5	
 s55852		FPanda		https://vndb.org/s55852	Q5	
 s38593		Fra's Forum		https://vndb.org/s38593	Q5	
-s50022		fracoco		https://vndb.org/s50022	Q5	
+s50022		fracoco	female	https://vndb.org/s50022	Q5	Q6581072
 s26568		FRAM	female	https://vndb.org/s26568	Q5	Q6581072
 s25469		FraMe		https://vndb.org/s25469	Q5	
 s20362		Frame Design		https://vndb.org/s20362	Q5	
@@ -11325,6 +11348,7 @@ s4579		FY		https://vndb.org/s4579	Q5
 s32929		Fynnegun	male	https://vndb.org/s32929	Q5	Q6581097
 s34273		Fyodor Barakovsky	male	https://vndb.org/s34273	Q5	Q6581097
 s24503		Fyshku	male	https://vndb.org/s24503	Q5	Q6581097
+s57222		Fyu-kosay		https://vndb.org/s57222	Q5	
 s53241		Féileacán Cú	male	https://vndb.org/s53241	Q5	Q6581097
 s28187		G Aho		https://vndb.org/s28187	Q5	
 s4739		G kilo-byte		https://vndb.org/s4739	Q5	
@@ -11403,6 +11427,7 @@ s38258		Galladite27	male	https://vndb.org/s38258	Q5	Q6581097
 s8805	Q32555544	GALNERYUS		https://vndb.org/s8805	Q5	
 s38469		Galya Timel Fedorova		https://vndb.org/s38469	Q5	
 s10589		Gam		https://vndb.org/s10589	Q5	
+s57165		GAMA		https://vndb.org/s57165	Q5	
 s48114		Gamaliel F. Bontilao		https://vndb.org/s48114	Q5	
 s24615		GAMBE		https://vndb.org/s24615	Q5	
 s55652		Game&Burger		https://vndb.org/s55652	Q5	
@@ -11796,6 +11821,7 @@ s52238		Greenfield		https://vndb.org/s52238	Q5
 s28403		Greg		https://vndb.org/s28403	Q5	
 s10393		Greg "Noximous" Criddle	male	https://vndb.org/s10393	Q5	Q6581097
 s24593		Greg Arnold	male	https://vndb.org/s24593	Q5	Q6581097
+s57319		Greg Ayres	male	https://vndb.org/s57319	Q5	Q6581097
 s17431		Greg Batha	male	https://vndb.org/s17431	Q5	Q6581097
 s19181	Q87758062	Greg Chun	male	https://vndb.org/s19181	Q5	Q6581097
 s27908		Greg Dearo		https://vndb.org/s27908	Q5	
@@ -12671,6 +12697,7 @@ s16808		ichan01	male	https://vndb.org/s16808	Q5	Q6581097
 s23713		Ichi-gsm	male	https://vndb.org/s23713	Q5	Q6581097
 s16892		Ichiemon		https://vndb.org/s16892	Q5	
 s10232		ichigo	female	https://vndb.org/s10232	Q5	Q6581072
+s57256		Ichigo Ujikintoki		https://vndb.org/s57256	Q5	
 s47080		ichigohaatsu		https://vndb.org/s47080	Q5	
 s19387		Ichirou Yomogida		https://vndb.org/s19387	Q5	
 s51539		Ichisan		https://vndb.org/s51539	Q5	
@@ -12850,6 +12877,7 @@ s25400		InstantRiot	male	https://vndb.org/s25400	Q5	Q6581097
 s56974		Instrumetal		https://vndb.org/s56974	Q5	
 s51508		insurrectionx		https://vndb.org/s51508	Q5	
 s18036		Int	male	https://vndb.org/s18036	Q5	Q6581097
+s57300		Integer P		https://vndb.org/s57300	Q5	
 s48381		INTEGRAL		https://vndb.org/s48381	Q5	
 s16304		Integras		https://vndb.org/s16304	Q5	
 s37877		inter4ever		https://vndb.org/s37877	Q5	
@@ -12977,6 +13005,7 @@ s7615		ISUTOSHU		https://vndb.org/s7615	Q5
 s55468		ISYU		https://vndb.org/s55468	Q5	
 s10136		IT.XX		https://vndb.org/s10136	Q5	
 s46828		It_Came_From_Eden		https://vndb.org/s46828	Q5	
+s57164		Itai		https://vndb.org/s57164	Q5	
 s48464		itali		https://vndb.org/s48464	Q5	
 s33662		ITK	male	https://vndb.org/s33662	Q5	Q6581097
 s12375		ItMakesMeBlush	female	https://vndb.org/s12375	Q5	Q6581072
@@ -13307,6 +13336,7 @@ s27261		Jason Hall	male	https://vndb.org/s27261	Q5	Q6581097
 s38794		Jason Hayato Higa		https://vndb.org/s38794	Q5	
 s28308		Jason Hayes	male	https://vndb.org/s28308	Q5	Q6581097
 s17005		Jason Larock	male	https://vndb.org/s17005	Q5	Q6581097
+s57316		Jason Liebrecht	male	https://vndb.org/s57316	Q5	Q6581097
 s46316		Jason Malcolm		https://vndb.org/s46316	Q5	
 s9232		Jason Marnocha	male	https://vndb.org/s9232	Q5	Q6581097
 s27178		Jason Nicholas Walsh	male	https://vndb.org/s27178	Q5	Q6581097
@@ -13317,6 +13347,7 @@ s52326		Jason Shuai		https://vndb.org/s52326	Q5
 s16524		Jason Shuieh	male	https://vndb.org/s16524	Q5	Q6581097
 s40339		Jason Vu		https://vndb.org/s40339	Q5	
 s9384		Jason Wishnov	male	https://vndb.org/s9384	Q5	Q6581097
+s57195		Jasonafex	male	https://vndb.org/s57195	Q5	Q6581097
 s37091		JasonTon	male	https://vndb.org/s37091	Q5	Q6581097
 s49134		Jasper		https://vndb.org/s49134	Q5	
 s18575		Jasper Harrow	male	https://vndb.org/s18575	Q5	Q6581097
@@ -13337,6 +13368,7 @@ s33974		Jax Winterbourne	male	https://vndb.org/s33974	Q5	Q6581097
 s39900		Jaxon Stallings		https://vndb.org/s39900	Q5	
 s27442		JaxTH		https://vndb.org/s27442	Q5	
 s54605		JAY		https://vndb.org/s54605	Q5	
+s57216		Jay Cards		https://vndb.org/s57216	Q5	
 s28637		Jay Evans	female	https://vndb.org/s28637	Q5	Q6581072
 s34880		Jay Fernandes		https://vndb.org/s34880	Q5	
 s48183		Jay Lai		https://vndb.org/s48183	Q5	
@@ -13419,6 +13451,7 @@ s53779		JelenLen	male	https://vndb.org/s53779	Q5	Q6581097
 s41973		Jelli		https://vndb.org/s41973	Q5	
 s29375		Jello		https://vndb.org/s29375	Q5	
 s51013		Jelly		https://vndb.org/s51013	Q5	
+s57173		Jelly Hoshiumi	female	https://vndb.org/s57173	Q5	Q6581072
 s22272		JellySnek		https://vndb.org/s22272	Q5	
 s37024		JellySquiding		https://vndb.org/s37024	Q5	
 s35035		JellySquidling		https://vndb.org/s35035	Q5	
@@ -14190,6 +14223,7 @@ s39719		KAB	male	https://vndb.org/s39719	Q5	Q6581097
 s41781		KAB.		https://vndb.org/s41781	Q5	
 s28164		Kabezon		https://vndb.org/s28164	Q5	
 s41747		Kabi		https://vndb.org/s41747	Q5	
+s57191		Kabier	female	https://vndb.org/s57191	Q5	Q6581072
 s33039		kabo		https://vndb.org/s33039	Q5	
 s48837		kabuki		https://vndb.org/s48837	Q5	
 s50191		Kachayet		https://vndb.org/s50191	Q5	
@@ -14488,6 +14522,7 @@ s34861		Kate Gray		https://vndb.org/s34861	Q5
 s5973		Kate Holden	female	https://vndb.org/s5973	Q5	Q6581072
 s32310	Q21063171	Kate Leth		https://vndb.org/s32310	Q5	
 s24607		Kate Mitchell	female	https://vndb.org/s24607	Q5	Q6581072
+s57317		Kate Oxley	female	https://vndb.org/s57317	Q5	Q6581072
 s44585		Kate Robinson		https://vndb.org/s44585	Q5	
 s36490		Kate Tacastacas	female	https://vndb.org/s36490	Q5	Q6581072
 s14380		Katelyn Barr	female	https://vndb.org/s14380	Q5	Q6581072
@@ -14576,6 +14611,7 @@ s17215		Kayla Ross	female	https://vndb.org/s17215	Q5	Q6581072
 s22274		Kayla Schroter	female	https://vndb.org/s22274	Q5	Q6581072
 s53305		kaylalyak		https://vndb.org/s53305	Q5	
 s32843		Kaylee Dankese	female	https://vndb.org/s32843	Q5	Q6581072
+s57263		Kayleigh McKee	female	https://vndb.org/s57263	Q5	Q6581072
 s14749	Q104237996	Kayli Mills	female	https://vndb.org/s14749	Q5	Q6581072
 s49478		Kaylin		https://vndb.org/s49478	Q5	
 s24701		Kaylyn Newell	female	https://vndb.org/s24701	Q5	Q6581072
@@ -14741,6 +14777,7 @@ s38809		Kenji Hosoi		https://vndb.org/s38809	Q5
 s43250		KenjiUz		https://vndb.org/s43250	Q5	
 s41579		kenken		https://vndb.org/s41579	Q5	
 s25313		Kenkoy	female	https://vndb.org/s25313	Q5	Q6581072
+s57176		KenmaRyuji		https://vndb.org/s57176	Q5	
 s372	Q850710	KENN	male	https://vndb.org/s372	Q5	Q6581097
 s15175		KENN	male	https://vndb.org/s15175	Q5	Q6581097
 s38555		Kenn		https://vndb.org/s38555	Q5	
@@ -14759,6 +14796,7 @@ s49422		Kenny		https://vndb.org/s49422	Q5
 s53546		kenny		https://vndb.org/s53546	Q5	
 s48645		Kenny a	male	https://vndb.org/s48645	Q5	Q6581097
 s52252		Kenny Chao		https://vndb.org/s52252	Q5	
+s57265		Kenny Manir	male	https://vndb.org/s57265	Q5	Q6581097
 s47998		Kenny Wu	male	https://vndb.org/s47998	Q5	Q6581097
 s35773		Kenoma		https://vndb.org/s35773	Q5	
 s53237		Kensaku Nakajima	male	https://vndb.org/s53237	Q5	Q6581097
@@ -14791,6 +14829,7 @@ s22424		KeroWin	male	https://vndb.org/s22424	Q5	Q6581097
 s50891		Kerry Shale	male	https://vndb.org/s50891	Q5	Q6581097
 s6835		Kestra Pingree	female	https://vndb.org/s6835	Q5	Q6581072
 s49011		Kestrel		https://vndb.org/s49011	Q5	
+s57219		Ketantan		https://vndb.org/s57219	Q5	
 s23656		Ketsa	male	https://vndb.org/s23656	Q5	Q6581097
 s56093		kettle		https://vndb.org/s56093	Q5	
 s42037		Ketzer		https://vndb.org/s42037	Q5	
@@ -15258,6 +15297,7 @@ s53748		kou		https://vndb.org/s53748	Q5
 s54242		kou		https://vndb.org/s54242	Q5	
 s54781		KOU		https://vndb.org/s54781	Q5	
 s25539		KOU-G	male	https://vndb.org/s25539	Q5	Q6581097
+s57235		KOU.		https://vndb.org/s57235	Q5	
 s31554		kou.ta	male	https://vndb.org/s31554	Q5	Q6581097
 s34667		koualoe	female	https://vndb.org/s34667	Q5	Q6581072
 s15850		Kouchi Takeda	male	https://vndb.org/s15850	Q5	Q6581097
@@ -15838,6 +15878,7 @@ s40276		Lena Garcia	female	https://vndb.org/s40276	Q5	Q6581072
 s41738		lenatihonovaes	male	https://vndb.org/s41738	Q5	Q6581097
 s46995		Lenin Mendoza		https://vndb.org/s46995	Q5	
 s34606		lennar		https://vndb.org/s34606	Q5	
+s57192		Lennian		https://vndb.org/s57192	Q5	
 s49041		Lenny		https://vndb.org/s49041	Q5	
 s28601		Lenon	male	https://vndb.org/s28601	Q5	Q6581097
 s25307		Lent1		https://vndb.org/s25307	Q5	
@@ -16392,6 +16433,7 @@ s36366		lung		https://vndb.org/s36366	Q5
 s27783		Luno	male	https://vndb.org/s27783	Q5	Q6581097
 s28289		luny		https://vndb.org/s28289	Q5	
 s44428		luphnjoii		https://vndb.org/s44428	Q5	
+s57193		Lupin		https://vndb.org/s57193	Q5	
 s50016		LupusFeng	male	https://vndb.org/s50016	Q5	Q6581097
 s42168		Luqha	male	https://vndb.org/s42168	Q5	Q6581097
 s28367		lure in wish		https://vndb.org/s28367	Q5	
@@ -16619,6 +16661,7 @@ s26473		MagicMicVoices	male	https://vndb.org/s26473	Q5	Q6581097
 s26015		Magiiheim		https://vndb.org/s26015	Q5	
 s49548		Magma		https://vndb.org/s49548	Q5	
 s27451		maGmel		https://vndb.org/s27451	Q5	
+s57170		MagnaDrake		https://vndb.org/s57170	Q5	
 s48861		magnazur		https://vndb.org/s48861	Q5	
 s52975		Magnolia Cacophony		https://vndb.org/s52975	Q5	
 s10578		Magnolia Porter	female	https://vndb.org/s10578	Q5	Q6581072
@@ -16632,6 +16675,7 @@ s8849		Maguro		https://vndb.org/s8849	Q5
 s49221		MaguroSenbei		https://vndb.org/s49221	Q5	
 s27243		Maha Jago		https://vndb.org/s27243	Q5	
 s35822		Maher Al-Samkari		https://vndb.org/s35822	Q5	
+s52998		mahiro.png		https://vndb.org/s52998	Q5	
 s42633		mahiru	male	https://vndb.org/s42633	Q5	Q6581097
 s17791		MahmaPuu		https://vndb.org/s17791	Q5	
 s27482		Maho		https://vndb.org/s27482	Q5	
@@ -16801,6 +16845,7 @@ s55141		Marc Girón	male	https://vndb.org/s55141	Q5	Q6581097
 s18384		Marc Knelsen		https://vndb.org/s18384	Q5	
 s46983		Marc Laidlaw		https://vndb.org/s46983	Q5	
 s36553		Marc M	female	https://vndb.org/s36553	Q5	Q6581072
+s57264		Marc Sisinni	male	https://vndb.org/s57264	Q5	Q6581097
 s52393		Marc Titheridge		https://vndb.org/s52393	Q5	
 s38437		Marc Underhill		https://vndb.org/s38437	Q5	
 s3735	Q56024600	Marcel Weyers	male	https://vndb.org/s3735	Q5	Q6581097
@@ -17267,6 +17312,7 @@ s36178		Maya Murphy		https://vndb.org/s36178	Q5
 s25568		Maya Nord	female	https://vndb.org/s25568	Q5	Q6581072
 s34576		Maya Zimmerman		https://vndb.org/s34576	Q5	
 s36430		maybemochas		https://vndb.org/s36430	Q5	
+s53000		Mayflare		https://vndb.org/s53000	Q5	
 s30317		MayMayCookieRat		https://vndb.org/s30317	Q5	
 s51708		Maymorin		https://vndb.org/s51708	Q5	
 s15924		Mayoi		https://vndb.org/s15924	Q5	
@@ -18054,6 +18100,7 @@ s34999		Miyazaki Daisuke		https://vndb.org/s34999	Q5
 s13427		Miyazaki Shirou		https://vndb.org/s13427	Q5	
 s38754		Miyazawa Lulu		https://vndb.org/s38754	Q5	
 s9320		miyo	female	https://vndb.org/s9320	Q5	Q6581072
+s57314		Miyoko Conley	female	https://vndb.org/s57314	Q5	Q6581072
 s46903		Miyosha		https://vndb.org/s46903	Q5	
 s12264		MIYUKI	female	https://vndb.org/s12264	Q5	Q6581072
 s49596		Miyuki Hoshino		https://vndb.org/s49596	Q5	
@@ -18140,6 +18187,7 @@ s26520		Moes		https://vndb.org/s26520	Q5
 s38456		Moffy	male	https://vndb.org/s38456	Q5	Q6581097
 s38326		MoFoQ		https://vndb.org/s38326	Q5	
 s3405		moga river		https://vndb.org/s3405	Q5	
+s57161		moge		https://vndb.org/s57161	Q5	
 s19372		MOGI		https://vndb.org/s19372	Q5	
 s41362		MogiDAN		https://vndb.org/s41362	Q5	
 s57068		mogmog		https://vndb.org/s57068	Q5	
@@ -18586,6 +18634,7 @@ s27818		Nadia		https://vndb.org/s27818	Q5
 s34993		Nadia Kerzman		https://vndb.org/s34993	Q5	
 s32729		Nadia McMahon		https://vndb.org/s32729	Q5	
 s11249		Nadia Nova	female	https://vndb.org/s11249	Q5	Q6581072
+s57315		Nadia Oxford	female	https://vndb.org/s57315	Q5	Q6581072
 s36483		Nadine Solis	female	https://vndb.org/s36483	Q5	Q6581072
 s24554		Nadir	female	https://vndb.org/s24554	Q5	Q6581072
 s29316		Nadira Larasati		https://vndb.org/s29316	Q5	
@@ -18692,6 +18741,7 @@ s42848		Nao Sawarabi		https://vndb.org/s42848	Q5
 s18735		Nao Trooper Company		https://vndb.org/s18735	Q5	
 s52335		Nao Zook		https://vndb.org/s52335	Q5	
 s57099		NAO-K		https://vndb.org/s57099	Q5	
+s57295		naochi		https://vndb.org/s57295	Q5	
 s15042		naohina		https://vndb.org/s15042	Q5	
 s42650		Naoimh Murchan	female	https://vndb.org/s42650	Q5	Q6581072
 s31784		NAOKA		https://vndb.org/s31784	Q5	
@@ -18869,6 +18919,7 @@ s30827		necömi		https://vndb.org/s30827	Q5
 s16391		nee project		https://vndb.org/s16391	Q5	
 s37640		Needs_Bear	male	https://vndb.org/s37640	Q5	Q6581097
 s25458		Neeka	female	https://vndb.org/s25458	Q5	Q6581072
+s57323		neema		https://vndb.org/s57323	Q5	
 s55710		NeesaComplex		https://vndb.org/s55710	Q5	
 s16293		NefariousWizard		https://vndb.org/s16293	Q5	
 s33837		Nefferinthia		https://vndb.org/s33837	Q5	
@@ -19477,11 +19528,13 @@ s39224		Nyarl		https://vndb.org/s39224	Q5
 s53214		Nyarlathotep		https://vndb.org/s53214	Q5	
 s28457		Nyarlothotep		https://vndb.org/s28457	Q5	
 s15757		Nyaruh	female	https://vndb.org/s15757	Q5	Q6581072
+s57308		Nyaughty Meow	female	https://vndb.org/s57308	Q5	Q6581072
 s38756		Nyavigates		https://vndb.org/s38756	Q5	
 s34793		Nyima Green	female	https://vndb.org/s34793	Q5	Q6581072
 s38102		Nyl0n06		https://vndb.org/s38102	Q5	
 s56481		nylaisntreal		https://vndb.org/s56481	Q5	
 s39181		Nylios		https://vndb.org/s39181	Q5	
+s57226		Nym		https://vndb.org/s57226	Q5	
 s48745		Nymphobe		https://vndb.org/s48745	Q5	
 s42616		NYO		https://vndb.org/s42616	Q5	
 s32796		Nyogtha Talfrey		https://vndb.org/s32796	Q5	
@@ -19808,6 +19861,7 @@ s55446		Owa		https://vndb.org/s55446	Q5
 s10681		Owen Carson	male	https://vndb.org/s10681	Q5	Q6581097
 s40241		Owl		https://vndb.org/s40241	Q5	
 s16321		owl.	female	https://vndb.org/s16321	Q5	Q6581072
+s57214		owl_ideas		https://vndb.org/s57214	Q5	
 s45607		Owlgirl	female	https://vndb.org/s45607	Q5	Q6581072
 s50875		owltio		https://vndb.org/s50875	Q5	
 s44343		Ownsin		https://vndb.org/s44343	Q5	
@@ -19825,6 +19879,7 @@ s45966		OzaShin	male	https://vndb.org/s45966	Q5	Q6581097
 s52538		Ozawa Shuji		https://vndb.org/s52538	Q5	
 s27663		Ozhan Sen		https://vndb.org/s27663	Q5	
 s34188	Q64667932	Ozioma Akagha	female	https://vndb.org/s34188	Q5	Q6581072
+s57224		ozk		https://vndb.org/s57224	Q5	
 s30721		OZU		https://vndb.org/s30721	Q5	
 s33326		Ozzy Rimer		https://vndb.org/s33326	Q5	
 s3036		Oじろー	male	https://vndb.org/s3036	Q5	Q6581097
@@ -20121,6 +20176,7 @@ s51562		Pepero-bucho		https://vndb.org/s51562	Q5
 s43346		peperon		https://vndb.org/s43346	Q5	
 s47134		Pepio69		https://vndb.org/s47134	Q5	
 s41946		pepperpandia		https://vndb.org/s41946	Q5	
+s57169		peppy★	female	https://vndb.org/s57169	Q5	Q6581072
 s16396		Perani	female	https://vndb.org/s16396	Q5	Q6581072
 s49292		Percei		https://vndb.org/s49292	Q5	
 s45905		Percy		https://vndb.org/s45905	Q5	
@@ -20606,6 +20662,7 @@ s25201		Pusspuss		https://vndb.org/s25201	Q5
 s35598		putriayua	female	https://vndb.org/s35598	Q5	Q6581072
 s19835		puu		https://vndb.org/s19835	Q5	
 s49196		puuznyanko		https://vndb.org/s49196	Q5	
+s57218		puyoo		https://vndb.org/s57218	Q5	
 s11066		PVChloride	female	https://vndb.org/s11066	Q5	Q6581072
 s40761		PxHere		https://vndb.org/s40761	Q5	
 s34428		Pyabmxk		https://vndb.org/s34428	Q5	
@@ -20847,6 +20904,7 @@ s27555		Rain		https://vndb.org/s27555	Q5
 s28409		Rain		https://vndb.org/s28409	Q5	
 s38006		Rain	female	https://vndb.org/s38006	Q5	Q6581072
 s52729		Rain		https://vndb.org/s52729	Q5	
+s57234		Rain Drop's		https://vndb.org/s57234	Q5	
 s32450		Rain Gregorio	male	https://vndb.org/s32450	Q5	Q6581097
 s35992		rain on your back		https://vndb.org/s35992	Q5	
 s35368		RAINA	female	https://vndb.org/s35368	Q5	Q6581072
@@ -20854,6 +20912,7 @@ s33363		Raina Lilith Henlan		https://vndb.org/s33363	Q5
 s16874		Rainbow Heart Unicorn		https://vndb.org/s16874	Q5	
 s39981		RainbowcatcherBM		https://vndb.org/s39981	Q5	
 s16450		RainbowMatrix		https://vndb.org/s16450	Q5	
+s57277		Rainboy		https://vndb.org/s57277	Q5	
 s43453		Rainder		https://vndb.org/s43453	Q5	
 s45535		Raine Eera		https://vndb.org/s45535	Q5	
 s37939		RainingNight		https://vndb.org/s37939	Q5	
@@ -20917,6 +20976,7 @@ s34586		ranmafan		https://vndb.org/s34586	Q5
 s39986		Rannia Taiga	female	https://vndb.org/s39986	Q5	Q6581072
 s44498		ranti		https://vndb.org/s44498	Q5	
 s55201		Raphael		https://vndb.org/s55201	Q5	
+s57328		Raphael Sampaio	male	https://vndb.org/s57328	Q5	Q6581097
 s34483		Raphael Tamashiro (rapho)		https://vndb.org/s34483	Q5	
 s40349		Raphaella Spuria	female	https://vndb.org/s40349	Q5	Q6581072
 s28994		Raphaël Le Bobinnec	male	https://vndb.org/s28994	Q5	Q6581097
@@ -20946,6 +21006,7 @@ s26550		Rastislav Kubovič	male	https://vndb.org/s26550	Q5	Q6581097
 s49200		Rasuna		https://vndb.org/s49200	Q5	
 s48905		Rat		https://vndb.org/s48905	Q5	
 s29797		Rat_Salad		https://vndb.org/s29797	Q5	
+s57217		ratifuu		https://vndb.org/s57217	Q5	
 s38972		ratike		https://vndb.org/s38972	Q5	
 s4934		RaTo		https://vndb.org/s4934	Q5	
 s47131		Rato		https://vndb.org/s47131	Q5	
@@ -21480,6 +21541,7 @@ s53011		Rob Stone		https://vndb.org/s53011	Q5
 s1582		Rob Westwood	male	https://vndb.org/s1582	Q5	Q6581097
 s39008		Robbibi		https://vndb.org/s39008	Q5	
 s11265		Robbie Amster	male	https://vndb.org/s11265	Q5	Q6581097
+s57215		ROBEANSnovels		https://vndb.org/s57215	Q5	
 s38643		Robert Agustin		https://vndb.org/s38643	Q5	
 s18837		Robert Anderson	male	https://vndb.org/s18837	Q5	Q6581097
 s8436	Q7341999	Robert Belgrade	male	https://vndb.org/s8436	Q5	Q6581097
@@ -21497,6 +21559,7 @@ s39370		Robert Kei Talbot		https://vndb.org/s39370	Q5
 s34876		Robert Kinsfather		https://vndb.org/s34876	Q5	
 s27546		Robert Kleinhenz		https://vndb.org/s27546	Q5	
 s38493		Robert L. Gasio III		https://vndb.org/s38493	Q5	
+s57318		Robert McCollum	male	https://vndb.org/s57318	Q5	Q6581097
 s28506		Robert Nashak	male	https://vndb.org/s28506	Q5	Q6581097
 s39660		Robert P. France	male	https://vndb.org/s39660	Q5	Q6581097
 s46208		Robert Roy Dela Serna	male	https://vndb.org/s46208	Q5	Q6581097
@@ -21611,6 +21674,7 @@ s30400		Root1.4		https://vndb.org/s30400	Q5
 s51647		Rooted Elevation Games		https://vndb.org/s51647	Q5	
 s57120		rootnuko		https://vndb.org/s57120	Q5	
 s37076		Rooven		https://vndb.org/s37076	Q5	
+s57172		roozuka		https://vndb.org/s57172	Q5	
 s53254		ROP		https://vndb.org/s53254	Q5	
 s21133		Rory Carson		https://vndb.org/s21133	Q5	
 s7181		ROS		https://vndb.org/s7181	Q5	
@@ -21631,6 +21695,7 @@ s18027		Rosetau		https://vndb.org/s18027	Q5
 s37871		RoseTech		https://vndb.org/s37871	Q5	
 s33626		Rosia		https://vndb.org/s33626	Q5	
 s25124		Rosie Carriker Smothers	female	https://vndb.org/s25124	Q5	Q6581072
+s57309		RosieDream	female	https://vndb.org/s57309	Q5	Q6581072
 s33543		Rosinskiy Ivan		https://vndb.org/s33543	Q5	
 s36449		Rosko Vair		https://vndb.org/s36449	Q5	
 s31889		Ross Budgen		https://vndb.org/s31889	Q5	
@@ -21699,6 +21764,7 @@ s28287		rubberchicken		https://vndb.org/s28287	Q5
 s38784		Ruben del Val		https://vndb.org/s38784	Q5	
 s41999		Ruberoid		https://vndb.org/s41999	Q5	
 s53863		Rubinus		https://vndb.org/s53863	Q5	
+s57271		Rubri		https://vndb.org/s57271	Q5	
 s31849		Ruby		https://vndb.org/s31849	Q5	
 s25433		Ruby Battler		https://vndb.org/s25433	Q5	
 s46706		Ruby Buttler		https://vndb.org/s46706	Q5	
@@ -21851,6 +21917,7 @@ s50278		RyuHayabusa		https://vndb.org/s50278	Q5
 s35267		RYUHEI HIGASHI		https://vndb.org/s35267	Q5	
 s19822		Ryuhei Suzuki		https://vndb.org/s19822	Q5	
 s48014		Ryuji Murayama		https://vndb.org/s48014	Q5	
+s57278		Ryuji Yokoi		https://vndb.org/s57278	Q5	
 s39808		RyujiCH	male	https://vndb.org/s39808	Q5	Q6581097
 s36370		Ryuk@	female	https://vndb.org/s36370	Q5	Q6581072
 s55604		Ryuko Azuma		https://vndb.org/s55604	Q5	
@@ -22051,6 +22118,7 @@ s40559		Sally Ortiz		https://vndb.org/s40559	Q5
 s54457		sally4ka		https://vndb.org/s54457	Q5	
 s18745		Sallynyan		https://vndb.org/s18745	Q5	
 s16810		Salomão Becker		https://vndb.org/s16810	Q5	
+s52997		salsha99		https://vndb.org/s52997	Q5	
 s15526		Salt		https://vndb.org/s15526	Q5	
 s56841		Salt		https://vndb.org/s56841	Q5	
 s24846		Saltie		https://vndb.org/s24846	Q5	
@@ -22313,6 +22381,7 @@ s28890		Satyroom		https://vndb.org/s28890	Q5
 s35164		Satyros		https://vndb.org/s35164	Q5	
 s49060		Satz		https://vndb.org/s49060	Q5	
 s25736		SaulRobinson	male	https://vndb.org/s25736	Q5	Q6581097
+s57299		Saunia		https://vndb.org/s57299	Q5	
 s24902		SaVa_Game		https://vndb.org/s24902	Q5	
 s54720		savage		https://vndb.org/s54720	Q5	
 s41795		Savage Fang		https://vndb.org/s41795	Q5	
@@ -23019,7 +23088,6 @@ s33252		silver978		https://vndb.org/s33252	Q5
 s44508		Silverdee		https://vndb.org/s44508	Q5	
 s45777		SilverDragon		https://vndb.org/s45777	Q5	
 s18767		SilverEdgeGames		https://vndb.org/s18767	Q5	
-s45421		Silveredsteel		https://vndb.org/s45421	Q5	
 s32814		SilverGlimse		https://vndb.org/s32814	Q5	
 s6452		SilverHyena	female	https://vndb.org/s6452	Q5	Q6581072
 s49724		SilverLupin		https://vndb.org/s49724	Q5	
@@ -23899,7 +23967,7 @@ s33901		Sup3rPigeon		https://vndb.org/s33901	Q5
 s5674		SUPER DOTTER K		https://vndb.org/s5674	Q5	
 s49260		SuperAj3		https://vndb.org/s49260	Q5	
 s32889		SuperAnge128		https://vndb.org/s32889	Q5	
-s33988		SuperBiasedGary		https://vndb.org/s33988	Q5	
+s33988		SuperBiasedCat		https://vndb.org/s33988	Q5	
 s50054		superbilingual		https://vndb.org/s50054	Q5	
 s24473		Supercircuit	female	https://vndb.org/s24473	Q5	Q6581072
 s37856		SuperGoku89		https://vndb.org/s37856	Q5	
@@ -24165,6 +24233,7 @@ s52522		Takeda Satoshi		https://vndb.org/s52522	Q5
 s20601		TAKEHAYA		https://vndb.org/s20601	Q5	
 s36743		TAKEHIKO KAWATSU		https://vndb.org/s36743	Q5	
 s44182		TAKEMi	male	https://vndb.org/s44182	Q5	Q6581097
+s52999		taken.art		https://vndb.org/s52999	Q5	
 s28844		takenokonoko	male	https://vndb.org/s28844	Q5	Q6581097
 s55094		Takenori Totsuka		https://vndb.org/s55094	Q5	
 s34998		Takeoka Tomomichi		https://vndb.org/s34998	Q5	
@@ -24350,6 +24419,7 @@ s15281		Taylor Payton	male	https://vndb.org/s15281	Q5	Q6581097
 s15386		Taylor Rose	female	https://vndb.org/s15386	Q5	Q6581072
 s44137		Taylor Williams	female	https://vndb.org/s44137	Q5	Q6581072
 s36786		Taz	male	https://vndb.org/s36786	Q5	Q6581097
+s57194		Tazo		https://vndb.org/s57194	Q5	
 s18469		TAZROW		https://vndb.org/s18469	Q5	
 s35843		Tazzzi		https://vndb.org/s35843	Q5	
 s27471		TBAC	male	https://vndb.org/s27471	Q5	Q6581097
@@ -24815,6 +24885,7 @@ s15470		TNM		https://vndb.org/s15470	Q5
 s24525		Tnolize		https://vndb.org/s24525	Q5	
 s35694		Tnsbilwe		https://vndb.org/s35694	Q5	
 s4017		tO		https://vndb.org/s4017	Q5	
+s57162		TO-BE		https://vndb.org/s57162	Q5	
 s55356		to^nya		https://vndb.org/s55356	Q5	
 s16301		toatali		https://vndb.org/s16301	Q5	
 s26413		Tobby Ong	male	https://vndb.org/s26413	Q5	Q6581097
@@ -25516,6 +25587,7 @@ s43963		vats9_9		https://vndb.org/s43963	Q5
 s11464		VAV		https://vndb.org/s11464	Q5	
 s50464		VCR	male	https://vndb.org/s50464	Q5	Q6581097
 s27718		VDZ		https://vndb.org/s27718	Q5	
+s57206		VEA 猫		https://vndb.org/s57206	Q5	
 s29159		Veamise		https://vndb.org/s29159	Q5	
 s16734		Vecna	male	https://vndb.org/s16734	Q5	Q6581097
 s54961		Vee		https://vndb.org/s54961	Q5	
@@ -25546,6 +25618,7 @@ s46194		VeNoM397		https://vndb.org/s46194	Q5
 s36420		Venomous		https://vndb.org/s36420	Q5	
 s39061		Venomstrip	male	https://vndb.org/s39061	Q5	Q6581097
 s37402		Venus		https://vndb.org/s37402	Q5	
+s57311		Venus de Velours	female	https://vndb.org/s57311	Q5	Q6581072
 s6646		Venus Hills		https://vndb.org/s6646	Q5	
 s9733		Venus LeMay	female	https://vndb.org/s9733	Q5	Q6581072
 s36313		VenusGames		https://vndb.org/s36313	Q5	
@@ -25744,6 +25817,7 @@ s38550		Volandum		https://vndb.org/s38550	Q5
 s47494		Voldo Cheng		https://vndb.org/s47494	Q5	
 s56109		Voledea	female	https://vndb.org/s56109	Q5	Q6581072
 s12468		Volomist	male	https://vndb.org/s12468	Q5	Q6581097
+s57227		Volos	male	https://vndb.org/s57227	Q5	Q6581097
 s24745		Voloshenko	male	https://vndb.org/s24745	Q5	Q6581097
 s12295		Volta	female	https://vndb.org/s12295	Q5	Q6581072
 s36293		Volvo Hackangel		https://vndb.org/s36293	Q5	
@@ -26151,6 +26225,7 @@ s28853		Xeldog		https://vndb.org/s28853	Q5
 s53738		Xelf		https://vndb.org/s53738	Q5	
 s16061		Xelfery		https://vndb.org/s16061	Q5	
 s41764		XELIK	male	https://vndb.org/s41764	Q5	Q6581097
+s57168		xeliosphere		https://vndb.org/s57168	Q5	
 s33406		xelvy	male	https://vndb.org/s33406	Q5	Q6581097
 s46470		xenlai		https://vndb.org/s46470	Q5	
 s44516		Xenokitten		https://vndb.org/s44516	Q5	
@@ -26253,6 +26328,7 @@ s54959		Yadsp		https://vndb.org/s54959	Q5
 s54738		YaebaFang		https://vndb.org/s54738	Q5	
 s16909		yagamirai10		https://vndb.org/s16909	Q5	
 s31202		YAGI		https://vndb.org/s31202	Q5	
+s57255		yagi		https://vndb.org/s57255	Q5	
 s40343		YAKA	female	https://vndb.org/s40343	Q5	Q6581072
 s39600		YakiUni		https://vndb.org/s39600	Q5	
 s12269		Yakui-Lover		https://vndb.org/s12269	Q5	
@@ -26460,6 +26536,7 @@ s10542		you		https://vndb.org/s10542	Q5
 s21130		YOU	male	https://vndb.org/s21130	Q5	Q6581097
 s25509		YOU		https://vndb.org/s25509	Q5	
 s49496		YOU	male	https://vndb.org/s49496	Q5	Q6581097
+s57157		you_naka		https://vndb.org/s57157	Q5	
 s46684		Youjyo		https://vndb.org/s46684	Q5	
 s30754		YOUKA		https://vndb.org/s30754	Q5	
 s35080		YoukaiDrawing	male	https://vndb.org/s35080	Q5	Q6581097
@@ -26509,6 +26586,7 @@ s25788		Yuchi	female	https://vndb.org/s25788	Q5	Q6581072
 s49040		Yuffie		https://vndb.org/s49040	Q5	
 s17860		YuGi		https://vndb.org/s17860	Q5	
 s11725		Yugo Ichikawa	male	https://vndb.org/s11725	Q5	Q6581097
+s57327		yuhboy2clout		https://vndb.org/s57327	Q5	
 s37596		yuhei komatsu	male	https://vndb.org/s37596	Q5	Q6581097
 s28351		YuHes		https://vndb.org/s28351	Q5	
 s28585		Yuht	male	https://vndb.org/s28585	Q5	Q6581097
@@ -27326,6 +27404,7 @@ s25611		あいはら こはる	female	https://vndb.org/s25611	Q5	Q6581072
 s31252		あいはら ひろみ		https://vndb.org/s31252	Q5	
 s29216		あいはら まひろ		https://vndb.org/s29216	Q5	
 s2716		あいはら めぐみ	female	https://vndb.org/s2716	Q5	Q6581072
+s57174		あいはらゆうき		https://vndb.org/s57174	Q5	
 s52002		あいぶるーむ		https://vndb.org/s52002	Q5	
 s31858		あいま醸	female	https://vndb.org/s31858	Q5	Q6581072
 s26606		あいりん	female	https://vndb.org/s26606	Q5	Q6581072
@@ -27402,6 +27481,7 @@ s19178		あきらい	female	https://vndb.org/s19178	Q5	Q6581072
 s18481		あきらんぬ		https://vndb.org/s18481	Q5	
 s49171		あき山桜		https://vndb.org/s49171	Q5	
 s55840		あくせま		https://vndb.org/s55840	Q5	
+s57221		あくた 津守		https://vndb.org/s57221	Q5	
 s27337		あくつ叶		https://vndb.org/s27337	Q5	
 s46284		あくと		https://vndb.org/s46284	Q5	
 s4142		あくまっこ	male	https://vndb.org/s4142	Q5	Q6581097
@@ -27707,6 +27787,7 @@ s30640		いちろう	female	https://vndb.org/s30640	Q5	Q6581072
 s20603		いぢゅ☆		https://vndb.org/s20603	Q5	
 s30576		いっし たいら	male	https://vndb.org/s30576	Q5	Q6581097
 s5064		いっせー	male	https://vndb.org/s5064	Q5	Q6581097
+s57257		いっちゃん		https://vndb.org/s57257	Q5	
 s693		いってんちろく		https://vndb.org/s693	Q5	
 s12676		いつい		https://vndb.org/s12676	Q5	
 s29623		いつだって8番		https://vndb.org/s29623	Q5	
@@ -27838,6 +27919,7 @@ s31104		うっしー		https://vndb.org/s31104	Q5
 s49885		うっちーぜろ	male	https://vndb.org/s49885	Q5	Q6581097
 s7569	Q11254608	うっでぃりん		https://vndb.org/s7569	Q5	
 s34468		うっとり商会		https://vndb.org/s34468	Q5	
+s57204		うつぼ かづら		https://vndb.org/s57204	Q5	
 s12562		うつみ		https://vndb.org/s12562	Q5	
 s2775		うつろ あくた	male	https://vndb.org/s2775	Q5	Q6581097
 s43316		うづき		https://vndb.org/s43316	Q5	
@@ -27959,6 +28041,7 @@ s25013		えーひさ	male	https://vndb.org/s25013	Q5	Q6581097
 s3503		おTSURU	male	https://vndb.org/s3503	Q5	Q6581097
 s37929		おいかわ		https://vndb.org/s37929	Q5	
 s45552		おいかわ		https://vndb.org/s45552	Q5	
+s57304		おいも		https://vndb.org/s57304	Q5	
 s37741		おいもくん		https://vndb.org/s37741	Q5	
 s25961	Q1073854	おいものようちゃん	female	https://vndb.org/s25961	Q5	Q6581072
 s508		おぅんごぅる	female	https://vndb.org/s508	Q5	Q6581072
@@ -28404,6 +28487,7 @@ s27392		きりりん		https://vndb.org/s27392	Q5
 s31401		きりん	female	https://vndb.org/s31401	Q5	Q6581072
 s5873		きりんびーる	female	https://vndb.org/s5873	Q5	Q6581072
 s35073		きるえ		https://vndb.org/s35073	Q5	
+s57284		きんかびょう		https://vndb.org/s57284	Q5	
 s57074		きんぎょ		https://vndb.org/s57074	Q5	
 s5426		きんぐ		https://vndb.org/s5426	Q5	
 s29386		きんたろ		https://vndb.org/s29386	Q5	
@@ -28428,6 +28512,7 @@ s23148		くぅす		https://vndb.org/s23148	Q5
 s32345		くぅら		https://vndb.org/s32345	Q5	
 s13673		くきは		https://vndb.org/s13673	Q5	
 s36238		くくるな		https://vndb.org/s36238	Q5	
+s57282		くさなぎ いずも		https://vndb.org/s57282	Q5	
 s6728		くさなぎ ほむら	female	https://vndb.org/s6728	Q5	Q6581072
 s1858		くしまち みなと	male	https://vndb.org/s1858	Q5	Q6581097
 s19541		くじら		https://vndb.org/s19541	Q5	
@@ -28691,6 +28776,7 @@ s25039		こみや ひとま	female	https://vndb.org/s25039	Q5	Q6581072
 s21584		こむぎ		https://vndb.org/s21584	Q5	
 s30547		こむぎ 武流	male	https://vndb.org/s30547	Q5	Q6581097
 s25208		こむた	female	https://vndb.org/s25208	Q5	Q6581072
+s7745		こむね いぶき	male	https://vndb.org/s7745	Q5	Q6581097
 s4822		こむら 菜々	female	https://vndb.org/s4822	Q5	Q6581072
 s5270		こめ		https://vndb.org/s5270	Q5	
 s21873		こめおか しぐ		https://vndb.org/s21873	Q5	
@@ -29198,6 +29284,7 @@ s50118		すた		https://vndb.org/s50118	Q5
 s55622		すたあ		https://vndb.org/s55622	Q5	
 s34234		すたじお まんぼう		https://vndb.org/s34234	Q5	
 s20123		すたじお月夜		https://vndb.org/s20123	Q5	
+s57202		すたぢお へもみんご		https://vndb.org/s57202	Q5	
 s4778		すたぢおM		https://vndb.org/s4778	Q5	
 s46101		すちゃら科sRoom		https://vndb.org/s46101	Q5	
 s14126		すぢこ		https://vndb.org/s14126	Q5	
@@ -29747,6 +29834,7 @@ s23174		とめきち	female	https://vndb.org/s23174	Q5	Q6581072
 s25500		とも		https://vndb.org/s25500	Q5	
 s26770		ともえ けい	female	https://vndb.org/s26770	Q5	Q6581072
 s9872		ともすけ	male	https://vndb.org/s9872	Q5	Q6581097
+s57276		ともたん	female	https://vndb.org/s57276	Q5	Q6581072
 s6422		ともみみ しもん	male	https://vndb.org/s6422	Q5	Q6581097
 s17107		ともみ・さんたまりあ		https://vndb.org/s17107	Q5	
 s48688		ともや	male	https://vndb.org/s48688	Q5	Q6581097
@@ -29854,6 +29942,7 @@ s10407		ながたみ 勇樹		https://vndb.org/s10407	Q5
 s40564		ながち		https://vndb.org/s40564	Q5	
 s6705		ながはま のりひこ		https://vndb.org/s6705	Q5	
 s53727		ながらえん		https://vndb.org/s53727	Q5	
+s57250		ながれうみ		https://vndb.org/s57250	Q5	
 s32117		なぎさ		https://vndb.org/s32117	Q5	
 s9030		なぎさわ ゆう	male	https://vndb.org/s9030	Q5	Q6581097
 s55848		なぎは		https://vndb.org/s55848	Q5	
@@ -29956,6 +30045,7 @@ s3459		なるちょ	male	https://vndb.org/s3459	Q5	Q6581097
 s46683		なるなる		https://vndb.org/s46683	Q5	
 s3165		なるみ おかず		https://vndb.org/s3165	Q5	
 s4338		なるみ すずね		https://vndb.org/s4338	Q5	
+s57281		なるみなみる		https://vndb.org/s57281	Q5	
 s43491		なるめ		https://vndb.org/s43491	Q5	
 s55601		なるー		https://vndb.org/s55601	Q5	
 s46609		なろ屋	male	https://vndb.org/s46609	Q5	Q6581097
@@ -30157,6 +30247,7 @@ s9205		の氏		https://vndb.org/s9205	Q5
 s35514		は☆る☆い	female	https://vndb.org/s35514	Q5	Q6581072
 s14987		はいおく		https://vndb.org/s14987	Q5	
 s262	Q858144	はいむら きよたか	male	https://vndb.org/s262	Q5	Q6581097
+s57307		はいもと うさこ		https://vndb.org/s57307	Q5	
 s56150		はかま~		https://vndb.org/s56150	Q5	
 s34280		はがねま	male	https://vndb.org/s34280	Q5	Q6581097
 s24205		はきか		https://vndb.org/s24205	Q5	
@@ -30249,6 +30340,7 @@ s12093		はやし もも		https://vndb.org/s12093	Q5
 s43916		はやし りか	female	https://vndb.org/s43916	Q5	Q6581072
 s32873		はやま こういち	male	https://vndb.org/s32873	Q5	Q6581097
 s14427		はらいち		https://vndb.org/s14427	Q5	
+s57163		はらお		https://vndb.org/s57163	Q5	
 s2401	Q11275838	はらさわ 晃綺	male	https://vndb.org/s2401	Q5	Q6581097
 s4015		はらだ		https://vndb.org/s4015	Q5	
 s53749		はらだ いこ	male	https://vndb.org/s53749	Q5	Q6581097
@@ -30673,9 +30765,11 @@ s26967		べ～	male	https://vndb.org/s26967	Q5	Q6581097
 s24020		ぺい		https://vndb.org/s24020	Q5	
 s17217		ぺけぽこ		https://vndb.org/s17217	Q5	
 s21504		ぺけ丸	male	https://vndb.org/s21504	Q5	Q6581097
+s57297		ぺこりーぬ		https://vndb.org/s57297	Q5	
 s8374	Q11277679	ぺさま	male	https://vndb.org/s8374	Q5	Q6581097
 s19205		ぺたんこさいど		https://vndb.org/s19205	Q5	
 s53691		ぺっぱー		https://vndb.org/s53691	Q5	
+s57238		ぺてぃ		https://vndb.org/s57238	Q5	
 s30542		ぺとら＠ぐっちりーに	male	https://vndb.org/s30542	Q5	Q6581097
 s29090		ぺはら工務店		https://vndb.org/s29090	Q5	
 s37197		ぺぺる		https://vndb.org/s37197	Q5	
@@ -30819,6 +30913,7 @@ s4497		まこっちゃ	male	https://vndb.org/s4497	Q5	Q6581097
 s37971		まこと	female	https://vndb.org/s37971	Q5	Q6581072
 s12917		まこりら		https://vndb.org/s12917	Q5	
 s30831		まこフライ		https://vndb.org/s30831	Q5	
+s57156		まさかず		https://vndb.org/s57156	Q5	
 s12314		まさかり		https://vndb.org/s12314	Q5	
 s50654		まさかミケ猫		https://vndb.org/s50654	Q5	
 s30697		まさき かおる		https://vndb.org/s30697	Q5	
@@ -30869,6 +30964,7 @@ s53562		まっぴぃ		https://vndb.org/s53562	Q5
 s4860		まっ茶		https://vndb.org/s4860	Q5	
 s1109		まつ		https://vndb.org/s1109	Q5	
 s53668		まつい		https://vndb.org/s53668	Q5	
+s57258		まつざき ゆうこ		https://vndb.org/s57258	Q5	
 s40112	Q11278402	まつだ志緒理	female	https://vndb.org/s40112	Q5	Q6581072
 s23653		まつば		https://vndb.org/s23653	Q5	
 s5219		まつむー		https://vndb.org/s5219	Q5	
@@ -31036,7 +31132,7 @@ s17873		みずき みらい	female	https://vndb.org/s17873	Q5	Q6581072
 s4135		みずき 佑真		https://vndb.org/s4135	Q5	
 s23238	Q17231448	みずきえいむ		https://vndb.org/s23238	Q5	
 s20812		みずきち（瑞樹）		https://vndb.org/s20812	Q5	
-s8178		みずさわひろ		https://vndb.org/s8178	Q5	
+s8178		みずさわ ひろ		https://vndb.org/s8178	Q5	
 s25647		みずたに みゆう		https://vndb.org/s25647	Q5	
 s53702		みずたに りん	male	https://vndb.org/s53702	Q5	Q6581097
 s48142		みずっち		https://vndb.org/s48142	Q5	
@@ -31457,6 +31553,7 @@ s19298		やまめん		https://vndb.org/s19298	Q5
 s36597		やまもと れびん		https://vndb.org/s36597	Q5	
 s55749		やまＲｉｎ★ミ		https://vndb.org/s55749	Q5	
 s8427		やみ みかん		https://vndb.org/s8427	Q5	
+s57166		やみくろ		https://vndb.org/s57166	Q5	
 s30369		やみげん		https://vndb.org/s30369	Q5	
 s56172		やみなべ	male	https://vndb.org/s56172	Q5	Q6581097
 s3812		やみはづき		https://vndb.org/s3812	Q5	
@@ -31609,6 +31706,7 @@ s19390		ようかい		https://vndb.org/s19390	Q5
 s47553		ようかん	male	https://vndb.org/s47553	Q5	Q6581097
 s45574		ようづき		https://vndb.org/s45574	Q5	
 s46289		よぇ		https://vndb.org/s46289	Q5	
+s57274		よお		https://vndb.org/s57274	Q5	
 s19806		よかろう！ヤシロです。	male	https://vndb.org/s19806	Q5	Q6581097
 s54159		よここ		https://vndb.org/s54159	Q5	
 s39324		よこさんぼん		https://vndb.org/s39324	Q5	
@@ -31616,6 +31714,7 @@ s43769		よこやま なおき		https://vndb.org/s43769	Q5
 s1772		よこよこ		https://vndb.org/s1772	Q5	
 s1170		よしお		https://vndb.org/s1170	Q5	
 s5324		よしお		https://vndb.org/s5324	Q5	
+s57283		よしお さとう		https://vndb.org/s57283	Q5	
 s13855		よしかず		https://vndb.org/s13855	Q5	
 s2644		よしかぜ		https://vndb.org/s2644	Q5	
 s12296		よしかわ ひろつぐ		https://vndb.org/s12296	Q5	
@@ -31643,6 +31742,7 @@ s23116		よっくん		https://vndb.org/s23116	Q5
 s31352		よっしー		https://vndb.org/s31352	Q5	
 s17395		よっしー吉田		https://vndb.org/s17395	Q5	
 s12170		よっすぃ	female	https://vndb.org/s12170	Q5	Q6581072
+s57253		よったり よろぞう		https://vndb.org/s57253	Q5	
 s15416		よっちゃん		https://vndb.org/s15416	Q5	
 s32125		よつすい		https://vndb.org/s32125	Q5	
 s28609		よつば	female	https://vndb.org/s28609	Q5	Q6581072
@@ -32013,6 +32113,8 @@ s4578		アラガー		https://vndb.org/s4578	Q5
 s35864		アラキ パカ	male	https://vndb.org/s35864	Q5	Q6581097
 s52495		アラスカ		https://vndb.org/s52495	Q5	
 s6621		アラタ		https://vndb.org/s6621	Q5	
+s57286		アラハ・Ｓ		https://vndb.org/s57286	Q5	
+s57205		アラリー		https://vndb.org/s57205	Q5	
 s44128		アラン・ドロン		https://vndb.org/s44128	Q5	
 s9632		アリオ		https://vndb.org/s9632	Q5	
 s8529		アリオンCADセンター		https://vndb.org/s8529	Q5	
@@ -32033,6 +32135,7 @@ s39196		アル・チャダイ		https://vndb.org/s39196	Q5
 s53629		アレの背景素材		https://vndb.org/s53629	Q5	
 s32003		アレキシ	male	https://vndb.org/s32003	Q5	Q6581097
 s55924		アレン・月影	male	https://vndb.org/s55924	Q5	Q6581097
+s57254		アロハ		https://vndb.org/s57254	Q5	
 s32228		アロワナ		https://vndb.org/s32228	Q5	
 s13698		アンのうん		https://vndb.org/s13698	Q5	
 s54104		アングル		https://vndb.org/s54104	Q5	
@@ -32303,7 +32406,6 @@ s48236		カズキ		https://vndb.org/s48236	Q5
 s3423	Q11294170	カズキ ヨネ	female	https://vndb.org/s3423	Q5	Q6581072
 s36904		カズタ シンヤ		https://vndb.org/s36904	Q5	
 s6166		カズヒト		https://vndb.org/s6166	Q5	
-s7745		カズマサ		https://vndb.org/s7745	Q5	
 s47250		カズミヤ アキラ	male	https://vndb.org/s47250	Q5	Q6581097
 s24621		カチ		https://vndb.org/s24621	Q5	
 s25997	Q11294245	カチューシャ		https://vndb.org/s25997	Q5	
@@ -32441,6 +32543,7 @@ s44962		キョウチクトウ		https://vndb.org/s44962	Q5
 s46348		キョロザワールド		https://vndb.org/s46348	Q5	
 s31542		キョヲ丞		https://vndb.org/s31542	Q5	
 s40144		キョン	male	https://vndb.org/s40144	Q5	Q6581097
+s57302		キヨナガ		https://vndb.org/s57302	Q5	
 s18019		キラ	female	https://vndb.org/s18019	Q5	Q6581072
 s28551		キラキラ効果音工房		https://vndb.org/s28551	Q5	
 s12576		キラルくん		https://vndb.org/s12576	Q5	
@@ -32601,6 +32704,7 @@ s14577		コイデ ユウリ		https://vndb.org/s14577	Q5
 s22039		コインRAND		https://vndb.org/s22039	Q5	
 s31382		コウコウ		https://vndb.org/s31382	Q5	
 s14532		コウジ		https://vndb.org/s14532	Q5	
+s57239		コウセイ		https://vndb.org/s57239	Q5	
 s32091		コウト	male	https://vndb.org/s32091	Q5	Q6581097
 s25225		コオリズ		https://vndb.org/s25225	Q5	
 s37194		コガ アツシ		https://vndb.org/s37194	Q5	
@@ -32629,6 +32733,7 @@ s9628		コテング		https://vndb.org/s9628	Q5
 s17664		コトイチ	female	https://vndb.org/s17664	Q5	Q6581072
 s18162		コトザ	female	https://vndb.org/s18162	Q5	Q6581072
 s23832		コトノハ		https://vndb.org/s23832	Q5	
+s57287		コトリボイス		https://vndb.org/s57287	Q5	
 s49088		コトワ カナデ		https://vndb.org/s49088	Q5	
 s17790		コニイ	female	https://vndb.org/s17790	Q5	Q6581072
 s45893		コニシ ユカ		https://vndb.org/s45893	Q5	
@@ -32795,6 +32900,7 @@ s37427		シュトルテハイム・ラインバッハⅣ世		https://vndb.org/s3
 s25405		シュンスケ	male	https://vndb.org/s25405	Q5	Q6581097
 s17686		ショウブ		https://vndb.org/s17686	Q5	
 s48177		ショーコ	female	https://vndb.org/s48177	Q5	Q6581072
+s57291		ショーテン		https://vndb.org/s57291	Q5	
 s42411		ショーン		https://vndb.org/s42411	Q5	
 s47477		シライシ 紗トリ		https://vndb.org/s47477	Q5	
 s30359		シラトリ		https://vndb.org/s30359	Q5	
@@ -32829,6 +32935,7 @@ s31078		シンボ ヒロシ		https://vndb.org/s31078	Q5
 s40170		シンヲタ	male	https://vndb.org/s40170	Q5	Q6581097
 s3378		シヴァ。	male	https://vndb.org/s3378	Q5	Q6581097
 s13964		シーズ		https://vndb.org/s13964	Q5	
+s57203		シーラカンス 絢子		https://vndb.org/s57203	Q5	
 s54880		シ人		https://vndb.org/s54880	Q5	
 s22024		シ止メ屋 妖一郎	male	https://vndb.org/s22024	Q5	Q6581097
 s36205		ジェシカ・クライトン	female	https://vndb.org/s36205	Q5	Q6581072
@@ -32971,6 +33078,7 @@ s34805		スツェーネ・アム・バッハ		https://vndb.org/s34805	Q5
 s27324		ステ♪	female	https://vndb.org/s27324	Q5	Q6581072
 s39889	Q30922296	ステイラック		https://vndb.org/s39889	Q5	
 s14340		ステルス		https://vndb.org/s14340	Q5	
+s57260		ステルスモアイ		https://vndb.org/s57260	Q5	
 s35416		ストキャス		https://vndb.org/s35416	Q5	
 s6077		ストライダー 寿		https://vndb.org/s6077	Q5	
 s40222		ストライダー仁		https://vndb.org/s40222	Q5	
@@ -32988,7 +33096,6 @@ s12351		スポマ		https://vndb.org/s12351	Q5
 s55175		スマイル		https://vndb.org/s55175	Q5	
 s5339		スミイ酸	male	https://vndb.org/s5339	Q5	Q6581097
 s37116		スミス		https://vndb.org/s37116	Q5	
-s7028		スミスミ	male	https://vndb.org/s7028	Q5	Q6581097
 s12311		スミヒロ セツ		https://vndb.org/s12311	Q5	
 s55136		スミフ	male	https://vndb.org/s55136	Q5	Q6581097
 s51193		スリッパ		https://vndb.org/s51193	Q5	
@@ -33067,6 +33174,7 @@ s41502		タイラ ヨオ	female	https://vndb.org/s41502	Q5	Q6581072
 s3634		タイレルラボラトリー		https://vndb.org/s3634	Q5	
 s54999		タカっち		https://vndb.org/s54999	Q5	
 s10468		タカキ ツヨシ	male	https://vndb.org/s10468	Q5	Q6581097
+s57289		タカスガ タイキ		https://vndb.org/s57289	Q5	
 s7063		タカスギ コウ	male	https://vndb.org/s7063	Q5	Q6581097
 s12610		タカセ カヤ	female	https://vndb.org/s12610	Q5	Q6581072
 s18440		タカツキ イチ	female	https://vndb.org/s18440	Q5	Q6581072
@@ -34274,7 +34382,9 @@ s40109		ラクド＝シャンス		https://vndb.org/s40109	Q5
 s54899		ラシ		https://vndb.org/s54899	Q5	
 s31279		ラシャ	male	https://vndb.org/s31279	Q5	Q6581097
 s40034		ラジ王		https://vndb.org/s40034	Q5	
+s57301		ラスカル		https://vndb.org/s57301	Q5	
 s55018		ラスク大使		https://vndb.org/s55018	Q5	
+s57245		ラスティ	female	https://vndb.org/s57245	Q5	Q6581072
 s13717		ラヂヲヘッド	male	https://vndb.org/s13717	Q5	Q6581097
 s11296		ラッキョ		https://vndb.org/s11296	Q5	
 s5171		ラック眼力	male	https://vndb.org/s5171	Q5	Q6581097
@@ -34369,6 +34479,7 @@ s38186		レジスタ		https://vndb.org/s38186	Q5
 s33501		レッサー		https://vndb.org/s33501	Q5	
 s26461		レネタン		https://vndb.org/s26461	Q5	
 s45735		レノン	female	https://vndb.org/s45735	Q5	Q6581072
+s57292		レマノルド		https://vndb.org/s57292	Q5	
 s35322		レムレス		https://vndb.org/s35322	Q5	
 s47734		レモネードファクトリー		https://vndb.org/s47734	Q5	
 s47903		レモン	female	https://vndb.org/s47903	Q5	Q6581072
@@ -34589,6 +34700,7 @@ s39389		七在		https://vndb.org/s39389	Q5
 s32507		七夏		https://vndb.org/s32507	Q5	
 s4152		七天 刃牙		https://vndb.org/s4152	Q5	
 s1855		七央 結日		https://vndb.org/s1855	Q5	
+s57290		七実補		https://vndb.org/s57290	Q5	
 s50152		七宮 よしの		https://vndb.org/s50152	Q5	
 s13262		七尾 ゆきじ		https://vndb.org/s13262	Q5	
 s1102	Q453304	七尾 奈留	female	https://vndb.org/s1102	Q5	Q6581072
@@ -34697,6 +34809,7 @@ s29678		万能軟体動物		https://vndb.org/s29678	Q5
 s8322		三々山 鈴	female	https://vndb.org/s8322	Q5	Q6581072
 s49931		三つ星★★★ソザイヤ		https://vndb.org/s49931	Q5	
 s18578		三ッ葉 稔	male	https://vndb.org/s18578	Q5	Q6581097
+s57175		三ツ井 洋一		https://vndb.org/s57175	Q5	
 s3618		三ツ矢 らら	female	https://vndb.org/s3618	Q5	Q6581072
 s28607		三ツ矢 凡人	female	https://vndb.org/s28607	Q5	Q6581072
 s10878		三ツ矢 新	male	https://vndb.org/s10878	Q5	Q6581097
@@ -35088,8 +35201,8 @@ s1105		下地 和彦	male	https://vndb.org/s1105	Q5	Q6581097
 s22716	Q17159583	下地 紫野	female	https://vndb.org/s22716	Q5	Q6581072
 s54849		下城 サユウ	female	https://vndb.org/s54849	Q5	Q6581072
 s7700		下城 達也		https://vndb.org/s7700	Q5	
+s55488		下妻 優		https://vndb.org/s55488	Q5	
 s33296		下妻 由幸	male	https://vndb.org/s33296	Q5	Q6581097
-s55488		下妻優		https://vndb.org/s55488	Q5	
 s71	Q3273278	下屋 則子	female	https://vndb.org/s71	Q5	Q6581072
 s16647	Q3572668	下山 吉光	male	https://vndb.org/s16647	Q5	Q6581097
 s7442		下山 晃	male	https://vndb.org/s7442	Q5	Q6581097
@@ -35135,6 +35248,7 @@ s11960		不二 まどか	female	https://vndb.org/s11960	Q5	Q6581072
 s45429		不二一 十		https://vndb.org/s45429	Q5	
 s921	Q97590113	不二川 巴人	male	https://vndb.org/s921	Q5	Q6581097
 s13438		不動 尊		https://vndb.org/s13438	Q5	
+s57196		不土 明		https://vndb.org/s57196	Q5	
 s56177		不思議水		https://vndb.org/s56177	Q5	
 s40957		不死者Ｏ	male	https://vndb.org/s40957	Q5	Q6581097
 s3771		不死鳥		https://vndb.org/s3771	Q5	
@@ -35775,7 +35889,7 @@ s37328		九重隷次		https://vndb.org/s37328	Q5
 s52842		九門 りお	male	https://vndb.org/s52842	Q5	Q6581097
 s35319		九鬼 秀生		https://vndb.org/s35319	Q5	
 s25815		九鬼月兎		https://vndb.org/s25815	Q5	
-s23960		九鷲見亮介(R9Z3)		https://vndb.org/s23960	Q5	
+s23960		九鷲見 亮介	male	https://vndb.org/s23960	Q5	Q6581097
 s12346		也		https://vndb.org/s12346	Q5	
 s14964		乱丸		https://vndb.org/s14964	Q5	
 s41932		乱姫龍	male	https://vndb.org/s41932	Q5	Q6581097
@@ -35811,7 +35925,7 @@ s2749		了藤 誠仁	male	https://vndb.org/s2749	Q5	Q6581097
 s50487		予薇Werin	female	https://vndb.org/s50487	Q5	Q6581072
 s45980		二℃坂		https://vndb.org/s45980	Q5	
 s3975		二ツ木 奈穂		https://vndb.org/s3975	Q5	
-s25332		二ツ森双葉	female	https://vndb.org/s25332	Q5	Q6581072
+s25332		二ツ森 双葉	female	https://vndb.org/s25332	Q5	Q6581072
 s30551		二ノ前 くぼむ	male	https://vndb.org/s30551	Q5	Q6581097
 s2880		二ノ膳	male	https://vndb.org/s2880	Q5	Q6581097
 s34753		二三九三	female	https://vndb.org/s34753	Q5	Q6581072
@@ -35874,6 +35988,7 @@ s43090		五十嵐 亮太		https://vndb.org/s43090	Q5
 s28880		五十嵐 優樹	male	https://vndb.org/s28880	Q5	Q6581097
 s13404		五十嵐 元気	male	https://vndb.org/s13404	Q5	Q6581097
 s48889		五十嵐 勇太	male	https://vndb.org/s48889	Q5	Q6581097
+s57329		五十嵐 勝		https://vndb.org/s57329	Q5	
 s3997		五十嵐 十六	male	https://vndb.org/s3997	Q5	Q6581097
 s36825		五十嵐 友	female	https://vndb.org/s36825	Q5	Q6581072
 s22509		五十嵐 学		https://vndb.org/s22509	Q5	
@@ -36272,6 +36387,7 @@ s43047		伊六矢 ももこ		https://vndb.org/s43047	Q5
 s45853		伊勢 三木子		https://vndb.org/s45853	Q5	
 s17554		伊勢 久美子	female	https://vndb.org/s17554	Q5	Q6581072
 s36373		伊勢 海老蔵	male	https://vndb.org/s36373	Q5	Q6581097
+s57259		伊勢方 ワカリH		https://vndb.org/s57259	Q5	
 s15973		伊勢村 篤義	male	https://vndb.org/s15973	Q5	Q6581097
 s50817		伊勢海老 めぐみ		https://vndb.org/s50817	Q5	
 s11159		伊勢田 勝行	male	https://vndb.org/s11159	Q5	Q6581097
@@ -36612,6 +36728,7 @@ s43756		佐伯 歌夜		https://vndb.org/s43756	Q5
 s3131		佐伯 海斗		https://vndb.org/s3131	Q5	
 s32161		佐伯 紀幸		https://vndb.org/s32161	Q5	
 s35405		佐伯 絢廼	female	https://vndb.org/s35405	Q5	Q6581072
+s57272		佐伯 蓮		https://vndb.org/s57272	Q5	
 s15014		佐伯 達也		https://vndb.org/s15014	Q5	
 s18040		佐伯 静	female	https://vndb.org/s18040	Q5	Q6581072
 s47814		佐伯 高志	male	https://vndb.org/s47814	Q5	Q6581097
@@ -37044,6 +37161,7 @@ s39715		元素领主墨元素		https://vndb.org/s39715	Q5
 s3017	Q11388078	元長 柾木	male	https://vndb.org/s3017	Q5	Q6581097
 s52197		元麻布スタジオ		https://vndb.org/s52197	Q5	
 s1892		兄丸		https://vndb.org/s1892	Q5	
+s57325		兄崎 ゆな		https://vndb.org/s57325	Q5	
 s55310		兄浮沖華		https://vndb.org/s55310	Q5	
 s18818		充電 グソク	male	https://vndb.org/s18818	Q5	Q6581097
 s9465		先崎真琴		https://vndb.org/s9465	Q5	
@@ -37874,6 +37992,7 @@ s16649		北﨑 ひとみ	female	https://vndb.org/s16649	Q5	Q6581072
 s7513		匠TAKUMI		https://vndb.org/s7513	Q5	
 s22732		匣中猫	male	https://vndb.org/s22732	Q5	Q6581097
 s13584		匹田 健二	male	https://vndb.org/s13584	Q5	Q6581097
+s57296		区方 春坂		https://vndb.org/s57296	Q5	
 s33818		匿名		https://vndb.org/s33818	Q5	
 s42696		匿名ヒーロー	male	https://vndb.org/s42696	Q5	Q6581097
 s5840		十 はやみ	female	https://vndb.org/s5840	Q5	Q6581072
@@ -37895,6 +38014,7 @@ s55428		十和 リク		https://vndb.org/s55428	Q5
 s49179		十和 広海	female	https://vndb.org/s49179	Q5	Q6581072
 s8070		十和期 翔	male	https://vndb.org/s8070	Q5	Q6581097
 s19099		十和田 シン	female	https://vndb.org/s19099	Q5	Q6581072
+s57228		十夜 雪		https://vndb.org/s57228	Q5	
 s30126		十字 星恋	female	https://vndb.org/s30126	Q5	Q6581072
 s7457		十崎 悠太		https://vndb.org/s7457	Q5	
 s10414		十川 知司	male	https://vndb.org/s10414	Q5	Q6581097
@@ -39017,6 +39137,7 @@ s19447		国分 正行		https://vndb.org/s19447	Q5
 s53088		国分寺 草介	male	https://vndb.org/s53088	Q5	Q6581097
 s41169		国分政昭		https://vndb.org/s41169	Q5	
 s41757		国分浩一郎	male	https://vndb.org/s41757	Q5	Q6581097
+s57231		国士 無双		https://vndb.org/s57231	Q5	
 s1256		国定剛	male	https://vndb.org/s1256	Q5	Q6581097
 s9753		国府方 政男		https://vndb.org/s9753	Q5	
 s12293		国時 真琴	female	https://vndb.org/s12293	Q5	Q6581072
@@ -39693,6 +39814,7 @@ s23110		夜泣棒UTAMARO		https://vndb.org/s23110	Q5
 s40462		夜浩 夕也		https://vndb.org/s40462	Q5	
 s49654		夜白魔 メア	female	https://vndb.org/s49654	Q5	Q6581072
 s10832		夜皇禰 実	male	https://vndb.org/s10832	Q5	Q6581097
+s57179		夜社		https://vndb.org/s57179	Q5	
 s36115		夜空		https://vndb.org/s36115	Q5	
 s34489		夜空 あかり		https://vndb.org/s34489	Q5	
 s37972		夜空 ナガメ	male	https://vndb.org/s37972	Q5	Q6581097
@@ -39808,7 +39930,7 @@ s9545		大内 純		https://vndb.org/s9545	Q5
 s29547		大内さと美	female	https://vndb.org/s29547	Q5	Q6581072
 s32178		大出 喬紀		https://vndb.org/s32178	Q5	
 s15865	Q2828940	大前 茜	female	https://vndb.org/s15865	Q5	Q6581072
-s41603		大前田		https://vndb.org/s41603	Q5	
+s41603		大前田	male	https://vndb.org/s41603	Q5	Q6581097
 s5132		大原		https://vndb.org/s5132	Q5	
 s100	Q2325296	大原 さやか	female	https://vndb.org/s100	Q5	Q6581072
 s11715		大原 みなみ		https://vndb.org/s11715	Q5	
@@ -40395,6 +40517,7 @@ s1567		天野 ちぎり	female	https://vndb.org/s1567	Q5	Q6581072
 s17781		天野 はいね	female	https://vndb.org/s17781	Q5	Q6581072
 s16037		天野 みずき	female	https://vndb.org/s16037	Q5	Q6581072
 s1237		天野 みなみ	female	https://vndb.org/s1237	Q5	Q6581072
+s57240		天野 みなも		https://vndb.org/s57240	Q5	
 s3623		天野 れん	female	https://vndb.org/s3623	Q5	Q6581072
 s15644		天野 スズメ	male	https://vndb.org/s15644	Q5	Q6581097
 s18896	Q41698645	天野 七瑠	male	https://vndb.org/s18896	Q5	Q6581097
@@ -40709,6 +40832,7 @@ s3270		子吉 信成	male	https://vndb.org/s3270	Q5	Q6581097
 s10	Q464348	子安 武人	male	https://vndb.org/s10	Q5	Q6581097
 s10619		子安 秀明		https://vndb.org/s10619	Q5	
 s15165		子松菜	male	https://vndb.org/s15165	Q5	Q6581097
+s57279		子桜 ひとみ	female	https://vndb.org/s57279	Q5	Q6581072
 s23008		子森平の使い方		https://vndb.org/s23008	Q5	
 s43935		子泣き爺		https://vndb.org/s43935	Q5	
 s42711		子路ヒエラ		https://vndb.org/s42711	Q5	
@@ -41480,6 +41604,7 @@ s42203		小川一樹	male	https://vndb.org/s42203	Q5	Q6581097
 s30814		小川久仁恵	female	https://vndb.org/s30814	Q5	Q6581072
 s47221		小川君	male	https://vndb.org/s47221	Q5	Q6581097
 s9110		小川小町	female	https://vndb.org/s9110	Q5	Q6581072
+s57321		小巻 恋		https://vndb.org/s57321	Q5	
 s21729	Q20039931	小市 眞琴	female	https://vndb.org/s21729	Q5	Q6581072
 s16277		小幡 あけみ	female	https://vndb.org/s16277	Q5	Q6581072
 s1877	Q11460704	小幡 記子	female	https://vndb.org/s1877	Q5	Q6581072
@@ -41731,6 +41856,7 @@ s53985		小津雪ヲ		https://vndb.org/s53985	Q5
 s44781		小浜 匠		https://vndb.org/s44781	Q5	
 s622	Q236715	小清水 亜美	female	https://vndb.org/s622	Q5	Q6581072
 s19873		小清水 佑果	female	https://vndb.org/s19873	Q5	Q6581072
+s57233		小清水 正人		https://vndb.org/s57233	Q5	
 s4753		小渕 みすと		https://vndb.org/s4753	Q5	
 s2534		小港 らいす	female	https://vndb.org/s2534	Q5	Q6581072
 s38155		小湊ミチル	female	https://vndb.org/s38155	Q5	Q6581072
@@ -42119,6 +42245,7 @@ s32997		山吹 うらら	female	https://vndb.org/s32997	Q5	Q6581072
 s7043		山吹 ことり	female	https://vndb.org/s7043	Q5	Q6581072
 s21209		山吹 さよ		https://vndb.org/s21209	Q5	
 s15812		山吹 ゆみ	female	https://vndb.org/s15812	Q5	Q6581072
+s57237		山吹 りりん		https://vndb.org/s57237	Q5	
 s52072		山吹てふ		https://vndb.org/s52072	Q5	
 s19163		山咲 あいこ	female	https://vndb.org/s19163	Q5	Q6581072
 s36967		山咲 かりあ		https://vndb.org/s36967	Q5	
@@ -42497,6 +42624,7 @@ s56413		岡林 俊之		https://vndb.org/s56413	Q5
 s5969	Q11473351	岡林 史泰	male	https://vndb.org/s5969	Q5	Q6581097
 s14156		岡林 玲子	female	https://vndb.org/s14156	Q5	Q6581072
 s24680		岡橋 大		https://vndb.org/s24680	Q5	
+s57198		岡澤 知行		https://vndb.org/s57198	Q5	
 s18284		岡田 コウ	female	https://vndb.org/s18284	Q5	Q6581072
 s31943		岡田 ショウ		https://vndb.org/s31943	Q5	
 s1824		岡田 一廣	male	https://vndb.org/s1824	Q5	Q6581097
@@ -42512,6 +42640,7 @@ s43730		岡田 夢以	female	https://vndb.org/s43730	Q5	Q6581072
 s18606	Q11473528	岡田 幸子	female	https://vndb.org/s18606	Q5	Q6581072
 s10199		岡田 悠	male	https://vndb.org/s10199	Q5	Q6581097
 s39891		岡田 悠		https://vndb.org/s39891	Q5	
+s57210		岡田 愛		https://vndb.org/s57210	Q5	
 s9795	Q6137564	岡田 斗司夫	male	https://vndb.org/s9795	Q5	Q6581097
 s25485		岡田 昌	male	https://vndb.org/s25485	Q5	Q6581097
 s23770		岡田 昭		https://vndb.org/s23770	Q5	
@@ -42803,7 +42932,7 @@ s35665		嵯峨 夕紀		https://vndb.org/s35665	Q5
 s31136		嵯峨 賢人		https://vndb.org/s31136	Q5	
 s50323		嵯峨野 いまり		https://vndb.org/s50323	Q5	
 s45869		嵯峨野 勝馬		https://vndb.org/s45869	Q5	
-s10183		嶋 流		https://vndb.org/s10183	Q5	
+s10183		嶋 流	male	https://vndb.org/s10183	Q5	Q6581097
 s41167		嶋丈晴		https://vndb.org/s41167	Q5	
 s35216		嶋公		https://vndb.org/s35216	Q5	
 s7295		嶋尾 和		https://vndb.org/s7295	Q5	
@@ -43149,6 +43278,7 @@ s30654		干潟 清浩		https://vndb.org/s30654	Q5
 s3276		平 つくね		https://vndb.org/s3276	Q5	
 s6761		平 タケヒロ	male	https://vndb.org/s6761	Q5	Q6581097
 s10079		平 一平		https://vndb.org/s10079	Q5	
+s57209		平 喜美子		https://vndb.org/s57209	Q5	
 s5895		平 民男		https://vndb.org/s5895	Q5	
 s33072		平 瑠璃		https://vndb.org/s33072	Q5	
 s45286		平 綾		https://vndb.org/s45286	Q5	
@@ -43420,6 +43550,7 @@ s49000		弓月 司		https://vndb.org/s49000	Q5
 s28820		弓月 瞬無	male	https://vndb.org/s28820	Q5	Q6581097
 s10604		弓月 誠		https://vndb.org/s10604	Q5	
 s11301		弓祭 烈		https://vndb.org/s11301	Q5	
+s57288		弓絵	female	https://vndb.org/s57288	Q5	Q6581072
 s20009	Q38278798	引坂 理絵	female	https://vndb.org/s20009	Q5	Q6581072
 s26152		引田 千佐子		https://vndb.org/s26152	Q5	
 s13806	Q11487167	引田 有美	female	https://vndb.org/s13806	Q5	Q6581072
@@ -43440,6 +43571,7 @@ s23973		张杰	male	https://vndb.org/s23973	Q5	Q6581097
 s36611		张磊	male	https://vndb.org/s36611	Q5	Q6581097
 s45309		张韶涵	female	https://vndb.org/s45309	Q5	Q6581072
 s48187		弥之助		https://vndb.org/s48187	Q5	
+s57320		弥刀 太一	male	https://vndb.org/s57320	Q5	Q6581097
 s51179		弥太郎		https://vndb.org/s51179	Q5	
 s19296		弥島 卓巳		https://vndb.org/s19296	Q5	
 s4199		弥弛	male	https://vndb.org/s4199	Q5	Q6581097
@@ -43634,6 +43766,7 @@ s7110		御神楽 やこ	female	https://vndb.org/s7110	Q5	Q6581072
 s53191		御神苗叶		https://vndb.org/s53191	Q5	
 s11343		御空 希色		https://vndb.org/s11343	Q5	
 s45743		御童 魁		https://vndb.org/s45743	Q5	
+s57189		御縁 灯	male	https://vndb.org/s57189	Q5	Q6581097
 s57034		御膳	male	https://vndb.org/s57034	Q5	Q6581097
 s21631		御芊		https://vndb.org/s21631	Q5	
 s2493		御花畑 るん	male	https://vndb.org/s2493	Q5	Q6581097
@@ -43849,6 +43982,7 @@ s26315		愛川 ゆう	female	https://vndb.org/s26315	Q5	Q6581072
 s20893		愛川 子豚	female	https://vndb.org/s20893	Q5	Q6581072
 s7941		愛川 舞夢	female	https://vndb.org/s7941	Q5	Q6581072
 s25984		愛川すず	female	https://vndb.org/s25984	Q5	Q6581072
+s57267		愛智 万博		https://vndb.org/s57267	Q5	
 s2016		愛枝 今日子	female	https://vndb.org/s2016	Q5	Q6581072
 s10402		愛枝直		https://vndb.org/s10402	Q5	
 s52091		愛楽 あそぶ	female	https://vndb.org/s52091	Q5	Q6581072
@@ -44092,6 +44226,7 @@ s55149		提娘	female	https://vndb.org/s55149	Q5	Q6581072
 s52840		揚げどうふ		https://vndb.org/s52840	Q5	
 s47460		揚げシュウマイ		https://vndb.org/s47460	Q5	
 s14136		揚げパン2号		https://vndb.org/s14136	Q5	
+s57298		揚げ餅P		https://vndb.org/s57298	Q5	
 s50073		搾精研究所		https://vndb.org/s50073	Q5	
 s7345		摂氏凡太		https://vndb.org/s7345	Q5	
 s2435		摘千 つさか	female	https://vndb.org/s2435	Q5	Q6581072
@@ -44197,6 +44332,7 @@ s35280		斎藤 直樹		https://vndb.org/s35280	Q5
 s48638		斎藤 秀史		https://vndb.org/s48638	Q5	
 s13766		斎藤 竜也		https://vndb.org/s13766	Q5	
 s14414		斎藤 美保	female	https://vndb.org/s14414	Q5	Q6581072
+s4637		斎藤 美早子		https://vndb.org/s4637	Q5	
 s40022		斎藤 翔		https://vndb.org/s40022	Q5	
 s51300		斎藤 薫		https://vndb.org/s51300	Q5	
 s7822		斎藤 論薫		https://vndb.org/s7822	Q5	
@@ -44204,7 +44340,6 @@ s32554		斎藤 転身		https://vndb.org/s32554	Q5
 s19557		斎藤 陽子		https://vndb.org/s19557	Q5	
 s31613		斎藤 隆太		https://vndb.org/s31613	Q5	
 s12682		斎藤 雅和	male	https://vndb.org/s12682	Q5	Q6581097
-s4637		斎藤美早子		https://vndb.org/s4637	Q5	
 s19772	Q11500696	斎藤陽子	female	https://vndb.org/s19772	Q5	Q6581072
 s293	Q1371697	斎賀 みつき	female	https://vndb.org/s293	Q5	Q6581072
 s24323		斎賀時人	male	https://vndb.org/s24323	Q5	Q6581097
@@ -44508,6 +44643,7 @@ s30543		早川 蛍	male	https://vndb.org/s30543	Q5	Q6581097
 s8412	Q11511376	早志 勇紀	male	https://vndb.org/s8412	Q5	Q6581097
 s8127	Q902030	早水 リサ	female	https://vndb.org/s8127	Q5	Q6581072
 s3034		早瀬 ゆう	male	https://vndb.org/s3034	Q5	Q6581097
+s57208		早瀬 博雪		https://vndb.org/s57208	Q5	
 s936	Q11511445	早瀬 弥生	female	https://vndb.org/s936	Q5	Q6581072
 s51301		早瀬 春	female	https://vndb.org/s51301	Q5	Q6581072
 s2978		早瀬 碧	female	https://vndb.org/s2978	Q5	Q6581072
@@ -44715,6 +44851,7 @@ s9642		春日 まゆ		https://vndb.org/s9642	Q5
 s1622		春日 りか	female	https://vndb.org/s1622	Q5	Q6581072
 s30732		春日 るりと		https://vndb.org/s30732	Q5	
 s638	Q11513514	春日 アン	female	https://vndb.org/s638	Q5	Q6581072
+s57184		春日 イオ		https://vndb.org/s57184	Q5	
 s30862		春日 希紗良	female	https://vndb.org/s30862	Q5	Q6581072
 s50421		春日 康徳		https://vndb.org/s50421	Q5	
 s2720		春日 晶	male	https://vndb.org/s2720	Q5	Q6581097
@@ -45266,6 +45403,7 @@ s476	Q3936401	朝樹 りさ	female	https://vndb.org/s476	Q5	Q6581072
 s34540		朝橋 つゆ	male	https://vndb.org/s34540	Q5	Q6581097
 s33660		朝比奈		https://vndb.org/s33660	Q5	
 s32246		朝比奈 かぐら		https://vndb.org/s32246	Q5	
+s57167		朝比奈 こん	female	https://vndb.org/s57167	Q5	Q6581072
 s21915		朝比奈 さゆり	female	https://vndb.org/s21915	Q5	Q6581072
 s9808		朝比奈 ゆき	female	https://vndb.org/s9808	Q5	Q6581072
 s28616		朝比奈 依央		https://vndb.org/s28616	Q5	
@@ -45439,6 +45577,7 @@ s17653		木綿 の一匁	female	https://vndb.org/s17653	Q5	Q6581072
 s4308		木緑 あかね	female	https://vndb.org/s4308	Q5	Q6581072
 s1618	Q11519326	木緒 なち	male	https://vndb.org/s1618	Q5	Q6581097
 s21843		木船徳光	male	https://vndb.org/s21843	Q5	Q6581097
+s57275		木花 藍	female	https://vndb.org/s57275	Q5	Q6581072
 s53743		木苺 風鈴	female	https://vndb.org/s53743	Q5	Q6581072
 s4079		木菟 あうる		https://vndb.org/s4079	Q5	
 s15617		木葉 尽		https://vndb.org/s15617	Q5	
@@ -45817,6 +45956,7 @@ s14853		村正たてお		https://vndb.org/s14853	Q5
 s39286		村武えりか		https://vndb.org/s39286	Q5	
 s3822		村治 学	male	https://vndb.org/s3822	Q5	Q6581097
 s14640		村瀬 かすみ		https://vndb.org/s14640	Q5	
+s57159		村瀬 ゆう	female	https://vndb.org/s57159	Q5	Q6581072
 s40802		村瀬 一路	male	https://vndb.org/s40802	Q5	Q6581097
 s47759		村瀬 恭久		https://vndb.org/s47759	Q5	
 s86	Q11523377	村瀬 歩	male	https://vndb.org/s86	Q5	Q6581097
@@ -46011,6 +46151,7 @@ s14118		東雲 和也		https://vndb.org/s14118	Q5
 s5818		東雲 塔雨		https://vndb.org/s5818	Q5	
 s41742		東雲 太郎		https://vndb.org/s41742	Q5	
 s54556		東雲 宮司		https://vndb.org/s54556	Q5	
+s57247		東雲 桜子	female	https://vndb.org/s57247	Q5	Q6581072
 s8875		東雲 沙紗	female	https://vndb.org/s8875	Q5	Q6581072
 s3568		東雲 舞樹		https://vndb.org/s3568	Q5	
 s31983		東頭 鎖国	male	https://vndb.org/s31983	Q5	Q6581097
@@ -46185,6 +46326,7 @@ s43297		松本 慎二		https://vndb.org/s43297	Q5
 s7826		松本 慶	male	https://vndb.org/s7826	Q5	Q6581097
 s6339		松本 憲生		https://vndb.org/s6339	Q5	
 s3944		松本 文紀	male	https://vndb.org/s3944	Q5	Q6581097
+s57312		松本 智志		https://vndb.org/s57312	Q5	
 s50014		松本 智明		https://vndb.org/s50014	Q5	
 s34890		松本 有加		https://vndb.org/s34890	Q5	
 s34709		松本 有紀		https://vndb.org/s34709	Q5	
@@ -46654,6 +46796,7 @@ s11740		柿本 悠理		https://vndb.org/s11740	Q5
 s19650		柿沼 秀樹		https://vndb.org/s19650	Q5	
 s41581		柿沼 雅美		https://vndb.org/s41581	Q5	
 s5153		柿沼るい	female	https://vndb.org/s5153	Q5	Q6581072
+s57305		柿田 よしくに	male	https://vndb.org/s57305	Q5	Q6581097
 s40602		柿田 一葉	female	https://vndb.org/s40602	Q5	Q6581072
 s1390		栂井 栄人	male	https://vndb.org/s1390	Q5	Q6581097
 s35603		栃尾 有紀		https://vndb.org/s35603	Q5	
@@ -46700,6 +46843,7 @@ s8286		栗林		https://vndb.org/s8286	Q5
 s14680	Q11535988	栗林 みえ	female	https://vndb.org/s14680	Q5	Q6581072
 s18	Q1112083	栗林 みな実	female	https://vndb.org/s18	Q5	Q6581072
 s720		栗栖		https://vndb.org/s720	Q5	
+s57211		栗栖 直樹		https://vndb.org/s57211	Q5	
 s11068		栗栖ティナ		https://vndb.org/s11068	Q5	
 s29261		栗桐 文輝		https://vndb.org/s29261	Q5	
 s43889		栗田  幻		https://vndb.org/s43889	Q5	
@@ -46976,6 +47120,7 @@ s21655		桃山 竜二		https://vndb.org/s21655	Q5
 s56928		桃山愛	female	https://vndb.org/s56928	Q5	Q6581072
 s11362		桃崎 享		https://vndb.org/s11362	Q5	
 s31429		桃川 コバト		https://vndb.org/s31429	Q5	
+s57293		桃木 真美		https://vndb.org/s57293	Q5	
 s9125		桃梨	female	https://vndb.org/s9125	Q5	Q6581072
 s2318		桃梨 蜜柑		https://vndb.org/s2318	Q5	
 s47790		桃汰		https://vndb.org/s47790	Q5	
@@ -47194,7 +47339,7 @@ s2281	Q11538068	桜木 アミサ	female	https://vndb.org/s2281	Q5	Q6581072
 s1643	Q11538091	桜木 章人	male	https://vndb.org/s1643	Q5	Q6581097
 s40026		桜木 鈴音		https://vndb.org/s40026	Q5	
 s38046		桜木克典	male	https://vndb.org/s38046	Q5	Q6581097
-s5424		桜東 みくる		https://vndb.org/s5424	Q5	
+s5424		桜東みくる		https://vndb.org/s5424	Q5	
 s10917		桜楽 サラ		https://vndb.org/s10917	Q5	
 s55948		桜樹 みりあ	female	https://vndb.org/s55948	Q5	Q6581072
 s46917		桜歌 しゃち		https://vndb.org/s46917	Q5	
@@ -47272,6 +47417,7 @@ s5565		梅島恵	female	https://vndb.org/s5565	Q5	Q6581072
 s48705		梅崎 友一	male	https://vndb.org/s48705	Q5	Q6581097
 s45787		梅崎 蕗		https://vndb.org/s45787	Q5	
 s6334		梅干丸 夢千代	male	https://vndb.org/s6334	Q5	Q6581097
+s57249		梅月 空		https://vndb.org/s57249	Q5	
 s48297		梅本 ひとみ		https://vndb.org/s48297	Q5	
 s41537		梅本 冴子		https://vndb.org/s41537	Q5	
 s970	Q7385487	梅本 竜	male	https://vndb.org/s970	Q5	Q6581097
@@ -47298,6 +47444,7 @@ s6225		梅野 貴和		https://vndb.org/s6225	Q5
 s23812		梅雨野 みなづき		https://vndb.org/s23812	Q5	
 s1081		梅鳥 うりり	female	https://vndb.org/s1081	Q5	Q6581072
 s56423		梅麻呂	male	https://vndb.org/s56423	Q5	Q6581097
+s57242		梓 にとろ	female	https://vndb.org/s57242	Q5	Q6581072
 s11550		梓 悠実		https://vndb.org/s11550	Q5	
 s6891		梓 瑞宏		https://vndb.org/s6891	Q5	
 s20199		梓乃	female	https://vndb.org/s20199	Q5	Q6581072
@@ -47417,6 +47564,7 @@ s10124		森下 欽也		https://vndb.org/s10124	Q5
 s30984		森下 沙耶	female	https://vndb.org/s30984	Q5	Q6581072
 s17483		森下 登喜彦	male	https://vndb.org/s17483	Q5	Q6581097
 s15333		森下 真咲	female	https://vndb.org/s15333	Q5	Q6581072
+s57199		森下 薫		https://vndb.org/s57199	Q5	
 s53296		森丘 アキラ		https://vndb.org/s53296	Q5	
 s19860	Q17220363	森中 葵	female	https://vndb.org/s19860	Q5	Q6581072
 s21500		森乃 くま		https://vndb.org/s21500	Q5	
@@ -47539,6 +47687,7 @@ s14513		森野 ゆかり	female	https://vndb.org/s14513	Q5	Q6581072
 s8761		森野 ハイジ	female	https://vndb.org/s8761	Q5	Q6581072
 s14778		森野 ヒロ	male	https://vndb.org/s14778	Q5	Q6581097
 s6821		森野 一角		https://vndb.org/s6821	Q5	
+s57183		森野 幸子		https://vndb.org/s57183	Q5	
 s9934		森野 智広		https://vndb.org/s9934	Q5	
 s3485		森野 花梨	female	https://vndb.org/s3485	Q5	Q6581072
 s11583		森野アスカ	female	https://vndb.org/s11583	Q5	Q6581072
@@ -48184,6 +48333,7 @@ s15913	Q76970738	比嘉 良介	male	https://vndb.org/s15913	Q5	Q6581097
 s52681		比嘉久美子	female	https://vndb.org/s52681	Q5	Q6581072
 s6482		比奈月 美羽	female	https://vndb.org/s6482	Q5	Q6581072
 s1499		比未子	female	https://vndb.org/s1499	Q5	Q6581072
+s57252		比村 奇石		https://vndb.org/s57252	Q5	
 s45821		比留川 久美子		https://vndb.org/s45821	Q5	
 s26400		比留間 れん	male	https://vndb.org/s26400	Q5	Q6581097
 s30003	Q48749453	比留間 俊哉	male	https://vndb.org/s30003	Q5	Q6581097
@@ -48776,10 +48926,10 @@ s21438		沐 之晴		https://vndb.org/s21438	Q5
 s55865		沐梨 あい	female	https://vndb.org/s55865	Q5	Q6581072
 s28168		沐白爱丽丝		https://vndb.org/s28168	Q5	
 s25072		沖 なつ芽	female	https://vndb.org/s25072	Q5	Q6581072
+s52914		沖 コエビ	male	https://vndb.org/s52914	Q5	Q6581097
 s6888		沖 直哉		https://vndb.org/s6888	Q5	
 s28520		沖 真人		https://vndb.org/s28520	Q5	
 s2702		沖 静香	female	https://vndb.org/s2702	Q5	Q6581072
-s52914		沖コ エビ		https://vndb.org/s52914	Q5	
 s31022		沖中 日出光		https://vndb.org/s31022	Q5	
 s18565		沖乃鈴成		https://vndb.org/s18565	Q5	
 s41087		沖之 正一	male	https://vndb.org/s41087	Q5	Q6581097
@@ -49137,6 +49287,7 @@ s43852		浅妓 鏡		https://vndb.org/s43852	Q5
 s17125		浅島ヨシユキ	male	https://vndb.org/s17125	Q5	Q6581097
 s47809		浅川 岳史	male	https://vndb.org/s47809	Q5	Q6581097
 s81	Q1323156	浅川 悠	female	https://vndb.org/s81	Q5	Q6581072
+s57262		浅川 政夫		https://vndb.org/s57262	Q5	
 s46115		浅川 浅葱		https://vndb.org/s46115	Q5	
 s47811		浅川 甲史	male	https://vndb.org/s47811	Q5	Q6581097
 s26754		浅川正一		https://vndb.org/s26754	Q5	
@@ -49221,7 +49372,7 @@ s42336		浜松春日		https://vndb.org/s42336	Q5
 s27186	Q11274257	浜津 智明	male	https://vndb.org/s27186	Q5	Q6581097
 s14683	Q11557903	浜添 伸也	male	https://vndb.org/s14683	Q5	Q6581097
 s22648		浜田 みく		https://vndb.org/s22648	Q5	
-s7256		浜田 よしかづ		https://vndb.org/s7256	Q5	
+s7256		浜田 よしかづ	male	https://vndb.org/s7256	Q5	Q6581097
 s15590	Q27917945	浜田 洋平	male	https://vndb.org/s15590	Q5	Q6581097
 s45809		浜田 純伸		https://vndb.org/s45809	Q5	
 s8998		浜田 英明		https://vndb.org/s8998	Q5	
@@ -50030,6 +50181,7 @@ s46977		為谷 京子	male	https://vndb.org/s46977	Q5	Q6581097
 s32401		烏丸 ぷり助		https://vndb.org/s32401	Q5	
 s15381		烏丸 りあ		https://vndb.org/s15381	Q5	
 s52483		烏丸 恵夢		https://vndb.org/s52483	Q5	
+s57185		烏丸 揚一	male	https://vndb.org/s57185	Q5	Q6581097
 s45840		烏丸 焼		https://vndb.org/s45840	Q5	
 s2634	Q16770185	烏丸 祐一	male	https://vndb.org/s2634	Q5	Q6581097
 s52674		烏丸 紅雪		https://vndb.org/s52674	Q5	
@@ -50094,6 +50246,7 @@ s34782		熊川 秋人	male	https://vndb.org/s34782	Q5	Q6581097
 s41033		熊木 ゆり		https://vndb.org/s41033	Q5	
 s7241		熊本 昌美		https://vndb.org/s7241	Q5	
 s19736	Q11568649	熊渕卓	male	https://vndb.org/s19736	Q5	Q6581097
+s57212		熊澤 宏		https://vndb.org/s57212	Q5	
 s21318		熊猫 ぐらまん		https://vndb.org/s21318	Q5	
 s6941		熊猫 ろここ		https://vndb.org/s6941	Q5	
 s33496		熊田 乱	male	https://vndb.org/s33496	Q5	Q6581097
@@ -50204,7 +50357,7 @@ s17731		牧村 果実	female	https://vndb.org/s17731	Q5	Q6581072
 s9163		牧村 裕輝		https://vndb.org/s9163	Q5	
 s56721		牧瀬 良裕		https://vndb.org/s56721	Q5	
 s18445		牧瀬 蓮子		https://vndb.org/s18445	Q5	
-s7232		牧田 良信		https://vndb.org/s7232	Q5	
+s7232		牧田 良信	male	https://vndb.org/s7232	Q5	Q6581097
 s51985		牧田 頼夢		https://vndb.org/s51985	Q5	
 s35638		牧石 陽奈	female	https://vndb.org/s35638	Q5	Q6581072
 s4636		牧野 信博	male	https://vndb.org/s4636	Q5	Q6581097
@@ -50547,7 +50700,7 @@ s22709		琴美	female	https://vndb.org/s22709	Q5	Q6581072
 s33756	Q9097275	琴義 弓介	male	https://vndb.org/s33756	Q5	Q6581097
 s56026		琴羽 てまり	female	https://vndb.org/s56026	Q5	Q6581072
 s9477		琴羽 ゆきら	female	https://vndb.org/s9477	Q5	Q6581072
-s2771		琴羽 之文	female	https://vndb.org/s2771	Q5	Q6581072
+s2771		琴羽 之文	male	https://vndb.org/s2771	Q5	Q6581097
 s43474		琴里		https://vndb.org/s43474	Q5	
 s11460		琴音	female	https://vndb.org/s11460	Q5	Q6581072
 s56343		琴音 ゆい		https://vndb.org/s56343	Q5	
@@ -51144,7 +51297,7 @@ s25446		白王		https://vndb.org/s25446	Q5
 s12530		白痴		https://vndb.org/s12530	Q5	
 s30969		白百合 美貴		https://vndb.org/s30969	Q5	
 s35532		白百合リリィ	female	https://vndb.org/s35532	Q5	Q6581072
-s14727		白皙		https://vndb.org/s14727	Q5	
+s14727		白皙	female	https://vndb.org/s14727	Q5	Q6581072
 s3802		白矢 たつき	male	https://vndb.org/s3802	Q5	Q6581097
 s27599		白石	male	https://vndb.org/s27599	Q5	Q6581097
 s8619		白石 さや		https://vndb.org/s8619	Q5	
@@ -51279,6 +51432,7 @@ s30714		皆白 ソラキ		https://vndb.org/s30714	Q5
 s14638	Q453401	皇 名月	female	https://vndb.org/s14638	Q5	Q6581072
 s6622		皇 征介		https://vndb.org/s6622	Q5	
 s55594		皇 獅熊		https://vndb.org/s55594	Q5	
+s57213		皇 真	male	https://vndb.org/s57213	Q5	Q6581097
 s54136		皇 美緒奈		https://vndb.org/s54136	Q5	
 s1982		皇 裕介		https://vndb.org/s1982	Q5	
 s16203		皇 遊雅	male	https://vndb.org/s16203	Q5	Q6581097
@@ -51390,7 +51544,9 @@ s3989		相澤 一二三	male	https://vndb.org/s3989	Q5	Q6581097
 s7837		相澤 健一	male	https://vndb.org/s7837	Q5	Q6581097
 s12356		相澤 小太郎	male	https://vndb.org/s12356	Q5	Q6581097
 s6360		相澤 梨沙	female	https://vndb.org/s6360	Q5	Q6581072
+s57229		相澤 綱樹		https://vndb.org/s57229	Q5	
 s20702		相澤奈美	female	https://vndb.org/s20702	Q5	Q6581072
+s57190		相生 チーサ	female	https://vndb.org/s57190	Q5	Q6581072
 s35425		相生 紅葉		https://vndb.org/s35425	Q5	
 s15610	Q263973	相田 さやか	female	https://vndb.org/s15610	Q5	Q6581072
 s42340		相田 毅	male	https://vndb.org/s42340	Q5	Q6581097
@@ -51514,6 +51670,7 @@ s2000	Q11239588	真木 碧	female	https://vndb.org/s2000	Q5	Q6581072
 s12046		真木 駿一	male	https://vndb.org/s12046	Q5	Q6581097
 s12191		真条 明		https://vndb.org/s12191	Q5	
 s14114	Q3847074	真柴 摩利	female	https://vndb.org/s14114	Q5	Q6581072
+s57200		真樹 陣		https://vndb.org/s57200	Q5	
 s25549	Q11273889	真樹村正		https://vndb.org/s25549	Q5	
 s14659		真機 鈴八		https://vndb.org/s14659	Q5	
 s887	Q1132957	真殿 光昭	male	https://vndb.org/s887	Q5	Q6581097
@@ -51580,6 +51737,7 @@ s12212		睦月 理緒	female	https://vndb.org/s12212	Q5	Q6581072
 s7922		睦月 申	female	https://vndb.org/s7922	Q5	Q6581072
 s19601		睦月 達也		https://vndb.org/s19601	Q5	
 s10651		睦月 里緒	female	https://vndb.org/s10651	Q5	Q6581072
+s57251		睦月まこと	female	https://vndb.org/s57251	Q5	Q6581072
 s7162		睦茸		https://vndb.org/s7162	Q5	
 s41872		睦鬼	female	https://vndb.org/s41872	Q5	Q6581072
 s27448		瞬々		https://vndb.org/s27448	Q5	
@@ -52852,7 +53010,7 @@ s2454		笹山 ちかげ		https://vndb.org/s2454	Q5
 s33100		笹山 パンダ	male	https://vndb.org/s33100	Q5	Q6581097
 s697		笹山 力郎	male	https://vndb.org/s697	Q5	Q6581097
 s55535		笹岡 ぐんぐ	male	https://vndb.org/s55535	Q5	Q6581097
-s50238		笹岡 慎耶		https://vndb.org/s50238	Q5	
+s50238		笹岡 慎耶	male	https://vndb.org/s50238	Q5	Q6581097
 s42314		笹岡 洋光	male	https://vndb.org/s42314	Q5	Q6581097
 s1017	Q6347134	笹島 かほる	female	https://vndb.org/s1017	Q5	Q6581072
 s39957		笹島 靖規		https://vndb.org/s39957	Q5	
@@ -53036,6 +53194,7 @@ s20577		粟岳高弘	male	https://vndb.org/s20577	Q5	Q6581097
 s2177	Q11604617	粟津 貴嗣	male	https://vndb.org/s2177	Q5	Q6581097
 s55856		粟田 もかね	female	https://vndb.org/s55856	Q5	Q6581072
 s8125		粟田 英樹		https://vndb.org/s8125	Q5	
+s57306		粟野 育子		https://vndb.org/s57306	Q5	
 s42257		糖虫 仮想		https://vndb.org/s42257	Q5	
 s55326		糞河童		https://vndb.org/s55326	Q5	
 s18588		糸乃ココ	female	https://vndb.org/s18588	Q5	Q6581072
@@ -53568,7 +53727,7 @@ s24987		羊 はなまる		https://vndb.org/s24987	Q5
 s56062		羊乃		https://vndb.org/s56062	Q5	
 s39031		羊圈Yan-Gyan		https://vndb.org/s39031	Q5	
 s39228		羊宮 妃那	female	https://vndb.org/s39228	Q5	Q6581072
-s34898		羊村 紗紀		https://vndb.org/s34898	Q5	
+s34898		羊村 紗紀	female	https://vndb.org/s34898	Q5	Q6581072
 s9269		羊箱		https://vndb.org/s9269	Q5	
 s47218		美さと		https://vndb.org/s47218	Q5	
 s34955		美優那	female	https://vndb.org/s34955	Q5	Q6581072
@@ -53680,6 +53839,7 @@ s34515		羽户		https://vndb.org/s34515	Q5
 s23606	Q11610189	羽月 まり	female	https://vndb.org/s23606	Q5	Q6581072
 s25645		羽月 セレネ	female	https://vndb.org/s25645	Q5	Q6581072
 s2919		羽月 優名	female	https://vndb.org/s2919	Q5	Q6581072
+s57322		羽月 彩	female	https://vndb.org/s57322	Q5	Q6581072
 s5390		羽月 深弥		https://vndb.org/s5390	Q5	
 s928		羽月 理恵	female	https://vndb.org/s928	Q5	Q6581072
 s43947		羽月 立夏		https://vndb.org/s43947	Q5	
@@ -53709,6 +53869,7 @@ s45677		羽田 こうすけ		https://vndb.org/s45677	Q5
 s19200		羽田 ともなり	male	https://vndb.org/s19200	Q5	Q6581097
 s56001		羽田 ソラ		https://vndb.org/s56001	Q5	
 s50688		羽田 一郎		https://vndb.org/s50688	Q5	
+s57324		羽田 伊吹		https://vndb.org/s57324	Q5	
 s56312		羽田 弘隆		https://vndb.org/s56312	Q5	
 s20954		羽田 浩二	male	https://vndb.org/s20954	Q5	Q6581097
 s36524		羽田 結依	female	https://vndb.org/s36524	Q5	Q6581072
@@ -53895,7 +54056,6 @@ s56023		良勝婦 恥菜	female	https://vndb.org/s56023	Q5	Q6581072
 s56555		良脚 御恩		https://vndb.org/s56555	Q5	
 s3266		色形 たかし	male	https://vndb.org/s3266	Q5	Q6581097
 s28474		色彩 天宙	male	https://vndb.org/s28474	Q5	Q6581097
-s56223		色怠		https://vndb.org/s56223	Q5	
 s54658		色瀬 葵	female	https://vndb.org/s54658	Q5	Q6581072
 s45573		色谷 あすか		https://vndb.org/s45573	Q5	
 s9489		色鈴-karin-		https://vndb.org/s9489	Q5	
@@ -54088,6 +54248,7 @@ s7890		芹沢 さとし		https://vndb.org/s7890	Q5
 s6421		芹沢 克己		https://vndb.org/s6421	Q5	
 s53481		芹沢 水魚		https://vndb.org/s53481	Q5	
 s34051		芹沢 香澄		https://vndb.org/s34051	Q5	
+s57155		芹沢謙	male	https://vndb.org/s57155	Q5	Q6581097
 s11044	Q11616039	芹澤 優	female	https://vndb.org/s11044	Q5	Q6581072
 s25103		芹澤けい	female	https://vndb.org/s25103	Q5	Q6581072
 s18802		芹澤真琴	female	https://vndb.org/s18802	Q5	Q6581072
@@ -54191,6 +54352,7 @@ s33233		茂村 しげる	male	https://vndb.org/s33233	Q5	Q6581097
 s3549		茂知月 ツカサ		https://vndb.org/s3549	Q5	
 s33805		范 馨源		https://vndb.org/s33805	Q5	
 s45937		茅ヶ崎 タイガー		https://vndb.org/s45937	Q5	
+s57188		茅原 優	male	https://vndb.org/s57188	Q5	Q6581097
 s1459	Q256910	茅原 実里	female	https://vndb.org/s1459	Q5	Q6581072
 s630	Q1187078	茅野 愛衣	female	https://vndb.org/s630	Q5	Q6581072
 s28631		茅野真奈	female	https://vndb.org/s28631	Q5	Q6581072
@@ -54754,6 +54916,7 @@ s36944		蒼木 晶子	female	https://vndb.org/s36944	Q5	Q6581072
 s21572		蒼木 歩		https://vndb.org/s21572	Q5	
 s48591		蒼木 空央		https://vndb.org/s48591	Q5	
 s27053		蒼村 かな		https://vndb.org/s27053	Q5	
+s57241		蒼林 かりや		https://vndb.org/s57241	Q5	
 s3283	Q11621524	蒼桐 かこ	female	https://vndb.org/s3283	Q5	Q6581072
 s1614	Q1152527	蒼樹 うめ	female	https://vndb.org/s1614	Q5	Q6581072
 s55344		蒼水月 愁	female	https://vndb.org/s55344	Q5	Q6581072
@@ -55207,6 +55370,7 @@ s14150		藤田 真哉	male	https://vndb.org/s14150	Q5	Q6581097
 s26883		藤田 知美	male	https://vndb.org/s26883	Q5	Q6581097
 s8737	Q17211589	藤田 茜	female	https://vndb.org/s8737	Q5	Q6581072
 s23757		藤田 靖明	male	https://vndb.org/s23757	Q5	Q6581097
+s57197		藤田 顕史		https://vndb.org/s57197	Q5	
 s8020	Q11624931	藤田 麻衣子	female	https://vndb.org/s8020	Q5	Q6581072
 s40686	Q958449	藤田和日郎	male	https://vndb.org/s40686	Q5	Q6581097
 s40501		藤田玲	male	https://vndb.org/s40501	Q5	Q6581097
@@ -55379,6 +55543,7 @@ s5292		裏 吉川	male	https://vndb.org/s5292	Q5	Q6581097
 s23038		裏 秀男		https://vndb.org/s23038	Q5	
 s13664		裏RY.O助		https://vndb.org/s13664	Q5	
 s23495		裏ドラ		https://vndb.org/s23495	Q5	
+s57244		裏ノ裏おもて	female	https://vndb.org/s57244	Q5	Q6581072
 s24816		裏側 ざん		https://vndb.org/s24816	Q5	
 s7178		裏地 ろくろ		https://vndb.org/s7178	Q5	
 s15980		裏小路 猫魔		https://vndb.org/s15980	Q5	
@@ -55469,6 +55634,7 @@ s45678		西本 夏生		https://vndb.org/s45678	Q5
 s6046		西本 成司	male	https://vndb.org/s6046	Q5	Q6581097
 s14949		西本 知代		https://vndb.org/s14949	Q5	
 s20429		西本 秀幹		https://vndb.org/s20429	Q5	
+s7028		西本 純雄	male	https://vndb.org/s7028	Q5	Q6581097
 s33130		西本りみ	female	https://vndb.org/s33130	Q5	Q6581072
 s50941		西村 しゅうこ	female	https://vndb.org/s50941	Q5	Q6581072
 s7709	Q769546	西村 ちなみ	female	https://vndb.org/s7709	Q5	Q6581072
@@ -55639,6 +55805,7 @@ s25375	Q22130840	諏訪 ななか	female	https://vndb.org/s25375	Q5	Q6581072
 s41475		諏訪 勝		https://vndb.org/s41475	Q5	
 s47020		諏訪 太朗		https://vndb.org/s47020	Q5	
 s13437	Q11631872	諏訪 彩花	female	https://vndb.org/s13437	Q5	Q6581072
+s57180		諏訪 有香		https://vndb.org/s57180	Q5	
 s14878		諏訪 貴之	male	https://vndb.org/s14878	Q5	Q6581097
 s1329		諏訪山 ミチル	female	https://vndb.org/s1329	Q5	Q6581072
 s4287		諏訪部		https://vndb.org/s4287	Q5	
@@ -55767,7 +55934,7 @@ s8205		豊芦原 恵海		https://vndb.org/s8205	Q5
 s15940		豌豆まめ丸		https://vndb.org/s15940	Q5	
 s7064		豪カート		https://vndb.org/s7064	Q5	
 s47063		豪腕 はりー		https://vndb.org/s47063	Q5	
-s43425		豹一兎		https://vndb.org/s43425	Q5	
+s43425		豹一兎	male	https://vndb.org/s43425	Q5	Q6581097
 s30725		豹牙晃		https://vndb.org/s30725	Q5	
 s50937		貓御子		https://vndb.org/s50937	Q5	
 s24052		貝パパ		https://vndb.org/s24052	Q5	
@@ -55852,6 +56019,7 @@ s11809		赤威 林檎		https://vndb.org/s11809	Q5
 s15339		赤宮 胡蝶	male	https://vndb.org/s15339	Q5	Q6581097
 s20183	Q28685785	赤尾 ひかる	female	https://vndb.org/s20183	Q5	Q6581072
 s20518		赤山 寿文	male	https://vndb.org/s20518	Q5	Q6581097
+s57158		赤峰 明		https://vndb.org/s57158	Q5	
 s5033		赤崎 ヤスマ		https://vndb.org/s5033	Q5	
 s53901		赤崎 真守巳		https://vndb.org/s53901	Q5	
 s8524	Q1384905	赤川 次郎	male	https://vndb.org/s8524	Q5	Q6581097
@@ -56022,6 +56190,7 @@ s56730		近正 千尋		https://vndb.org/s56730	Q5
 s52312		近永 早苗	female	https://vndb.org/s52312	Q5	Q6581072
 s12593		近江 千竜		https://vndb.org/s12593	Q5	
 s6907	Q1041719	近江 知永	female	https://vndb.org/s6907	Q5	Q6581072
+s57201		近江 舞☆		https://vndb.org/s57201	Q5	
 s3538		近江 達裕		https://vndb.org/s3538	Q5	
 s4352		近江谷 宥		https://vndb.org/s4352	Q5	
 s15691		近藤 “Konchan” 正明		https://vndb.org/s15691	Q5	
@@ -56395,6 +56564,7 @@ s9112		野々原 まどか	female	https://vndb.org/s9112	Q5	Q6581072
 s2891	Q11644893	野々原 幹	male	https://vndb.org/s2891	Q5	Q6581097
 s30125		野々宮 陽	female	https://vndb.org/s30125	Q5	Q6581072
 s37269		野々村 友紀子	female	https://vndb.org/s37269	Q5	Q6581072
+s57243		野々瀬 れん	female	https://vndb.org/s57243	Q5	Q6581072
 s4433		野ノ宮 恋	female	https://vndb.org/s4433	Q5	Q6581072
 s42833		野プリン	male	https://vndb.org/s42833	Q5	Q6581097
 s32492		野上		https://vndb.org/s32492	Q5	
@@ -56518,6 +56688,7 @@ s20415		野田 尚孝	male	https://vndb.org/s20415	Q5	Q6581097
 s13843		野田 真理愛	female	https://vndb.org/s13843	Q5	Q6581072
 s26971		野田 誠	male	https://vndb.org/s26971	Q5	Q6581097
 s4688	Q2713581	野田 順子	female	https://vndb.org/s4688	Q5	Q6581072
+s57186		野畑 繋太	male	https://vndb.org/s57186	Q5	Q6581097
 s32115		野神 奏		https://vndb.org/s32115	Q5	
 s3267		野良 ぴょんこ		https://vndb.org/s3267	Q5	
 s7203		野良 ヒグマ	male	https://vndb.org/s7203	Q5	Q6581097
@@ -56837,6 +57008,7 @@ s53053		鈴木孝幸		https://vndb.org/s53053	Q5
 s10675		鈴木屋16号店		https://vndb.org/s10675	Q5	
 s18691	Q38276919	鈴木崚汰	male	https://vndb.org/s18691	Q5	Q6581097
 s26724		鈴木布美恵		https://vndb.org/s26724	Q5	
+s57230		鈴木真	female	https://vndb.org/s57230	Q5	Q6581072
 s40169		鈴木陸	female	https://vndb.org/s40169	Q5	Q6581072
 s21474		鈴本 今宵	female	https://vndb.org/s21474	Q5	Q6581072
 s23300		鈴本 実		https://vndb.org/s23300	Q5	
@@ -56945,6 +57117,7 @@ s28753		鏡美 啓太郎	male	https://vndb.org/s28753	Q5	Q6581097
 s4911		鏡美 恵		https://vndb.org/s4911	Q5	
 s47375		鏡谷 陽一		https://vndb.org/s47375	Q5	
 s44222		鏡音 レン		https://vndb.org/s44222	Q5	
+s57187		鏡餅 みかん		https://vndb.org/s57187	Q5	
 s4055		鐘多 淳哉		https://vndb.org/s4055	Q5	
 s30202		鐘田 セイア	female	https://vndb.org/s30202	Q5	Q6581072
 s16937		鐘賀 なる	female	https://vndb.org/s16937	Q5	Q6581072
@@ -57493,6 +57666,7 @@ s23856		雨花		https://vndb.org/s23856	Q5
 s32851	Q11263111	雨蘭 咲木子	female	https://vndb.org/s32851	Q5	Q6581072
 s54672		雨野 さくら		https://vndb.org/s54672	Q5	
 s1783	Q11659774	雨野 智晴	male	https://vndb.org/s1783	Q5	Q6581097
+s57236		雨野 白夜		https://vndb.org/s57236	Q5	
 s20208		雨雫	female	https://vndb.org/s20208	Q5	Q6581072
 s30069		雨霧		https://vndb.org/s30069	Q5	
 s41634		雨霧MIO	male	https://vndb.org/s41634	Q5	Q6581097
@@ -57631,6 +57805,7 @@ s2433		電気	male	https://vndb.org/s2433	Q5	Q6581097
 s6785		電気 将軍	male	https://vndb.org/s6785	Q5	Q6581097
 s606	Q11660417	電気式華憐音楽集団		https://vndb.org/s606	Q5	
 s45868		電池		https://vndb.org/s45868	Q5	
+s57223		電波 五郎		https://vndb.org/s57223	Q5	
 s4544		電波 太郎		https://vndb.org/s4544	Q5	
 s56483		電磁砲 二期	male	https://vndb.org/s56483	Q5	Q6581097
 s22724		電脳娯楽堂。		https://vndb.org/s22724	Q5	
@@ -57813,6 +57988,7 @@ s43541		青灯不弈		https://vndb.org/s43541	Q5
 s21617		青猫		https://vndb.org/s21617	Q5	
 s14339		青目		https://vndb.org/s14339	Q5	
 s18345		青石 実夕	female	https://vndb.org/s18345	Q5	Q6581072
+s57303		青石 理沙	female	https://vndb.org/s57303	Q5	Q6581072
 s29753		青空 あおい		https://vndb.org/s29753	Q5	
 s10469		青空 ちはる	female	https://vndb.org/s10469	Q5	Q6581072
 s2481		青空 れみな	male	https://vndb.org/s2481	Q5	Q6581097
@@ -57934,6 +58110,7 @@ s15737		須田 のりえ	female	https://vndb.org/s15737	Q5	Q6581072
 s28522		須田 一輝	male	https://vndb.org/s28522	Q5	Q6581097
 s11479	Q920630	須田 剛一	male	https://vndb.org/s11479	Q5	Q6581097
 s7782	Q11664620	須田 勝也	male	https://vndb.org/s7782	Q5	Q6581097
+s57182		須田 尚美		https://vndb.org/s57182	Q5	
 s6104		須田 悦弘	male	https://vndb.org/s6104	Q5	Q6581097
 s13789		須田 有亮		https://vndb.org/s13789	Q5	
 s55222		須田 真尉子		https://vndb.org/s55222	Q5	
@@ -58610,6 +58787,7 @@ s18724	Q8062726	高田 裕司	male	https://vndb.org/s18724	Q5	Q6581097
 s5528	Q6148410	高田 雅史	male	https://vndb.org/s5528	Q5	Q6581097
 s10988		高町 健二		https://vndb.org/s10988	Q5	
 s9829		高町 咲衣	female	https://vndb.org/s9829	Q5	Q6581072
+s57294		高畑 まこと		https://vndb.org/s57294	Q5	
 s25347		高畑凸凹	male	https://vndb.org/s25347	Q5	Q6581097
 s6756		高矢 ジャスティス		https://vndb.org/s6756	Q5	
 s56685		高磁あかね	female	https://vndb.org/s56685	Q5	Q6581072
@@ -59287,6 +59465,7 @@ s30611		黒鷲	male	https://vndb.org/s30611	Q5	Q6581097
 s37655		默伶	male	https://vndb.org/s37655	Q5	Q6581097
 s27267		黛 けい		https://vndb.org/s27267	Q5	
 s44733		黛 了介		https://vndb.org/s44733	Q5	
+s57248		黛 日向子	female	https://vndb.org/s57248	Q5	Q6581072
 s53407		黛 薫子	female	https://vndb.org/s53407	Q5	Q6581072
 s19349		黛 計		https://vndb.org/s19349	Q5	
 s38093		黝簾		https://vndb.org/s38093	Q5	
@@ -59536,6 +59715,7 @@ s50625		심 민정	female	https://vndb.org/s50625	Q5	Q6581072
 s28813		쑤룩떡		https://vndb.org/s28813	Q5	
 s28802		아구		https://vndb.org/s28802	Q5	
 s54245		아르센		https://vndb.org/s54245	Q5	
+s57220		아마추어그래머		https://vndb.org/s57220	Q5	
 s56090		아얌	female	https://vndb.org/s56090	Q5	Q6581072
 s54194		아침밥		https://vndb.org/s54194	Q5	
 s31589		아키		https://vndb.org/s31589	Q5	
@@ -59736,7 +59916,9 @@ s39067		️David		https://vndb.org/s39067	Q5
 s18616		＃エロティック大島		https://vndb.org/s18616	Q5	
 s55935		＊アスタリスク	female	https://vndb.org/s55935	Q5	Q6581072
 s50806		＋(a◡a)＋		https://vndb.org/s50806	Q5	
+s57285		２日		https://vndb.org/s57285	Q5	
 s37952		４１０		https://vndb.org/s37952	Q5	
+s57232		＝2枚目の紙に＝		https://vndb.org/s57232	Q5	
 s13838		＠y＠		https://vndb.org/s13838	Q5	
 s6752		＠ゆりな	female	https://vndb.org/s6752	Q5	Q6581072
 s12420		Ａ．薬缶α		https://vndb.org/s12420	Q5	
@@ -59812,7 +59994,7 @@ v27511		#こっち向いて_めごちーv	video game	https://vndb.org/v27511	Q78
 v51972		#妄想乙女ゲー攻略対象化計画	video game	https://vndb.org/v51972	Q7889	
 v59710		#妄想乙女ゲー攻略対象化計画　ウソとぼくとデートごっこ	video game	https://vndb.org/v59710	Q7889	
 v56081		&0	video game	https://vndb.org/v56081	Q7889	
-v1745		&Love	video game	https://vndb.org/v1745	Q7889	
+v1745		&LOVE	video game	https://vndb.org/v1745	Q7889	
 v14043		'S	video game	https://vndb.org/v14043	Q7889	
 v20480		'Til Cows Tear Us Apart	video game	https://vndb.org/v20480	Q7889	
 v29946		'Til Death	video game	https://vndb.org/v29946	Q7889	
@@ -60795,6 +60977,7 @@ v22723		A passive boy at the Huntress clinic	video game	https://vndb.org/v22723	
 v52320		A peaceful wedding	video game	https://vndb.org/v52320	Q7889	
 v65932		A Perfect Couple	video game	https://vndb.org/v65932	Q7889	
 v36164		A Perfect Marriage	video game	https://vndb.org/v36164	Q7889	
+v69871		A Personal Winter	video game	https://vndb.org/v69871	Q7889	
 v29582	Q122372050	a pet shop after dark	video game	https://vndb.org/v29582	Q7889	
 v32407		A Petal Among Thorns	video game	https://vndb.org/v32407	Q7889	
 v61421		A Philosophical Discussion of Worms	video game	https://vndb.org/v61421	Q7889	
@@ -61370,6 +61553,7 @@ v45066		AFTER YOU DIE	video game	https://vndb.org/v45066	Q7889
 v26093		After-Party Chemistry	video game	https://vndb.org/v26093	Q7889	
 v67174		After-Rain Bookmark	video game	https://vndb.org/v67174	Q7889	
 v69353		After-School Seconds, With Rinka	video game	https://vndb.org/v69353	Q7889	
+v63081		After-State:WoLong	video game	https://vndb.org/v63081	Q7889	
 v2603	Q4690445	After...	video game	https://vndb.org/v2603	Q7889	
 v2604		After... -Sweet Kiss-	video game	https://vndb.org/v2604	Q7889	
 v31539		Afterglow	video game	https://vndb.org/v31539	Q7889	
@@ -61655,6 +61839,7 @@ v21699		All is Fair in Dust and Air	video game	https://vndb.org/v21699	Q7889
 v26708		All Men Are Pigs	video game	https://vndb.org/v26708	Q7889	
 v57312		All Nighter	video game	https://vndb.org/v57312	Q7889	
 v35630		All of my Tomorrows	video game	https://vndb.org/v35630	Q7889	
+v69845		All of this is mine	video game	https://vndb.org/v69845	Q7889	
 v47938	Q135015082	All of Us Are Dead...	video game	https://vndb.org/v47938	Q7889	
 v52296		All of us Flames	video game	https://vndb.org/v52296	Q7889	
 v56664		All of Us: Her Story	video game	https://vndb.org/v56664	Q7889	
@@ -63372,6 +63557,7 @@ v65731		Bianca Must Die	video game	https://vndb.org/v65731	Q7889
 v9	Q856326	Bible Black - The Game	video game	https://vndb.org/v9	Q7889	
 v1030	Q63344883	Bible Black -The Infection-	video game	https://vndb.org/v1030	Q7889	
 v62073		bichon friends	video game	https://vndb.org/v62073	Q7889	
+v69876		BID ～ビッド～	video game	https://vndb.org/v69876	Q7889	
 v14828		Bidding for Love	video game	https://vndb.org/v14828	Q7889	
 v30576		Bienvenue à l'auberge Hinata!	video game	https://vndb.org/v30576	Q7889	
 v616		BIFRONTE～公界島奇譚～	video game	https://vndb.org/v616	Q7889	
@@ -63454,6 +63640,7 @@ v8038	Q108600637	Bishoujo Mangekyou: A Girl's Cursed Legend	video game	https://v
 v39203		Bisque Doll	video game	https://vndb.org/v39203	Q7889	
 v17534		Bisquieholic Eqations	video game	https://vndb.org/v17534	Q7889	
 v29152		Bistro Days	video game	https://vndb.org/v29152	Q7889	
+v69940		Bit-Bit Rediscovered	video game	https://vndb.org/v69940	Q7889	
 v53914		Bit-Broken Identity	video game	https://vndb.org/v53914	Q7889	
 v41927		Bit_Family! [ELENarogant.exe]	video game	https://vndb.org/v41927	Q7889	
 v23825		Bitch Shark	video game	https://vndb.org/v23825	Q7889	
@@ -64008,6 +64195,7 @@ v25229	Q578305	BOYS BE... 2nd Season	video game	https://vndb.org/v25229	Q7889
 v40125		BOYS IN MY HOUSE	video game	https://vndb.org/v40125	Q7889	
 v40126		BOYS IN MY HOUSE -after the memory-	video game	https://vndb.org/v40126	Q7889	
 v61792		Boys Love	video game	https://vndb.org/v61792	Q7889	
+v69787		Boys Tale	video game	https://vndb.org/v69787	Q7889	
 v37502		BOY×BOY AFTER SCHOOL	video game	https://vndb.org/v37502	Q7889	
 v26769	Q60985777	BOY×BOY 〜私立光稜学院誠心寮〜	video game	https://vndb.org/v26769	Q7889	
 v46462		Boy’s End Girlfriend	video game	https://vndb.org/v46462	Q7889	
@@ -64033,6 +64221,7 @@ v117	Q16351213	Brave Soul	video game	https://vndb.org/v117	Q7889
 v28408		Braveheart Academy	video game	https://vndb.org/v28408	Q7889	
 v59826		BraveHeart Academy 2	video game	https://vndb.org/v59826	Q7889	
 v63812		BraveMind	video game	https://vndb.org/v63812	Q7889	
+v69881		Braver's Tail	video game	https://vndb.org/v69881	Q7889	
 v34835		Bravo India Delta	video game	https://vndb.org/v34835	Q7889	
 v33962		Brazen Sonnet	video game	https://vndb.org/v33962	Q7889	
 v65883		Bread And Bruises	video game	https://vndb.org/v65883	Q7889	
@@ -64313,6 +64502,7 @@ v67991		Buy a Croquette!	video game	https://vndb.org/v67991	Q7889
 v62588		Buying TOMATO	video game	https://vndb.org/v62588	Q7889	
 v30506		buyway～逃げ道～	video game	https://vndb.org/v30506	Q7889	
 v58165		Buzz Off, Buddy	video game	https://vndb.org/v58165	Q7889	
+v69912		BUZZ or DIE	video game	https://vndb.org/v69912	Q7889	
 v54554		By Justice or Mercy	video game	https://vndb.org/v54554	Q7889	
 v25491		By Lantern's Light	video game	https://vndb.org/v25491	Q7889	
 v36240		By Last Petal's Fall	video game	https://vndb.org/v36240	Q7889	
@@ -64574,6 +64764,7 @@ v60517		CAPOLAVORO	video game	https://vndb.org/v60517	Q7889
 v21648		Captain Firebeard and the Bay of Crows	video game	https://vndb.org/v21648	Q7889	
 v44169		Captain's Farewell	video game	https://vndb.org/v44169	Q7889	
 v33825		CAPTIVE	video game	https://vndb.org/v33825	Q7889	
+v69883		Captive	video game	https://vndb.org/v69883	Q7889	
 v53925		Captive Consciousness	video game	https://vndb.org/v53925	Q7889	
 v6688		Captive Market	video game	https://vndb.org/v6688	Q7889	
 v62055		captive under floor 7	video game	https://vndb.org/v62055	Q7889	
@@ -64642,6 +64833,7 @@ v29090		Cartomante	video game	https://vndb.org/v29090	Q7889
 v62496		Cartoons in Danganronpa 2: Rise of Dispair	video game	https://vndb.org/v62496	Q7889	
 v59883		Carved by Grief	video game	https://vndb.org/v59883	Q7889	
 v53355		Carved In Stone	video game	https://vndb.org/v53355	Q7889	
+v69843		Cascade Fault	video game	https://vndb.org/v69843	Q7889	
 v61827		Cascade Theater	video game	https://vndb.org/v61827	Q7889	
 v67067		Case	video game	https://vndb.org/v67067	Q7889	
 v29196		Case 00: The Cannibal Boy	video game	https://vndb.org/v29196	Q7889	
@@ -64953,6 +65145,7 @@ v23076		Cheating Reset	video game	https://vndb.org/v23076	Q7889
 v63541		Check Mates	video game	https://vndb.org/v63541	Q7889	
 v45238		Checkmate! My Shogi Club President can't be this Cute!	video game	https://vndb.org/v45238	Q7889	
 v54626		Checkup	video game	https://vndb.org/v54626	Q7889	
+v69834		Cheddar Beach 0 - Party on Mango St.	video game	https://vndb.org/v69834	Q7889	
 v16615		Cheek 2 Cheek	video game	https://vndb.org/v16615	Q7889	
 v26854		Cheeky	video game	https://vndb.org/v26854	Q7889	
 v53246		Cheeky Princess	video game	https://vndb.org/v53246	Q7889	
@@ -66317,6 +66510,7 @@ v40817		Dabloons	video game	https://vndb.org/v40817	Q7889
 v36393		DachaBo! Digi-Pet Sim!	video game	https://vndb.org/v36393	Q7889	
 v22487		Dad's co-worker	video game	https://vndb.org/v22487	Q7889	
 v52896		Dad's Dinner Stories	video game	https://vndb.org/v52896	Q7889	
+v69788		Daddy Issues	video game	https://vndb.org/v69788	Q7889	
 v57069		Daddy May Love	video game	https://vndb.org/v57069	Q7889	
 v43274		Daddy Please	video game	https://vndb.org/v43274	Q7889	
 v33539		Daddy's Little Girls	video game	https://vndb.org/v33539	Q7889	
@@ -66577,6 +66771,7 @@ v65928		Darkness Falls: Signals	video game	https://vndb.org/v65928	Q7889
 v20005		Darkness Myth〜異形の神々と旧支配者〜	video game	https://vndb.org/v20005	Q7889	
 v63835		Darkness Rainfall	video game	https://vndb.org/v63835	Q7889	
 v46039		Darkness Revenge	video game	https://vndb.org/v46039	Q7889	
+v69858		Darkness ~my sister's secret~	video game	https://vndb.org/v69858	Q7889	
 v25212		DarknessSuppressor～女退魔師達の淫舞～	video game	https://vndb.org/v25212	Q7889	
 v26233		Darkseeker	video game	https://vndb.org/v26233	Q7889	
 v59849		Darkstar	video game	https://vndb.org/v59849	Q7889	
@@ -66593,6 +66788,7 @@ v67419		Darling♡My Invader	video game	https://vndb.org/v67419	Q7889
 v3138		Darling～ダーリン～	video game	https://vndb.org/v3138	Q7889	
 v31482		Darnell Plays With Fire	video game	https://vndb.org/v31482	Q7889	
 v21220		Daryce	video game	https://vndb.org/v21220	Q7889	
+v69946		Dasha	video game	https://vndb.org/v69946	Q7889	
 v45692		DATA BR<3ACH	video game	https://vndb.org/v45692	Q7889	
 v21460		Date (Almost) Anything	video game	https://vndb.org/v21460	Q7889	
 v25734		Date a Clima!	video game	https://vndb.org/v25734	Q7889	
@@ -66792,6 +66988,7 @@ v59012		dead dogs:3	video game	https://vndb.org/v59012	Q7889
 v57884		DEAD DOLLS NEVER DIE	video game	https://vndb.org/v57884	Q7889	
 v16587		Dead End	video game	https://vndb.org/v16587	Q7889	
 v17561		Dead End 2	video game	https://vndb.org/v17561	Q7889	
+v69935		DEAD END ACADEMY	video game	https://vndb.org/v69935	Q7889	
 v10106	Q63811313	DEAD END JUNCTION	video game	https://vndb.org/v10106	Q7889	
 v57644		Dead Flower Equestria	video game	https://vndb.org/v57644	Q7889	
 v38211		Dead Flower-グリンラトアの紅い華-	video game	https://vndb.org/v38211	Q7889	
@@ -66837,6 +67034,7 @@ v43667		dead to me	video game	https://vndb.org/v43667	Q7889
 v54219		Dead Weight	video game	https://vndb.org/v54219	Q7889	
 v22270		Dead Wishes	video game	https://vndb.org/v22270	Q7889	
 v51691		Dead Zone	video game	https://vndb.org/v51691	Q7889	
+v69891		DEAD · AIR	video game	https://vndb.org/v69891	Q7889	
 v31708		Dead-End Detective: The Sixpence Strangler	video game	https://vndb.org/v31708	Q7889	
 v17924		Deadlands Noir - That Old Time Religion	video game	https://vndb.org/v17924	Q7889	
 v42823		Deadline	video game	https://vndb.org/v42823	Q7889	
@@ -67161,6 +67359,7 @@ v53126		Demon Maiden and Slave Summoning	video game	https://vndb.org/v53126	Q788
 v52984		Demon of Aspenmill	video game	https://vndb.org/v52984	Q7889	
 v57071		Demon Of Desire	video game	https://vndb.org/v57071	Q7889	
 v37704		Demon Prince	video game	https://vndb.org/v37704	Q7889	
+v69857		Demon Seed	video game	https://vndb.org/v69857	Q7889	
 v60594		Demon Slayer Love and Lust	video game	https://vndb.org/v60594	Q7889	
 v37674		Demon Speakeasy	video game	https://vndb.org/v37674	Q7889	
 v36084		Demon Tails	video game	https://vndb.org/v36084	Q7889	
@@ -67470,6 +67669,7 @@ v8797		DIES IRAE	video game	https://vndb.org/v8797	Q7889
 v32116		Dies irae Also sprach Zarathustra	video game	https://vndb.org/v32116	Q7889	
 v548	Q4169889	Dies irae ~Acta est Fabula~	video game	https://vndb.org/v548	Q7889	
 v18685		Dies irae ~Interview with Kaziklu Bey~	video game	https://vndb.org/v18685	Q7889	
+v69806		Diet Heart	video game	https://vndb.org/v69806	Q7889	
 v57891		Different Echoes	video game	https://vndb.org/v57891	Q7889	
 v56346		Different Perspectives	video game	https://vndb.org/v56346	Q7889	
 v33765		Difficulty	video game	https://vndb.org/v33765	Q7889	
@@ -67879,6 +68079,7 @@ v62108		Don't Kiss the Shadow Demon	video game	https://vndb.org/v62108	Q7889
 v59014		Don't Leave	video game	https://vndb.org/v59014	Q7889	
 v55217		Don't Look Away	video game	https://vndb.org/v55217	Q7889	
 v65889		Don't Look Back	video game	https://vndb.org/v65889	Q7889	
+v69781		Don't Lose Your Head!	video game	https://vndb.org/v69781	Q7889	
 v23918	Q63370919	Don't Make Love	video game	https://vndb.org/v23918	Q7889	
 v26546		Don't Mind	video game	https://vndb.org/v26546	Q7889	
 v66567		Don't Pick Up Stray Aliens!	video game	https://vndb.org/v66567	Q7889	
@@ -67959,6 +68160,7 @@ v1439		Double Phase - The Asou Twins - Anal and Pussy Enlargement	video game	htt
 v20698		Double Proposal: Midnight Love Triangle	video game	https://vndb.org/v20698	Q7889	
 v3565		Double Reaction!	video game	https://vndb.org/v3565	Q7889	
 v7890		Double Romance	video game	https://vndb.org/v7890	Q7889	
+v69822		Double Sword	video game	https://vndb.org/v69822	Q7889	
 v56257		Double Trouble's Blossom	video game	https://vndb.org/v56257	Q7889	
 v60205		Double Wedding Wish	video game	https://vndb.org/v60205	Q7889	
 v32291		Double-Cross	video game	https://vndb.org/v32291	Q7889	
@@ -68738,6 +68940,7 @@ v68173		Emm1.r	video game	https://vndb.org/v68173	Q7889
 v50454		Emma and Daddy	video game	https://vndb.org/v50454	Q7889	
 v23062	Q122822068	EMMA The Story	video game	https://vndb.org/v23062	Q7889	
 v27139		Emma: A Lady's Maid	video game	https://vndb.org/v27139	Q7889	
+v69934		Emotional Experiments	video game	https://vndb.org/v69934	Q7889	
 v37570		Emotional Refrain	video game	https://vndb.org/v37570	Q7889	
 v60151		Empire building	video game	https://vndb.org/v60151	Q7889	
 v67681		Empire Hostess Club	video game	https://vndb.org/v67681	Q7889	
@@ -68890,6 +69093,7 @@ v24154		entre.pontos	video game	https://vndb.org/v24154	Q7889
 v47935		Entropic Float 2: Land Of The Witch	video game	https://vndb.org/v47935	Q7889	
 v32782		Entropic Float: This World Will Decay and Disappear	video game	https://vndb.org/v32782	Q7889	
 v38396		Entropius	video game	https://vndb.org/v38396	Q7889	
+v69794		Entropy: The Struggle of Fate	video game	https://vndb.org/v69794	Q7889	
 v20492		Entschuldigung	video game	https://vndb.org/v20492	Q7889	
 v61089		Entwined: The Visual Novel	video game	https://vndb.org/v61089	Q7889	
 v67108		Envelope My Heart!	video game	https://vndb.org/v67108	Q7889	
@@ -69004,6 +69208,7 @@ v15484		Escaping Sorrow	video game	https://vndb.org/v15484	Q7889
 v39799		ESCLAVAGE	video game	https://vndb.org/v39799	Q7889	
 v56962		Escort	video game	https://vndb.org/v56962	Q7889	
 v48205		Escort's Secrets 18+	video game	https://vndb.org/v48205	Q7889	
+v69793		Escuela de Pinamar	video game	https://vndb.org/v69793	Q7889	
 v20297		ESEX シコルスキー INTERNEETセキュリティクラウド2017	video game	https://vndb.org/v20297	Q7889	
 v51533		Esoteric	video game	https://vndb.org/v51533	Q7889	
 v40322		Esoteric Love	video game	https://vndb.org/v40322	Q7889	
@@ -69323,6 +69528,7 @@ v47492		Fable Before Apocalyse	video game	https://vndb.org/v47492	Q7889
 v22549		Fable of the Sword	video game	https://vndb.org/v22549	Q7889	
 v44372		Fable: The Missing Apple Pie	video game	https://vndb.org/v44372	Q7889	
 v59345		Fables Wander: LK&P	video game	https://vndb.org/v59345	Q7889	
+v69872		FabStyle	video game	https://vndb.org/v69872	Q7889	
 v65266		Facade Within	video game	https://vndb.org/v65266	Q7889	
 v45662		Face 2 Face	video game	https://vndb.org/v45662	Q7889	
 v56645		Face Off: A Hot Shot Story	video game	https://vndb.org/v56645	Q7889	
@@ -69367,7 +69573,6 @@ v68376		Fairy Bread	video game	https://vndb.org/v68376	Q7889
 v67094		Fairy Chess	video game	https://vndb.org/v67094	Q7889	
 v5534		Fairy Day	video game	https://vndb.org/v5534	Q7889	
 v33481		Fairy Deer	video game	https://vndb.org/v33481	Q7889	
-v69484		Fairy Gift - Magna Cum	video game	https://vndb.org/v69484	Q7889	
 v32222		Fairy Glade	video game	https://vndb.org/v32222	Q7889	
 v736		Fairy Nights	video game	https://vndb.org/v736	Q7889	
 v40299		Fairy Tail Re:Write	video game	https://vndb.org/v40299	Q7889	
@@ -69644,6 +69849,7 @@ v49890		FatesCrossed	video game	https://vndb.org/v49890	Q7889
 v43949		Fateweaver: Smash or Pass	video game	https://vndb.org/v43949	Q7889	
 v40515		Fateweaver: The Alchemist's Quandary	video game	https://vndb.org/v40515	Q7889	
 v55735		FATE　FULL	video game	https://vndb.org/v55735	Q7889	
+v69892		Father Forgive Me: The Sins We Share	video game	https://vndb.org/v69892	Q7889	
 v36308		Father James and the Gabalfa Boys	video game	https://vndb.org/v36308	Q7889	
 v59782		Fathersland	video game	https://vndb.org/v59782	Q7889	
 v46886		Fattening Career	video game	https://vndb.org/v46886	Q7889	
@@ -69768,6 +69974,7 @@ v22888		Feral Boyfriend	video game	https://vndb.org/v22888	Q7889
 v32209		Feral Hearts	video game	https://vndb.org/v32209	Q7889	
 v50434		Fermat	video game	https://vndb.org/v50434	Q7889	
 v50435		FERMAT2～フェルマー2～	video game	https://vndb.org/v50435	Q7889	
+v69867		Fermata～金色のコルダ二次創作同人ゲーム～	video game	https://vndb.org/v69867	Q7889	
 v19833		Fern Flower	video game	https://vndb.org/v19833	Q7889	
 v59969		Fern Flower	video game	https://vndb.org/v59969	Q7889	
 v9807		fern ～だからきみのこと～	video game	https://vndb.org/v9807	Q7889	
@@ -69779,6 +69986,7 @@ v14027		Fest Trip	video game	https://vndb.org/v14027	Q7889
 v17128		Fest-off	video game	https://vndb.org/v17128	Q7889	
 v47841		Festa Estranha	video game	https://vndb.org/v47841	Q7889	
 v2747	Q11199070	FESTA!! -HYPER GIRLS POP-	video game	https://vndb.org/v2747	Q7889	
+v69898		Festival of Unborn Spring	video game	https://vndb.org/v69898	Q7889	
 v13682		FESTIVAL ～つるみく ウォーズ～	video game	https://vndb.org/v13682	Q7889	
 v44352		FestivalDress	video game	https://vndb.org/v44352	Q7889	
 v39328		Festive Frenzy!	video game	https://vndb.org/v39328	Q7889	
@@ -70248,6 +70456,7 @@ v37426		Forcefully Yours	video game	https://vndb.org/v37426	Q7889
 v56365		Forcemasc Hospital	video game	https://vndb.org/v56365	Q7889	
 v14091		Forcibly Asocial — Days of Void	video game	https://vndb.org/v14091	Q7889	
 v56687		Foreign Affairs	video game	https://vndb.org/v56687	Q7889	
+v69911		Foresight	video game	https://vndb.org/v69911	Q7889	
 v599	Q11200395	Forest	video game	https://vndb.org/v599	Q7889	
 v50173		Forest Entrance Exchange	video game	https://vndb.org/v50173	Q7889	
 v53935		Forest Fling	video game	https://vndb.org/v53935	Q7889	
@@ -70313,6 +70522,7 @@ v54055		Forgotten Memories	video game	https://vndb.org/v54055	Q7889
 v22225		Forgotten Paradise	video game	https://vndb.org/v22225	Q7889	
 v64911		Forgotten Records	video game	https://vndb.org/v64911	Q7889	
 v38521		Forgotten Souls	video game	https://vndb.org/v38521	Q7889	
+v63019		Forgotten Terror	video game	https://vndb.org/v63019	Q7889	
 v28632		Forgotten Trace: Thanatos in Nostalgia	video game	https://vndb.org/v28632	Q7889	
 v69122		Forgotten Village	video game	https://vndb.org/v69122	Q7889	
 v28193		Forgotten Wish	video game	https://vndb.org/v28193	Q7889	
@@ -70515,6 +70725,7 @@ v36059		From death	video game	https://vndb.org/v36059	Q7889
 v34867		From Earth	video game	https://vndb.org/v34867	Q7889	
 v41147		from F-フロムエフ-	video game	https://vndb.org/v41147	Q7889	
 v28562		From friends to lovers	video game	https://vndb.org/v28562	Q7889	
+v69817		From Goth to Slut	video game	https://vndb.org/v69817	Q7889	
 v33835		From Heaven To Hell	video game	https://vndb.org/v33835	Q7889	
 v23689		From Here to You	video game	https://vndb.org/v23689	Q7889	
 v24188		From Lust Con Amor	video game	https://vndb.org/v24188	Q7889	
@@ -71368,6 +71579,7 @@ v21423		Grand!!	video game	https://vndb.org/v21423	Q7889
 v45585		Grand-Nya	video game	https://vndb.org/v45585	Q7889	
 v26114		Grandaughter	video game	https://vndb.org/v26114	Q7889	
 v47583		Grandes Pyramides - Visual Novel éducatif sur les pyramides d'Egypte	video game	https://vndb.org/v47583	Q7889	
+v69799		Grandfather's Horn	video game	https://vndb.org/v69799	Q7889	
 v28265		Grandiose Delusions	video game	https://vndb.org/v28265	Q7889	
 v41864		Grandma's Garden of Crystals	video game	https://vndb.org/v41864	Q7889	
 v36124		Grandma's Ghosts	video game	https://vndb.org/v36124	Q7889	
@@ -72591,6 +72803,7 @@ v69311		Hollow Petals	video game	https://vndb.org/v69311	Q7889
 v46264		Hollow Victory	video game	https://vndb.org/v46264	Q7889	
 v50812		HOLLOW+Andante	video game	https://vndb.org/v50812	Q7889	
 v42007		Holloway massacre	video game	https://vndb.org/v42007	Q7889	
+v69784		Hollowed Soul	video game	https://vndb.org/v69784	Q7889	
 v59975		Hollowmoor	video game	https://vndb.org/v59975	Q7889	
 v50596		Holly Smiles at The End	video game	https://vndb.org/v50596	Q7889	
 v51888		Holly's Metafood	video game	https://vndb.org/v51888	Q7889	
@@ -73120,6 +73333,7 @@ v46111		I Could Only See Her	video game	https://vndb.org/v46111	Q7889
 v56562		I couldn't sleep last night.	video game	https://vndb.org/v56562	Q7889	
 v66912		I Dare You to Undress Rhoden	video game	https://vndb.org/v66912	Q7889	
 v58956		I Date Good or Evil at Hero’s College	video game	https://vndb.org/v58956	Q7889	
+v69854		I Decided to Open a Casino in Another Country, and Now I Have to Deal with the Crazy Gamblers There	video game	https://vndb.org/v69854	Q7889	
 v32251		I deserve a happy ending	video game	https://vndb.org/v32251	Q7889	
 v49217		I Did It ALL for the COOKIE!	video game	https://vndb.org/v49217	Q7889	
 v43981	Q122314351	I Did Not Buy This Ticket	video game	https://vndb.org/v43981	Q7889	
@@ -73239,6 +73453,7 @@ v58451		I Wanna Make A Dragon Game	video game	https://vndb.org/v58451	Q7889
 v64961		I wanna sleep with my teddy bear, but daddys hitting mommy again	video game	https://vndb.org/v64961	Q7889	
 v12662		I want 2 be single	video game	https://vndb.org/v12662	Q7889	
 v39467		I Want Dr. Pepper	video game	https://vndb.org/v39467	Q7889	
+v69840		I Want My Knight to Hate Me ~To Make You Happy~	video game	https://vndb.org/v69840	Q7889	
 v13609		I want to approach you.～あなたに近づきたい～	video game	https://vndb.org/v13609	Q7889	
 v45009		I Want To Be A Circle When I Grow Up.	video game	https://vndb.org/v45009	Q7889	
 v18996		I Want to Be an Actress	video game	https://vndb.org/v18996	Q7889	
@@ -73254,6 +73469,7 @@ v28361		I Want to Pursue the Mean Side Character!	video game	https://vndb.org/v2
 v63698		I want to run away from my goth mommy... or do I?	video game	https://vndb.org/v63698	Q7889	
 v42899		I want to teach a lesson to Hoodwink!	video game	https://vndb.org/v42899	Q7889	
 v63563		I Want To Wear Your Wool	video game	https://vndb.org/v63563	Q7889	
+v69856		I Want to XXXX HXX	video game	https://vndb.org/v69856	Q7889	
 v37868	Q113622732	I Was a Teenage Exocolonist	video game	https://vndb.org/v37868	Q7889	
 v55768		I Was A Teenage Vampire	video game	https://vndb.org/v55768	Q7889	
 v51682		I was like you	video game	https://vndb.org/v51682	Q7889	
@@ -73584,6 +73800,7 @@ v44709		In Glub with You	video game	https://vndb.org/v44709	Q7889
 v35030		In Good Company	video game	https://vndb.org/v35030	Q7889	
 v24235		In Heart	video game	https://vndb.org/v24235	Q7889	
 v69349		In Heather's Wake	video game	https://vndb.org/v69349	Q7889	
+v69908		In Her Embrace	video game	https://vndb.org/v69908	Q7889	
 v28192		In Her Eyes	video game	https://vndb.org/v28192	Q7889	
 v52300		In her head	video game	https://vndb.org/v52300	Q7889	
 v66935		In Her Riptide's Embrace	video game	https://vndb.org/v66935	Q7889	
@@ -73911,6 +74128,7 @@ v40489		invalidity	video game	https://vndb.org/v40489	Q7889
 v52222		Invasion of the Mushroom Men of Planet Y!	video game	https://vndb.org/v52222	Q7889	
 v19799		Inverness Nights	video game	https://vndb.org/v19799	Q7889	
 v51797		Inversed	video game	https://vndb.org/v51797	Q7889	
+v69944		Inversion: Inverted World	video game	https://vndb.org/v69944	Q7889	
 v65146		Inversum	video game	https://vndb.org/v65146	Q7889	
 v53613		Inverted Angel	video game	https://vndb.org/v53613	Q7889	
 v65409		Inverted Tides	video game	https://vndb.org/v65409	Q7889	
@@ -74271,6 +74489,7 @@ v39160		Jill O' Lantern	video game	https://vndb.org/v39160	Q7889
 v44028		Jill Stingray Listens to your Drunk Ramblings and does the Stanky Leg	video game	https://vndb.org/v44028	Q7889	
 v21338		Jimi-Kare: My Quiet Boyfriend	video game	https://vndb.org/v21338	Q7889	
 v44837		Jin Ping Mei	video game	https://vndb.org/v44837	Q7889	
+v69921		Jin's Test Visual Novel	video game	https://vndb.org/v69921	Q7889	
 v66933		Jinglebug Journey	video game	https://vndb.org/v66933	Q7889	
 v37758		JINKI -Unlimited-	video game	https://vndb.org/v37758	Q7889	
 v4407	Q11225809	Jinki Extend Re:Vision	video game	https://vndb.org/v4407	Q7889	
@@ -74655,6 +74874,7 @@ v69207		Kelly's Family Mother in law	video game	https://vndb.org/v69207	Q7889
 v16618		Kemono Code	video game	https://vndb.org/v16618	Q7889	
 v44207		Kemono Friends Opening Day	video game	https://vndb.org/v44207	Q7889	
 v35042		Kemono Onsen	video game	https://vndb.org/v35042	Q7889	
+v61533	Q126095980	Kemono Teatime	video game	https://vndb.org/v61533	Q7889	
 v41407		Kemonogatari	video game	https://vndb.org/v41407	Q7889	
 v22956		Kemonomichi-White Moment-	video game	https://vndb.org/v22956	Q7889	
 v24777		Kemonomimi Otome Life	video game	https://vndb.org/v24777	Q7889	
@@ -75025,6 +75245,7 @@ v34456		Kuroi Tsubasa	video game	https://vndb.org/v34456	Q7889
 v3706	Q11678549	Kuroinu	video game	https://vndb.org/v3706	Q7889	
 v23464		Kuroinu 2	video game	https://vndb.org/v23464	Q7889	
 v33177	Q116814881	Kurokami-sama's Feast	video game	https://vndb.org/v33177	Q7889	
+v69789		Kurose-san With the Cold Eyes Will Do Anything I Tell Her	video game	https://vndb.org/v69789	Q7889	
 v60609		Kusari Doi: In October The Rain Never Stopped	video game	https://vndb.org/v60609	Q7889	
 v18199		Kusoge	video game	https://vndb.org/v18199	Q7889	
 v63699		KUTUHAN	video game	https://vndb.org/v63699	Q7889	
@@ -75279,6 +75500,7 @@ v3539		Lasting Snow	video game	https://vndb.org/v3539	Q7889
 v28589		Lasting Solstice	video game	https://vndb.org/v28589	Q7889	
 v44115		lastrain	video game	https://vndb.org/v44115	Q7889	
 v28690		LastRequest	video game	https://vndb.org/v28690	Q7889	
+v63753		Lastrip	video game	https://vndb.org/v63753	Q7889	
 v19553		Late Blooming -First-	video game	https://vndb.org/v19553	Q7889	
 v19226		Late for Chocolate	video game	https://vndb.org/v19226	Q7889	
 v35081		Late Lunch, Early Dinner	video game	https://vndb.org/v35081	Q7889	
@@ -75315,6 +75537,7 @@ v57977	Q135639779	Lavender Quartz 境界秤動	video game	https://vndb.org/v5797
 v37282		Law of Attraction	video game	https://vndb.org/v37282	Q7889	
 v13397		Law of Betrayal	video game	https://vndb.org/v13397	Q7889	
 v62089		Law School	video game	https://vndb.org/v62089	Q7889	
+v69818		Lawful of Passion	video game	https://vndb.org/v69818	Q7889	
 v56706		Laws of Attraction	video game	https://vndb.org/v56706	Q7889	
 v32598	Q109322921	Lay a Beauty to Rest: The Darkness Peach Blossom Spring	video game	https://vndb.org/v32598	Q7889	
 v57765		Lay Down Misére	video game	https://vndb.org/v57765	Q7889	
@@ -75618,8 +75841,10 @@ v17737		Life School	video game	https://vndb.org/v17737	Q7889
 v5724	Q11587521	Life Signs: Hospital Affairs	video game	https://vndb.org/v5724	Q7889	
 v14199		Life Spice Decadence	video game	https://vndb.org/v14199	Q7889	
 v61111		Life Sucks Then you Die!	video game	https://vndb.org/v61111	Q7889	
+v69850		LIFE THE SIMULATOR PHONE	video game	https://vndb.org/v69850	Q7889	
 v60485		Life Together	video game	https://vndb.org/v60485	Q7889	
 v47803		Life With a College Girl	video game	https://vndb.org/v47803	Q7889	
+v69899		Life with basil: The girl who i always been with.	video game	https://vndb.org/v69899	Q7889	
 v3428		Life with Idol	video game	https://vndb.org/v3428	Q7889	
 v28023		Life With Keeley	video game	https://vndb.org/v28023	Q7889	
 v22369		Life with Mary	video game	https://vndb.org/v22369	Q7889	
@@ -75868,6 +76093,7 @@ v63425		Little Stories	video game	https://vndb.org/v63425	Q7889
 v67853		Little Stories Science	video game	https://vndb.org/v67853	Q7889	
 v7360		Little Vampire	video game	https://vndb.org/v7360	Q7889	
 v67840		Little White Lies	video game	https://vndb.org/v67840	Q7889	
+v69844		Little Yuri Love Nest	video game	https://vndb.org/v69844	Q7889	
 v14564		Litto and Tobi: Dusk's Secret	video game	https://vndb.org/v14564	Q7889	
 v50857		Liu Shan Maker	video game	https://vndb.org/v50857	Q7889	
 v56179		Livber: Smoke and Mirrors	video game	https://vndb.org/v56179	Q7889	
@@ -75988,6 +76214,7 @@ v10569		Lonely Yuri	video game	https://vndb.org/v10569	Q7889
 v57848		LONER_DOG://Snuff Puppy Carnage Society	video game	https://vndb.org/v57848	Q7889	
 v11533		Lonesome	video game	https://vndb.org/v11533	Q7889	
 v58134		Lonesome Company	video game	https://vndb.org/v58134	Q7889	
+v69939		Lonesome Heart	video game	https://vndb.org/v69939	Q7889	
 v59592		Long Distance Love	video game	https://vndb.org/v59592	Q7889	
 v48377		Long Distance Relationship	video game	https://vndb.org/v48377	Q7889	
 v65687		long green bean	video game	https://vndb.org/v65687	Q7889	
@@ -78007,6 +78234,7 @@ v40194		Mindworks: The Great Division	video game	https://vndb.org/v40194	Q7889
 v38931		Mine	video game	https://vndb.org/v38931	Q7889	
 v45880		MINE	video game	https://vndb.org/v45880	Q7889	
 v53502		Mine Memory	video game	https://vndb.org/v53502	Q7889	
+v69812		MINE! MINE! MINE!	video game	https://vndb.org/v69812	Q7889	
 v30641		Minecraft Lovehunt	video game	https://vndb.org/v30641	Q7889	
 v18494		Minecraft: A Dimensional Disaster	video game	https://vndb.org/v18494	Q7889	
 v17556		Minecraft: A True Love	video game	https://vndb.org/v17556	Q7889	
@@ -78254,6 +78482,7 @@ v35690		Mom is a Model	video game	https://vndb.org/v35690	Q7889
 v21621		Mom or Sister?	video game	https://vndb.org/v21621	Q7889	
 v64259		Mom Raised a Femboy	video game	https://vndb.org/v64259	Q7889	
 v34415		Mom's Day Off!	video game	https://vndb.org/v34415	Q7889	
+v69849		Mom's Secret Desire	video game	https://vndb.org/v69849	Q7889	
 v47855		Moment in London	video game	https://vndb.org/v47855	Q7889	
 v51162		Moment of Moonset	video game	https://vndb.org/v51162	Q7889	
 v35515		Moments	video game	https://vndb.org/v35515	Q7889	
@@ -78493,6 +78722,7 @@ v46542		Morning Fun	video game	https://vndb.org/v46542	Q7889
 v21558		Morning Lust	video game	https://vndb.org/v21558	Q7889	
 v39078		Morning Rituals	video game	https://vndb.org/v39078	Q7889	
 v54433		Morning Wood	video game	https://vndb.org/v54433	Q7889	
+v69873		Morningbelle	video game	https://vndb.org/v69873	Q7889	
 v25776		Morningdew Farms	video game	https://vndb.org/v25776	Q7889	
 v36233		Mornings with Java	video game	https://vndb.org/v36233	Q7889	
 v53593		Morningstar: Book of the fallen	video game	https://vndb.org/v53593	Q7889	
@@ -78608,7 +78838,6 @@ v67809		MsYs	video game	https://vndb.org/v67809	Q7889
 v34945		Mt. Ambulate - A night in the woods	video game	https://vndb.org/v34945	Q7889	
 v60728		MTF: Moth To a Flame	video game	https://vndb.org/v60728	Q7889	
 v52954		Mud in the Memory	video game	https://vndb.org/v52954	Q7889	
-v69679		Mudaku Sun - Leisure Girl	video game	https://vndb.org/v69679	Q7889	
 v25408		Mudkip (and Co.) Save the Entire Universe	video game	https://vndb.org/v25408	Q7889	
 v24910		Mudkip Goes to Walmart then Dies	video game	https://vndb.org/v24910	Q7889	
 v25030		Mudkip's Dating Simulator	video game	https://vndb.org/v25030	Q7889	
@@ -78640,7 +78869,6 @@ v27484	Q85787064	Murder by Numbers	video game	https://vndb.org/v27484	Q7889
 v56337		Murder Date	video game	https://vndb.org/v56337	Q7889	
 v26347		Murder Files: One More Shot of Whiskey	video game	https://vndb.org/v26347	Q7889	
 v53911		Murder Gods Play Pachinko	video game	https://vndb.org/v53911	Q7889	
-v15480		Murder house: grotesque ryona mansion	video game	https://vndb.org/v15480	Q7889	
 v55777		Murder in Crayontopia	video game	https://vndb.org/v55777	Q7889	
 v55245		Murder Misery	video game	https://vndb.org/v55245	Q7889	
 v43482		Murder of Crows	video game	https://vndb.org/v43482	Q7889	
@@ -78818,6 +79046,7 @@ v61570		My Crush Wants a Yandere?	video game	https://vndb.org/v61570	Q7889
 v51070		My Crush Won't Date Me Unless I Learn How To Fish!	video game	https://vndb.org/v51070	Q7889	
 v49621		My Crush's Fishy Incident	video game	https://vndb.org/v49621	Q7889	
 v31871		My Cryptid Crush	video game	https://vndb.org/v31871	Q7889	
+v69897		My Cuckqueen Girlfriend	video game	https://vndb.org/v69897	Q7889	
 v41915		My CUNT-try Tis Of Thee	video game	https://vndb.org/v41915	Q7889	
 v19613		My Cup of Coffee: Earl Grey Forever After	video game	https://vndb.org/v19613	Q7889	
 v19163		My Cup of Coffee: The Trouble with Earl Grey	video game	https://vndb.org/v19163	Q7889	
@@ -78938,6 +79167,7 @@ v57840		My Favorite Roof	video game	https://vndb.org/v57840	Q7889
 v41361		My Favorite Song ~Extra Stories~	video game	https://vndb.org/v41361	Q7889	
 v55563		My Femboy Maid	video game	https://vndb.org/v55563	Q7889	
 v53347	Q132710722	My Femboy Roommate	video game	https://vndb.org/v53347	Q7889	
+v69828		My Femboy Roommate: Special Weekend	video game	https://vndb.org/v69828	Q7889	
 v66813		My Femboy Trainee	video game	https://vndb.org/v66813	Q7889	
 v64180		My FemBoyFriend Phone	video game	https://vndb.org/v64180	Q7889	
 v64690		My Femdom Boss	video game	https://vndb.org/v64690	Q7889	
@@ -79670,6 +79900,7 @@ v40188		NDNL3-No Dog, No Life-	video game	https://vndb.org/v40188	Q7889
 v17588	Q66456881	Ne no Kami: The Two Princess Knights of Kyoto	video game	https://vndb.org/v17588	Q7889	
 v51366		Neapolitan Nightmares	video game	https://vndb.org/v51366	Q7889	
 v60568		Near And Dear IF	video game	https://vndb.org/v60568	Q7889	
+v69884		Near Hentai Studio Tour	video game	https://vndb.org/v69884	Q7889	
 v51964		Near-Death-Expedition	video game	https://vndb.org/v51964	Q7889	
 v50084		near… Episode 1 Maid Haruna	video game	https://vndb.org/v50084	Q7889	
 v50085		near… Episode 2 Sister Mika	video game	https://vndb.org/v50085	Q7889	
@@ -80333,6 +80564,7 @@ v65438		Now Boarding: Mile High Passion	video game	https://vndb.org/v65438	Q7889
 v8101		NOW ON SALE! 〜感売御礼! デパート編〜	video game	https://vndb.org/v8101	Q7889	
 v66174		Now There's Two!?	video game	https://vndb.org/v66174	Q7889	
 v13306		Nowa Szkoła	video game	https://vndb.org/v13306	Q7889	
+v69804		Nowding	video game	https://vndb.org/v69804	Q7889	
 v64596		NOWHERE	video game	https://vndb.org/v64596	Q7889	
 v68870		Nowhere	video game	https://vndb.org/v68870	Q7889	
 v57034		Nowhere Belonging	video game	https://vndb.org/v57034	Q7889	
@@ -81158,6 +81390,7 @@ v22281		Our Fate	video game	https://vndb.org/v22281	Q7889
 v34805		Our Fate Forsaken	video game	https://vndb.org/v34805	Q7889	
 v35691		Our Fathers	video game	https://vndb.org/v35691	Q7889	
 v22200		Our Feelings	video game	https://vndb.org/v22200	Q7889	
+v69842		OUR FIRST DATE	video game	https://vndb.org/v69842	Q7889	
 v46530		Our First Time	video game	https://vndb.org/v46530	Q7889	
 v52294		Our Haunt	video game	https://vndb.org/v52294	Q7889	
 v59618		Our Himbo Turned into a Werewolf and This Dead-Beat Dad is Our Only Hope	video game	https://vndb.org/v59618	Q7889	
@@ -82490,6 +82723,7 @@ v27453	Q97299789	Prison Princess	video game	https://vndb.org/v27453	Q7889
 v53551	Q130741150	Prison Princess: Trapped Allure	video game	https://vndb.org/v53551	Q7889	
 v24983		Prison Queendom ～強制M男化調教～	video game	https://vndb.org/v24983	Q7889	
 v6984		PRISONER	video game	https://vndb.org/v6984	Q7889	
+v69894		Prisoner Amber	video game	https://vndb.org/v69894	Q7889	
 v58494		Prisoner of the Ephemeral Kingdom	video game	https://vndb.org/v58494	Q7889	
 v53842		Prisoner of the Mist	video game	https://vndb.org/v53842	Q7889	
 v66545		Prisoners	video game	https://vndb.org/v66545	Q7889	
@@ -83047,6 +83281,7 @@ v17413		Rainy Rhapsody	video game	https://vndb.org/v17413	Q7889
 v12285		Rainy Summer	video game	https://vndb.org/v12285	Q7889	
 v7296		Rainy Town -永遠の場所-	video game	https://vndb.org/v7296	Q7889	
 v27720		Rain◇Flower	video game	https://vndb.org/v27720	Q7889	
+v69792		Raise-A-Wish	video game	https://vndb.org/v69792	Q7889	
 v49147		Raising a Happy NEET	video game	https://vndb.org/v49147	Q7889	
 v63256		RAKKA: WAKE 01 - SOOT	video game	https://vndb.org/v63256	Q7889	
 v42567		RALL・X 伝説の剣士、堕つ	video game	https://vndb.org/v42567	Q7889	
@@ -83132,6 +83367,7 @@ v40028		Razor Simulator	video game	https://vndb.org/v40028	Q7889
 v26714		Raíces Podridas	video game	https://vndb.org/v26714	Q7889	
 v23883		RB: Axolotl	video game	https://vndb.org/v23883	Q7889	
 v33148		RC	video game	https://vndb.org/v33148	Q7889	
+v69879		RC-rebirth connection-	video game	https://vndb.org/v69879	Q7889	
 v26509		RD	video game	https://vndb.org/v26509	Q7889	
 v63700		RDの遠隔推理	video game	https://vndb.org/v63700	Q7889	
 v29509		RE	video game	https://vndb.org/v29509	Q7889	
@@ -83407,6 +83643,7 @@ v31525		Red-Doll 2095	video game	https://vndb.org/v31525	Q7889
 v28452		Red-Handed Robin	video game	https://vndb.org/v28452	Q7889	
 v54234		Red-Run Romance	video game	https://vndb.org/v54234	Q7889	
 v63976		Redacted by the Sadistic Princess from Another World?!	video game	https://vndb.org/v63976	Q7889	
+v69941		Redd Riding	video game	https://vndb.org/v69941	Q7889	
 v25595		REDD War	video game	https://vndb.org/v25595	Q7889	
 v62427		REDD War: Showtime	video game	https://vndb.org/v62427	Q7889	
 v44926		redemption	video game	https://vndb.org/v44926	Q7889	
@@ -83473,6 +83710,7 @@ v49421		Reinquarantination	video game	https://vndb.org/v49421	Q7889
 v13678		Reinvaded	video game	https://vndb.org/v13678	Q7889	
 v30055		ReIn∽Alter	video game	https://vndb.org/v30055	Q7889	
 v9053		REIRA	video game	https://vndb.org/v9053	Q7889	
+v69855		Rejected∞Helix	video game	https://vndb.org/v69855	Q7889	
 v12817		Rejoice	video game	https://vndb.org/v12817	Q7889	
 v9569		Rejuvenescence -リジュベネッセンス-	video game	https://vndb.org/v9569	Q7889	
 v47949		Rekai's Umitober 2023 Compilation: VN Edition	video game	https://vndb.org/v47949	Q7889	
@@ -84410,6 +84648,7 @@ v26147	Q62633255	Sakura Wars	video game	https://vndb.org/v26147	Q7889
 v3892		Sakura Wars ~So Long, My Love~	video game	https://vndb.org/v3892	Q7889	
 v22313	Q54932232	Sakura, Moyu -as the Night's, Reincarnation-	video game	https://vndb.org/v22313	Q7889	
 v54502		Sakura, The Jirai-kei Magical Girl	video game	https://vndb.org/v54502	Q7889	
+v68310		Sakuraba Ema's Intertwining Threshold	video game	https://vndb.org/v68310	Q7889	
 v18760	Q22129701	Sakuranomori Dreamers	video game	https://vndb.org/v18760	Q7889	
 v2436	Q17225291	SAKURA～雪月華～	video game	https://vndb.org/v2436	Q7889	
 v27913		Sakuya Izayoi Gives You Advice And Dabs	video game	https://vndb.org/v27913	Q7889	
@@ -84467,6 +84706,7 @@ v34372		Sand Castle	video game	https://vndb.org/v34372	Q7889
 v32660		Sand Story	video game	https://vndb.org/v32660	Q7889	
 v52382		SandM - 有栞と鈴梨の場合。-	video game	https://vndb.org/v52382	Q7889	
 v56040		Sands of Deception	video game	https://vndb.org/v56040	Q7889	
+v69829		Sandwich	video game	https://vndb.org/v69829	Q7889	
 v902		Sandwiched by my wife and her sister	video game	https://vndb.org/v902	Q7889	
 v47350		Sandy Bay	video game	https://vndb.org/v47350	Q7889	
 v61102		Sandy Claws The Very First Christmas Bear	video game	https://vndb.org/v61102	Q7889	
@@ -84567,6 +84807,7 @@ v45217		Say I Love You and I Accept You	video game	https://vndb.org/v45217	Q7889
 v34872		Say it Again	video game	https://vndb.org/v34872	Q7889	
 v51324		Say No to Mirror Daddy	video game	https://vndb.org/v51324	Q7889	
 v50314		Say No to Rom-Coms!	video game	https://vndb.org/v50314	Q7889	
+v69947		Say That You Hate Me	video game	https://vndb.org/v69947	Q7889	
 v67328		Say That You Love Me	video game	https://vndb.org/v67328	Q7889	
 v12216		Say Yah!	video game	https://vndb.org/v12216	Q7889	
 v7162		Say Yah! 2003	video game	https://vndb.org/v7162	Q7889	
@@ -85150,6 +85391,7 @@ v53141		Sex doll came to Life	video game	https://vndb.org/v53141	Q7889
 v47969		Sex Drive	video game	https://vndb.org/v47969	Q7889	
 v55067		Sex Ed. With Richard & Mr. Dickinson	video game	https://vndb.org/v55067	Q7889	
 v58446		Sex Empire	video game	https://vndb.org/v58446	Q7889	
+v69846		Sex Game - Threesome	video game	https://vndb.org/v69846	Q7889	
 v33537		Sex Gods	video game	https://vndb.org/v33537	Q7889	
 v69338		Sex Is War	video game	https://vndb.org/v69338	Q7889	
 v35233		Sex Kitten Sim-Date	video game	https://vndb.org/v35233	Q7889	
@@ -85163,6 +85405,7 @@ v47391		Sex Lens: A Porn Story 🍓🎥	video game	https://vndb.org/v47391	Q7889
 v52271		SEX Massage 2 🔞	video game	https://vndb.org/v52271	Q7889	
 v48204		SEX Massage 🔞	video game	https://vndb.org/v48204	Q7889	
 v55562		Sex Note	video game	https://vndb.org/v55562	Q7889	
+v69847		Sex Novel - Cheating Wife	video game	https://vndb.org/v69847	Q7889	
 v52975		Sex of an evil magistrate	video game	https://vndb.org/v52975	Q7889	
 v66086		Sex of Thrones 2 👑	video game	https://vndb.org/v66086	Q7889	
 v45771		Sex of Thrones 👑	video game	https://vndb.org/v45771	Q7889	
@@ -85625,6 +85868,7 @@ v3668		Sin	video game	https://vndb.org/v3668	Q7889
 v44154		Sin and Sensitivity	video game	https://vndb.org/v44154	Q7889	
 v27579		Sin City	video game	https://vndb.org/v27579	Q7889	
 v52173		Sin Heels	video game	https://vndb.org/v52173	Q7889	
+v59651		Sin of Astraea	video game	https://vndb.org/v59651	Q7889	
 v26358		Sin with Me	video game	https://vndb.org/v26358	Q7889	
 v21381		sin 光臨天使エンシェル・レナ –REINCARNATION–	video game	https://vndb.org/v21381	Q7889	
 v24461		sin 光臨天使エンシェル・レナFD -FACE THE DESTINY-	video game	https://vndb.org/v24461	Q7889	
@@ -86407,6 +86651,7 @@ v15054		SPHERE - The person who changes destiny -	video game	https://vndb.org/v1
 v32831		Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and quite frankly Elaborate quest to save their (cute) girlfriend!!!	video game	https://vndb.org/v32831	Q7889	
 v1391		Spice and Wolf: My Year with Holo	video game	https://vndb.org/v1391	Q7889	
 v4699		Spice and Wolf: The Wind that Spans the Sea	video game	https://vndb.org/v4699	Q7889	
+v69783		Spicy Love: The English Version of Amour Épicé	video game	https://vndb.org/v69783	Q7889	
 v1429		Spicy Spycy!	video game	https://vndb.org/v1429	Q7889	
 v46083		Spider	video game	https://vndb.org/v46083	Q7889	
 v31218		Spider-Man: Behind The Mask	video game	https://vndb.org/v31218	Q7889	
@@ -86871,6 +87116,7 @@ v37834		Story of our love	video game	https://vndb.org/v37834	Q7889
 v63316		Story of Sharehouse1	video game	https://vndb.org/v63316	Q7889	
 v30548		Story-Time at Freddy's	video game	https://vndb.org/v30548	Q7889	
 v67565		Storytellers	video game	https://vndb.org/v67565	Q7889	
+v69803		STR	video game	https://vndb.org/v69803	Q7889	
 v55460		Strafe	video game	https://vndb.org/v55460	Q7889	
 v21070		Straight Up: Sister-zoned!	video game	https://vndb.org/v21070	Q7889	
 v21995		Straight!?	video game	https://vndb.org/v21995	Q7889	
@@ -87230,6 +87476,7 @@ v37387		Sunny	video game	https://vndb.org/v37387	Q7889
 v40396		Sunny	video game	https://vndb.org/v40396	Q7889	
 v48113		Sunny Café	video game	https://vndb.org/v48113	Q7889	
 v33604		Sunny Love	video game	https://vndb.org/v33604	Q7889	
+v69848		Sunny Love	video game	https://vndb.org/v69848	Q7889	
 v52622		Sunny Shell Resort	video game	https://vndb.org/v52622	Q7889	
 v29143		Sunny Shine Funland!	video game	https://vndb.org/v29143	Q7889	
 v57660		Sunny Side Nightmare	video game	https://vndb.org/v57660	Q7889	
@@ -87284,6 +87531,7 @@ v34840		Super Omnia	video game	https://vndb.org/v34840	Q7889
 v10139		Super Otome Quest	video game	https://vndb.org/v10139	Q7889	
 v62706		Super Robot Wars 30	video game	https://vndb.org/v62706	Q7889	
 v69341		SUPER ROBOT WARS Y	video game	https://vndb.org/v69341	Q7889	
+v69816		Super Safe for Work	video game	https://vndb.org/v69816	Q7889	
 v69271		Super Scary ARG	video game	https://vndb.org/v69271	Q7889	
 v47246		Super Secret Party	video game	https://vndb.org/v47246	Q7889	
 v21991		Super Senpai David Hasselhoff Dating Simulator!	video game	https://vndb.org/v21991	Q7889	
@@ -87410,6 +87658,7 @@ v69329		sweet instincts	video game	https://vndb.org/v69329	Q7889
 v60990		Sweet Leaves	video game	https://vndb.org/v60990	Q7889	
 v12330		Sweet Lesson	video game	https://vndb.org/v12330	Q7889	
 v40611		SWEET LESSON	video game	https://vndb.org/v40611	Q7889	
+v69853		Sweet Love	video game	https://vndb.org/v69853	Q7889	
 v45055		Sweet Lover	video game	https://vndb.org/v45055	Q7889	
 v50837		Sweet Melissa	video game	https://vndb.org/v50837	Q7889	
 v44247		Sweet Mellow-Di	video game	https://vndb.org/v44247	Q7889	
@@ -89075,6 +89324,7 @@ v36826		The Jig is Up!	video game	https://vndb.org/v36826	Q7889
 v30749		The Joob-Joob	video game	https://vndb.org/v30749	Q7889	
 v14002		The Journey of Ignorance	video game	https://vndb.org/v14002	Q7889	
 v45826		The Journey to Become	video game	https://vndb.org/v45826	Q7889	
+v69925		The Judas Girls	video game	https://vndb.org/v69925	Q7889	
 v39357		The Judgment Chamber	video game	https://vndb.org/v39357	Q7889	
 v26683		The Junior	video game	https://vndb.org/v26683	Q7889	
 v42465		The Justitia Files	video game	https://vndb.org/v42465	Q7889	
@@ -89893,9 +90143,11 @@ v28042		The Science of Lust	video game	https://vndb.org/v28042	Q7889
 v42283		The Science of Staying Awake	video game	https://vndb.org/v42283	Q7889	
 v17615		The Scion's Desire	video game	https://vndb.org/v17615	Q7889	
 v35013		The Scorchfarer	video game	https://vndb.org/v35013	Q7889	
+v69901		The Scrawled Book	video game	https://vndb.org/v69901	Q7889	
 v37969		The Scribbler's Dilemma	video game	https://vndb.org/v37969	Q7889	
 v60947		The Scrivener	video game	https://vndb.org/v60947	Q7889	
 v44501		The Scrum Of It All	video game	https://vndb.org/v44501	Q7889	
+v69890		The Sea is Our Stage	video game	https://vndb.org/v69890	Q7889	
 v54634		The Sea Wolves	video game	https://vndb.org/v54634	Q7889	
 v32204		The Sea's Lost Daughter	video game	https://vndb.org/v32204	Q7889	
 v54819		The Seabed's Shining Star	video game	https://vndb.org/v54819	Q7889	
@@ -90761,6 +91013,7 @@ v17206		Tick Love	video game	https://vndb.org/v17206	Q7889
 v201	Q1155238	Tick! Tack!	video game	https://vndb.org/v201	Q7889	
 v61537		Ticket to Heart	video game	https://vndb.org/v61537	Q7889	
 v57502		Ticket to Lampa	video game	https://vndb.org/v57502	Q7889	
+v69785		Ticket To The Other Side	video game	https://vndb.org/v69785	Q7889	
 v55694		Ticket to Trouble	video game	https://vndb.org/v55694	Q7889	
 v27752		Tidal Blossoms	video game	https://vndb.org/v27752	Q7889	
 v59059		Tidal Wave	video game	https://vndb.org/v59059	Q7889	
@@ -91427,6 +91680,7 @@ v61468		Trump: The Dating Simulator	video game	https://vndb.org/v61468	Q7889
 v20682		TRUMPET	video game	https://vndb.org/v20682	Q7889	
 v51762		Trust	video game	https://vndb.org/v51762	Q7889	
 v43663		trust fall	video game	https://vndb.org/v43663	Q7889	
+v69930		Trust Or	video game	https://vndb.org/v69930	Q7889	
 v57196		Trust Your Colors	video game	https://vndb.org/v57196	Q7889	
 v27182		TRUST/HEART -SOUL LIBERATION-	video game	https://vndb.org/v27182	Q7889	
 v14644		Truth and False	video game	https://vndb.org/v14644	Q7889	
@@ -91768,6 +92022,7 @@ v25241		Unconventional Gym	video game	https://vndb.org/v25241	Q7889
 v49574		Uncutetifying Danny	video game	https://vndb.org/v49574	Q7889	
 v60230		UNDAWN: Shackles Of Eternity	video game	https://vndb.org/v60230	Q7889	
 v47608		Undead Air	video game	https://vndb.org/v47608	Q7889	
+v69780		Undead Conversation	video game	https://vndb.org/v69780	Q7889	
 v19336	Q111541671	Undead Darlings ~no cure for love~	video game	https://vndb.org/v19336	Q7889	
 v69004		Undead Girlfriend Hunter	video game	https://vndb.org/v69004	Q7889	
 v64566		Undead Interrogation	video game	https://vndb.org/v64566	Q7889	
@@ -91862,6 +92117,7 @@ v47405		Underworld Debt Roulette	video game	https://vndb.org/v47405	Q7889
 v55364		Underworld Detective	video game	https://vndb.org/v55364	Q7889	
 v31375		Underworld Office	video game	https://vndb.org/v31375	Q7889	
 v21888		Undine	video game	https://vndb.org/v21888	Q7889	
+v69945		UNDIVIDED	video game	https://vndb.org/v69945	Q7889	
 v47258		Undo the Mustache Curse, Witch!	video game	https://vndb.org/v47258	Q7889	
 v57359		Undying Desire	video game	https://vndb.org/v57359	Q7889	
 v60328		UNDYING: Kowloon in Red	video game	https://vndb.org/v60328	Q7889	
@@ -91933,6 +92189,7 @@ v40574		University Love Affair	video game	https://vndb.org/v40574	Q7889
 v36377		University Murder Case	video game	https://vndb.org/v36377	Q7889	
 v60778		University of Choices	video game	https://vndb.org/v60778	Q7889	
 v32644		University of Problems	video game	https://vndb.org/v32644	Q7889	
+v69827		University of Progress	video game	https://vndb.org/v69827	Q7889	
 v27819		University of the Dead	video game	https://vndb.org/v27819	Q7889	
 v62596		University Trans-fer	video game	https://vndb.org/v62596	Q7889	
 v55086		Univocity	video game	https://vndb.org/v55086	Q7889	
@@ -92891,6 +93148,7 @@ v64033		Welcome To Sundersvelle	video game	https://vndb.org/v64033	Q7889
 v53902		Welcome to Tapiaca	video game	https://vndb.org/v53902	Q7889	
 v48889		Welcome to the Karoshi Club	video game	https://vndb.org/v48889	Q7889	
 v57284		Welcome to the Library	video game	https://vndb.org/v57284	Q7889	
+v69782		Welcome to The LIMINAL HOTEL	video game	https://vndb.org/v69782	Q7889	
 v14824		Welcome to the N. T. R.	video game	https://vndb.org/v14824	Q7889	
 v51620		Welcome to the Sharehouse! ~domestic life with three cute girls~	video game	https://vndb.org/v51620	Q7889	
 v69561		Welcome to The Veil	video game	https://vndb.org/v69561	Q7889	
@@ -93725,6 +93983,7 @@ v128	Q11254856	X-Change 2	video game	https://vndb.org/v128	Q7889
 v129	Q8041433	X-Change 3	video game	https://vndb.org/v129	Q7889	
 v36906		X-Change: Black Breed	video game	https://vndb.org/v36906	Q7889	
 v8717	Q30926597	X-GIRL	video game	https://vndb.org/v8717	Q7889	
+v69820		X-Knight -Heart full world-	video game	https://vndb.org/v69820	Q7889	
 v6915	Q8041490	X-Note	video game	https://vndb.org/v6915	Q7889	
 v23091		X-ray hospital	video game	https://vndb.org/v23091	Q7889	
 v60210		X.E.H.A. Rogue	video game	https://vndb.org/v60210	Q7889	
@@ -95578,6 +95837,7 @@ v11659		あかずの間	video game	https://vndb.org/v11659	Q7889
 v6764	Q11256876	あかときっ!!-花と舞わせよ恋の衣装-	video game	https://vndb.org/v6764	Q7889	
 v4906	Q11256878	あかときっ！ -夢こそまされ恋の魔砲-	video game	https://vndb.org/v4906	Q7889	
 v21254		あかときっ２！－紡ぐマホウと零れるヒカリ－	video game	https://vndb.org/v21254	Q7889	
+v69826		あかね	video game	https://vndb.org/v69826	Q7889	
 v22794		あかねとなずなの、らぶらぶ☆百合性活	video game	https://vndb.org/v22794	Q7889	
 v547	Q1205695	あかね色に染まる坂	video game	https://vndb.org/v547	Q7889	
 v34023		あかね色のさき september bride	video game	https://vndb.org/v34023	Q7889	
@@ -95798,6 +96058,7 @@ v48107		あの夏と共に	video game	https://vndb.org/v48107	Q7889
 v16042		あの夏の不確定な彼女	video game	https://vndb.org/v16042	Q7889	
 v33888		あの夏の日	video game	https://vndb.org/v33888	Q7889	
 v46428		あの夏の日々	video game	https://vndb.org/v46428	Q7889	
+v69869		あの夏祭りで誰が死ぬ?	video game	https://vndb.org/v69869	Q7889	
 v4626	Q47088774	あの娘の処女は俺のもの ―錬金術であの娘の子宮に精液注入♪―	video game	https://vndb.org/v4626	Q7889	
 v1902		あの娘はHな小説家	video game	https://vndb.org/v1902	Q7889	
 v2986		あの娘は○痴Girl	video game	https://vndb.org/v2986	Q7889	
@@ -95825,6 +96086,7 @@ v41826		あの時、君の先生でした	video game	https://vndb.org/v41826	Q78
 v23429		あの時もしも	video game	https://vndb.org/v23429	Q7889	
 v20239		あの村には女の子が一人しかいない	video game	https://vndb.org/v20239	Q7889	
 v63172		あの灯りの向こうに	video game	https://vndb.org/v63172	Q7889	
+v69927		あの砂時計を返すまで	video game	https://vndb.org/v69927	Q7889	
 v1212		あの空の向こう側	video game	https://vndb.org/v1212	Q7889	
 v1941		あの蒼い海より	video game	https://vndb.org/v1941	Q7889	
 v1615		あの街の恋の詩	video game	https://vndb.org/v1615	Q7889	
@@ -96334,6 +96596,7 @@ v4420	Q2983605	うろつき童子	video game	https://vndb.org/v4420	Q7889
 v5116		うわさの翠くん!! 夏色ストライカー	video game	https://vndb.org/v5116	Q7889	
 v5117		うわさの翠くん!!2 ふたりの翠!?	video game	https://vndb.org/v5117	Q7889	
 v31716		うんめいのみつけ方	video game	https://vndb.org/v31716	Q7889	
+v69887		うーとまれぐにゃ!+	video game	https://vndb.org/v69887	Q7889	
 v43024		え? 裸で音楽? はだかシーケンサーOTOME	video game	https://vndb.org/v43024	Q7889	
 v58012		えいごで旅する リトル・チャロ	video game	https://vndb.org/v58012	Q7889	
 v48055		えいぷりる う゛ぁいつぜっかー	video game	https://vndb.org/v48055	Q7889	
@@ -96993,6 +97256,7 @@ v967		お祓いお姉さん! ～弟を誘惑しなさいっ～	video game	https:
 v44682		お祝いされたいあなたへ	video game	https://vndb.org/v44682	Q7889	
 v2669		お稲荷さまとダダ甘子作り婚～抜いちゃダメ！たくさん出してお姉さんの子宮いっぱいにしてくださいね♪～	video game	https://vndb.org/v2669	Q7889	
 v4178		お約束LOVE	video game	https://vndb.org/v4178	Q7889	
+v69811		お絵かき戦争	video game	https://vndb.org/v69811	Q7889	
 v60240		お義母さんとの秘密 ～結婚の挨拶に行ったら、先日のデリヘル嬢でした…。～	video game	https://vndb.org/v60240	Q7889	
 v19846		お義父さんの子種で孕ませて!	video game	https://vndb.org/v19846	Q7889	
 v39714		お腹を連打しないで	video game	https://vndb.org/v39714	Q7889	
@@ -97401,7 +97665,6 @@ v49326		けものな２人	video game	https://vndb.org/v49326	Q7889
 v49327		けものな２人 vol.2	video game	https://vndb.org/v49327	Q7889	
 v32584		けものの★活動漫画1	video game	https://vndb.org/v32584	Q7889	
 v32585		けものの★活動漫画2	video game	https://vndb.org/v32585	Q7889	
-v61533	Q126095980	けものティータイム	video game	https://vndb.org/v61533	Q7889	
 v50083		けものヒト	video game	https://vndb.org/v50083	Q7889	
 v27600		けもの姫	video game	https://vndb.org/v27600	Q7889	
 v8018		けもの学園	video game	https://vndb.org/v8018	Q7889	
@@ -97812,6 +98075,7 @@ v14618		さなちゃんとうみのいえ	video game	https://vndb.org/v14618	Q78
 v24672		さなちゃんのうんどうかい	video game	https://vndb.org/v24672	Q7889	
 v19083		さなちゃんのひみつきち	video game	https://vndb.org/v19083	Q7889	
 v55763		さにわさんじけんです！	video game	https://vndb.org/v55763	Q7889	
+v69868		さびしがりな幸せ	video game	https://vndb.org/v69868	Q7889	
 v37946		さびしがりゴースト	video game	https://vndb.org/v37946	Q7889	
 v69454		さびてつなおんど	video game	https://vndb.org/v69454	Q7889	
 v4928		さま☆ばけ	video game	https://vndb.org/v4928	Q7889	
@@ -98228,6 +98492,7 @@ v35593		その恋は絶対叶わない	video game	https://vndb.org/v35593	Q7889
 v51094		その想い言霊にのせて	video game	https://vndb.org/v51094	Q7889	
 v67786		その日の、終わり。	video game	https://vndb.org/v67786	Q7889	
 v23458	Q131988562	その日の獣には、	video game	https://vndb.org/v23458	Q7889	
+v69807		その物語の主人公	video game	https://vndb.org/v69807	Q7889	
 v65515		その男、観月	video game	https://vndb.org/v65515	Q7889	
 v13465		その秋の夜に	video game	https://vndb.org/v13465	Q7889	
 v47686		その罪は偽りの記憶と共に	video game	https://vndb.org/v47686	Q7889	
@@ -98579,6 +98844,7 @@ v23056		つるぺたみみちゃん2 ～すぷらうど～	video game	https://vn
 v1346		つん★デれ!～ぷにゅぷりEX～	video game	https://vndb.org/v1346	Q7889	
 v48787		つんツンろりロリ	video game	https://vndb.org/v48787	Q7889	
 v1265		つ・ぼ・み	video game	https://vndb.org/v1265	Q7889	
+v69937		てあカノ 後輩編	video game	https://vndb.org/v69937	Q7889	
 v69098		てあカノ 手垢のついたことしか言わない彼女	video game	https://vndb.org/v69098	Q7889	
 v9120		てぃんくる	video game	https://vndb.org/v9120	Q7889	
 v1674		てぃんくるぽえとりー	video game	https://vndb.org/v1674	Q7889	
@@ -98624,6 +98890,7 @@ v40076		でぃあきゃっと	video game	https://vndb.org/v40076	Q7889
 v35286		でぃあぼわ ～奥様は貴方好みのおっぱいになる事を望んでいる～	video game	https://vndb.org/v35286	Q7889	
 v10871		でぃぺんど！	video game	https://vndb.org/v10871	Q7889	
 v6946		でいじーちぇーん 〜TERMINATOR GIRL〜	video game	https://vndb.org/v6946	Q7889	
+v69813		でいとしみゅれいしょん	video game	https://vndb.org/v69813	Q7889	
 v61176		でか乳巫女と巨乳シスター	video game	https://vndb.org/v61176	Q7889	
 v36916		でがらし	video game	https://vndb.org/v36916	Q7889	
 v15166	Q24870473	できない私が、くり返す。	video game	https://vndb.org/v15166	Q7889	
@@ -99537,6 +99804,7 @@ v1982		びんかんアスリート「そ、そこダメっ！……おしお噴�
 v7340		びんかん！彼女～オレの清楚な彼女は敏感すぎてすぐにアヘっちゃう!?～	video game	https://vndb.org/v7340	Q7889	
 v64645		びんぼ～バンドの舞台裏～おこちゃまボイスのツンデレドラマー～	video game	https://vndb.org/v64645	Q7889	
 v67501		びんぼ～バンドの舞台裏～だまされ上手の田舎っぺ初バイト～	video game	https://vndb.org/v67501	Q7889	
+v69863		びんぼ～バンドの舞台裏～シゴデキギャルの自業自得フルコース～	video game	https://vndb.org/v69863	Q7889	
 v65755		びんぼ～バンドの舞台裏～ブラコンリーダーのさいみん大作戦～	video game	https://vndb.org/v65755	Q7889	
 v6119		びんビンッ!! ～彼と彼女と貧乏な神様～	video game	https://vndb.org/v6119	Q7889	
 v14332		び～える！	video game	https://vndb.org/v14332	Q7889	
@@ -99683,6 +99951,7 @@ v63813		ふたりたび	video game	https://vndb.org/v63813	Q7889
 v48728		ふたりだけのPARADISO	video game	https://vndb.org/v48728	Q7889	
 v1611		ふたりでひとつの恋心	video game	https://vndb.org/v1611	Q7889	
 v2448		ふたりでマーヴルしちゃいます！～昨日の敵は今日も恋人！？～	video game	https://vndb.org/v2448	Q7889	
+v69830		ふたりに本気で恋したい	video game	https://vndb.org/v69830	Q7889	
 v67636		ふたりの√(みち) -Here and There-	video game	https://vndb.org/v67636	Q7889	
 v1532		ふたりのえりか～幼なじみと今彼女と～	video game	https://vndb.org/v1532	Q7889	
 v67406		ふたりのみらい	video game	https://vndb.org/v67406	Q7889	
@@ -99944,6 +100213,7 @@ v62981		ぽねまい! -Deep Blue Heal with Potion-	video game	https://vndb.org/v
 v196	Q1988293	ぽぽたん	video game	https://vndb.org/v196	Q7889	
 v4975	Q1988293	ぽぽたんファンディスク いっしょにA・SO・BO	video game	https://vndb.org/v4975	Q7889	
 v37765		ぽれの彼ピが世界一♡	video game	https://vndb.org/v37765	Q7889	
+v69851		ぽろぽろEveryDay	video game	https://vndb.org/v69851	Q7889	
 v10902		ぽわぞん ～６人の魔女～	video game	https://vndb.org/v10902	Q7889	
 v36854		ぽんこつっこ	video game	https://vndb.org/v36854	Q7889	
 v65601		ぽんこつ令嬢の黒子は大変なんです！！	video game	https://vndb.org/v65601	Q7889	
@@ -100027,6 +100297,7 @@ v9979		またにてぃもんすたぁず！～兎耳委員長と清く正しい�
 v10653		またにてぃもんすたぁず！～深窓の真祖とえっちでアブナイ真相追求！～	video game	https://vndb.org/v10653	Q7889	
 v9980		またにてぃもんすたぁず！～神狼会長と由緒正しき子作り宣言！～	video game	https://vndb.org/v9980	Q7889	
 v10654		またにてぃもんすたぁず！～純情な淫魔と清純な不純異性交遊！～	video game	https://vndb.org/v10654	Q7889	
+v69805		また君とこの場所で	video game	https://vndb.org/v69805	Q7889	
 v32967		また逢う日を楽しみに	video game	https://vndb.org/v32967	Q7889	
 v45213		また逢う日を楽しみに-幕間怪奇小噺集-	video game	https://vndb.org/v45213	Q7889	
 v35355		まだおと	video game	https://vndb.org/v35355	Q7889	
@@ -100642,6 +100913,7 @@ v54998		ゆるふわ斜視子は愛が欲しい	video game	https://vndb.org/v549
 v43201		ゆるキャラ×魔王の恋愛パラドックス	video game	https://vndb.org/v43201	Q7889	
 v30937		ゆるキャン△ Have a nice day!	video game	https://vndb.org/v30937	Q7889	
 v10125		ゆるプラス	video game	https://vndb.org/v10125	Q7889	
+v69859		ゆれる想いの向かう先は	video game	https://vndb.org/v69859	Q7889	
 v17767		ゆれる想い～Triangle Love Story～	video game	https://vndb.org/v17767	Q7889	
 v1148		ゆんちゅ～お嬢さまはご奉仕中～	video game	https://vndb.org/v1148	Q7889	
 v6947		ゆ・め・く・み！～訳あり物件、妖精つき～	video game	https://vndb.org/v6947	Q7889	
@@ -101573,6 +101845,7 @@ v22475		イマドキ罵倒るファンタジー ～勇者と魔王の同棲性�
 v3935		イマージュ	video game	https://vndb.org/v3935	Q7889	
 v8728		イマージュ２	video game	https://vndb.org/v8728	Q7889	
 v8907		イミテーションは愛せない	video game	https://vndb.org/v8907	Q7889	
+v69904		イミテーションオウガ	video game	https://vndb.org/v69904	Q7889	
 v9467		イミテーションシティ	video game	https://vndb.org/v9467	Q7889	
 v35628		イミテーション・フラワー	video game	https://vndb.org/v35628	Q7889	
 v55018		イミテーション・ルージェ 紅のガラテア	video game	https://vndb.org/v55018	Q7889	
@@ -101613,6 +101886,7 @@ v31706		インシエメ	video game	https://vndb.org/v31706	Q7889
 v27402		インスタントクラリティー	video game	https://vndb.org/v27402	Q7889	
 v11175	Q11287397	インスタントブレイン	video game	https://vndb.org/v11175	Q7889	
 v24948		インセインヒーロー	video game	https://vndb.org/v24948	Q7889	
+v69922		インタビュー・ウィズ・コンピュータ	video game	https://vndb.org/v69922	Q7889	
 v46516		インターネット・ディスラプション	video game	https://vndb.org/v46516	Q7889	
 v3195	Q11287565	インタールード	video game	https://vndb.org/v3195	Q7889	
 v3120		インチキ霊媒師	video game	https://vndb.org/v3120	Q7889	
@@ -101723,6 +101997,7 @@ v2037		ウルトラ魔法少女まなな vol.2	video game	https://vndb.org/v2037
 v2038		ウルトラ魔法少女まなな vol.3	video game	https://vndb.org/v2038	Q7889	
 v2039		ウルトラ魔法少女まなな vol.4	video game	https://vndb.org/v2039	Q7889	
 v2041		ウルトラ魔法少女まなな vol.5	video game	https://vndb.org/v2041	Q7889	
+v69905		ウルフズエデン	video game	https://vndb.org/v69905	Q7889	
 v63068		ウワキロンパ	video game	https://vndb.org/v63068	Q7889	
 v47652	Q115201887	ウーマンコミュニケーション	video game	https://vndb.org/v47652	Q7889	
 v28732		ウーユリーフの処方箋	video game	https://vndb.org/v28732	Q7889	
@@ -102113,6 +102388,7 @@ v17081		オヤジ⇔優等女学生 ～取り替えて蹴落として～	video g
 v16318		オヤジの瞳に恋してる！？	video game	https://vndb.org/v16318	Q7889	
 v67120		オヨニャン!	video game	https://vndb.org/v67120	Q7889	
 v52265	Q140427660	オランピアソワレ Catharsis	video game	https://vndb.org/v52265	Q7889	
+v69801		オリエンティア！	video game	https://vndb.org/v69801	Q7889	
 v43873		オリキャラ大集合！しょこらーで学園	video game	https://vndb.org/v43873	Q7889	
 v40363		オリジナルキャラCG集 Vol.3	video game	https://vndb.org/v40363	Q7889	
 v28692		オリジナル絵本「その先と」	video game	https://vndb.org/v28692	Q7889	
@@ -103167,6 +103443,7 @@ v30737		コードキモス～国盗りのムルージュ～	video game	https://v
 v1502		コードギアス 反逆のルルーシュ　LOST COLORS	video game	https://vndb.org/v1502	Q7889	
 v17436		コード・アール	video game	https://vndb.org/v17436	Q7889	
 v20570		コーヒーとチョコレートパフェ ～彼女とわたしのDog Daysもしくは初めての嗜虐と恭順～	video game	https://vndb.org/v20570	Q7889	
+v69918		コーヒーブラウン	video game	https://vndb.org/v69918	Q7889	
 v41230		コーヒー牛乳めっちゃうまい Δ/Z	video game	https://vndb.org/v41230	Q7889	
 v46514		コープスパーティーⅡ Darkness Distortion	video game	https://vndb.org/v46514	Q7889	
 v15242		コーポ世迷坂	video game	https://vndb.org/v15242	Q7889	
@@ -103254,6 +103531,7 @@ v29293		サイトの災難2～また妊娠させちゃった～	video game	https
 v29233		サイトの災難～逆レイプされてできちゃった～	video game	https://vndb.org/v29233	Q7889	
 v48099		サイノウサミット	video game	https://vndb.org/v48099	Q7889	
 v23750		サイノガミ ～破滅も来るべき事柄も、望めば手中～	video game	https://vndb.org/v23750	Q7889	
+v69889		サイノネウタ ～What a Colorful World.	video game	https://vndb.org/v69889	Q7889	
 v22800		サイハテイネイブラー	video game	https://vndb.org/v22800	Q7889	
 v8838		サイバノイドアルファ	video game	https://vndb.org/v8838	Q7889	
 v8665		サイバーイリュージョン	video game	https://vndb.org/v8665	Q7889	
@@ -103786,6 +104064,7 @@ v30273		スクールランブル二学期 恐怖の(?)夏合宿! 洋館に幽霊
 v10950	Q11311563	スクール・ウォーズ	video game	https://vndb.org/v10950	Q7889	
 v12019		スクール・ウォーズ～卒業戦線～	video game	https://vndb.org/v12019	Q7889	
 v6894		スクール・クエスト ～ヒロイン～	video game	https://vndb.org/v6894	Q7889	
+v69928		スクール・ライフクール	video game	https://vndb.org/v69928	Q7889	
 v15843		スクール水着 ぬるぬるHEAVEN！	video game	https://vndb.org/v15843	Q7889	
 v7164		スクール水着～陵辱水泳教室～	video game	https://vndb.org/v7164	Q7889	
 v23595		スク水Lover	video game	https://vndb.org/v23595	Q7889	
@@ -104156,6 +104435,7 @@ v8108		タイピングSM 鞭打	video game	https://vndb.org/v8108	Q7889
 v7407		タイピングVIPER	video game	https://vndb.org/v7407	Q7889	
 v65175		タイプ de デート	video game	https://vndb.org/v65175	Q7889	
 v28244		タイマン上等!? ヤンキー娘を肉穴化 ～不良でもあっちの具合は良好です～	video game	https://vndb.org/v28244	Q7889	
+v69795		タイムカプセル -Time Capsule-	video game	https://vndb.org/v69795	Q7889	
 v21740		タイムカプセル “春”	video game	https://vndb.org/v21740	Q7889	
 v45105		タイムカプセル ～禍～	video game	https://vndb.org/v45105	Q7889	
 v55372		タイムギャル Re:birth	video game	https://vndb.org/v55372	Q7889	
@@ -104762,6 +105042,7 @@ v52614		ドラ×とら！	video game	https://vndb.org/v52614	Q7889
 v5379		ドラたま! ～幼竜ライラの成長日記～	video game	https://vndb.org/v5379	Q7889	
 v39616		ドライエック	video game	https://vndb.org/v39616	Q7889	
 v8107		ドライブ・ミー・クレイジー!! ～The School of Pain～	video game	https://vndb.org/v8107	Q7889	
+v69808		ドラキュラホリディ	video game	https://vndb.org/v69808	Q7889	
 v8849	Q5304697	ドラキュラ伯爵	video game	https://vndb.org/v8849	Q7889	
 v453		ドラクリウス	video game	https://vndb.org/v453	Q7889	
 v63		ドラゴニア	video game	https://vndb.org/v63	Q7889	
@@ -104837,7 +105118,7 @@ v31703		ナイト アンド メイド	video game	https://vndb.org/v31703	Q7889
 v28095		ナイトゥルース Maria	video game	https://vndb.org/v28095	Q7889	
 v32870		ナイトゥルース 二つだけの真実	video game	https://vndb.org/v32870	Q7889	
 v28092		ナイトゥルース闇の扉	video game	https://vndb.org/v28092	Q7889	
-v924	Q1143991	ナイトウィザード The VIDEO GAME～Denial of the World～	video game	https://vndb.org/v924	Q7889	
+v924		ナイトウィザード The VIDEO GAME～Denial of the World～	video game	https://vndb.org/v924	Q7889	
 v923	Q11323589	ナイトウィザード　魔法大戦～The Peace Plan to Save the World～	video game	https://vndb.org/v923	Q7889	
 v8983		ナイトウォーカー 真夜中の探偵	video game	https://vndb.org/v8983	Q7889	
 v49202		ナイトキッズでいこう！	video game	https://vndb.org/v49202	Q7889	
@@ -105139,6 +105420,7 @@ v49499		ハナレバコ	video game	https://vndb.org/v49499	Q7889
 v35581		ハニかむBINGO	video game	https://vndb.org/v35581	Q7889	
 v64384		ハニカノ 橘スミレ編	video game	https://vndb.org/v64384	Q7889	
 v23155		ハニカムヤードのドラグマキア	video game	https://vndb.org/v23155	Q7889	
+v69877		ハニワ	video game	https://vndb.org/v69877	Q7889	
 v49509		ハニワ闇開発室ぷち	video game	https://vndb.org/v49509	Q7889	
 v15965		ハニーattend	video game	https://vndb.org/v15965	Q7889	
 v31546		ハニー×トラップ ～誘惑のキスは恋の罠～	video game	https://vndb.org/v31546	Q7889	
@@ -105836,6 +106118,7 @@ v36615		フタマタ恋愛 瑠衣＆宮子ミニアフターストーリー	vide
 v36616		フタマタ恋愛 結愛＆煌ミニアフターストーリー	video game	https://vndb.org/v36616	Q7889	
 v68686		フッチといっしょ	video game	https://vndb.org/v68686	Q7889	
 v9734		フツウノファンタジー	video game	https://vndb.org/v9734	Q7889	
+v69882		フナフペニス~ Freed Bear - no densetsu - Yup! Thats Paradise!!	video game	https://vndb.org/v69882	Q7889	
 v17481		フニ君のお勉強	video game	https://vndb.org/v17481	Q7889	
 v17482		フニ君のお勉強２　～補習授業～	video game	https://vndb.org/v17482	Q7889	
 v17483		フニ君のお勉強３　～課外授業～	video game	https://vndb.org/v17483	Q7889	
@@ -106693,6 +106976,7 @@ v10135		マージャン G-taste	video game	https://vndb.org/v10135	Q7889
 v35273		マージャン 魔女ッ子大戦	video game	https://vndb.org/v35273	Q7889	
 v47504		マージャン・ソード プリンセス・クエスト	video game	https://vndb.org/v47504	Q7889	
 v15545		マーズ★ボール	video game	https://vndb.org/v15545	Q7889	
+v15480		マーダーハウス ～グロリョナの館～	video game	https://vndb.org/v15480	Q7889	
 v53260		マーダーバタフライ	video game	https://vndb.org/v53260	Q7889	
 v51438		マーダーミステリー「斑鳩家殺人事件」	video game	https://vndb.org/v51438	Q7889	
 v44202		マーダーミステリーパラドクス このひと夏の十五年	video game	https://vndb.org/v44202	Q7889	
@@ -107467,6 +107751,7 @@ v24354		ラヴテク・マニュアル	video game	https://vndb.org/v24354	Q7889
 v11052		ラヴレッシブ	video game	https://vndb.org/v11052	Q7889	
 v40915		ラヴ・シルエットシンドローム	video game	https://vndb.org/v40915	Q7889	
 v18099		ラ・ム１ ニューエボリューションオーガナイズ	video game	https://vndb.org/v18099	Q7889	
+v69835		ラ・ヴィ・アン・ヴィアンド	video game	https://vndb.org/v69835	Q7889	
 v37717		リアクト	video game	https://vndb.org/v37717	Q7889	
 v2025	Q11347792	リアライズ	video game	https://vndb.org/v2025	Q7889	
 v24725		リアライブ	video game	https://vndb.org/v24725	Q7889	
@@ -107630,6 +107915,7 @@ v19653		リンカノ -白濁の輪舞曲-	video game	https://vndb.org/v19653	Q78
 v32659		リンカーベル・アカデミア ～アルケミストは恋煩う～	video game	https://vndb.org/v32659	Q7889	
 v32554		リンカーベル・アカデミア ～龍族のフィアンセ～	video game	https://vndb.org/v32554	Q7889	
 v31570		リンカーベル・アカデミア～落第魔女とヒミツの儀式～	video game	https://vndb.org/v31570	Q7889	
+v69791		リンクサイド物語	video game	https://vndb.org/v69791	Q7889	
 v67871		リンクス	video game	https://vndb.org/v67871	Q7889	
 v61801		リンクプロジェクト	video game	https://vndb.org/v61801	Q7889	
 v34556		リング インフィニティ	video game	https://vndb.org/v34556	Q7889	
@@ -108051,6 +108337,7 @@ v68083		一護アルバイト記	video game	https://vndb.org/v68083	Q7889
 v68096		一護アルバイト記2	video game	https://vndb.org/v68096	Q7889	
 v67287		一護検査	video game	https://vndb.org/v67287	Q7889	
 v68085		一護調教	video game	https://vndb.org/v68085	Q7889	
+v69870		一起做GAL吧！	video game	https://vndb.org/v69870	Q7889	
 v34405		一起回家吧	video game	https://vndb.org/v34405	Q7889	
 v67140		一途……～両手いっぱいの花束を貴女に～	video game	https://vndb.org/v67140	Q7889	
 v29195		一途な（処女→）彼女と恋したい	video game	https://vndb.org/v29195	Q7889	
@@ -108079,6 +108366,7 @@ v545		七人のオンラインゲーマーズ～オフライン～	video game	ht
 v58343		七人一役	video game	https://vndb.org/v58343	Q7889	
 v24287		七人杀阵	video game	https://vndb.org/v24287	Q7889	
 v67070		七人語り	video game	https://vndb.org/v67070	Q7889	
+v69878		七夕	video game	https://vndb.org/v69878	Q7889	
 v25879		七夕姉弟の話。	video game	https://vndb.org/v25879	Q7889	
 v26705		七夜の夢‐Day after day‐	video game	https://vndb.org/v26705	Q7889	
 v56527		七夜の欠片 -Shattered Nights-	video game	https://vndb.org/v56527	Q7889	
@@ -108126,6 +108414,7 @@ v17600		万引娘桃色性裁 万引きした妹に鬼畜お仕置き!!	video ga
 v16635		万引娘桃色性裁 万引きした幼な妻に生ハメ中出し!!	video game	https://vndb.org/v16635	Q7889	
 v13936		万有引力少女	video game	https://vndb.org/v13936	Q7889	
 v51328		万聖節が来る前に	video game	https://vndb.org/v51328	Q7889	
+v69943		万象之镜	video game	https://vndb.org/v69943	Q7889	
 v26990		三〇一室无一人	video game	https://vndb.org/v26990	Q7889	
 v26827		三つ数えて恋の火をつけろ	video game	https://vndb.org/v26827	Q7889	
 v43847		三ツ編八月夢路	video game	https://vndb.org/v43847	Q7889	
@@ -108206,6 +108495,7 @@ v1083	Q10868675	下級生2	video game	https://vndb.org/v1083	Q7889
 v33611		下級生２ アナザーストーリー -duet-	video game	https://vndb.org/v33611	Q7889	
 v33610		下級生２ アナザーストーリー「アイノキセキ」	video game	https://vndb.org/v33610	Q7889	
 v33612		下級生２アナザーストーリー －ｌｏｖｅｒｓ－	video game	https://vndb.org/v33612	Q7889	
+v69800		下草に消える	video game	https://vndb.org/v69800	Q7889	
 v54024		不一致 ～不意の、一致。	video game	https://vndb.org/v54024	Q7889	
 v56345		不上岸不恋爱	video game	https://vndb.org/v56345	Q7889	
 v50656		不二子史上最悪の危機!!	video game	https://vndb.org/v50656	Q7889	
@@ -108230,6 +108520,7 @@ v14431		不夜城 ～引き裂かれた純潔～	video game	https://vndb.org/v14
 v5294		不妊恥凌	video game	https://vndb.org/v5294	Q7889	
 v68464		不完全なるこの世界	video game	https://vndb.org/v68464	Q7889	
 v39062		不完全な永遠の命	video game	https://vndb.org/v39062	Q7889	
+v69790		不完全殺人事件	video game	https://vndb.org/v69790	Q7889	
 v14106		不完全犯罪計画	video game	https://vndb.org/v14106	Q7889	
 v69074		不完美奇迹	video game	https://vndb.org/v69074	Q7889	
 v25973		不幸なアンジュ	video game	https://vndb.org/v25973	Q7889	
@@ -108279,7 +108570,6 @@ v40625		不香の花 - Snow Flower	video game	https://vndb.org/v40625	Q7889
 v62349		与你启挚	video game	https://vndb.org/v62349	Q7889	
 v61872		与你的亿万次重逢	video game	https://vndb.org/v61872	Q7889	
 v45069		与怜音的一天	video game	https://vndb.org/v45069	Q7889	
-v68310		与樱羽艾玛相迎的终点	video game	https://vndb.org/v68310	Q7889	
 v37931		与源樱的一日约会	video game	https://vndb.org/v37931	Q7889	
 v31888		与神相伴的末日	video game	https://vndb.org/v31888	Q7889	
 v54450		与衾	video game	https://vndb.org/v54450	Q7889	
@@ -109101,6 +109391,7 @@ v38483		信じる気持ち	video game	https://vndb.org/v38483	Q7889
 v38384		信ずれば、	video game	https://vndb.org/v38384	Q7889	
 v33797		信仰	video game	https://vndb.org/v33797	Q7889	
 v3883		信天翁航海録	video game	https://vndb.org/v3883	Q7889	
+v69896		信息素留白	video game	https://vndb.org/v69896	Q7889	
 v55806		信标2010	video game	https://vndb.org/v55806	Q7889	
 v18383		信長の欲とボウ	video game	https://vndb.org/v18383	Q7889	
 v15827		信長の欲とボウ 淫乳記	video game	https://vndb.org/v15827	Q7889	
@@ -109344,6 +109635,7 @@ v6100		傀儡の教室	video game	https://vndb.org/v6100	Q7889
 v15968		傀儡の教室HAPPYEND	video game	https://vndb.org/v15968	Q7889	
 v11656		傀儡の辱めを君に	video game	https://vndb.org/v11656	Q7889	
 v4278		傀儡女－催淫病棟24時－	video game	https://vndb.org/v4278	Q7889	
+v69865		傀儡妊者 春風スズメ	video game	https://vndb.org/v69865	Q7889	
 v51887		傀儡师花夕	video game	https://vndb.org/v51887	Q7889	
 v39206		傘のない君に	video game	https://vndb.org/v39206	Q7889	
 v32239		催淫サロン ～夫の知らぬ間に孕ませリベンジされる妻～	video game	https://vndb.org/v32239	Q7889	
@@ -109877,6 +110169,7 @@ v3419		八月のノスタルジア ～the summer with you～	video game	https://
 v10862		八月の化け物たち - 6分の1の奇妙な真夏 -	video game	https://vndb.org/v10862	Q7889	
 v43076		八月の栞	video game	https://vndb.org/v43076	Q7889	
 v27305		八月の殉教地	video game	https://vndb.org/v27305	Q7889	
+v69796		八月の海辺から	video game	https://vndb.org/v69796	Q7889	
 v69054		八月の終わり、逃避行	video game	https://vndb.org/v69054	Q7889	
 v32430		八月は星の調べの館から	video game	https://vndb.org/v32430	Q7889	
 v45878		八木君は後輩くん	video game	https://vndb.org/v45878	Q7889	
@@ -109946,6 +110239,7 @@ v16797		円環の柩-閉ざされた館と想いのゆくえ-	video game	https:/
 v49425		円盤皇女ワるき○ーレ～淫魔の輪舞曲～	video game	https://vndb.org/v49425	Q7889	
 v39210		再びあなたとばんごはん	video game	https://vndb.org/v39210	Q7889	
 v55543		再三再四	video game	https://vndb.org/v55543	Q7889	
+v69797		再会	video game	https://vndb.org/v69797	Q7889	
 v7146		再会 ～卒業旅行’98～	video game	https://vndb.org/v7146	Q7889	
 v33916		再会したおねえちゃんに俺の秘密をにぎられました。	video game	https://vndb.org/v33916	Q7889	
 v66662		再会のための道筋	video game	https://vndb.org/v66662	Q7889	
@@ -110042,6 +110336,7 @@ v14843		凌辱コンビニ ～店長やめて下さい～	video game	https://vnd
 v6127		凌辱サンタ	video game	https://vndb.org/v6127	Q7889	
 v705		凌辱スカウト〜アイドル独占契約〜	video game	https://vndb.org/v705	Q7889	
 v5270		凌辱セレブ妻 ～屈辱!!肉奴隷への堕落～	video game	https://vndb.org/v5270	Q7889	
+v69866		凌辱トラップ	video game	https://vndb.org/v69866	Q7889	
 v7129		凌辱ニュータウン～人妻狩り～	video game	https://vndb.org/v7129	Q7889	
 v36344		凌辱バスジャック　～悪夢のバス停留所～	video game	https://vndb.org/v36344	Q7889	
 v11585		凌辱バスツアー	video game	https://vndb.org/v11585	Q7889	
@@ -110193,7 +110488,9 @@ v16182		初恋の人は性処理ナース	video game	https://vndb.org/v16182	Q78
 v12918		初恋の方程式	video game	https://vndb.org/v12918	Q7889	
 v67533		初恋の朝に	video game	https://vndb.org/v67533	Q7889	
 v40917		初恋の相手が男の娘かもしれない件 Love/Deep	video game	https://vndb.org/v40917	Q7889	
+v69931		初恋の虹	video game	https://vndb.org/v69931	Q7889	
 v31575		初恋は年齢天秤の中で	video game	https://vndb.org/v31575	Q7889	
+v69860		初恋は青の殺意	video game	https://vndb.org/v69860	Q7889	
 v20903		初恋ばれんたいん	video game	https://vndb.org/v20903	Q7889	
 v20951		初恋ばれんたいん SPECIAL	video game	https://vndb.org/v20951	Q7889	
 v64828		初恋カプセル	video game	https://vndb.org/v64828	Q7889	
@@ -110387,6 +110684,7 @@ v5571	Q11401767	北斗の拳 バイオレンス劇画アドベンチャー	video
 v32490		北斗の犬(ケン)	video game	https://vndb.org/v32490	Q7889	
 v17680		北条奈津江の飼育風景	video game	https://vndb.org/v17680	Q7889	
 v67373		北極光 cry for the moon	video game	https://vndb.org/v67373	Q7889	
+v69913		北極星	video game	https://vndb.org/v69913	Q7889	
 v61018		北洋花开-恋爱咏叹调	video game	https://vndb.org/v61018	Q7889	
 v4658		北海道連鎖殺人 オホーツクに消ゆ	video game	https://vndb.org/v4658	Q7889	
 v25048		北海道連鎖的謎殺人 オホーツクに消えちゃう	video game	https://vndb.org/v25048	Q7889	
@@ -110448,6 +110746,7 @@ v36861		千紗ちゃんを(セックスで)救う会	video game	https://vndb.org
 v29478		千羽×リミックス	video game	https://vndb.org/v29478	Q7889	
 v46991		千羽鶴	video game	https://vndb.org/v46991	Q7889	
 v22133		千草32歳人妻～禁断の義父介護～	video game	https://vndb.org/v22133	Q7889	
+v69763		千裤万袜	video game	https://vndb.org/v69763	Q7889	
 v67727		千迷探偵久美子	video game	https://vndb.org/v67727	Q7889	
 v26903		千里の棋譜	video game	https://vndb.org/v26903	Q7889	
 v31824		千里の道も一歩から！！	video game	https://vndb.org/v31824	Q7889	
@@ -110517,6 +110816,7 @@ v46722		博士はすべてを終わらせることにした	video game	https://v
 v68719		博麗の生贄	video game	https://vndb.org/v68719	Q7889	
 v54542		占い師はイケメン総長たちに愛される	video game	https://vndb.org/v54542	Q7889	
 v43902		占い師レイ様の助言	video game	https://vndb.org/v43902	Q7889	
+v69907		占い探偵森永キッス	video game	https://vndb.org/v69907	Q7889	
 v14697		占領陵辱学園～ハーレム陵辱	video game	https://vndb.org/v14697	Q7889	
 v28760		卡牌游戏	video game	https://vndb.org/v28760	Q7889	
 v50829		卡牌游戏2超弦世界	video game	https://vndb.org/v50829	Q7889	
@@ -110856,6 +111156,8 @@ v56423		君と至福の時	video game	https://vndb.org/v56423	Q7889
 v60735		君と見た景色、君と見る景色	video game	https://vndb.org/v60735	Q7889	
 v56802		君と越えてゆく 1	video game	https://vndb.org/v56802	Q7889	
 v56803		君と越えてゆく 2	video game	https://vndb.org/v56803	Q7889	
+v69831		君と過ごす日々-如月綾香-	video game	https://vndb.org/v69831	Q7889	
+v69833		君と過ごす日々-橘火帆-	video game	https://vndb.org/v69833	Q7889	
 v41925		君と遺書と録音テープに。	video game	https://vndb.org/v41925	Q7889	
 v48149		君と重ねたい好きがある。	video game	https://vndb.org/v48149	Q7889	
 v62323		君にならましものを	video game	https://vndb.org/v62323	Q7889	
@@ -110887,6 +111189,7 @@ v40897		君の声が聞こえる	video game	https://vndb.org/v40897	Q7889
 v36945		君の姿、僕の思い	video game	https://vndb.org/v36945	Q7889	
 v67414		君の寿命が見えない理由	video game	https://vndb.org/v67414	Q7889	
 v17357		君の居る夢想	video game	https://vndb.org/v17357	Q7889	
+v69823		君の心の裏側から	video game	https://vndb.org/v69823	Q7889	
 v58682		君の心臓とコスモスを見る	video game	https://vndb.org/v58682	Q7889	
 v5622		君の想い、その願い	video game	https://vndb.org/v5622	Q7889	
 v20954		君の気持ち、僕のこころ	video game	https://vndb.org/v20954	Q7889	
@@ -110937,6 +111240,7 @@ v36501		吸血鬼の血集め	video game	https://vndb.org/v36501	Q7889
 v53901		吸血鬼杀人事件	video game	https://vndb.org/v53901	Q7889	
 v61952		吹き溜まりの彼女	video game	https://vndb.org/v61952	Q7889	
 v66759		吹奏楽部物語～7日間～	video game	https://vndb.org/v66759	Q7889	
+v69841		吾之半身乃纯白恶魔	video game	https://vndb.org/v69841	Q7889	
 v10081		吾輩はお嫁サンである ～奥サマは教え子JK！～	video game	https://vndb.org/v10081	Q7889	
 v18973		呃啊！Capybara	video game	https://vndb.org/v18973	Q7889	
 v18546		告発の代償 佐伯一美	video game	https://vndb.org/v18546	Q7889	
@@ -110946,6 +111250,7 @@ v64091		告白	video game	https://vndb.org/v64091	Q7889
 v13687		告白してきたキモヲタを振っただけで、やりたい放題精液便所にされるわけがない。	video game	https://vndb.org/v13687	Q7889	
 v61515		告白で先生を困らせたい	video game	https://vndb.org/v61515	Q7889	
 v5276		告白の甘い罠	video game	https://vndb.org/v5276	Q7889	
+v69942		告白の言葉	video game	https://vndb.org/v69942	Q7889	
 v35925		告白セット 寝取られ調教SMアドベンチャー	video game	https://vndb.org/v35925	Q7889	
 v68501		告白大作戦!?	video game	https://vndb.org/v68501	Q7889	
 v67502		告白完就逃跑	video game	https://vndb.org/v67502	Q7889	
@@ -110954,6 +111259,7 @@ v15403		告白遊戯	video game	https://vndb.org/v15403	Q7889
 v55413		周而复始的夏天	video game	https://vndb.org/v55413	Q7889	
 v63300		呪いの手紙	video game	https://vndb.org/v63300	Q7889	
 v38537		呪いの画像	video game	https://vndb.org/v38537	Q7889	
+v69838		呪いの穢れ唄 鳴海龍也の回奇録	video game	https://vndb.org/v69838	Q7889	
 v42078		呪いの館の触手窟	video game	https://vndb.org/v42078	Q7889	
 v20250		呪いの魔剣に闇憑き乙女	video game	https://vndb.org/v20250	Q7889	
 v15686		呪い少女とパンツハンター	video game	https://vndb.org/v15686	Q7889	
@@ -111480,6 +111786,7 @@ v19170		夏の停止線	video game	https://vndb.org/v19170	Q7889
 v47710		夏の刻	video game	https://vndb.org/v47710	Q7889	
 v11208		夏の君攻略大作戦！	video game	https://vndb.org/v11208	Q7889	
 v32323		夏の夕陽の公園にて、あれは誰だったの？	video game	https://vndb.org/v32323	Q7889	
+v69821		夏の女神	video game	https://vndb.org/v69821	Q7889	
 v41158		夏の委員長	video game	https://vndb.org/v41158	Q7889	
 v4827		夏の孤島の闇の声	video game	https://vndb.org/v4827	Q7889	
 v7580		夏の嵐	video game	https://vndb.org/v7580	Q7889	
@@ -112189,6 +112496,7 @@ v2992		天紡ぐ祝詞	video game	https://vndb.org/v2992	Q7889
 v20418	Q30933989	天結いキャッスルマイスター	video game	https://vndb.org/v20418	Q7889	
 v29872		天結いラビリンスマイスター	video game	https://vndb.org/v29872	Q7889	
 v20259		天罰山の呪い	video game	https://vndb.org/v20259	Q7889	
+v69862		天翔ける時の煌き	video game	https://vndb.org/v69862	Q7889	
 v58310		天翔炎華エンブレイズ	video game	https://vndb.org/v58310	Q7889	
 v30168		天翼のアスクレイン	video game	https://vndb.org/v30168	Q7889	
 v60217		天翼のアスクレイン NIGHTMARE CURSE	video game	https://vndb.org/v60217	Q7889	
@@ -112268,6 +112576,7 @@ v7572		奈落隷戯	video game	https://vndb.org/v7572	Q7889
 v31882		奉課後輪姦中毒	video game	https://vndb.org/v31882	Q7889	
 v3309		奏 ～カナデ～	video game	https://vndb.org/v3309	Q7889	
 v43910		奏でるは螺旋の調べ	video game	https://vndb.org/v43910	Q7889	
+v69861		奏でるは螺旋の調べの舞台裏	video game	https://vndb.org/v69861	Q7889	
 v39980		奏られし千の音色	video game	https://vndb.org/v39980	Q7889	
 v14607		奏杜祭～そうとさい～	video game	https://vndb.org/v14607	Q7889	
 v23526		奏（騒）楽都市OSAKA	video game	https://vndb.org/v23526	Q7889	
@@ -113808,6 +114117,7 @@ v38966		審神者勧誘お断り	video game	https://vndb.org/v38966	Q7889
 v55115		寮母さん、こっちのお世話もお願いします! ～はい、よろこんで! アッチの体力も底なしですね!!～	video game	https://vndb.org/v55115	Q7889	
 v45872		寵愛希望	video game	https://vndb.org/v45872	Q7889	
 v32725		寸止め天使と搾精悪魔-エンドレスヌキ地獄天国-	video game	https://vndb.org/v32725	Q7889	
+v69936		对我而言	video game	https://vndb.org/v69936	Q7889	
 v36542		寺帰りのKさんと犠牲になった僕のスマホ	video game	https://vndb.org/v36542	Q7889	
 v36543		寺帰りのKさんと犠牲になった僕のスマホ・2	video game	https://vndb.org/v36543	Q7889	
 v65669		寻味记	video game	https://vndb.org/v65669	Q7889	
@@ -115937,6 +116247,7 @@ v65417		戏外	video game	https://vndb.org/v65417	Q7889
 v42891		成为神的那一天	video game	https://vndb.org/v42891	Q7889	
 v39569		成仏させて！？	video game	https://vndb.org/v39569	Q7889	
 v13481		成恵の日記	video game	https://vndb.org/v13481	Q7889	
+v69924		成本1000元的Galgame	video game	https://vndb.org/v69924	Q7889	
 v17668		成績優秀な教え子はエッチなお勉強も超優秀!	video game	https://vndb.org/v17668	Q7889	
 v34039		我S后的那些天	video game	https://vndb.org/v34039	Q7889	
 v42808		我、純粋ナル醜女	video game	https://vndb.org/v42808	Q7889	
@@ -115964,6 +116275,7 @@ v33254		我就是要红	video game	https://vndb.org/v33254	Q7889
 v41563		我慢できない少女たち/短編集・脱ぎにくい服編～萌&遥の場合～	video game	https://vndb.org/v41563	Q7889	
 v19875		我慢できない！ふたなりミルクメイド	video game	https://vndb.org/v19875	Q7889	
 v60667		我才不会被女孩子欺负呢	video game	https://vndb.org/v60667	Q7889	
+v69923		我才是奶蛙！	video game	https://vndb.org/v69923	Q7889	
 v26245		我是渣男	video game	https://vndb.org/v26245	Q7889	
 v60569		我的26岁女房客：在云端	video game	https://vndb.org/v60569	Q7889	
 v44510		我的39岁可爱邻居果然有问题！	video game	https://vndb.org/v44510	Q7889	
@@ -116764,6 +117076,7 @@ v41887		明日、嘘がわからなくなっても	video game	https://vndb.org/v
 v13377		明日、弾く。	video game	https://vndb.org/v13377	Q7889	
 v1190		明日の七海と逢うために〜明日の君と逢うために〜FAN DISC	video game	https://vndb.org/v1190	Q7889	
 v423	Q10877416	明日の君と逢うために	video game	https://vndb.org/v423	Q7889	
+v69933		明日の君へ	video game	https://vndb.org/v69933	Q7889	
 v60412		明日の朝食は一緒に	video game	https://vndb.org/v60412	Q7889	
 v35787		明日の為に出来ること	video game	https://vndb.org/v35787	Q7889	
 v2054		明日はきっと、晴れますように	video game	https://vndb.org/v2054	Q7889	
@@ -116939,6 +117252,7 @@ v59506		春の霧雨	video game	https://vndb.org/v59506	Q7889
 v34300		春はハメボボ	video game	https://vndb.org/v34300	Q7889	
 v19431		春へと続く丘	video game	https://vndb.org/v19431	Q7889	
 v39095		春まち	video game	https://vndb.org/v39095	Q7889	
+v69874		春よこい	video game	https://vndb.org/v69874	Q7889	
 v36765		春をむかえる ～魔王と英雄～	video game	https://vndb.org/v36765	Q7889	
 v67402		春をむかえる～女体化騒動！～	video game	https://vndb.org/v67402	Q7889	
 v36982		春をむかえる～日常生活編(?)～	video game	https://vndb.org/v36982	Q7889	
@@ -117111,6 +117425,7 @@ v14324		暮れ六つの始まり	video game	https://vndb.org/v14324	Q7889
 v58237		暮雨流花+	video game	https://vndb.org/v58237	Q7889	
 v50365		暮雨流花floain	video game	https://vndb.org/v50365	Q7889	
 v14399		暴君とショコラーデ	video game	https://vndb.org/v14399	Q7889	
+v69819		暴君の悪魔	video game	https://vndb.org/v69819	Q7889	
 v48718		暴君フィアンセ	video game	https://vndb.org/v48718	Q7889	
 v32880		暴君彼女の躾け方	video game	https://vndb.org/v32880	Q7889	
 v65640		暴杀残雨之夜	video game	https://vndb.org/v65640	Q7889	
@@ -117209,6 +117524,7 @@ v10680	Q3813236	月に寄りそう乙女の作法	video game	https://vndb.org/v1
 v15293		月に寄りそう乙女の作法2	video game	https://vndb.org/v15293	Q7889	
 v20623		月に寄りそう乙女の作法2.1 E×S×PAR!!	video game	https://vndb.org/v20623	Q7889	
 v21501		月に寄りそう乙女の作法2.2 A×L+SA!!	video game	https://vndb.org/v21501	Q7889	
+v69809		月に寄りそう乙女の作法3	video game	https://vndb.org/v69809	Q7889	
 v65045		月に祈る	video game	https://vndb.org/v65045	Q7889	
 v46450		月のあかり猫のひとみ	video game	https://vndb.org/v46450	Q7889	
 v3647		月のない夜 第１章	video game	https://vndb.org/v3647	Q7889	
@@ -117235,6 +117551,7 @@ v65336		月の扉	video game	https://vndb.org/v65336	Q7889
 v47711		月の無い夜	video game	https://vndb.org/v47711	Q7889	
 v40469		月の神殿	video game	https://vndb.org/v40469	Q7889	
 v23218		月の聖姦 -臨月へ孕む野望と姫君-	video game	https://vndb.org/v23218	Q7889	
+v69914		月の見えない夜	video game	https://vndb.org/v69914	Q7889	
 v27535		月の記憶	video game	https://vndb.org/v27535	Q7889	
 v26071		月の降る夜	video game	https://vndb.org/v26071	Q7889	
 v7433		月の雫～ツキノシズク～	video game	https://vndb.org/v7433	Q7889	
@@ -117305,6 +117622,7 @@ v3638		月曜日のパンと牛乳	video game	https://vndb.org/v3638	Q7889
 v1909		月染の枷鎖-the end of scarlet luna-	video game	https://vndb.org/v1909	Q7889	
 v62912		月桂樹の涙	video game	https://vndb.org/v62912	Q7889	
 v20206		月森中学校七不思議	video game	https://vndb.org/v20206	Q7889	
+v69880		月槍譚-Mind of A Lunatic-	video game	https://vndb.org/v69880	Q7889	
 v15923		月狂いの夜	video game	https://vndb.org/v15923	Q7889	
 v24398		月狐傳奇：小狐仙	video game	https://vndb.org/v24398	Q7889	
 v642	Q11092025	月神楽	video game	https://vndb.org/v642	Q7889	
@@ -117335,6 +117653,7 @@ v46536		有所思	video game	https://vndb.org/v46536	Q7889
 v44579		有栖と奉日本『幸福のブラックキャット』	video game	https://vndb.org/v44579	Q7889	
 v41502		有栖川三兄弟の銀色週間	video game	https://vndb.org/v41502	Q7889	
 v61075		有罪？無罪？ワールドメーカー	video game	https://vndb.org/v61075	Q7889	
+v69906		有翼のニケ。	video game	https://vndb.org/v69906	Q7889	
 v6860		有言実行エンジェルス	video game	https://vndb.org/v6860	Q7889	
 v34345		有象無象の遺書	video game	https://vndb.org/v34345	Q7889	
 v60662		有閑夫人倶楽部	video game	https://vndb.org/v60662	Q7889	
@@ -117371,6 +117690,7 @@ v27477		朝焼けのブルーⅣ　- Mezzo forte episode -	video game	https://vn
 v27476		朝焼けのブルーⅤ - Fortissimo episode -	video game	https://vndb.org/v27476	Q7889	
 v26379		朝焼けの謳	video game	https://vndb.org/v26379	Q7889	
 v62980		朝焼けの輪舞曲	video game	https://vndb.org/v62980	Q7889	
+v69920		朝見える星	video game	https://vndb.org/v69920	Q7889	
 v28209	Q108752032	朝起きたら美少女になってたボクにお願いがあるんだって？しょうがないにゃあ・・いいよ。	video game	https://vndb.org/v28209	Q7889	
 v35564		朝露の君	video game	https://vndb.org/v35564	Q7889	
 v49206		朝食の皿に四角い卵	video game	https://vndb.org/v49206	Q7889	
@@ -117385,6 +117705,7 @@ v44686		木になる成長木録	video game	https://vndb.org/v44686	Q7889
 v10958		木洩れ陽のノスタルジーカ -Raggio di sole nostalgico-	video game	https://vndb.org/v10958	Q7889	
 v65075		木漏れ日のメロディ	video game	https://vndb.org/v65075	Q7889	
 v3061	Q17228552	木漏れ日の並木道	video game	https://vndb.org/v3061	Q7889	
+v69919		木立の漂泊	video game	https://vndb.org/v69919	Q7889	
 v30987		木箱の中に ～通じ合う気持ち～	video game	https://vndb.org/v30987	Q7889	
 v32581		木谷椎コレクション「夢幻触手」	video game	https://vndb.org/v32581	Q7889	
 v32582		木谷椎コレクション「妄想女子」	video game	https://vndb.org/v32582	Q7889	
@@ -117823,6 +118144,7 @@ v29638	Q112127974	極限痴漢特異点２　痴漢の証明	video game	https://
 v39936		極限痴漢特異点３　千年の劣情	video game	https://vndb.org/v39936	Q7889	
 v55559		楼兰：轮回之轨迹	video game	https://vndb.org/v55559	Q7889	
 v48781		楽しい実験室。	video game	https://vndb.org/v48781	Q7889	
+v69888		楽しい死神との暮らし方	video game	https://vndb.org/v69888	Q7889	
 v14746		楽園	video game	https://vndb.org/v14746	Q7889	
 v55136		楽園	video game	https://vndb.org/v55136	Q7889	
 v50453		楽園に住む男-Man in the Garden of Eden-	video game	https://vndb.org/v50453	Q7889	
@@ -117895,6 +118217,7 @@ v9368		檻の中のわたし	video game	https://vndb.org/v9368	Q7889
 v7518		檻の中の性倒錯(パラフィリア)-性隷に堕ちた少女たち-	video game	https://vndb.org/v7518	Q7889	
 v11044		檻姫ユナ ～繋がれた2人の聖女～	video game	https://vndb.org/v11044	Q7889	
 v29403		檻姫～極嬢の未来は俺のモノ～	video game	https://vndb.org/v29403	Q7889	
+v69875		檻演人　～オリエント～	video game	https://vndb.org/v69875	Q7889	
 v14095		檻越しの、	video game	https://vndb.org/v14095	Q7889	
 v40662		櫻	video game	https://vndb.org/v40662	Q7889	
 v9069		櫻の杜 ～さくらのもり～	video game	https://vndb.org/v9069	Q7889	
@@ -118262,6 +118585,7 @@ v47160		水没廃墟のピアノドロイド	video game	https://vndb.org/v47160	
 v7388		水泳教室～冬でもスクール水着～	video game	https://vndb.org/v7388	Q7889	
 v7917		水泳調教師～母娘羞恥レッスン	video game	https://vndb.org/v7917	Q7889	
 v15685		水浴び公園で出会った少女 るな	video game	https://vndb.org/v15685	Q7889	
+v69932		水溜まりの向こう側	video game	https://vndb.org/v69932	Q7889	
 v29988		水滴里的夏天	video game	https://vndb.org/v29988	Q7889	
 v52775		水無月先輩とグロ肉ちゃん	video game	https://vndb.org/v52775	Q7889	
 v42377		水狐・地獄変	video game	https://vndb.org/v42377	Q7889	
@@ -118316,6 +118640,7 @@ v9790		永劫回帰	video game	https://vndb.org/v9790	Q7889
 v67316		永夜协奏曲	video game	https://vndb.org/v67316	Q7889	
 v61226		永安百年	video game	https://vndb.org/v61226	Q7889	
 v60544		永恒与星辰与日常	video game	https://vndb.org/v60544	Q7889	
+v69815		永恒少女和天使	video game	https://vndb.org/v69815	Q7889	
 v50969		永日的凝视 - The Gaze of The Eternal Sun	video game	https://vndb.org/v50969	Q7889	
 v7573		永焔の戦姫	video game	https://vndb.org/v7573	Q7889	
 v46476		永環 ～始縁～	video game	https://vndb.org/v46476	Q7889	
@@ -118491,6 +118816,7 @@ v6571		流星☆ハレーション	video game	https://vndb.org/v6571	Q7889
 v20995		流星☆ハレーション～Secrets of Dearest～	video game	https://vndb.org/v20995	Q7889	
 v42177		流星が灯すのは	video game	https://vndb.org/v42177	Q7889	
 v10973		流星のアーカディア	video game	https://vndb.org/v10973	Q7889	
+v69917		流星のスフォルツァート	video game	https://vndb.org/v69917	Q7889	
 v24105		流星号に乗って	video game	https://vndb.org/v24105	Q7889	
 v55265		流木缘	video game	https://vndb.org/v55265	Q7889	
 v23233		流氷の天使	video game	https://vndb.org/v23233	Q7889	
@@ -119199,6 +119525,7 @@ v65005		灰色の太陽	video game	https://vndb.org/v65005	Q7889
 v9942		灰色の洞窟	video game	https://vndb.org/v9942	Q7889	
 v47023		灰色の海にて君を待つ	video game	https://vndb.org/v47023	Q7889	
 v1655		灰色の空に堕ちた翼	video game	https://vndb.org/v1655	Q7889	
+v69798		灰色オセロ	video game	https://vndb.org/v69798	Q7889	
 v52505		灰色的彩虹	video game	https://vndb.org/v52505	Q7889	
 v4498		灰被り姫の憂鬱	video game	https://vndb.org/v4498	Q7889	
 v61886		灰雨	video game	https://vndb.org/v61886	Q7889	
@@ -119206,7 +119533,6 @@ v41777		灰青の空	video game	https://vndb.org/v41777	Q7889
 v62103		灰骸の街	video game	https://vndb.org/v62103	Q7889	
 v35077		灵异爱情.冷	video game	https://vndb.org/v35077	Q7889	
 v31615		灵猫传	video game	https://vndb.org/v31615	Q7889	
-v63081		灵界奇谈：卧龙	video game	https://vndb.org/v63081	Q7889	
 v56507		灵魂之在処	video game	https://vndb.org/v56507	Q7889	
 v63874		灵魂之在処 -孤独的巫师-	video game	https://vndb.org/v63874	Q7889	
 v68909		灵魂的眼泪	video game	https://vndb.org/v68909	Q7889	
@@ -119219,6 +119545,7 @@ v15926		炉の湯	video game	https://vndb.org/v15926	Q7889
 v64112		炉利の絵本	video game	https://vndb.org/v64112	Q7889	
 v22881		炉姦12 ～アリスたちの膣と感触～	video game	https://vndb.org/v22881	Q7889	
 v14257		炎★隔操作彼女	video game	https://vndb.org/v14257	Q7889	
+v69824		炎☆隔操作彼女 -2ndchapter-	video game	https://vndb.org/v69824	Q7889	
 v12232		炎の孕ませ“わんぱく”おっぱいお嬢さま学園～「昔の姿」になって女湯フリーパス！スカートめくり放題！いたずら中出し・孕ませ天国！～	video game	https://vndb.org/v12232	Q7889	
 v19345	Q109342626	炎の孕ませおっぱい★エロアプリ学園	video game	https://vndb.org/v19345	Q7889	
 v11133		炎の孕ませおっぱい乳同級生	video game	https://vndb.org/v11133	Q7889	
@@ -119436,6 +119763,7 @@ v49044		爱世莉的恋爱规则	video game	https://vndb.org/v49044	Q7889
 v52557		爱之巢	video game	https://vndb.org/v52557	Q7889	
 v30437		爱人	video game	https://vndb.org/v30437	Q7889	
 v66391		爱人如养虫	video game	https://vndb.org/v66391	Q7889	
+v69938		爱在秋叶原	video game	https://vndb.org/v69938	Q7889	
 v10820		父が家出したから、我が家は大変です！	video game	https://vndb.org/v10820	Q7889	
 v15897		父に恋した淫乱娘「彩子」 ～お父さんは誰にも渡さない～	video game	https://vndb.org/v15897	Q7889	
 v33336		父の告白 父はプロの肉便器	video game	https://vndb.org/v33336	Q7889	
@@ -120305,6 +120633,7 @@ v17675		発情淫母 ～疼く熟体は、その欲情を抑えきれない～	v
 v68625		発情猫娘	video game	https://vndb.org/v68625	Q7889	
 v10770		発情生	video game	https://vndb.org/v10770	Q7889	
 v7821		発情退散！中出しお孕い除霊性活	video game	https://vndb.org/v7821	Q7889	
+v69926		発掘少女	video game	https://vndb.org/v69926	Q7889	
 v41197		発明少女の挑戦/恋路	video game	https://vndb.org/v41197	Q7889	
 v17781		発禁少女 舞～密室エレベーター媚薬レイプ～	video game	https://vndb.org/v17781	Q7889	
 v19033		発禁少女 飯島ゆかファースト写真集	video game	https://vndb.org/v19033	Q7889	
@@ -120864,6 +121193,7 @@ v60700		祀月夭花～四月八日～	video game	https://vndb.org/v60700	Q7889
 v62132		祈りか、灰か	video game	https://vndb.org/v62132	Q7889	
 v69469		祈りの鐘は夜に哭く	video game	https://vndb.org/v69469	Q7889	
 v46602		祈りまつるほど愛してる	video game	https://vndb.org/v46602	Q7889	
+v69786		祈愿与仲夏日之梦	video game	https://vndb.org/v69786	Q7889	
 v25318		祈風	video game	https://vndb.org/v25318	Q7889	
 v67257		祓魔少女シャルロットII 穢れの刻印	video game	https://vndb.org/v67257	Q7889	
 v20689		祖母と僕 ～おばあちゃん、なにかでちゃうよぉ～	video game	https://vndb.org/v20689	Q7889	
@@ -121162,6 +121492,7 @@ v33697		私の父と弟のナニがアレすぎて困ってる。～私もうあ
 v13778		私の犬になれ	video game	https://vndb.org/v13778	Q7889	
 v41167		私の生きる意味	video game	https://vndb.org/v41167	Q7889	
 v50889		私の知らないキミの言葉	video game	https://vndb.org/v50889	Q7889	
+v69810		私の知らないクリスマス	video game	https://vndb.org/v69810	Q7889	
 v2845		私の知らない妻の貌	video game	https://vndb.org/v2845	Q7889	
 v7471		私の身体で償います～新妻美智子の場合～	video game	https://vndb.org/v7471	Q7889	
 v48190		私の隣人トラブル～『隣の男』はストーカー	video game	https://vndb.org/v48190	Q7889	
@@ -121346,6 +121677,7 @@ v41742		積もるは白き息と日と	video game	https://vndb.org/v41742	Q7889
 v23787		積層のAestivum	video game	https://vndb.org/v23787	Q7889	
 v7910		穢された巫女装束～中出し豊穣白濁祭	video game	https://vndb.org/v7910	Q7889	
 v15547		穢れなき君を ～天使と悪魔の狭間～	video game	https://vndb.org/v15547	Q7889	
+v69839		穢れ憑きの少女　鳴海龍也の回奇録	video game	https://vndb.org/v69839	Q7889	
 v19669		穴から覗く妹の・・	video game	https://vndb.org/v19669	Q7889	
 v50098		穴がある ANA-GIRL	video game	https://vndb.org/v50098	Q7889	
 v4630		穴人形	video game	https://vndb.org/v4630	Q7889	
@@ -121671,6 +122003,7 @@ v49774		紅い雪－CrimsonSnow－	video game	https://vndb.org/v49774	Q7889
 v32332		紅い髪の風船売り	video game	https://vndb.org/v32332	Q7889	
 v4431		紅が咲いた	video game	https://vndb.org/v4431	Q7889	
 v61717		紅き月 白い翼	video game	https://vndb.org/v61717	Q7889	
+v69825		紅き線路～Railway Hollow～	video game	https://vndb.org/v69825	Q7889	
 v5025		紅き諍い女	video game	https://vndb.org/v5025	Q7889	
 v24300		紅く輝く雪	video game	https://vndb.org/v24300	Q7889	
 v29145		紅く追憶の水葬	video game	https://vndb.org/v29145	Q7889	
@@ -121794,6 +122127,7 @@ v62011		細マッチョクンと◯◯◯したい♥	video game	https://vndb.or
 v50509		細マッチョクンとらぶらぶせよ！	video game	https://vndb.org/v50509	Q7889	
 v54212		細マッチョクンとらぶらぶせよ！2～人外編～	video game	https://vndb.org/v54212	Q7889	
 v23574		細胞娘の露出日記	video game	https://vndb.org/v23574	Q7889	
+v69915		細雪	video game	https://vndb.org/v69915	Q7889	
 v64420		紳士の嗜み	video game	https://vndb.org/v64420	Q7889	
 v33514		紺妹	video game	https://vndb.org/v33514	Q7889	
 v14465		紺碧塔組合 ～Guild of Emerald Tower～	video game	https://vndb.org/v14465	Q7889	
@@ -121917,6 +122251,7 @@ v2885		絶対★魔王 ～ボクの胸キュン学園サーガ～	video game	htt
 v37664		絶対すごろく	video game	https://vndb.org/v37664	Q7889	
 v45961		絶対に山利根になるゲーム	video game	https://vndb.org/v45961	Q7889	
 v40933		絶対に見に行ってはいけない配信枠	video game	https://vndb.org/v40933	Q7889	
+v69832		絶対アイドル宣言	video game	https://vndb.org/v69832	Q7889	
 v13725		絶対オタク領域キモオタの逆襲 ～オタクだってヤル時はヤルのだ！妄想パワーでやりたい放題！～	video game	https://vndb.org/v13725	Q7889	
 v1247		絶対プリンセスのワンマンバトラー	video game	https://vndb.org/v1247	Q7889	
 v6582		絶対中出し☆孕ませ学園	video game	https://vndb.org/v6582	Q7889	
@@ -121976,6 +122311,7 @@ v45417		絶棒×少女1.0	video game	https://vndb.org/v45417	Q7889
 v10762		絶滅キング-世紀末淫乱狂想曲-	video game	https://vndb.org/v10762	Q7889	
 v53242		絶牌可憐!	video game	https://vndb.org/v53242	Q7889	
 v12636		絶痛～辺見泰造の記憶～	video game	https://vndb.org/v12636	Q7889	
+v69916		絶筆	video game	https://vndb.org/v69916	Q7889	
 v30669		絶頂ホスピタル ～恋の治療をお望みですか？～	video game	https://vndb.org/v30669	Q7889	
 v32506		絶頂ミルクタンク<小町美咲> THE NOVEL	video game	https://vndb.org/v32506	Q7889	
 v33959		絶頂処刑機械姦「雪姫麗華」THE NOVEL	video game	https://vndb.org/v33959	Q7889	
@@ -122265,7 +122601,6 @@ v55144		美少女戦士徹底凌辱	video game	https://vndb.org/v55144	Q7889
 v50819		美少女格闘家の夜	video game	https://vndb.org/v50819	Q7889	
 v30426		美少女楽園ふたりの甘い蜜の味	video game	https://vndb.org/v30426	Q7889	
 v40926		美少女理想化計画-1	video game	https://vndb.org/v40926	Q7889	
-v69763		美少女的裙下不只有连裤袜！	video game	https://vndb.org/v69763	Q7889	
 v8398		美少女肛門科 ～女のコの女のコによる女のコのためのオシリのお医者さん～	video game	https://vndb.org/v8398	Q7889	
 v16365		美少女花札紀行 みちのく秘湯恋物語	video game	https://vndb.org/v16365	Q7889	
 v22128		美少女追跡症候群	video game	https://vndb.org/v22128	Q7889	
@@ -122419,6 +122754,7 @@ v26784		聖光天使ノエル 悪魔の刻印と無限淫獄	video game	https://
 v32474		聖光天使マリア 悪堕ち連鎖狂い咲き	video game	https://vndb.org/v32474	Q7889	
 v4367		聖凌学園レイプ同好会	video game	https://vndb.org/v4367	Q7889	
 v1433		聖剣のフェアリース	video game	https://vndb.org/v1433	Q7889	
+v69903		聖剣グランセイバー	video game	https://vndb.org/v69903	Q7889	
 v10872		聖域 ～嘆きのウサギ～	video game	https://vndb.org/v10872	Q7889	
 v35365		聖域の宝珠Ⅱ	video game	https://vndb.org/v35365	Q7889	
 v36739		聖堂騎士と神代遺跡 淫霧吸咽編	video game	https://vndb.org/v36739	Q7889	
@@ -122715,6 +123051,7 @@ v32501		舐犢の玉座	video game	https://vndb.org/v32501	Q7889
 v65	Q836752	舞-HiME 運命の系統樹	video game	https://vndb.org/v65	Q7889	
 v18076		舞☆MAI ふにふにぱぴゅーんといわせちゃる！	video game	https://vndb.org/v18076	Q7889	
 v41222		舞い降りた白い羽根	video game	https://vndb.org/v41222	Q7889	
+v69893		舞の白日夢	video game	https://vndb.org/v69893	Q7889	
 v17599		舞夢	video game	https://vndb.org/v17599	Q7889	
 v18042		舞菜 ～破邪の血脈～	video game	https://vndb.org/v18042	Q7889	
 v6678		舞風のメルト -Where leads to feeling destination-	video game	https://vndb.org/v6678	Q7889	
@@ -122999,6 +123336,7 @@ v48126		落としもの	video game	https://vndb.org/v48126	Q7889
 v41836		落とし屋・麒麟	video game	https://vndb.org/v41836	Q7889	
 v40994		落とし穴～無限ループ～	video game	https://vndb.org/v40994	Q7889	
 v58367		落下心中	video game	https://vndb.org/v58367	Q7889	
+v69885		落下流睡	video game	https://vndb.org/v69885	Q7889	
 v13294		落下点	video game	https://vndb.org/v13294	Q7889	
 v37806		落下点 2	video game	https://vndb.org/v37806	Q7889	
 v61630		落伍戦隊カイギャーク	video game	https://vndb.org/v61630	Q7889	
@@ -123245,6 +123583,7 @@ v31522	Q85883589	虹色の王子様	video game	https://vndb.org/v31522	Q7889
 v29045		虹色の生き方	video game	https://vndb.org/v29045	Q7889	
 v35394		虹色の監獄	video game	https://vndb.org/v35394	Q7889	
 v60563		虹色はぴねす	video game	https://vndb.org/v60563	Q7889	
+v69929		虹色ゴーストダンス	video game	https://vndb.org/v69929	Q7889	
 v14085		虹色シーズン さりげなく	video game	https://vndb.org/v14085	Q7889	
 v47291	Q16267231	虹色ドッジボール 乙女たちの青春	video game	https://vndb.org/v47291	Q7889	
 v43077		虹色ドリーマーズ！	video game	https://vndb.org/v43077	Q7889	
@@ -123364,6 +123703,7 @@ v5096	Q11626160	行殺♥ 新選組　人斬り美少女あどべんちゃ～	vi
 v26285		行界：重构	video game	https://vndb.org/v26285	Q7889	
 v41307		行進のコアラたち	video game	https://vndb.org/v41307	Q7889	
 v1360	Q6723531	街	video game	https://vndb.org/v1360	Q7889	
+v69836		街2ch	video game	https://vndb.org/v69836	Q7889	
 v4680		街で噂の伯爵様	video game	https://vndb.org/v4680	Q7889	
 v65706		街机女孩不会认输!!	video game	https://vndb.org/v65706	Q7889	
 v27155		街痛 ～運命の導火線～	video game	https://vndb.org/v27155	Q7889	
@@ -123773,6 +124113,7 @@ v63287		調査中にっ…!?	video game	https://vndb.org/v63287	Q7889
 v14258		論理デアリーベ	video game	https://vndb.org/v14258	Q7889	
 v26983		諜報部員	video game	https://vndb.org/v26983	Q7889	
 v43113		諦観のイヴ・ベセル	video game	https://vndb.org/v43113	Q7889	
+v69802		謎解き探偵『奈祖トキオ』～その助手の最初の事件簿～	video game	https://vndb.org/v69802	Q7889	
 v3648		謳う星たち	video game	https://vndb.org/v3648	Q7889	
 v14511		警備員	video game	https://vndb.org/v14511	Q7889	
 v14508		警備員2	video game	https://vndb.org/v14508	Q7889	
@@ -124066,6 +124407,7 @@ v68803		輪姦少女 -被虐の姉と肛虐の妹-	video game	https://vndb.org/v
 v68831		輪姦調教 孕ませ汁	video game	https://vndb.org/v68831	Q7889	
 v40128		輪廻の契り	video game	https://vndb.org/v40128	Q7889	
 v65950		輪廻の果てでキミを待つ	video game	https://vndb.org/v65950	Q7889	
+v69864		輪廻の監獄	video game	https://vndb.org/v69864	Q7889	
 v31704		輪廻堂高校文化祭狂騒曲	video game	https://vndb.org/v31704	Q7889	
 v37777		輪状スターゲイザー	video game	https://vndb.org/v37777	Q7889	
 v6680		輪罠 ～白濁まみれの放課後～	video game	https://vndb.org/v6680	Q7889	
@@ -124197,6 +124539,7 @@ v9275		退魔生徒会長神月琴葉-妖魔の奴隷へと堕ちた退魔剣士
 v62119		送り屋	video game	https://vndb.org/v62119	Q7889	
 v17503		逃げずに愛して	video game	https://vndb.org/v17503	Q7889	
 v14320		逃げる以外に道はない	video game	https://vndb.org/v14320	Q7889	
+v69852		逃げ水の跡	video game	https://vndb.org/v69852	Q7889	
 v11581		逃亡者	video game	https://vndb.org/v11581	Q7889	
 v8080		逃亡者 毒島音露 強制発射、囚われた乗客編	video game	https://vndb.org/v8080	Q7889	
 v4978		逃亡者 毒島音露 柔肌の中に眠れ編	video game	https://vndb.org/v4978	Q7889	
@@ -124396,7 +124739,6 @@ v26295		道楽勇者 マホボテの宴	video game	https://vndb.org/v26295	Q7889
 v48630		道楽勇者バトルアドベンチャー	video game	https://vndb.org/v48630	Q7889	
 v9538		道鏡 ～怪僧伝説～	video game	https://vndb.org/v9538	Q7889	
 v40651		遗失的终章	video game	https://vndb.org/v40651	Q7889	
-v63019		遗忘凶间- Forgotten Terror	video game	https://vndb.org/v63019	Q7889	
 v1794	Q1037613	遙かなる時空の中で	video game	https://vndb.org/v1794	Q7889	
 v59486		遙かなる時空の中で 龍宮の神子	video game	https://vndb.org/v59486	Q7889	
 v3260	Q864362	遙かなる時空の中で3	video game	https://vndb.org/v3260	Q7889	
@@ -124516,6 +124858,7 @@ v67103		重力加速度 Gravitational acceleration	video game	https://vndb.org/v
 v30728		重叠·前夜谭：猫与少女	video game	https://vndb.org/v30728	Q7889	
 v29530		重启 - Reboot	video game	https://vndb.org/v29530	Q7889	
 v33221		重启：泡沫篇 Reboot:FROTH	video game	https://vndb.org/v33221	Q7889	
+v69886		重奏世界のイデアル	video game	https://vndb.org/v69886	Q7889	
 v34000		重巡に囲まれる日々。 ＆ 最終兵器電	video game	https://vndb.org/v34000	Q7889	
 v57278		重生之我亲爱的妹妹复仇计划	video game	https://vndb.org/v57278	Q7889	
 v2813	Q17214548	重装皇女メタルプリンセス	video game	https://vndb.org/v2813	Q7889	
@@ -125129,6 +125472,7 @@ v1738		雪ほたる～二度目の初恋～	video game	https://vndb.org/v1738	Q7
 v30304		雪を見上げる	video game	https://vndb.org/v30304	Q7889	
 v11244	Q111828495	雪之本境	video game	https://vndb.org/v11244	Q7889	
 v11245	Q111828495	雪之本境～解境篇～	video game	https://vndb.org/v11245	Q7889	
+v69902		雪兎くん☆メモリアル	video game	https://vndb.org/v69902	Q7889	
 v10574	Q11659855	雪割りの花	video game	https://vndb.org/v10574	Q7889	
 v13899		雪割草	video game	https://vndb.org/v13899	Q7889	
 v20750		雪华	video game	https://vndb.org/v20750	Q7889	
@@ -126178,6 +126522,7 @@ v19746		鴇色に萌ゆる心 茜色に燃ゆる記憶	video game	https://vndb.o
 v10039		鴉Aの哀れな断頭台	video game	https://vndb.org/v10039	Q7889	
 v13292		鴉とライオン	video game	https://vndb.org/v13292	Q7889	
 v46661		鴉とライオン　リメイク版	video game	https://vndb.org/v46661	Q7889	
+v69900		鴉の断音符	video game	https://vndb.org/v69900	Q7889	
 v2998		鴎城異聞 第一聞「彼が死ななければいけなかった理由」	video game	https://vndb.org/v2998	Q7889	
 v52447		鵺	video game	https://vndb.org/v52447	Q7889	
 v33968		鵺の鳴く夜が明けるまで	video game	https://vndb.org/v33968	Q7889	
@@ -126380,6 +126725,7 @@ v15863		黒髪少女隊えくすて！	video game	https://vndb.org/v15863	Q7889
 v13916		黒髪巨乳委員長と痴漢裁判	video game	https://vndb.org/v13916	Q7889	
 v19231		黒髪巨乳委員長と草汰くんのなつやすみ	video game	https://vndb.org/v19231	Q7889	
 v12926		黒髪巨乳委員長の痴漢されまくり日記	video game	https://vndb.org/v12926	Q7889	
+v69837		黒髪幼馴染に迫られて イチャラブ同棲生活！	video game	https://vndb.org/v69837	Q7889	
 v18921		黒髪清楚ちゃん物語 ―彼氏じゃない人でイキ狂ってえっち大好きになってしまう女子校生―	video game	https://vndb.org/v18921	Q7889	
 v15610		黒髪清楚なビッチ処女カノジョとのラブラブ肉便器ライフ	video game	https://vndb.org/v15610	Q7889	
 v62796		黒髪関西弁おにいさんにメロつくだけのゲーム！	video game	https://vndb.org/v62796	Q7889	
@@ -126725,6 +127071,7 @@ v13983		틱택토	video game	https://vndb.org/v13983	Q7889
 v31889		파이널B컷	video game	https://vndb.org/v31889	Q7889	
 v63359		파이브 인 더 어비스	video game	https://vndb.org/v63359	Q7889	
 v38289		패러렐 로스트	video game	https://vndb.org/v38289	Q7889	
+v69895		페이크 히로인 하모니	video game	https://vndb.org/v69895	Q7889	
 v51592		페이트 블룸	video game	https://vndb.org/v51592	Q7889	
 v24848		포이즌 애플	video game	https://vndb.org/v24848	Q7889	
 v18805		포춘 하모니	video game	https://vndb.org/v18805	Q7889	
@@ -126938,7 +127285,6 @@ v64751		｢el｣	video game	https://vndb.org/v64751	Q7889
 v8204		ﾄﾞﾗｴﾓﾝ	video game	https://vndb.org/v8204	Q7889	
 v66989		𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Xenia is Online 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃	video game	https://vndb.org/v66989	Q7889	
 v44338		𝐁𝐀𝐑𝐄 𝐁𝐎𝐍𝐄𝐒	video game	https://vndb.org/v44338	Q7889	
-v59651		𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐈𝐆𝐍：𝐀𝐬𝐭𝐫𝐚𝐞𝐚	video game	https://vndb.org/v59651	Q7889	
 v59652		𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐈𝐆𝐍：𝐈𝐧𝐯𝐢𝐬𝐢𝐛𝐥𝐞	video game	https://vndb.org/v59652	Q7889	
 v46973		🍇 A Date With Eonpy 🌐	video game	https://vndb.org/v46973	Q7889	
 v34652		🕊beAt!	video game	https://vndb.org/v34652	Q7889	
