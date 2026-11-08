@@ -73,6 +73,7 @@ Barrel_Blast_(Flash_game)	Barrel Blast (Flash game)	video game	https://www.mario
 Barrel-Blastapalooza	Barrel-Blastapalooza	video game	https://www.mariowiki.com/Barrel-Blastapalooza	Q7889
 Bart_Braverman	Bart Braverman	human	https://www.mariowiki.com/Bart_Braverman	Q5
 Baseball	Baseball	video game	https://www.mariowiki.com/Baseball	Q7889
+Becky	Becky	human	https://www.mariowiki.com/Becky	Q5
 Ben_Campbell	Ben Campbell	human	https://www.mariowiki.com/Ben_Campbell	Q5
 Benjamin_Faure	Benjamin Faure	human	https://www.mariowiki.com/Benjamin_Faure	Q5
 Benny_Safdie	Benny Safdie	human	https://www.mariowiki.com/Benny_Safdie	Q5
@@ -541,6 +542,7 @@ Kenta_Motokura	Kenta Motokura	human	https://www.mariowiki.com/Kenta_Motokura	Q5
 Kenta_Nagata	Kenta Nagata	human	https://www.mariowiki.com/Kenta_Nagata	Q5
 Kenta_Usui	Kenta Usui	human	https://www.mariowiki.com/Kenta_Usui	Q5
 Kentaro_Tone	Kentaro Tone	human	https://www.mariowiki.com/Kentaro_Tone	Q5
+Kenyu_Horiuchi	Kenyu Horiuchi	human	https://www.mariowiki.com/Kenyu_Horiuchi	Q5
 Kerri_Kane	Kerri Kane	human	https://www.mariowiki.com/Kerri_Kane	Q5
 Kevin_Afghani	Kevin Afghani	human	https://www.mariowiki.com/Kevin_Afghani	Q5
 Kevin_Bayliss	Kevin Bayliss	human	https://www.mariowiki.com/Kevin_Bayliss	Q5
@@ -583,13 +585,13 @@ Lexie_Kendrick	Lexie Kendrick	human	https://www.mariowiki.com/Lexie_Kendrick	Q5
 LINE	LINE	company	https://www.mariowiki.com/LINE	Q4830453
 Linus_Wahlgren	Linus Wahlgren	human	https://www.mariowiki.com/Linus_Wahlgren	Q5
 List_of_browser_games_by_date	List of browser games by date	video game	https://www.mariowiki.com/List_of_browser_games_by_date	Q7889
-List_of_games	List of games	video game	https://www.mariowiki.com/List_of_games	Q7889
-List_of_games_by_date	List of games by date	video game	https://www.mariowiki.com/List_of_games_by_date	Q7889
-List_of_games_by_genre	List of games by genre	video game	https://www.mariowiki.com/List_of_games_by_genre	Q7889
 List_of_implied_people	List of implied people	human	https://www.mariowiki.com/List_of_implied_people	Q5
 List_of_physical_games	List of physical games	video game	https://www.mariowiki.com/List_of_physical_games	Q7889
 List_of_proposed_media	List of proposed media	video game	https://www.mariowiki.com/List_of_proposed_media	Q7889
 List_of_unreleased_media	List of unreleased media	video game	https://www.mariowiki.com/List_of_unreleased_media	Q7889
+List_of_video_games	List of video games	video game	https://www.mariowiki.com/List_of_video_games	Q7889
+List_of_video_games_by_date	List of video games by date	video game	https://www.mariowiki.com/List_of_video_games_by_date	Q7889
+List_of_video_games_by_genre	List of video games by genre	video game	https://www.mariowiki.com/List_of_video_games_by_genre	Q7889
 Lists_of_games	Lists of games	video game	https://www.mariowiki.com/Lists_of_games	Q7889
 Lorie	Lorie	human	https://www.mariowiki.com/Lorie	Q5
 Louise_Vallance	Louise Vallance	human	https://www.mariowiki.com/Louise_Vallance	Q5
